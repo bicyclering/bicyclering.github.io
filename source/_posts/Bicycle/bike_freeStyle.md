@@ -18,67 +18,6 @@ tags: bike
 
 **45分钟**,大概消耗**500卡路里**(每减掉一斤,需要消耗3889卡路里,每天消耗500卡路里最少**减0.15斤**。)
 
-## 以下教练,签课一次算两次
-
-1. 黄艳Yolanda
-2. 苗青Max
-3. 安阳Ellen
-4. 陈贝儿Rebecca(安徽)
-5. 邵珠君Chris(安徽)
-6. 李信Listen(上海)
-7. 朱芹Sunny(上海)
-8. 赵鑫Eri(广州)
-9. 陈菲Fay(广州)
-10. 张宝宁Derek(广州)
-11. 王君AnjuLa(广州)
-12. 张繁Rico
-13. 陈继田Jerry
-14. 韩青Bob
-15. 陈旭Cici
-16. 朱涛Shawn
-17. 袁晓晶Yaya
-18. 赵世雄Matthew
-19. 周琪Niki
-20. 仲慧君Raina
-21. 梁伟David
-
-## 以下教练,签课一次算一次
-
-1. Terry
-2. Leo
-3. Loki
-4. D.K
-5. Limit
-6. Shirley
-7. Harry
-8. Dunk
-9. Yu
-10. Una
-11. Seven
-12. Jim
-13. Marco
-14. Jimmy
-15. Kyo
-16. Denise
-17. Focus
-18. Chris
-19. Feline
-20. J
-21. Joan
-22. Yoyo
-23. May
-24. Maurice
-25. Alice
-26. Tiger
-27. Fanny
-28. Snow
-29. Sum
-30. Linda Heidi
-31. Zoe 
-32. Lizzy
-33. Fang
-
-
 ## 穿着
 
 1. 硬底鞋、室外运动鞋
