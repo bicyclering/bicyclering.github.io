@@ -27,7 +27,6 @@ tags: bike
 18. 赵世雄Matthew
 19. 周琪Niki
 20. 仲慧君Raina
-21. 梁伟David
 
 ## 南京区域全职签,签课一次算一次
 
@@ -36,7 +35,6 @@ tags: bike
 3. Loki
 4. D.K
 5. Harry
-6. Dunk
 7. Yu
 8. Una
 9. Seven
@@ -52,13 +50,14 @@ tags: bike
 19. Yoyo
 20. May
 21. Maurice
-22. Alice
 23. Tiger
 24. Fanny
 25. Sun
 26. Heidi
-27. Zoe
 28. Lizzy
 29. Fang
 30. Linda
 31. Ace
+32. 姜沈华Sunny
+33. Kaya
+34. Hero
