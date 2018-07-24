@@ -1,6 +1,6 @@
 ---
 title: 陕西自由行
-tags: tourism
+tags: travel
 abbrlink: 62510
 date: 2018-03-31 15:11:50
 ---

@@ -12,5 +12,5 @@ tags: jinjiniao
 
 ## 缴费
 
-![](/images/Jinjiniao/jinjiniao_payment.jpg)
+![](/images/jinjiniao/jinjiniao_payment.jpg)
 
