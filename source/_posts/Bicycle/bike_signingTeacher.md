@@ -16,17 +16,16 @@ tags: bike
 7. 朱芹Sunny(上海)
 8. 赵鑫Eri(广州)
 9. 陈菲Fay(广州)
-10. 张宝宁Derek(广州)
 11. 王君AnjuLa(广州)
 12. 张繁Rico
 13. 陈继田Jerry
 14. 韩青Bob
 15. 陈旭Cici
-16. 朱涛Shawn
 17. 袁晓晶Yaya
 18. 赵世雄Matthew
 19. 周琪Niki
 20. 仲慧君Raina
+21. 杨标Sign
 
 ## 南京区域全职签,签课一次算一次
 
@@ -61,3 +60,6 @@ tags: bike
 32. 姜沈华Sunny
 33. Kaya
 34. Hero
+35. Aimee
+36. Mina
+37. Nana
