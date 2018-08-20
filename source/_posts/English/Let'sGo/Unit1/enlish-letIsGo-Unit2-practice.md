@@ -116,3 +116,56 @@ tags: English
 
 
 ## 第四小节
+
+> Let's lean English sounds. `让我们学习英语`
+> > She sells **peas** and **tea** by the **sea**. `她在海边卖豌豆和茶`
+> > The **bees** were on the **reeds** near the **creek**. `蜜蜂在小河附近的芦苇丛中。`
+> 
+> Listen to the word. `听听这个词。`
+> 
+> Click on the correct bell. `点击正确的铃声。`
+> 
+> > **两种发音:**
+> > 
+| ea         |   ee   | 
+|:-----------|:------:| 
+| peas       | street |  
+| sea        | reeds  |
+| tea        | creek  |      
+| ice  cream | feet   | 
+|            | bees   | 
+|            | tree   | 
+> > 
+> > Seplling Practice. `拼写练习。`
+> > 
+> > Let's practice spelling! `让我们练习拼写！`
+> > 
+> > Move the letters to the correct place. `将字母移动到正确的位置。`
+
+
+## 第五小节
+
+* Let's play. `让我们玩。`
+* Listen carefully. `仔细听`
+* Click on the correct person. `点击正确的人。`
+
+1. He works in a clinic. `他在诊所工作。`
+2. She fixes teeth. `她修复了牙齿。`
+3. She fixes cars. `她修理汽车。`
+4. She works in a bakery. `她在一家面包店工作。`
+5. She works in a department store. `她在一家百货公司工作。`
+6. She works in an office. `她在办公室工作。`
+7. He delivers mail. `他发送邮件。`
+8. He works in a flower shop. `他在一家花店工作`
+9. He fights fires. `他在扑灭火灾。`
+10. He catches fish. `他捕到鱼。`
+
+
+
+
+
+
+ 
+
+
+

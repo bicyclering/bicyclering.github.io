@@ -1,15 +1,15 @@
 ---
-title: A类内训RPM动作的10000次重复
+title: 陈旭GCW精髓锻造内训～C➕D类
 date: 2016-08-03 22:45:07
 tags: jinjiniao
 ---
  
- # A类内训RPM动作的10000次重复
+# 陈旭GCW精髓锻造内训～C➕D类
 
 ## 报名
 
-**[报名链接](https://www.wjx.top/m/26655821.aspx)**
+**[报名链接](https://www.wjx.top/m/27131163.aspx)**
 
 ## 缴费
 
-![](/images/jinjiniao/jinjiniao_pay_A类内训RPM动作的10000次重复.jpg)
+![](/images/jinjiniao/pay_3_pic.jpg)
