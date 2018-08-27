@@ -1,7 +1,7 @@
 ---
 title: Let's Go 单元测试1
 date: 2018-08-02 23:00:46
-tags: English
+categories: English
 ---
 
 
@@ -10,7 +10,7 @@ tags: English
 ## 第一小节
 
 
-1. We live in **California** and our uncle lives here to。`我们住在加利福尼亚,我们的叔叔住在这里。`
+1. We live in **California** and our uncle lives here too。`我们住在加利福尼亚,我们的叔叔住在这里。`
 2. I have a **younger** brother,and he's two years old today。`我有一个弟弟，今天他已经两岁了。`
 3. I am **fifth grade**. `我是五年级。`
 4. I live in **Belmont**. `我住在贝尔蒙特.`

@@ -1,11 +1,64 @@
 ---
 title: Let's Go 单元测试2
 date: 2018-08-06 23:24:46
-tags: English
+categories: English
 ---
 
 
 # 单元测试1
+
+## 预习
+
+### 月份
+
+1. January  `ˈjanyo͞oˌerē`
+2. February `ˈfeb(y)o͞oˌerē,ˈfebro͞o-`
+3. March `märCH`
+4. April `ˈāprəl`
+5. May  `mā`
+6. June `jo͞on `
+7. July `jo͝oˈlī`
+8. August `ˈôgəst`
+9. September `sepˈtembər`
+10. October `äkˈtōbər`
+11. November `nōˈvembər,nə-`
+12. December `diˈsembər`
+
+
+### 星期
+
+1. Monday  `-dē,ˈməndā`
+2. Tuesday `dē,ˈt(y)o͞ozdā`
+3. Wednesday `-dē,ˈwenzdā`
+4. Thursday `dē,ˈTHərzdā`
+5. Friday `-dē,ˈfrīdā`
+6. Saturday `-dē,ˈsatərˌdā`
+7. Sunday `-dē,ˈsəndā`
+
+
+### 数字
+
+1. first  `fərst`
+2. second `siˈkänd,ˈsekənd`
+3. third `THərd`
+4. forth `fôrTH `
+5. fifth `fi(f)TH`
+6. sixth `siksTH`
+7. seventh `ˈsevənTH`
+8. eighth `ā(t)TH`
+9. ninth `nīnTH`
+10. tenth `tenTH`
+11. eleventh `iˈlevənTH`
+12. twelfth `twelfTH`
+13. thirteenth `θə:ˈtinθ`
+14. fourteenth `fɔrˈtinθ, for-`
+15. fifteenth `fifˈtēnTH,ˈfifˌtēnTH`
+16. sixteenth `sɪkˈstinθ`
+17. seventeenth `ˌsɛvənˈtinθ`
+18. eighteenth `eˈtinθ`
+19. nineteenth `naɪnˈtinθ`
+20. twentieth `ˈtwɛntiɪθ, ˈtwʌn-`
+
 
 ## 第一小节
 
@@ -111,6 +164,10 @@ tags: English
 > Sentence Pracice. `句子练习` 
 > 
 > > She works in a hospital. `她在医院工作。`
+> > 
+> > Do they type letters. `他们打字吗`
+> > 
+> > Are they secretaries? `他们是秘书吗?`
 
 
 
@@ -141,7 +198,8 @@ tags: English
 > > Let's practice spelling! `让我们练习拼写！`
 > > 
 > > Move the letters to the correct place. `将字母移动到正确的位置。`
-
+> > 
+> > She bakes bread. ``
 
 ## 第五小节
 
