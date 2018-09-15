@@ -5,59 +5,59 @@ categories: English
 ---
 
 
-# 单元测试1
+# 单元测试2
 
 ## 预习
 
 ### 月份
 
-1. January  `ˈjanyo͞oˌerē`
-2. February `ˈfeb(y)o͞oˌerē,ˈfebro͞o-`
-3. March `märCH`
-4. April `ˈāprəl`
-5. May  `mā`
-6. June `jo͞on `
-7. July `jo͝oˈlī`
-8. August `ˈôgəst`
-9. September `sepˈtembər`
-10. October `äkˈtōbər`
-11. November `nōˈvembər,nə-`
-12. December `diˈsembər`
+1. [January](https://translate.google.cn/#en/zh-CN/January)  `ˈjanyo͞oˌerē`
+2. [February](https://translate.google.cn/#en/zh-CN/February) `ˈfeb(y)o͞oˌerē,ˈfebro͞o-`
+3. [March](https://translate.google.cn/#en/zh-CN/March) `märCH`
+4. [April](https://translate.google.cn/#en/zh-CN/April) `ˈāprəl`
+5. [May](https://translate.google.cn/#en/zh-CN/May)   `mā`
+6. [June](https://translate.google.cn/#en/zh-CN/June) `jo͞on `
+7. [July](https://translate.google.cn/#en/zh-CN/July)`jo͝oˈlī`
+8. [August](https://translate.google.cn/#en/zh-CN/August) `ˈôgəst`
+9. [September](https://translate.google.cn/#en/zh-CN/September) `sepˈtembər`
+10. [October](https://translate.google.cn/#en/zh-CN/October) `äkˈtōbər`
+11. [November](https://translate.google.cn/#en/zh-CN/November) `nōˈvembər,nə-`
+12. [December](https://translate.google.cn/#en/zh-CN/December) `diˈsembər`
 
 
 ### 星期
 
-1. Monday  `-dē,ˈməndā`
-2. Tuesday `dē,ˈt(y)o͞ozdā`
-3. Wednesday `-dē,ˈwenzdā`
-4. Thursday `dē,ˈTHərzdā`
-5. Friday `-dē,ˈfrīdā`
-6. Saturday `-dē,ˈsatərˌdā`
-7. Sunday `-dē,ˈsəndā`
+1. [Monday](https://translate.google.cn/#en/zh-CN/Monday)  `-dē,ˈməndā`
+2. [Tuesday](https://translate.google.cn/#en/zh-CN/Tuesday) `dē,ˈt(y)o͞ozdā`
+3. [Wednesday](https://translate.google.cn/#en/zh-CN/Wednesday) `-dē,ˈwenzdā`
+4. [Thursday](https://translate.google.cn/#en/zh-CN/Thursday) `dē,ˈTHərzdā`
+5. [Friday](https://translate.google.cn/#en/zh-CN/Friday) `-dē,ˈfrīdā`
+6. [Saturday](https://translate.google.cn/#en/zh-CN/Saturday) `-dē,ˈsatərˌdā`
+7. [Sunday](https://translate.google.cn/#en/zh-CN/Sunday) `-dē,ˈsəndā`
 
 
 ### 数字
 
-1. first  `fərst`
-2. second `siˈkänd,ˈsekənd`
-3. third `THərd`
-4. forth `fôrTH `
-5. fifth `fi(f)TH`
-6. sixth `siksTH`
-7. seventh `ˈsevənTH`
-8. eighth `ā(t)TH`
-9. ninth `nīnTH`
-10. tenth `tenTH`
-11. eleventh `iˈlevənTH`
-12. twelfth `twelfTH`
-13. thirteenth `θə:ˈtinθ`
-14. fourteenth `fɔrˈtinθ, for-`
-15. fifteenth `fifˈtēnTH,ˈfifˌtēnTH`
-16. sixteenth `sɪkˈstinθ`
-17. seventeenth `ˌsɛvənˈtinθ`
-18. eighteenth `eˈtinθ`
-19. nineteenth `naɪnˈtinθ`
-20. twentieth `ˈtwɛntiɪθ, ˈtwʌn-`
+1. [first](https://translate.google.cn/#en/zh-CN/first)  `fərst`
+2. [second](https://translate.google.cn/#en/zh-CN/second) `siˈkänd,ˈsekənd`
+3. [third](https://translate.google.cn/#en/zh-CN/third) `THərd`
+4. [forth](https://translate.google.cn/#en/zh-CN/forth) `fôrTH `
+5. [fifth](https://translate.google.cn/#en/zh-CN/fifth) `fi(f)TH`
+6. [sixth](https://translate.google.cn/#en/zh-CN/sixth) `siksTH`
+7. [seventh](https://translate.google.cn/#en/zh-CN/seventh) `ˈsevənTH`
+8. [eighth](https://translate.google.cn/#en/zh-CN/eighth) `ā(t)TH`
+9. [ninth](https://translate.google.cn/#en/zh-CN/ninth) `nīnTH`
+10. [tenth](https://translate.google.cn/#en/zh-CN/tenth) `tenTH`
+11. [eleventh](https://translate.google.cn/#en/zh-CN/eleventh) `iˈlevənTH`
+12. [twelfth](https://translate.google.cn/#en/zh-CN/twelfth) `twelfTH`
+13. [thirteenth](https://translate.google.cn/#en/zh-CN/thirteenth) `θə:ˈtinθ`
+14. [fourteenth](https://translate.google.cn/#en/zh-CN/fourteenth) `fɔrˈtinθ, for-`
+15. [fifteenth](https://translate.google.cn/#en/zh-CN/fifteenth) `fifˈtēnTH,ˈfifˌtēnTH`
+16. [sixteenth](https://translate.google.cn/#en/zh-CN/sixteenth) `sɪkˈstinθ`
+17. [seventeenth](https://translate.google.cn/#en/zh-CN/seventeenth) `ˌsɛvənˈtinθ`
+18. [eighteenth](https://translate.google.cn/#en/zh-CN/eighteenth) `eˈtinθ`
+19. [nineteenth](https://translate.google.cn/#en/zh-CN/nineteenth) `naɪnˈtinθ`
+20. [twentieth](https://translate.google.cn/#en/zh-CN/twentieth) `ˈtwɛntiɪθ, ˈtwʌn-`
 
 
 ## 第一小节

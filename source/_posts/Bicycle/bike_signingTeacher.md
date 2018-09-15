@@ -14,8 +14,6 @@ tags: bike
 5. 邵珠君Chris(安徽)
 6. 李信Listen(上海)
 7. 朱芹Sunny(上海)
-8. 赵鑫Eri(广州)
-9. 陈菲Fay(广州)
 11. 王君AnjuLa(广州)
 12. 张繁Rico
 13. 陈继田Jerry
@@ -63,3 +61,4 @@ tags: bike
 35. Aimee
 36. Mina
 37. Nana
+38. Lvy
