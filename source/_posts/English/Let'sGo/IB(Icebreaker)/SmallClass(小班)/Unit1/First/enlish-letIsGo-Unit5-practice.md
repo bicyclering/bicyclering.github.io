@@ -143,3 +143,12 @@ start here `从这里开始`
 > 疑问否定任你变,句首大写莫迟疑.如：
 > It is a book.变为：Is not it a book?(疑问否定句）
 
+### play、play a、play the和play with区别
+
+> play the...  `后面 + 乐器 play the violin、play the piano`
+> 
+> play a... `后面可以加运动器材、游戏 play a basketball、play a chess`
+> 
+> play with... `玩、玩耍 例如:After school,I play with my friends.放学后,我跟我朋友玩耍.`
+> 
+> play `可以表示多种意思 例如: 打、踢等,过去式是played,现在分词是playing,第三人称单数是plays.`
