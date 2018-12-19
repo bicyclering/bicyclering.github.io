@@ -1,53 +1,16 @@
 ---
-title: Let's Go 单元测试19
-date: 2018-11-07 17:49:00
+title: Let's Go 单元测试18
+date: 2018-12-05 21:49:00
 tags: IB-SmallClass
 categories: English
 ---
 
 
-# 单元测试19
+# 单元测试18
 
 ## 第一小节
 
 > Busy,busy,busy every day.
-> 
-> Busy,busy,busy, I can't play.
-> 
-> Are you busy Monday?
-> 
-> Yes,I am.
-> 
-> English classes,music classes.
-> 
-> Monday,Tuesday,Webnesday,Thursday
-> 
-> Busy,busy busy,I can't play.
-> 
-> I'm busy,busy every day.
-> 
-> But no on Sunnday!
-> 
-> Sunday is my free day.
-> 
-> And I can play!
-> 
-> Can you play with us tomorrow?
-> 
-> Sorry,I can't.
-> 
-> I'm busy every Saturday.
-> 
-> What do you do?
-> 
-> I'm go to my grandmother house.
-> 
-> Oh,What about the Sunndy,Are you busy?
-> 
-> Sunndy is ok,I'm is free.
-> 
-> Great! See you on Sunndy.
-
 
 ## 第二小节
 
