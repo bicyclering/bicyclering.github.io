@@ -1,6 +1,6 @@
 ---
 title: What do you like
-date: 2018-10-20 19:15:03
+date: 2018-10-16 19:55:03
 tags: IB-Salon
 categories: English
 ---
@@ -12,25 +12,26 @@ Say the opposite! `相反的意思或反其道而行之`
 
 ## Related vocabulary(相关词汇)
 
-
-1. notebook
-2. clock
-3. cell-phone
-4. folder
-5. lighlighter
-6. brush(刷子)
-7. watercolor(水彩笔)
+1. colors:grren,red,black,white,blue
+2. Fruit:strawberry,apple,banana,orange,grape,cherry
+3. Weather:sunny,rainy,cloudy,windy,snowy
+4. Sport:swimiming,running,play baseketball,playing soccer
+5. Food:break,cake,chocolate
 
 
 ## Important Sentences
 
-> What do you have?
+> Do you like _____ ?
 > 
-> I have two eyes.
+> Yes,I do./No,I don't.
 > 
-> What does he/she have.
+> What color/fruit/weather/sports do you like?
 > 
-> He has black hair.
+> I like _____.
+> 
+> What do you want?
+> 
+> I want _____.
 
 
 

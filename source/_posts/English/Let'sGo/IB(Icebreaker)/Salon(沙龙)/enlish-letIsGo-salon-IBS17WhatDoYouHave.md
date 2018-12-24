@@ -1,17 +1,16 @@
 ---
-title: Have&Has
-date: 2018-10-20 12:15:03
+title: what do you have
+date: 2018-10-16 20:45:03
 tags: IB-Salon
 categories: English
 ---
 
 
-# Have&Has
+# what do you have
 
 Say the opposite! `相反的意思或反其道而行之`
 
 ## Related vocabulary(相关词汇)
-
 
 1. notebook
 2. clock
@@ -28,7 +27,7 @@ Say the opposite! `相反的意思或反其道而行之`
 > 
 > I have two eyes.
 > 
-> What does he/she have.
+> What does he/she have?
 > 
 > He has black hair.
 
