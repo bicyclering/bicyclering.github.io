@@ -12,13 +12,13 @@ Say the opposite! `相反的意思或反其道而行之`
 
 ## Related vocabulary(相关词汇)
 
-1. notebook
-2. clock
-3. cell-phone
-4. folder
-5. lighlighter
-6. brush(刷子)
-7. watercolor(水彩笔)
+1. notebook `笔记本; 笔记本电脑; 笔记簿; 手册`
+2. clock `钟，时钟; 计时器; 秒表; 仪表`
+3. cell-phone `移动电话; 手机`
+4. folder `文件夹`
+5. highlighter `荧光笔`
+6. brush `刷子，画笔; 灌木丛; 小冲突`
+7. watercolor `水彩; 水彩画; 水彩颜料; 水彩画艺术`
 
 
 ## Important Sentences
@@ -30,6 +30,12 @@ Say the opposite! `相反的意思或反其道而行之`
 > What does he/she have?
 > 
 > He has black hair.
+> 
+> Is she a girl? Yes,she is.
+> 
+> Are you nice? Yes,I am.
+> 
+> Am I a good boy? Yes,I am.
 
 
 ## Summary(总结)
@@ -122,8 +128,6 @@ Say the opposite! `相反的意思或反其道而行之`
 > I want to see a film.
 > 
 > I want to be a doctor.
-> 
-> 
 
 
 

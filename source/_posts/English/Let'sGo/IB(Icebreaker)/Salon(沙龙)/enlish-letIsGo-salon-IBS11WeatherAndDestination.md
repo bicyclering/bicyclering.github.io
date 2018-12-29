@@ -9,13 +9,13 @@ categories: English
 
 ## Related vocabulary(相关词汇)
 
-1. sunny
-2. rainy
-3. cloudy
-4. windy
-5. snowy
-6. foggy
-7. stormy
+1. sunny `和煦的：照到阳光的; 快活的，性情开朗亲切的`
+2. rainy `下雨的，多雨的`
+3. cloudy `多云的; 阴天的; 朦胧的; 愁容满面的`
+4. windy `有风的; 腹胀的; 吹牛的; 空谈的`
+5. snowy `下雪的; 多雪的; 被雪覆盖的; 雪白的，洁白无瑕的`
+6. foggy `有雾的; 雾气朦胧的; 模糊的; 混乱的`
+7. stormy `暴风雨般的; 激烈的; 有暴风雨的; 热烈的`
 9. department store
 10. restaurant
 11. train station
@@ -29,8 +29,8 @@ categories: English
 19. by car
 20. by taxi
 21. by bus
-22. on foot/to walk
-23. by plane
+22. on foot/to walk `步行/步行`
+23. by plane `搭飞机`
 24. etc.
  
 
@@ -46,11 +46,6 @@ categories: English
 > I'm going to park.
 > 
 > I'm driving a car./I'm going there by subway.
-
-## Other
-
-
-
 
 
 

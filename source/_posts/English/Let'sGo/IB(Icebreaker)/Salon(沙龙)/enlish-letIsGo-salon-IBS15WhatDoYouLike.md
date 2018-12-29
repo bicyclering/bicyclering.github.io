@@ -12,11 +12,17 @@ Say the opposite! `相反的意思或反其道而行之`
 
 ## Related vocabulary(相关词汇)
 
-1. colors:grren,red,black,white,blue
-2. Fruit:strawberry,apple,banana,orange,grape,cherry
-3. Weather:sunny,rainy,cloudy,windy,snowy
-4. Sport:swimiming,running,play baseketball,playing soccer
-5. Food:break,cake,chocolate
+> colors: grren,red,black,white,blue
+> 
+> Fruit: strawberry,apple,banana,orange,grape,cherry
+> 
+> Weather: sunny,rainy,cloudy,windy,snowy
+> 
+> Sport: swimiming,running,play baseketball,playing soccer `英[ˈsɒkə(r)] 美[ˈsɑ:kə(r)]`
+> 
+> Food: break,cake,chocolate
+> 
+> wash my face `洗脸`
 
 
 ## Important Sentences
@@ -34,7 +40,25 @@ Say the opposite! `相反的意思或反其道而行之`
 > I want _____.
 
 
+## Other
 
+> What a kind of book do you want? `你喜欢那一类书`
+> 
+> What kinds of books do you like? `你喜欢那些种类的书`
+> 
+> What do you like doing/to do ? `你喜欢做什么`
+> 
+> I like watching TV/to watch TV.
+> 
+> soccer/football `足球,前者目前只有美国才把足球分为两种,国际都是用后者`
+> 
+> What do you like to eat/eating? I like to eat/eating apples.She likes eating/to eat apples.
+> 
+> | 问句  | 回答  | 案例  | 
+|:------------- |:---------------:|:---------------:|
+| What do you like ____?      | I like n名词 | swimming |
+| What do you like ____?      | I like to do 动词 | swim|
+| What do you like ____?      | I like doing 动词ing形式 | go swimming|
 
 
 

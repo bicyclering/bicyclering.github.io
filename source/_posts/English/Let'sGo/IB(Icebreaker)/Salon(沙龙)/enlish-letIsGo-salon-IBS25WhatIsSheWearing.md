@@ -1,12 +1,11 @@
 ---
-title: what is she wearing
+title: What is she wearing
 date: 2018-10-16 22:50:03
 tags: IB-Salon
 categories: English
 ---
 
-# what is she wearing
-
+# What is she wearing
 
 ## Related vocabulary(相关词汇)
 
