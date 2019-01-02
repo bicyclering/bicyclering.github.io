@@ -32,6 +32,10 @@ categories: English
 > shrips `小龙虾`
 > 
 > female `性别`
+> 
+> a picture with words on it `一幅书画`
+> 
+> personal information `个人信息`
 
 
 ## Important Sentences

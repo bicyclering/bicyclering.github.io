@@ -10,13 +10,13 @@ categories: English
 
 ## Related vocabulary(相关词汇)
 
-1. mobile phone
-2. watch
-3. wallet
-4. tissue
-5. hand cream
-6. sunglasses
-7. comb
+1. mobile phone `移动电话`
+2. watch  `表; 值夜，值班; 看守，监视; 值班人员`
+3. wallet `钱包，皮夹子`
+4. tissue `薄纸，棉纸; [生] 组织; 一套;`
+5. hand cream `护手霜`
+6. sunglasses `太阳镜; 墨镜; 黑眼镜`
+7. comb `梳子; 梳棉机; 鸡冠状的东西; 蜂窝状的东西`
 
 ## Important Sentences
 

@@ -26,4 +26,3 @@ categories: English
 > What's up `怎么了` Not much/Nothing `没什么`
 > 
 > What's wrong `你发现问题或发觉有什么不对时主动问别人 《怎么了》`
-

@@ -8,7 +8,7 @@ categories: English
 
 # directions(方向)
 
-Say the opposite! `相反的意思或反其道而行之`
+say the opposite! `相反的意思或反其道而行之`
 
 general manager `总经理`
 
@@ -57,12 +57,49 @@ general manager `总经理`
 13. restaurant `餐厅`
 14. office building `办公楼`
 15. bookstore `书店`
+16. English training `英语培训`
+17. get `得到,理解`
 
 
 #### 注意
 
 1. take five steps `走五步`
 
+## Other
+
+> How can I get there?
+> 
+> amusement park `游乐园`
+> 
+> cross the road `穿过马路`
+> 
+> turn back `绕回来`
+> 
+> post office `邮局`
+> 
+> square `正方形、广场`
+> 
+> square dance  `广场舞`
+> 
+> drug store `药店`
+> 
+> get there? `动词 + 副词 中间不需要介词→to`
+> 
+> The restaurant  is at the cornner of 中山 road.
+> 
+> The post office is on the right  of the  factory.
+> 
+> The WillSon sits  on the right of the Eric.
+> 
+> How long do you study english at weibo?
+> 
+> Where do you come from?
+> 
+> He is at the corner. `在角落`
+> 
+> **用于从句:** How I can get to/How to get to,please tell me how to get to /how can I get to ....?
+> 
+> **还可以这样:** Could you please tell me way to ...? 
 
 ## 总结
 
