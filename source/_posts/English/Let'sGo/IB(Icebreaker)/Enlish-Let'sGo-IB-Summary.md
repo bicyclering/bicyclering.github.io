@@ -17,7 +17,7 @@ category: English
 > In 2015, My colleagues and me rode bicycles to 黄山。`在2015年我的同事和我一起骑行去黄山。`
 > Before this,I bought a 捷安特 mountain bike,cycling gloves,riding cap,cycling wear and pump. `在这之前,我买了一辆捷安特山地车,骑行手套,骑行帽,骑行衣和打气筒。`
 > 
-> The riding line is from 绩溪 to 黄山。Shuttle through small towns along the way,Two accidents happened on the way.Eventually we all arrived at your destination safely. `骑行线路是从绩溪到黄山,沿途穿过小镇，途中发生了两起事故。最终我们都安全抵达了您的目的地`
+> The riding line is from 宣城 to 黄山。Shuttle through small towns along the way,Two accidents happened on the way.Eventually we all arrived at your destination safely,A total of 520 kilometers,It took two and a half days.`骑行线路是从宣城到黄山,沿途穿过小镇，途中发生了两起事故。最终我们都安全抵达了您的目的地,一共骑行了520公里,一共花费了2天半时间。`
 > 
 > We has a great time,From then on, I slowly began to like sports. `我们玩的很开心,从那时起，我慢慢开始喜欢运动。`
 > 
