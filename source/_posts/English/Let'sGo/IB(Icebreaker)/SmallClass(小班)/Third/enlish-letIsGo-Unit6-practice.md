@@ -151,3 +151,22 @@ Make a choice. `做出选择。`
 > 
 > hospital `医院`
 
+## Other
+
+> What is she doing? She is climbing a tree.
+> 
+> How's the weather? It's sunny.
+> 
+> What is she wearing? She is wearing a T-Shirt,shorts and shoes.
+> 
+> flying the kite
+> 
+> The boy is wearing a coat,pants and shoes.
+> 
+> running in the rain
+> 
+> He is  wearing a raincoat pants and rainboots
+> 
+> playing snow `打雪仗`
+> 
+> He is wearing a hat,a scarf,a coat,pants and boots.
