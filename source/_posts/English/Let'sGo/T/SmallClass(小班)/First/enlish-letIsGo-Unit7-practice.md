@@ -9,115 +9,178 @@ categories: English
 
 ## 第一小节
 
-> Do you like to go swimming? `你喜欢游泳吗?`
+> Do you like to go swimming?
 > 
-> Yes,I do. `是的,我喜欢 。`
+> Yes,I do.
 > 
-> I love to go swimming. `我喜欢去游泳`
+> I love to go swimming.
 > 
-> I do too. `我也一样`
+> I do too.
 > 
-> Do you like to go hiking? `你喜欢去远足吗`
+> Do you like to go hiking?
 > 
-> Oh,yes I do. `是我,我喜欢`
+> Oh,yes I do.
 > 
-> I love to go hiking. `我喜欢去远足`
->  
-> I do too. `我也一样`
+> I love to go hiking.
 > 
-> Are you go swimming part? `你去参加游泳派对吗`
+> I do too.
 > 
-> No, I can't. I feed the dog. `不,我不能,我要喂狗`
+> Are you going to swimming party?
 > 
-> Don't wrong.We can help you. `别错过,我们帮你。`
+> No,I can't.
 > 
-> We can all go swimming. 
+> I feed the dog.
 > 
-> Great! `太棒了`
+> Don't worry. We can help you.
 > 
-> Listen carefully. `认真听` 
+> Then we can all go swimming.
 > 
-> There's going to be a swimming part. `将有一个游戏环节`
+> Great.
 > 
-> It's going to be at after school. `它会在放学后`
+> Listen carefully.
 > 
-> Sam and Sue want Eddie to come. `Sam和Sue希望Eddit来`
+> There are going to be a swimming party.
 > 
-> Eddie wants to go but he can't. `艾迪想去但他不能`
+> It's going to be after school.
 > 
-> He had to go home and feed the dog. `他不得不回家喂狗 `
+> Sam and Sue want Eddy to come.
 > 
+> Eddy want to go,but he can't.
 > 
-> 回答问题:
-> 
-> What  are Sam and Sue going to do `Sam和Sue要做什么`
-> 
-> Yes we can help you. `是的,我们可以帮到你`
-
-
-**reading practive. `阅读练习`**
-
-1. There's going to be a swimming part. `他们去一个游泳`
-2. Eddy wants to go,but he can't. `艾迪想去,但是他不能`
-3. He has to go home and feed the dog. `他要回家喂狗`
-4. "Don't worry",say Sam and Sue. `不要担心,Sam和Sue说`
-5. They can help him. `他们可以帮助他`
-6. Then they can all go swimming together. `他们都可以一起去游泳`
+> He has to go home and feed the dog.
+> > 
+> > **reading practive. `阅读练习`**
+> > 
+> > There's going to be a swimming party.
+> > 
+> > Eddy wants to go,but he can't.
+> > 
+> > He has to go home and feed the dog.
+> > 
+> > "Don't worry","say Sam and Sue."
+> > 
+> > They can help him.
+> > 
+> > Then they can all go swimming together.
 
 ## 第二小节
 
-1. wash the dishes `洗碗`  She's wash the dishes `她正在洗碗`
-2. set the table `布置桌面` They have to set table `他们在布置桌面`
-3. sweep the floor `扫地`  She has sweep the floor. `她已经扫地`
-4. feed the dog `喂狗` She had feed the dog. `他已经在喂狗`
-5. take out the trash `把垃圾带出去` She has take out the trash. `她已经把东西带出去了`
-6. vacuum the carpet `用吸尘器清洁地毯` She has vacumm the carpet. `她用吸尘器打扫地毯。`
-7. dry the dishes `擦干碟子` She has dry the dishes. `她在擦干碟子`
-8. clear the table `清理桌子` They have to clear the table. `他们已经在清理桌子`
-9. go swimming `游泳` She like to go swimming. `她喜欢去游泳`
-10. go camping `露营` He like to go camping `她喜欢去露营`
-11. go shopping `购物` She like to go shopping `她喜欢去购物`
-12. go bike riding `骑单车` She like to go bike riding `她喜欢骑单车`
-13. play volleyball `打排球` They like to play volleyball `他们已经在打排球`
-14. collect stamps `集邮` He likes collect stamps. `他喜欢集邮`
-15. use the computer `使用计算机` She likes use the computer `他喜欢使用计算机`
-16. look at the stars `看星星` He likes look at the starts `他喜欢看星星`
+> Let's learn to words.
+> 
+> > wash the dished
+> > 
+> > set the table
+> > 
+> > sweep the floor**美 [swip ði flɔr]** `扫地`
+> > 
+> > feed the dog
+> > 
+> > take out the trash `倒垃圾`
+> > 
+> > vacuum**美 [ˈvækjuəm, -jum, -jəm]** the carpet `用吸尘器清洁地毯`
+> > 
+> > dry the dishes `擦干盘子;擦干碟子`
+> > 
+> > clear the table `收拾桌子`
+> > 
+> > go swimming
+> > 
+> > go camping
+> > 
+> > go shopping
+> > 
+> > go bike riding
+> > 
+> > play volleyball
+> > 
+> > collect**美 [kəˈlɛkt]** stamps**美 [stæmp]** `收集邮票`
+> > 
+> > user the computer
+> > 
+> > look at the stars
 
 ## 第三小节
 
-1. What does she have to do? `他正在做什么` She has to sweep the floor. `她正在扫地`
-2. What does he like to do? `他喜欢做什么` He likes to paint. `他喜欢画画`
-3. What does she have to do? `他在做什么` She had to wash the dishes. `她已经在洗碗`
-4. What does she like to do? `她喜欢做什么` She likes look at the starts. `她喜欢看星星`
 
-
-> I have to my homework. `我要做作业`
+> Let's ask the qeustions.
 > 
-> He has to take out the trash. `他要垃圾拿出去`
-> 
-> She has to wash the dishes. `她已经在洗碗碟`
-> 
-> She has to sweep the floor. `她已经在扫地`
-> 
-> She likes to go shopping. `她已经在购物`
+> > What does he like to do?
+> > 
+> > He likes play volleyball.
+> > 
+> > What do he have to do?
+> > 
+> > He has to take out the trash.
+> > 
+> > What does she like to do?
+> > 
+> > She likes looks at the stars.
+> > 
+> > What does she have to do?
+> > 
+> > She has to set the table.
+> > 
+> > What does she have to do?
+> > 
+> > He has to sweeps the floor.
+> > 
+> > What does he have to do?
+> > 
+> > He has feed the dog.
+> > 
+> > What does she have to do?
+> > 
+> > She has wash the dishes.
 
 
 ## 第四小节
 
-1. clown `小丑` owl `猫头鹰` cow `奶牛`
-2. The clown and the owl were riding on the cow. `小丑和猫头鹰骑在奶牛身上。`
-3. cloud `云`  mouse `老鼠` house `房子` towel `毛巾`
-4. There was a big cloud over the mouse's house. `老鼠的房子上空有一片大乌云。`
+> Let's learn English sounds.
+> 
+> clown**美 [klaʊn]** `小丑`
+> 
+> owl**美 [aʊl]** `猫头鹰`
+> 
+> cow**美 [kaʊ]** `奶牛`
+> 
+> The clown and the owl were riding on the cow.
+> 
+> cloud
+> 
+> mouse
+> 
+> house
+> 
+> There was a big cloud over the mouse's house.
+> 
+> mouth**美 [maʊθ]** `口` 
+> 
+> towel**美 [ˈtaʊəl]** `毛巾`
+> 
+> 
 
 ## 第五小节
 
-1. He likes to vacuum carpet. `他喜欢吸尘器扫地`
-2. She has to vacuum the dog. `他已经在吸尘器清洁狗`
-3. He has to dry the dishes. `他已经在擦碗碟`
-4. He has to sweep the floor. `他已经在扫地`
-5. She has to take out the trash. `她已经在垃圾带出去啦`
-6. She likes to wash the trash. `她喜欢洗垃圾`
-7. He likes to set the table. `他喜欢布置桌面`
-8. She has to clear the table. `她已经在清理桌面`
-9. She has to vacuum the table. `她已经在吸尘器清洁桌面`
-10. He likes to sweep the dog. `他喜欢扫狗`
+> Let's play.
+> 
+> Which picture  is it?
+> 
+> He has to  vacumm the table.
+> 
+> She has to take out the trash.
+> 
+> He has to dry the dishes.
+> 
+> He likes to sweep the  dog.
+> 
+> He has to sweep the floor.
+> 
+> He likes to set the table.
+> 
+> She has to vacuum the dog.
+> 
+> She has to clear the table.
+> 
+> He likes to vacuum the carpet.
+> 
+> She likes to wash the trash. `洗净垃圾`
