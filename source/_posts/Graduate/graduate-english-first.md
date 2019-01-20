@@ -1,6 +1,6 @@
 ---
 title: 词根
-date: 2019-01-05 22:20:23
+date: 2019-01-02 07:10:23
 tags: English
 categories: Graduate
 ---
@@ -137,8 +137,7 @@ categories: Graduate
 > > educate**美 [ˈɛdʒəˌket]** `v.教育，教导;训练，培养 ?`
 > > education**美 [ˌɛdʒəˈkeʃən]** `教育;培养;教育学;训练 ?`
 > > educator**美 [ˈɛdʒəˌketɚ]** `（尤指作为一种职业的）教育工作者，教员，教师;教育学家，教育家;教学管理者 ?`
-> > educative**美 [ˈɛdʒəˌketɪv]** `adj.
-教育的，教育性的，教育上的 ?`
+> > educative**美 [ˈɛdʒəˌketɪv]** `adj.有教育意义的`
 > > deduce**美 [dɪˈdu:s]** `推理,演绎`
 > > deduction**美 [dɪˈdʌkʃən]** `推演,推理`
 > > reduce**美 [rɪˈdu:s]** `减少`
@@ -228,7 +227,7 @@ categories: Graduate
 
 # 推断题 
 
-**以infer或imphjes**在阅读作文中出现基本上都是推断题.
+**以infer或imply**在阅读作文中出现基本上都是推断题.
 
 ## 举例
 
