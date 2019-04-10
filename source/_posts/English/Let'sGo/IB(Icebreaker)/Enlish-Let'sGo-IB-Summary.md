@@ -13,7 +13,7 @@ category: English
 > I dislik sports a long time ago,because many people played basketball just to grab**美 [ɡræb]** a basketball. `在很久以前我就不喜欢运动,因为很多人只为抢一个🏀`
 > 
 > In 2015, My colleagues**美[ˈkɑli:g]** and I rode bicycles to 黄山。`在2015年我的同事和我一起骑行去黄山。`
-> Before this,I bought a Giant**美[ˈdʒaɪənt]** mountain**美[ˈmaʊntn]** bike,a pair of cycling**美['saɪklɪŋ]** gloves, a cycling**美['saɪklɪŋ]** cap,cycling**美['saɪklɪŋ]** wearables and a pump**美[pʌmp]**. `在这之前,我买了一辆捷安特山地车,骑行手套,骑行帽,骑行衣和打气筒。`
+> Before this,I bought a Giant**美[ˈdʒaɪənt]** mountain**美[ˈmaʊntn]** bike,a pair of cycling**美['saɪklɪŋ]** gloves, a cycling**美['saɪklɪŋ]** cap,a cycling**美['saɪklɪŋ]** wearables `美 [ˈwerəbl]` and a pump**美[pʌmp]**. `在这之前,我买了一辆捷安特山地车,骑行手套,骑行帽,骑行衣和打气筒。`
 > 
 > The riding line is from 宣城 to 黄山。Shuttling**美[ˈʃʌtl]** through small towns**美[taʊn]** along the way,Two accidents**美['æksɪdənts]** happened on the way,Eventually**美[ɪˈvɛntʃuəli]** we all arrived**美[a'raɪvd]** at the destination safely**美[ˈseflɪ]**,It's 520 kilometers,It took**[tʊk]** two and a half days.`骑行线路是从宣城到黄山,沿途穿过小镇，途中发生了两起事故。最终我们都安全抵达了您的目的地,一共骑行了520公里,一共花费了2天半时间。`
 > 

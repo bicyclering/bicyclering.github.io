@@ -1,11 +1,11 @@
 ---
-title: Let's Go 单元测试8
+title: Let's Go 单元测试12
 date: 2019-01-13 22:35:14
 tags: T-SmallClass
 categories: English
 ---
 
-# 单元测试8
+# 单元测试12
 
 ## 第一小节
 
@@ -32,6 +32,19 @@ categories: English
 > Is a rabbit faster than a cheetah?
 > 
 > No,it's much slower.
+> 
+> **阅读预习**
+> > Sam has to go home.
+> > 
+> > This evening he has to write a report.
+> > 
+> > The report is for his science class. `science→科学`
+> > 
+> > It's going to be about the fastest animals.
+> > 
+> > Sam thinks animals are interesting. `有趣`
+> > 
+> > He is looking forward to writing the report.
 
 ## 第二小节
 
