@@ -373,7 +373,7 @@ categories: Graduate
 
 ### sist `站 satnd` 源于 → 希腊语 sistere[L]
 
-> > assist**美 [əˈsɪst]** `帮助`
+> > assist(help,aid)**美 [əˈsɪst]** `帮助`
 > > assistant**美 [əˈsɪstənt]** `n.助理`
 > > assistance**美 [əˈsɪstəns]** `帮助,辅助`
 > > exit**美 [ˈɛɡzɪt, ˈɛksɪt]** `出口`
@@ -415,6 +415,7 @@ categories: Graduate
 > > statement**美 [ ˈstetmənt]** `陈述,声明`
 > > person statement `个人陈述`
 > > obstacle**美 [ˈɑ:bstəkl]** `障碍(实/虚)`
+> > barrier**美 [ˈbæriər]** `障碍`
 > > trouble**美 [ˈtrʌbəl]** `麻烦`
 > > problem**美 [ˈprɑ:bləm]** `问题`
 > > difficulty**美 [ˈdɪfɪˌkʌlti, -kəl-]** `困难`
@@ -672,15 +673,401 @@ categories: Graduate
 > > phase back**美 [fez bæk]** `推迟`
 
 
+## third
+
+### 信息/数据
+
+> > information**美 [ˌɪnfərˈmeɪʃn]**
+> > data**美 [ˈdetə, ˈdætə, ˈdɑtə]**
+> > statistics**美 [stəˈtɪstɪks]**
+> > figure**美 [ˈfɪgjər]**
+> > message**美 [ˈmɛsɪdʒ]**
+
+
+### 企业/公司/集团
+
+> > company**美 [ˈkʌmpəni]**
+> > cooperate**美 [koˈɑpəˌret]**
+> > cooperation**美 [koˌɑpəˈreʃən]**
+> > firm**美 [fɜ:rm]**
+> > enterprise**美 [ˈentərpraɪz]**
+> > group**美 [ɡrup]**
+> > corporate**美 [ˈkɔ:rpərət]**
+
+
+### 故意地/有意地
+
+> > on**美[ɑ:n]**
+> > in pur pose**美[ɪn ˈpɚpəs]**
+> > deliberately**美 [dɪˈlɪbərɪtlɪ]**
+> > intentionally**美 [ɪnˈtɛnʃənl:ɪ]**
+> > purposely**美 [ˈpɜ:rpəsli]**
+> > I am fasinated by English. `我对英语很着迷`
+
+
+### 吸引
+
+> > attract**美 [əˈtrækt]**
+> > appeal to**美 [əˈpil tu]**
+> > fascinate**美 [ˈfæsəˌnet]**
+> > absorb**美 [əbˈsɔ:rb]**
+> > be absorbed in `全神贯注于,专心致志于`
+> > tempt**美 [tɛmpt]**
+
+
+### 对手/敌人
+
+> > enemy**美 [ˈɛnəmi]**
+> > rival**美 ['raɪvl]**
+> > competitor**美 [kəmˈpɛtɪtɚ]**
+> > equal**美 [ˈikwəl]**
+> > opponent**美 [əˈpoʊnənt]**
+
+
+## fourth
+
+### 消失/灭亡
+
+> > die**美 [daɪ]**
+> > die out**美 [daɪ aʊt]**
+> > perish**美 [ˈpɛrɪʃ]**
+> > extinct**美 [ɪkˈstɪŋkt]**
+> > extinguish**美 [ɪkˈstɪŋɡwɪʃ]**
+> > endangered**美 [ɪnˈdendʒɚd]** `频率灭绝的`
+> > vanish**美 [ˈvænɪʃ]** `消失`
+> > disappear**美 [ˌdɪsəˈpɪr]** `消失`
+> > gone**美 [gɔ:n]** `消失`
+
+
+### 方法
+
+> > avenue**美 ['ævənu]** 
+> > way**美 [we]**
+> > approach**美 [ə'protʃ]**
+> > method**美 ['mɛθəd]**
+> > measure**美 ['mɛʒɚ]**
+> > solution**美 [sə'luʃən]**
+> > remedy**美 ['rɛmədi]**
+> > form**美 [fɔrm]**
+> > mean**美 [min]**
+> > transport**美 ['trænspɔrt]** `运输`
+> > policy**美 ['pɑləsi]**
+> > channel**美 ['tʃænl]**
+> > road**美 [rod]**
+
+### 资产/财产
+
+> > asset**美 ['æsɛt]**
+> > estate**美 [ɪ'stet]** `real estate 房地产`
+> > property**美 ['prɑpɚti]**
+> > money/cash/bill
+> > bank statement `存款证明`
+> > bank deposit**美 [bæŋk dɪˈpɑzɪt]** `存单,银行存款`
+
+
+### 放弃
+
+> > abandon**美 [əˈbændən]**
+> > band**美 [bænd]** `乐队`
+> > banner**美 [ˈbænɚ]** `横幅`
+> > abundant**美 [əˈbʌndənt]** `大量的`
+> > boundary**美 [ˈbaʊndəri, -dri]** `边界`
+> > give up**美 [ɡɪv ʌp]**
+> > drop**美 [drɑ:p]**
+> > quit**美 [kwɪt]**
+> > dessert**美 [dɪˈzɜ:rt]** `甜点`
+> > drop off**美 [drɑp ɔf]**
+
+
+## fifth
+
+### 悲观的
+
+> > pessimistic**美 [ˌpesɪˈmɪstɪk]**
+> > optimistic**美 [ˌɑːptɪˈmɪstɪk]**
+> > negative**美 [ˈneɡətɪv]**
+> > positive**美 [ˈpɑːzətɪv]** `积极乐观的`
+
+### 地区
+
+> > area**美 [ˈeriə]**
+> > district**美 [ˈdɪstrɪkt]**
+> > region**美 [ˈriːdʒən]**
+> > scope**美 [skoʊp]**
+> > range**美 [reɪndʒ]**
+> > sphere**美 [sfɪr]** `空间,圈子`
+> > blog sphere `博客圈`
+> > public sphere`公共领域`
+> > enlarge my scope of knowledge `扩大我的知识面`
+
+
+### 保守的
+
+> > conservative**美 [kənˈsɜːrvətɪv]**
+> > traditional**美 [trəˈdɪʃənl]** `传统的`
+> > conventional**美 [kənˈvenʃənl]** `传统的`
+> > custom**美 [ˈkʌstəm]** `风俗,习俗`
+
+
+### 永恒的
+
+> > eternal**美 [ɪˈtɜːrnl]**
+> > everlasting**美 [ˌevərˈlæstɪŋ]**
+> > permanent**美 [ˈpɜːrmənənt]**
+> > earn one's living`谋生`/I must earn my own living `我必须自己谋生`
+> > make one's living`谋生`/ live off `以...为生`
+
+### 遵守
+
+> > law**美 [lɔː]** `法律`
+> > regulation**美 [ˌreɡjuˈleɪʃn]** `规则`
+> > rule**美 [ruːl]** `规则`
+> > obey**美 [əˈbeɪ]**
+> > abide by**美 [əˈbaɪd baɪ]**
+> > comply with**美 [kəmˈplaɪ wɪð]**
+> > conform to**美 [kənˈfɔːrm tu]**
+> > observe**美 [əbˈzɜːrv]**
+> > disobey**美 [ˌdɪsəˈbeɪ]** `不遵守`
+
+
+### 管理
+
+> > management**美 [ˈmænɪdʒmənt]**
+> > administration**美 [ədˌmɪnɪˈstreɪʃn]**
+> > governance**美 [ˈɡʌvərnəns]**
+> > public government**美 [ˈpʌblɪk ˈɡʌvərnmənt]** `公共政府`
+
+
+## sixth
+
+### 鼓励
+
+> > come on**美 [ˈkʌm ɑːn]**
+> > add oil `加油`
+> > chear up
+> > chear sb up/to do `掐死某人/催促某人做某事`
+> > encourage**美 [ɪnˈkɜːrɪdʒ]** 
+> > encourage sb to do `鼓励某人做`
+> > inspire**美 [ɪnˈspaɪər]**
+> > motivate**美 [ˈmoʊtɪveɪt]**
+> > stimulate**美 [ˈstɪmjuleɪt]**
+> > stimulate sb to do `刺激某人做`
+> > prompt**美 [prɑːmpt]**
+> > promote**美 [prəˈmoʊt]**
+
+
+### 偏见
+
+> > bias**美 [ˈbaɪəs]**
+> > prejudice**美 [ˈpredʒudɪs]**
+> > discrimination**美 [dɪˌskrɪmɪˈneɪʃn]**
+> > inequality**美 [ˌɪnɪˈkwɑːləti]**
+
+
+### 组成
+
+> > consist of**美 [kənˈsɪst əv]**
+> > be made of**美 [bi meɪd əv]**
+> > include**美 [ɪnˈkluːd]**
+
+
+### 完成/结束
+
+> > finish**美 [ˈfɪnɪʃ]**
+> > complete**美 [kəmˈpliːt]**
+> > end**美 [end]**
+> > fulfill**美 [fʊl'fɪl]**
+> > accomplish**美 [əˈkɑːmplɪʃ]** `accomplish the task 完成任务`
+> > achieve**美 [əˈtʃiːv]** `achieve the goal 实现目标`
+> > carry out**美 [ˈkæri aʊt]**
+
+
+### 能力
+
+> > ability**美 [əˈbɪləti]**
+> > capacity**美 [kəˈpæsəti]**
+> > beable to do`能做的`
+> > be capable of doing**美 [bi ˈkeɪpəbl əv ˈduːɪŋ]**
+> > faculty**美 [ˈfæklti]**
+> > power**美 [ˈpaʊər]**
+> > potential**美 [pəˈtenʃl]**
+> > gift**美 [ɡɪft]** `天赋`
+> > talent**美 [ˈtælənt]** `才能`
+
+
+## seventh
+
+### 会议
+
+> > meeting**美 [ˈmiːtɪŋ]**
+> > conference**美 [ˈkɑːnfərəns]**
+> > event**美 [ɪˈvent]**
+> > convention**美 [kənˈvenʃn]**
+
+
+### 引用
+
+> > reference**美 [ˈrefrəns]**
+> > refer**美 [rɪˈfɜːr]**
+> > cite**美 [saɪt]**
+> > quote**美 [kwoʊt]**
+> > illustrate**美 [ˈɪləstreɪt]**
+
+
+### 拒绝
+
+> > reject**美 [rɪˈdʒekt , ˈriːdʒekt]**
+> > refuse**美 [rɪˈfjuːz , ˈrefjuːs]**
+> > turn down**美 [tɜːrn daʊn]**
+> > fall**美 [fɔːl]**
+> > drop**美 [drɑːp]**
+> > decline**美 [dɪˈklaɪn]**
+> > decrease**美 [dɪˈkriːs , ˈdiːkriːs]**
+
+### 保留
+
+> > retain**美 [rɪˈteɪn]**
+> > maintain**美 [meɪnˈteɪn]**
+> > remain**美 [rɪˈmeɪn]**
+> > preserve**美 [prɪˈzɜːrv]**
+> > reserve**美 [rɪˈzɜːrv]**
+
+### 伙伴/同伴/同伙
+
+> > partner**美 [ˈpɑːrtnər]**
+> > companion**美 [kəmˈpæniən]**
+> > colleague**美 [ˈkɑːliːɡ]**
+> > colleage `大学、学校`
+> > pear**美 [per]** `梨`
+> > mate**美 [mæt]** `垫子、小地毯`
+
+
+### 保护 
+
+> > protect**美 [prəˈtekt]**
+> > guard**美 [ɡɑːrd]**
+> > safeguard**美 [ˈseɪfɡɑːrd]**
+> > defend**美 [dɪˈfend]** `保护、防守`
+
+### 有希望的
+
+> > hopeful**美 [ˈhoʊpfl]** →(副词) hopefully**美 [ˈhoʊpfəli]**
+> > promising**美 [ˈprɑːmɪsɪŋ]**
+> > brightening**美 [ˈbraɪtnɪŋ]**
+> > protective**美 [prəˈtektɪv]**
+
+
+## eighth
+
+### 脆弱的
+
+> > weak**美 [wiːk]**
+> > feeble**美 [ˈfiːbl]**
+> > vulnerable**美 [ˈvʌlnərəbl]** `指人`
+> > fragile**美 [ˈfrædʒl]** `物`
+> > susceptible**美[səˈseptəbl]** 
+
+
+### 考虑到/考虑
+
+> > considering**美 [kənˈsɪdərɪŋ]**
+> > in a view of
+> > given**美 [ˈɡɪvn]**
+> > with a view of `为了、以....为目标`
+> > when it comes to `当提到、就....而论`
+> > speaking of `谈到`
+
+### 抓住
+
+> > capture**美 [ˈkæptʃər]** `可抓人`
+> > catch**美 [kætʃ]** 
+> > catch up with `追赶`
+> > grasp**美 [ɡræsp]**
+> > seize**美 [siːz]**
+
+### 主张/宣称
+
+> > state**美 [steɪt]**
+> > announce**美 [əˈnaʊns]**
+> > claim**美 [kleɪm]**
+> > proclaim**美 [prəˈkleɪm]**
+> > remark**美 [rɪˈmɑːrk]** `强调`
+> > review**美 [rɪˈvjuː]** `重视`
+> > argue**美 [ˈɑːrɡjuː]**
+> > hold**美 [hoʊld]** 
+> > I hold the view that... `我认为……`
+
+### 智力
+
+> > intelligence**美 [ɪnˈtelɪdʒəns]**
+> > intelligent**美 [ɪnˈtelɪdʒənt]** `聪明的、有智力的`
+> > intellectual**美 [ˌɪntəˈlektʃuəl]** `聪慧的`
+> > wisdom**美 [ˈwɪzdəm]**
+> > wait**美 [weɪt]**
+
+## ninth
+
+### 部分/比例
+
+> > percent**美 [pərˈsɛnt]**
+> > percentage**美 [pərˈsentɪdʒ]**
+> > portion**美 [ˈpɔːrʃn]**
+> > proportion**美 [prəˈpɔːrʃn]**
+> > element**美 [ˈelɪmənt]** `元素`
+> > factor**美 [ˈfæktər]** `因素`
+> > component**美 [kəmˈpoʊnənt]** `成分`
+> > section**美 [ˈsekʃn]** `部分`
+
+### 直觉的/本能的
+
+> > intuitive**美 [ɪnˈtuːɪtɪv]**
+> > instinctive**美 [ɪnˈstɪŋktɪv]**
+
+
+### 提升/提高
+
+> > lift**美 [lɪft]**
+> > boost**美 [buːst]**
+> > develop**美 [dɪˈveləp]**
+> > enhance**美 [ɪnˈhæns]**
+> > promote**美 [prəˈmoʊt]**
+> > elevate**美 [ˈelɪveɪt]**
+
+
+### 承认/认可
+
+> > accept**美 [əkˈsept]**
+> > admit**美 [ədˈmɪt]**
+> > be admitted into**美 [bi ədˈmɪtɪd ˈɪntə]** 
+> > admission**美 [ədˈmɪʃn]**
+> > acknowledge**美 [əkˈnɑːlɪdʒ]**
+> > recognize**美 [ˈrekəɡnaɪz]**
+
+### 探索/探测
+
+> > explore**美 [ɪkˈsplɔːr]**
+> > detect**美 [dɪˈtekt]**
+> > investigate**美 [ɪnˈvestɪɡeɪt]**
+
+### 获得
+
+> > get**美 [ɡet]**
+> > obtain**美 [əbˈteɪn]**
+> > gain**美 [ɡeɪn]**
+> > achieve**美 [əˈtʃiːv]**
+> > acquire**美 [əˈkwaɪər]**
+> > fetch**美 [fetʃ]**
+> > fetch sth for sb `为某人取来某东西(为了某人而去取,不一定到手中的)`
+> > fetch sth to sb `取东西给某人(东西最后要给那个人)`
+
+# 推断题 
+
 > 限制  v.
 > >  limit
 > >  restrict
 > >  control
 > >  constrain
 > >  impede
-
-
-# 推断题 
 
 **以infer或imply**在阅读作文中出现基本上都是推断题.
 
