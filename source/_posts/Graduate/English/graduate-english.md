@@ -532,6 +532,8 @@ categories: Graduate
 
 > > missile**美 [ˈmɪsl]** `n.导弹,投射物`
 > > dismiss**美 [dɪsˈmɪs]** `解散,开散`
+> > lay off**美 [ˈleɪ ɔːf]**
+> > out of work discharge five `下班后出院5人`
 > > missing**美 [ˈmɪsɪŋ]** `丢失的`
 > > mission**美 [ˈmɪʃən]** `任命,使命`
 > > message**美 [ˈmɛsɪdʒ]** `消息`
@@ -1059,6 +1061,96 @@ categories: Graduate
 > > fetch**美 [fetʃ]**
 > > fetch sth for sb `为某人取来某东西(为了某人而去取,不一定到手中的)`
 > > fetch sth to sb `取东西给某人(东西最后要给那个人)`
+
+
+## tenth
+
+### 高估
+
+> > overvalue**美 [ˌoʊvərˈvæljuː]** 
+> > overrate**美 [ˌoʊvərˈreɪt]**
+> > overestimate**美 [ˌoʊvərˈestɪmeɪt , ˌoʊvərˈestɪmət]**
+
+### 培养
+
+> > train**美 [treɪn]** `培训`
+> > cultivate**美 [ˈkʌltɪveɪt]** `培养`
+> > foster**美 [ˈfɑːstər]** `培养`
+> > nurture**美 [ˈnɜːrtʃər]**
+> > nature**美 [ˈneɪtʃər]**
+
+
+### 奇怪的/陌生的/怪异的
+
+> > weird**美 [wɪrd]**
+> > strange**美 [streɪndʒ]**
+> > odd**美 [ɑːd]**
+> > queer**美 [kwɪr]**
+> > salary**美 [ˈsæləri]**
+
+
+### 收入
+
+> > revenue**美 [ˈrevənuː]**
+> > income**美 [ˈɪnkʌm]**
+> > pay**美 [peɪ]** `收入` → payment**美 [ˈpeɪmənt]** `(兼职)收入`
+> > wage**美 [weɪdʒ]** `工资`
+> > gain**美 [ɡeɪn]**
+> > earning**美 [ˈɜːrnɪŋ]**
+> > pension**美 [ˈpenʃn , pɑːnsiˈoʊn]** `津贴`
+> > grant**[ɡrænt]** `提成`
+> > bonus**美 [ˈboʊnəs]** `提成`
+> > allowance**美 [əˈlaʊəns]**
+
+### 高贵的
+
+> > noble**美 [ˈnoʊbl]**
+> > royal**美 [ˈrɔɪəl]** `皇室的`
+> > priviledge `特权`
+
+### 挑出/挑选
+
+> > pick out**美 [pɪk aʊt]**
+> > single out**美 [ˈsɪŋɡl aʊt]**
+> > sort out**美 [ˈsɔːrt aʊt]**
+
+
+## eleventh
+
+### 限制/抑制
+
+> > limit**美 [ˈlɪmɪt]**
+> > impede**美 [ɪmˈpiːd]**
+> > restrict**美 [rɪˈstrɪkt]**
+> > constrict**美 [kənˈstrɪkt]**
+> > confine**美 [kənˈfaɪn]**
+> > hold back**美 [kənˈfaɪn]**
+> > scale back**美 [skeɪl bæk]**
+> > a large-scale company `大规模企业`
+> > discipline**美 [ˈdɪsəplɪn]**
+
+
+### 可用的
+
+> > available**美 [əˈveɪləbl]**
+> > usable**美 [ˈjuːzəbl]**
+> > applicable**美 [ˈæplɪkəbl]** → apply `v.申请、请求、使用、应用`
+
+### 利用/应用
+
+> > use**美 [juːz , juːs]**
+> > utilize**美 [ˈjuːtəlaɪz]**
+> > adopt**美 [əˈdɑːpt]** `采用`
+> > adapt**美 [əˈdæpt]** `适应`
+> > employ**美 [ɪmˈplɔɪ]**
+> > apply**美 [əˈplaɪ]** 
+
+### 影响
+
+> > influence**美 [ˈɪnfluəns]**
+> > effect**美 [ɪˈfekt]**
+> > impact**美 [ˈɪmpækt , ɪmˈpækt]**
+
 
 # 推断题 
 

@@ -1,5 +1,5 @@
 ---
-title: 词根
+title: 阅读文章
 date: 2019-04-05 23:40
 tags: English
 categories: Graduate
@@ -755,29 +755,1002 @@ categories: Graduate
 > > > assumed → 谓
 > > > high school → 宾
 > 
-> Individually they shape a person in very different ways.
+> Individually they shape a person in very different ways;together they threaten to confuse.
 > > **individually:** 个别的、单独地
 > > **shape:** 塑造 v.形状、外形  n. 使成为...形状 、决定...的形成
 > > **way:** n.方法、手段、途径、方式、作风 adv.很远、大量
+> > **threaten:** v.威胁、恐吓、预示凶兆
+> > **confuse:** v.使糊涂、混淆
 > > they → 主
 > > shape → 谓
 > > person → 宾
 
 
-## 04-21 45 页
+## 04-21 
+
+> The struggle to reconcile the two fields of study is difficult.
+> > **struggle:** 斗争 v.奋斗、努力、争取、斗争  n.斗争、奋斗、努力
+> > **reconcile:** v.使和谐一致、调和、使配合、使和解、将就、妥协
+> > **difficult:**困难的
+> > **study:** 研究、学习
+> > The two fields → 主
+> > study  → 谓
+> 
+> About the time that schools and others quite rasonably became interested in seeing to it that all children,whatever their background,were fairly treated,intelligence testing became unpopular.
+> > **quite:**相当、完全、十分
+> > **reasonably:**合理地
+> > **interested:**感兴趣的
+> > **seeing to:**留心、注意
+> > **whatever:**无论什么
+> > **background:** 出身背景、学历、经历
+> > **fairly:**相当地
+> > **treated:** 以...态度对待、以...方式对待、把...看作
+> > **intelligence:**智力、才智、智慧
+> > **unpopular:**不受欢迎的、不流行的
+> > that → 主
+> > become → 谓
+> > > that → 主
+> > > became → 谓
+> 
+> 
+> Some thought it was unfair to minority children.
+> > **thought:** 认为、以为 `think 过去式`
+> > some → 主
+> > thought → 谓
+> 
+> Throught the past few decades such testing has gone out of fashion and many communitites have indeed forbidden it.
+> > **throught:**通过
+> > **the past few decades:**过去几十年
+> > **out of fashion:**不流行
+> > **indeed:**的确
+> > **forbidden:**禁止的
+> > testing → 主
+> > has gone → 谓
+> > many communitites → 主
+> > have → 谓
+> 
+> However,paradoxically,just recently a group of black parents filed a lawsuit in California claiming that the state's ban on IQ testing discriminates against their children by denying them the opportunity to take the test.
+> >**however:**然而
+> >**paradoxically:**自相矛盾的
+> >**recently:**禁止
+> >**claiming:**宣城、声称
+> >**discriminates:**歧视
+> >**against:**反对、对抗
+> >**denying:**否认、否定
+> >**opportunity:**机会、时机
+> > a group of black parents → 主
+> > filed a lawsuit → 谓
+> > their → 主
+> > take → 谓
+
+
+## 04-22
+
+> They believed,correctly,that IQ tests are a vaild method of evaluating children for special education classes.
+> > **correctly:**正确地
+> > **evaluating:**评价
+> > they → 主
+> > believed → 谓
+> 
+> The judge,therefore,reversed,at least partially,his original decision.
+> > **judge:**法官
+> > **therefore:**所以、因此、因而
+> > **reversed:**撤回
+> > **decision:**决策
+> > judge → 主
+> > reversed → 谓
+> 
+> And so the argument goes on and on.
+> > **and so:**因此
+> > **argument:**争论
+> > **on and on:**不停地、继续不停地
+> > argument → 主
+> > goes → 谓
+> 
+> Does it benefit or harm children from minority groups to have their intelligence tested?
+> > **benefit:**益处、优势
+> > **harm:**伤害、损害
+> > minority groups → 主
+> > have → 谓
+> 
+> We have always been on the side of permitting,even facilitating,such testing.
+> > **on the side of:**站在一边
+> > **permitting:**允许、准许
+> > **facilitating:**促进、促使
+> > **such:**这样的、那样的、类似的
+> > we → 主
+> > have → 谓
 
 
 
+## 04-23
+
+> If a child of any color or group is doing poorly in school it seems to us very important to know whether it is because he or she is of low intelligence,or whether some other factor is the cause.
+> > **poorly:**差的
+> > **seemed:**似乎、好像
+> > **whether:**是否
+> > child → 主
+> > doing → 谓
+> 
+> What school and family can do to improve poor performance is influenced by its cause.
+> > school and family → 主
+> > immprove → 谓
+> 
+> It is not discriminative to evaluate either a child's physical condition or his intellectual level.
+> > **either:**任何一个
+> > it → 主
+> > is → 谓
+> 
+> Unfortunately,intellectual level seems to be a sensitive subject,and what the law allows us to do varies from time to time.
+> > **unfortunately:**不幸地
+> > **sensitive:**敏感的
+> > **varies:**变化
+> > **varies from time to time:**随时间变化
+> > intellectual → 主
+> > be → 谓
+> 
+> The same fluctuation back and forth occurs in areas other than intelligence.
+> > **fluctuation:**波动
+> > **fluctuation back and forth occurs:**来回波动
+> > intelligence → 主
+> > back and forth  occurs → 谓
+
+
+## 04-24   
+
+> Thirty years or so ago,for instance,white families were encouraged to adopt black children.
+> > **instance:**实例、例子
+> > **encouraged:**鼓励
+> > **adopt:**采取、收养
+> > families → 主
+> > adopt → 谓
+> 
+> It was considered discriminative not to do so.
+> > **considered:**仔细考虑
+> > **discriminative:**区别的、歧视的
+> > it → 主
+> > was  → 谓
+> 
+> And then the style changed and this cross-racial adopting became generally unpopular,and social agencies felt that black children should go to black families only.
+> > **and then:**然后
+> > **cross-racial:**跨种族的
+> > **adopting:**收养、采用
+> > **generally:**通常地、一般地
+> > **agency:**机构
+> > this → 主
+> > adopting → 谓
+> 
+> It is hard to say what are the best procedures.
+> > **hard:**坚硬的、努力地
+> > **procedures:**程序、手续、步骤
+> > **hard to say:**很难说
+> 
+> But surely good will on the part of all of us is needed.
+> > **surely:**想必、用于否定句、表示难以置信
+> > **good will:**善意
+> > **on part of all of us:**我们所有人的一部分
+> > **needed:**意愿
+> > good will → 主
+> > is → 谓
+
+
+## 04-25 
+
+> As to intelligence,in our opinion,the more we know about any child's intellectual level,the better for the child in question.
+> > **as to:**谈到、关于、至于、谈到
+> > **opinion:**意见、想法
+> > **know about:**知道、了解
+> > **in question:**被提及的、讨论中的、相关的
+> > intelligence → 主
+> > know → 谓
+> 
+> Given the lack of fit between gifted students and their schools,it is not surprising that such students often have little good to say 'about their school expericence.
+> > **given:**prep.鉴于
+> > **lack of:**缺乏、缺少
+> > **gifted:** 有天才的、有天赋的、天资聪慧的
+> > **surprising:** 令人吃惊的、使人惊奇的
+> > **experience:** 经历、经验
+> > **little:**不多、稍许、略微
+> > **fit:** 适合、契合度
+> > given → 主
+> > black of → 谓
+> > > that → 主
+> > > have → 谓
+> 
+> In one study of 400 adults who had achieved distinction in all areas of life,researchers found that three-fifths of these individuals either did badly in school or were unhappy in school.
+> > **distinction:** 差别、区别;、对比、优秀、杰出、卓越、特质、特点、不同凡响
+> > **study:**学习、研究
+> > **researchers:** 研究员科研工作者
+> > **individuals:** 个人、与众不同的人、有个性的人
+> > **either:** 任何一个、每个、各方
+> > adults → 主
+> > study → 谓
+> > > thses → 谓
+> > > found → 谓
+> 
+> Few MacArthur Prize fellows,winners of the MacArthur Award for creative accomplishment,had good things to say about their pre collegiate schooling if they had not been placed in advanced programs.
+> > **few:**很少的、不多的
+> > **prize:**奖、奖品、奖励
+> > **fellows:** 男人、男孩、小伙子、家伙、哥们
+> > **winners:**获胜的人、优胜者、成功者
+> > **Award:**奖、奖品、奖金、奖状
+> > **creative:**创造性的、创作的、有创造力的
+> > **accomplishment:**成就、成绩、才艺、技艺、专长
+> > **pre collegiate:**大学预科生
+> > **advanced:**先进的、高级的、高等的
+> > **programs:**n.程序、程序集、所有程式 v.规划、为...提供生物程序
+> > **schooling:**学习教育、训练、教育、培养
+> > **say about:**估计、大约、未定的数
+> > **placed:**放置、列入、安放、安置
+> > **good things:**好的评价
+> > MacArthur  → 主
+> > had  → 谓
+> > > they  → 主
+> > > had ..been   →  谓
+> 
+> Anecdotal reports support this.
+> > **reports:**汇报、报告、记述
+> > Anecdotal  → 主
+> > reports → 谓
 
 
 
+## 04-26 
+
+> Pablo Picasso,Charles Darwin,Mark Twain,Oliver Goldsmith,and William Butler Yeats all disliked school.
+> > Pablo Picasso  →  主
+> > disliked → 谓
+> 
+> So did Winstom Churchill,who almost failed out of Harrow,an elite British school.
+> > **Harrow:** `v.粑 n.粑地、折磨、使苦恼`
+> > **elite:** 上层集团、掌权人物、社会精英
+> > **British:** 英国的、英国人的
+> > **so did:** 也是
+> > **almost:**几乎、差不多
+> > **failed:**失败的、不成功的
+> > **out of:**从...里面,离开
+> > Winstom Churchill  →  主
+> > out of....  →  谓
+> 
+> About Oliver Goldsmith,one of his teachers remarked,"Never was so dull a boy."Often these children realize that they know more than their teachers,and their teachers often feel that these children are arrogant,inattentive,or unmotivated.
+> > **remarked:** 说起、谈论、评论
+> > **never:** 从不、绝不、从未
+> > **dull:** adj.鼓噪无味的、无聊的、令人生厌的 v.减少、(使)变麻木、使迟钝
+> > **realize:** 理解、领会、认识到
+> > **feel:** 意识到、感受到
+> > **arrogant:** 傲慢的、自大
+> > **inattentive:** 不注意的、不经心
+> > **unmotivated:** 动机不明的
+> > Oliver Goldsmith  →  主
+> > are  →  谓
+> 
+> Some of these gifted people many have done poorly in school because their gifts were not scholastic.
+> > **gifted:** 有天才的、有天赋的、天资聪慧的
+> > **have done:** 现在完成时,表示做过
+> > **poorly:** adv.槽糕地、不如意、不足 adj.有病、不适、不舒服
+> > **scholastic:** 学校的、教育的、学业的
+> > **were not scholastic:** 不是学术型的
+> > these  →  主
+> > have done  →  谓 
+> 
+> Maybe we can account for Picasso in this way.
+> > **Maybe:** 大概、或许、可能
+> > **account:** n.账户、账目  v.认为是、视为
+> > **account for:** 解释、说明
+> > **in this way:** 用这个方法
+> > we → 主
+> > can → 谓
+
+## 04-27 
+
+> But most performed poorly in school not because they lacked ability but because they found school challenging and consequently lost interest.
+> > **performed:** 做、履行、执行、表演、演出
+> > **poorly:** adv.槽糕地、不如意、不足 adj.有病、不适、不舒服
+> > **challenging:** adj.挑战性的、考查...能力的 v.向(某人)挑战、拒绝接受
+> > **consequently:** 因此,所以
+> > **interest:** n.兴趣、关注、引人关注的性质 v.使感兴趣、使关注
+> > most  → 主
+> > performed  →  谓
+> > > they → 主
+> > > found  → 谓 
+> 
+> Yeats described the lack of fit between his mind and school: "Because I had found it difficult to attend to anything less interesting than my own thoughts,I was difficult to teach." As noted earlier,gifted children of all kinds tend to be strong-willed nonconformists.
+> > **describe:** v.描述、形容、把...称为、做...运动
+> > **lack of:** 缺少、缺乏、需要
+> > **fit:** v.适合、合身 adj.健壮的、健康的、适合的、适当的 n.突发、发作
+> > **mind:** v.头脑、大脑、思考能力、智慧  v.烦恼、苦恼、介意
+> > **school:** n.学校 v.训练、使学会、教育、培养
+> > **difficult:** 困难的、费力的、难做的
+> > **attend:** v.出席、参加、经常去、定期去(某处)
+> > **attend to:** 处理、注意
+> > **thoughts:** 想法、看法、注意、记忆、心思、思想
+> > **noted:** adj.简称、闻名、著名  v.注意、留意、指出
+> > **earlier:** adv.早些时候、先前、之前
+> > **strong-willed:** 意志坚强的、坚持已见的
+> > **nonconformists:** 不墨守成规的
+> > **As noted earlier:** 如前所述
+> > Yeats  →  主
+> > described  → 谓
+> > > I  → 主
+> > > had  → 谓
+> > > I  → 主
+> > > was  → 谓
+> > > children  → 主
+> > > tend to  → 谓
+> 
+> Nonconformity and stubbornness(and Yeats's level of arrogance and self-absorption) are likely to lead to conflicts with teachers.
+> > **Nonconformity:** 不墨守成规的
+> > **stubbornness:** 固执
+> > **arrogance:** 傲慢、自大
+> > **self-absorption:** 自我专注、专诚
+> > **likely:** 可能的、预料的、有希望的
+> > **lead to:** 通向
+> > **conflicts:** n.冲突、争执、争论 v.冲突、抵触
+> > Nonconformity  → 主
+> > lead to  →  谓
+> 
+> When highly gifted students in any domain talk about what was important to the development of their abilities,they are far more likely to mention their families than their school or teacher.
+> > **highly:** 非常、高标准地、高级地
+> > **domain:** 领域、范围
+> > **development:** 发展、发育、成长、壮大、开发
+> > **likely:** adj.可能的、预料的 adv.可能、或许
+> > **mention:** v.提到、写到、说到  n.提及、说起
+> > **for more:** 许多、多得多的、更多的
+> > **talk about:** 这才叫..、真是
+> > students → 主
+> > talk about  → 谓
+> > > they → 主
+> > > are → 谓
+> > 
+> 
+> A writing prodigy studied by David Feldman and Lynn Goldmith was taught for more about writing by his journalist father than his English teacher.
+> > **prodigy:** (年轻的)天才、奇才、精英、神童
+> > **taught:** 教(课程)、讲授、教授、教、训练
+> > **journalist:** 新闻记者、新闻工作者
+> > David Feldman →  主
+> > was → 谓
+
+
+## 04-28 
+
+> High-IQ children,in Australia studied by Miraca Gross had much more positive feelings about their families than their schools.
+> > **Australia:** 澳洲、澳大利亚
+> > **have much:** 有更多
+> > **positive:** adj.积极的、建设性的  n.优势、优点
+> > High-IQ children → 主
+> > studied → 谓 
+> 
+> About half of the mathematicians studied by Benjamin Bloom had little good to say about school.
+> > **mathematicians:** 数学家
+> > **say about:** 估计、大约、未定的数
+> > mathematicians → 主
+> > studies → 谓
+> 
+> They all did well in school and took honors classes when available,and some skipped grades.
+> > **honors:** n.荣誉、荣幸、尊敬 v.尊敬、尊重、接受
+> > **available:** 可获得的、可购得的、有空的
+> > **skipped:** 不做、不参加
+> > **grades:** n.等级、品级、职别  v.分级、分等、分类
+> > They → 主
+> > did → 谓
+> 
+> In recent years,Israeli consumers have grown more demanding as they're become wealthier and more worldy-wise.
+> > **grown:** adj.成熟的、成年的、长大的 v.扩大、增加、增强
+> > **deamanding:** adj.要求高的 v.强烈要求、需要
+> > **wealthier:** 富有的、富裕的、富饶的
+> > **worldy-wise:** 更加世俗化
+> > consumers → 主
+> > have  → 谓
+> > > they → 主
+> > > are → 谓
+> 
+> Foreign travel is a national possion;this summer alone,one in 10 citizens will go abroad.
+> > **national:** adj.国家的、民族的、全国的 n.(某国的)公民
+> > **passion:** n.强烈情感、激情
+> > **alone:** adj/adv 独自、独立、单独
+> > **abroad:** 在国外、到国外
+> > Foreign travel → 主
+> > > citizens → 主
+> > > go → 谓
+
+
+## 04-29
+
+> Exposed to higher standards of service elsewhere,Israelis are retuning home expecting the same.
+> > **expecting:** v.预料、预期、预计、等待、期待
+> > israelis → 主
+> > are → 谓
+> 
+> American firms have also begun arriving in large numbers.
+> > **in large numbers:** 成群、大量地
+> > firms → 主
+> > arriving → 谓
+> 
+> Chains such as KFC,McDonald's and Pizza Hut are setting a new standard of customer service,using strict employee training and constant monitoring to ensure the friendliness of frontline staff.
+> > **chains:** n.连锁商店  v.束缚、固定
+> > **such as:** 例如、像、象...这样
+> > **setting:** n.环境、背景  v.放、置、使处于
+> > **monitoring:**  v.监视、检查、跟踪调查
+> > **ensure:** v.保证、担保、确保
+> > **friendliness:** n.友谊
+> > **frontline:**  n.前线、锋线
+> > **staff:** n.全体职工  v.在...工作、任职于、为...配备职员
+> > **frontline staff:** 一线员工
+> > chains → 主
+> > are → 谓
+> 
+> Even the American habit of telling departing customers to "Have a nice day" has caught on all over Israel.
+> > **habit:** 习惯、惯常行为、习性
+> > **departing:**  v.离开、离去、启程、出发、离职
+> > **caught:** v.接住、截住、拦住、抓住
+> > **caught on:** 明白、投合人心
+> > **all over:** 导出、遍及、全部完结
+> 
+> "Nobody wakes up in the morning and says,'Let's be nicer,'"say Itsik Cohen,director of a consuliting firm."Nothing happens without competition"
+> > **Let's be nicer:** 让我们更美好
+> > **director:** n.董事、理事、经理、负责人、主任
+> > **consulting:** v.咨询、请教、(与某人)商议
+> > Nobody → 主
+> > wakes up → 谓
+
+
+## 04-30
+
+> Privatization,or the threat of it,is a motivation as well.
+> > **Privatization:** 私有化
+> > **threat:** n.威胁、恐吓、凶兆、征兆
+> > **motivation:** n.动机、动力、诱因
+> > **as well:** 也,还
+> > Privatization → 主
+> > is → 谓
+> 
+> Monopolies(that until recently have been free to take their customers for granted) now fear what Michael Perry,a marketing professor,calls "the revengeful consumer."
+> > **Monopolies:** 垄断
+> > **recently:** adv.不久前,最近
+> > **granted:** adv.不错,的确 conj.因为 v.统一、准予、授予
+> > **fear:** n.害怕、惧怕、担忧  v.害怕、畏惧、惧怕
+> > **marketing:** n.促销、营销、营销活动 n.推销、促销
+> > **professor:** n.教授、讲师、教员
+> > **the revengeful consumer:** 报仇的消费者
+> > Monopolies → 主
+> > calls → 谓
+> 
+> When the government opened up competition with Bezaq,the phone company,its international branch lost 40% of its market share,even while offering competitive rates.
+> > **competition:** 竞争、角逐  
+> > **phone:** n.电话、电话系统、电话机  v.打电话
+> > **while:** 虽然 conj.在...期间  n.一段时间、一会 v.消磨
+> > **offering:** n.用品、剧作、作品  v.主动提出、提供
+> > **competitive:** adj.竞争的、有竞争力的
+> > **rates:** n.速度、进度、比率、价格、费用  v.评估、估价、认为...是好的
+> > government → 主
+> > opened → 谓
+> 
+> Says Perry,"People wanted revenge for all the years of bad service."
+> > **revenge:** n.报复、报仇  v.报复、替...报仇
+> > **revenge for:** 为...报复
+> > Perry → 主
+> > says → 谓
+> 
+> The electric company,whose monopoly may be short-lived,has suddenly mopped requiring users to wait half a day for a repairman.
+> > **monopoly:** n.垄断、专营服务、被垄断的商品
+> > **may be:** 多半
+> > **short-lived:** adj.短暂的
+> > **mopped:** 用拖把擦干净、用布擦掉(表面)的液体
+> > electric company → 主
+> > wait → 谓
+
+## 05-01 
+
+> Now,appointments are scheduled to the half-hour.
+> > **appointments:** 任命、指派
+> > appointments → 主
+> > are → 谓
+> 
+> The graceless EI AI Airlines,which is already at auction,has retrained its employees to emphasize service and is boasting about the results in an ad campaign with the slogan,"You can feel the change in the air." For the first time,praise outnumbers complaints on customer survey sheets.
+> > **graceless:** 不礼貌的、无礼的
+> > **already:** 已经、早已
+> > **auction:**  拍卖
+> > **retrained:**  重新培养、再教育、再培养
+> > **emphasize:** 强调、重视、着重
+> > **boasting:** 自夸、自吹自擂
+> > **campaign:** n.运动、战役 v.参加运动、领导运动
+> > **slogan:** 标语、口号
+> > **complaints:** 抱怨、埋怨
+> > **survey:** 民意调查
+> > **sheets:** 表
+> > **in the air:** 可感觉到、可被意识到
+> > AI Airlines → 主
+> > retrained → 谓
+> > > you → 主
+> > > change → 谓
+> > > customer → 主
+> > > outnumbers → 谓
+> 
+> 
+> Henry Ford,the famous U.S. inventor and car manufacturer,once said,"The business of America is business."By this he meant that the U.S. way of life is based on the values of the business world.
+> > **famous:**  著名的、出名的
+> > **inventor:**  发明者、发明家、创造者
+> > **manufacturer:**  生产者、制造者、生产商
+> > **business:**  商业、买卖、生意、商务
+> > **meant:**  adj.原本打算的、本应的  v.表示...的意思、意思是、本意是
+> > **way of life:** 典型行为模式、特有生活方式、生活的一部分
+> > **based on:** 以...为基础、在...基础上、以...为依据
+> > Henry Ford → 主
+> > say → 谓
+> 
+> Few would argue with Ford's statement.
+> > **argue:**  争论、争吵、争辩、论证
+> > **statement:** n.称述、说明、说法、表白  v.(英国)对儿童进行特殊教育评估认定
+> > Few → 主
+> > argue → 谓
+> 
+> A brief glimpse at a daliy newspaper vividly shows how much people in the United States think about business.
+> > **brief:** adj.短时间的、短暂的、简洁的、简单的 n.任务简介、指示 v.给(某人)指示、向(某人)介绍情况
+> > **glimpse:** n. 一撇、一看  v.瞥见、看一眼
+> > **vividly:** 生动地
+> > **think about:**  思考、探讨、为....费心思
+> > newspaper → 主
+> > shows → 谓
+
+
+## 05-02
+
+> For example,nearly every newspaper has a business section,in which  the deals and projects,finances and management,stock prices and labor problems of corporations are reported daily.
+> > **nearly:** 几乎、差不多、将近
+> > **deals:** 交易 v.发牌、非法买卖毒品  n.大量、很多、协议、待遇
+> > **finances:** v.提供资金
+> > **management:** n.经营、管理
+> > **stock:** n.现货、存活、库存 v.存活 adj.常备的、通常有的
+> > **labor:** n.劳动、努力、工作
+> > **corporations:** n.公司、法人、法人团队
+> > **reported:**  v.汇报、报告、通报、报道、公布
+> > newspaper → 主
+> > reported → 谓
+> 
+> In addition,business news can appear in every other section.
+> > **In addition:** 另外、此外、除...之外
+> > **appear:** v.显得、看了、似乎、出现
+> > business → 主
+> > can → 谓
+> 
+> Most national news has an important financial aspect to it.
+> > **financial:** 财政的
+> > **aspect:** n.方面、层面、样子
+> > news → 主
+> > has → 谓
+> 
+> Welfare,foreign aid,the federal budget,and the policies of the Federal Reserve Bank are all havily affected by business.
+> > **welfare:** (政府给予的)福利
+> > **aid:** n.援助、救援物资  v.帮助、援助
+> > **federal:** 联邦制的、(在美国、加拿大等联邦制下)联邦政府的
+> > **budget:** n.预算  v.谨慎花钱  adj.价格低廉的
+> > **policies:**  n.政策
+> > **reserve:** v.预定、保留、贮备  n.储备、储藏
+> > **heavily:** adv.在很大程度上、大量地
+> > **business:** 商业、买卖、生意、商务
+> > **Federal Reserve Bank:** 联邦储备银行
+> > Welfare → 主
+> > affected → 谓
+> 
+> Moreover,business news appears in some of the unlikeliest places.
+> > **moreover:** 此外、而且
+> > **unlikeliest:** 最不可能的
+> > **places:** 地方、位置
+> > news → 主
+> > appears → 谓
+
+
+## 05-03 
+
+> The world of arts and entertainment is often referred to as "the entertainment industry" or "show business."
+> > **entertainment:** n.娱乐、娱乐片、文娱节目、表演会
+> > **referred:** v.谈及、提到、提及、称...(为)、涉及
+> > **industry:**  n.行业、工业、生产制造
+> > **show:** v.表明、证明、给...看、出示、展示 n.演出、歌舞表演、(电视或广播)节目、展览、展览会
+> > **business:** n.商业、买卖、生意、商务、公事、营业额、贸易额、营业状况
+> > **referred to as:** 被称为、简称、称作
+> > **entertainment industry:** 娱乐业
+> > **show business:** 娱乐行业、娱乐界、演艺界
+> > art → 主
+> > is → 谓
+> 
+> The positive side of Henry Ford's statement can be seen in the prosperity that business has brought to U.S. life.
+> > **postitive:** adj.积极乐观的、自信的  n.优势、有点
+> > **side:** n.一边、一侧  v.支持、偏袒
+> > **statement:** v.陈述、说明、说法  v.(英国)对儿童进行特殊教育评估认定
+> > **prosperity:** 繁荣、兴旺、成功
+> > **brought:** v.带...到某处、带来、取来、提供、供给
+> > **seen:** seen过去分词  v.看见、见到、看出
+> > positive → 主
+> > brought → 谓
+> 
+> One of the most important reasons so many people from all over the world come to live in the United States is the dream of a better job.
+> > **most important:** 重要的、有重大影响的、有巨大价值的、影响很大的
+> > **all over the world:** 全世界
+> > **dream of:** 梦见、梦想、渴望
+> > reasons → 主
+> > come to → 谓
+> 
+> Jobs are produced in abundance because the U.S. economic system is driven dy competition.
+> > **produced:** v.生产、制造、生长、出产
+> > **aboundance:** n.大量、丰盛、充裕
+> > **economic:** adj.经济的、经济学的
+> > **driven:** adj.奋发努力地、发愤图强的  v.驾驶、开车
+> > **competition:** n.竞争、比赛
+> > **in abundance:** 富有
+> > **economic system:** 经济体系
+> > Jobs → 主
+> > are → 谓
+> 
+> People believe that this system creates more wealth,more jobs,and a materially better way of life.
+> > **wealth:** 财富、财产
+> > **materially:** 物质上地、实质上地
+> > People → 主
+> > believe → 谓
 
 
 
+## 05-04 
+
+> The negative side of Henry Ford's statement,however,can be seen when the word business is taken to mean big business.
+> > **negative:** adj.坏的、有害的、消极的 n.否定词、否定 v.拒绝、否定
+> > **however:** adv 无论到什么程度、不管多么、不管怎样
+> > **big business:** 大企业、大生意
+> > business → 主
+> > mean → 谓
+> 
+> And the term big business-referring to the biggest companies,is seen in opposition to labor.
+> > **term:** n.词语、学期、期限  v.把...称为、把...叫做
+> > **referring:** v.谈及、提到、提及、涉及
+> > **business-referring:** 业务介绍
+> > **opposition:** n.反对、反抗、对抗
+> > **labor:** n.劳动、努力、工作
+> > companies → 主
+> > is → 谓
+> 
+> 
+> Throughout U.S. history working people have had to fight hard for higher wages,better working conditions,and the fight to form unions.
+> > **throughout:** prep.各处、遍及、自始至终 adv.始终、处处
+> > **working people:** 劳动人民
+> > **fight:** v.打仗、战斗 n.搏斗、打斗
+> > **fight hard:** 努力奋斗
+> > **wages:** n.工资、工钱  v.开始、发动、进行、继续
+> > **conditions:** 条件
+> > **working conditions:** 工作环境
+> > **form:** n.类型、种类、形式  v.出现、产生、形成
+> > **unions:** n.协会、联合会、会社、俱乐部
+> > **form unions:** 建立工会
+> > U.S. → 主
+> > fight hard → 谓
+> 
+> Today,many of the old labor disputes are over,but there is still some employee anxiety.
+> > **disputes:** n.争论、辩论、争端  v.对...提出质询、争论、辩论、争执
+> > **still:** 仍然
+> > **anxiety:** n.焦虑、忧虑、担心、害怕
+> > labor → 主
+> > disputes → 谓
+> > > there → 主
+> > > is → 谓
+> 
+> Downsizing---the laying off of housands of workers to keep expenses low and profits high-creates feelings of insecurity for many.
+> > **downsizing:** v.(公司、企业等)裁员、精减
+> > **laying:** v.放置、安放
+> > **off:** adv.离开 prep.离开  
+> > **laying off:** 下岗、停工、临时解雇
+> > **expenses:** n.费用、价钱、开销
+> > **profits:** n.利润、收益、赢利 v.获益、得到好处
+> > **insecurity:** n.不牢靠、不安全、无保障、不放心
+> > downsizing → 主
+> > laying off → 谓
+
+
+## 05-05 
+
+> If you know exactly what you want,the best route to a job is to get specialized training.
+> > **exactly:**  精确地、准确的、确切的
+> > **route:** n.路线、路途、固定线路  v.按某路线发送
+> > **specialized:** adj.专业的  v.专门研究(或从事)、专攻
+> > **training:** 训练、培训
+> > you → 主
+> > know → 谓
+> 
+> A recent survey shows that companies like graduates in such fields as business and health care who can go to work immediately with very little on-the-job training.
+> > **recent:** 最近的、近来的、新近的
+> > **survey:** n.民意调查、民意测验
+> > **immediately:** adj.立即、马上 conj.一...就、即刻
+> > **graduates:** n.大学毕业生  v.大学毕业
+> > **health care:** 医疗
+> > **on-the-job training:** 在职培训
+> > **go to work:** 着手工作
+> > graduates → 主
+> > training → 谓
+> 
+> That's especially true of booming fields that are challenging for workers.
+> > **especially:** adv.尤其、特别、格外、专门
+> > **booming:** v.轰鸣、轰响
+> > **fields:** 领域
+> > **challenging:** 具有挑战性的
+> > that → 主
+> > is → 谓
+> 
+> At Cornell's School of Hotel Administration,for example,bachelor's degree graduates get an average of four or five job offers with salaries ranging from the high teens to the low 20s and plenty of chances for rapid advancement.
+> > **administration:** n.(企业、学校等的)管理、行政、施行、执行
+> > **bachelor's:** 学士学位
+> > **degree:** n.度、度数
+> > **graduates:** n.大学毕业生、学士学位获得者  v.获得学位(尤指学士)、大学毕业
+> > **average:** adj.平均的、典型的、正常的
+> > **offers:** v.主动提供、自愿给予  n.主动提议、建议、出价、报价
+> > **salaries:** 薪金、薪水
+> > **teens:** 十几岁(13至19岁之间)、青少年
+> > **plenty:** 大量、众多、充足
+> > **chances:** n.机会、机遇、时机、风险  v.冒险、拿...去冒风险
+> > **repid:** adj.瞬间的、短时间内发生的
+> > **advancement:** 促进、推动、发展、前进
+> > **ranging from:** 从...排列
+> > **plenty of:** 很多的
+> > Cornell's School → 主
+> > offers → 谓
+> 
+> Large companies,especially,like a background of formal education coupled with work experience.
+> > **especially:** 尤其、特别、格外、专门
+> > **coupled:** v.(把车辆或设备等)连接、结合、性交、交配
+> > **experience:** n.(由实践而来的)经验、实践、经历 v.经历、经受、遭受
+> > large companies → 主
+> > coupled → 谓
+
+
+## 05-06 
+
+> But in the long run,too much specialization doesn't pay off.
+> > **run:** 一段(幸运或倒霉的)时光
+> > **specialization:** 专业化、专门化、特化
+> > **pay off:** 偿清、还清、回报
+> > **in the long run:** 归根到底、从长远来看、终究
+> > specialization → 主
+> > doesn't → 谓
+> 
+> Business,which has been fooded with MBAs,no longer considers the degree an automatic stamp of approval.
+> > **business:** 商业、买卖、生意、商务
+> > **which:** 哪个、哪一个、哪一些
+> > **has been:** 已经
+> > **flood:** n.洪水、大量(的人或事物) v.大量涌入、蜂拥而出
+> > **consider:** 考虑、细想、认为、以为、看重
+> > **degree:** 程序、学位、度、度数
+> > **automatic:** 自动的、不假思索的、无意识的、自动手枪
+> > **stamp:** 邮票、标志、印记、跺脚、特征、标记
+> > **approval:** 批准、同意、赞成
+> > **MBAs:** 工商管理硕士(Master of Business Administration)
+> > **no longer:** 不再
+> > MBAs → 主
+> > considers → 谓
+> 
+> The MBA many open doors and command a higher salary initally,but the impact of a degree washes out after five years.
+> > **command:** 命令、指挥、指令、控制力、控制
+> > **higher:** 高高的、高级的、上级的、高等的、高的、高尚的
+> > **salary:** 薪水、薪金
+> > **initially:** 最初、开始
+> > **impact:** 影响、碰撞、冲击、撞击
+> > **degree:** 程序、学位、度、度数
+> > **washes:** 洗涤、冲、洗
+> > **open:** 开放的、敞开的
+> > **washes out:** 消失
+> > MBA → 主
+> > open → 谓
+> 
+> As further evidence of the erosion of corporate faith in specialized degrees,Michigan State's Scheetz cites a pattern in corporate hiring practices,although companies tend to take on specialiests as new hires,they often seek out generalists for middle and upper-level managerment.
+> > **further:** 更多的、更远的、较远的、更进一步的
+> > **evidence:** 证明、证据、迹象、证词、明显
+> > **erosion:** 侵蚀、销蚀
+> > **corporate:** 公司的
+> > **faith:** 忠诚、信用、信任
+> > **specialized:** 专门的、专业的、专用的
+> > **degress:** 程序、学位、度、度数
+> > **Michigan:** 美国密歇根
+> > **State's:** 州的
+> > **pattern:** 模式、图案、花样、样品
+> > **corporate:** 法人的、团队的、社团的、公司的
+> > **hiring:** 雇佣、租赁、雇用的
+> > **practices:** 实践、练习
+> > **although:** 虽然、尽管、即使、不过
+> > **take:** 采取、拿、取、接受
+> > **specialists:** 专家、专科医生
+> > **hires:** 新员工、雇用、录用、聘用、新雇员
+> > **seek out:** 寻找出
+> > **generalists:** 通才、多面手
+> > **middle:** 中央、中部、中间、正中
+> > **upper-level:** 高层、高等级、上水平
+> > **management:** 管理、管理人员、管理技巧
+> > **take on:** 承担、接受、呈现、显出
+> > corporate → 主
+> > evidence → 谓
+> > > companies → 主
+> > > tend to → 谓
+> > > they → 主
+> > > seek out → 谓
+> 
+> "They want someone who isn't constrained by nuts and bolts to look at the big picture," says Scheetz.
+> > **constrain:** 约束 、限制、强迫
+> > **nuts:** 傻的、坚果、螺母、疯子
+> > **bolts:** 螺栓、闪电、插销
+> > **nuts and bolts:** 具体细节、基本要素
+> > **look at:** 看、考虑
+> > **big picture:** 全局、大局
+> > They → 主
+> > want → 谓
+> > > who → 主
+> > > isn't → 谓
+
+
+## 05-07 
+
+> This sounds suspiciously like a formal statement that you approve of the liberal-arts graduate.
+> > **sounds:** `声音、声响、音调、声调、声波、嘈杂声`
+> > **suspiciously:** `猜疑地、怀疑的、心怀鬼胎的、满腹狐疑地`
+> > **approve:** `赞成、同意、批准、通过(计划、要求等)、认可、核准 记忆技巧：ap 加强 + prov 证明 + e → 证明可行 → 赞成`
+> > **liberal-arts:** `文科、学院倡导博雅、博雅`
+> > **graduate:** `大学毕业生、毕业生 记忆技巧：gradu〔= grad〕步；度，级；走 + ate 使… → 完成所有步骤 → 毕业`
+> > **approve of:** `对.....予以认可`
+> > This → 主
+> > sounds → 谓
+> > > you → 主
+> > > approve of → 谓
+> 
+> Time and again labor-market analysts mention a need for talents that liberal-arts majors are assumed to have: writing and communication skills,organizational skills,open-mindedness and adaptability,and the ability to analyze and solve problems,David Birch claims he does not hire  anybody with MBA or an engineering degree,"I hire only liberal-arts people because they have a less-than-canned way of doing things,"says Birch.
+> > **again:** `再一次、又一次、返回原处、复原`
+> > **time and again:** `屡次、常常`
+> > **labor-market:** `劳动力市场`
+> > **analysts:** `分析者、化验员`
+> > **mention:** `提到、说起、提及 记忆技巧：ment 头脑，智力 + ion 表动作 → 有思考 → 提到，论及`
+> > **talents:** `天才、天资、天赋`
+> > **liberal-arts:** `文科`
+> > **major:** `主要的、重要的、大调的、主修的 记忆技巧：maj 大，伟大 + or → 较大的；主要的`
+> > **assumed:** `假定的、假装的、被承担的、假定`
+> > **communication:** `交流、通讯、通信、书信、传达`
+> > **communication  skills:** `沟通技巧`
+> > **organizational skills:** `组织能力`
+> > **open-mindedness:** `思想开放、开放的思想、思想开明、开放性思维、开明之心`
+> > **adaptability:** `适用(合、用)性、可用性、灵活性、适应能力`
+> > **ability:** `能力、才能、本领 记忆技巧：abil 能 + ity 具备某种性质，状况 → 能力`
+> > **analyze:** `分析、(分析)研究、分解、解析 记忆技巧：ana 在旁边 + lyz〔= lys〕裂开；分解 + e → 分析`
+> > **solve:** `解决、处理、解答、破解 记忆技巧：solv 松开 + e →〔乱麻〕松开 → 解决`
+> > **claims:** `宣称、声称、断言、要求(拥有)、索取`
+> > **hire:** `新员工、租用、租赁、聘用`
+> > **engineering:** `工程、操纵、管理`
+> > **degree:** `学位、程度、度、度数`
+> > **less-than-canned:** `不拘一格、独具一格`
+> > labor-market → 主
+> > mention → 谓
+> 
+> Liberal-arts means an academically thorough and strict program that includes literature,history,mathematics,economics,science,human behavior-plus a computer course or two.
+> > **academically:** `学术上、学业上`
+> > **thorough:** `彻底的、全面的、充分的、彻头彻尾的、根本的`
+> > **strict:** `精确的、绝对的、严格的、严谨的`
+> > **program:** `程序、节目、节目单、计划、安排、为...制定计划`
+> > **literature:** `文学、文学作品 记忆技巧：liter 文字，字母 + ature 与行为有关之物 → 文学`
+> > **mathematics:** `数学、运算、计算`
+> > **economics:** `经济学、经济情况、经济因素、经济意义`
+> > **science:** `科学、自然科学`
+> > **human behavior-plus:** `人类行为`
+> > Liberal-arts → 主
+> > means → 谓
+> 
+> With that under your belt,your can feel free to specialize,"A liberal-arts degree coupled with an MBA or some other technical training is a very good combination in the marketplace,"says Scheetz.
+> > **belt:** `腰带、传送带、区域、环绕`
+> > **specialize:** `专攻、特化、专门从事、列举 记忆技巧：special 特别的；专门的 + ize …化 → 专门化；专攻`
+> > **coupled:** `连结的、联系的`
+> > **technical:** `技术的、技能的、工艺的`
+> > **technical training:** `技术培训`
+> > **combination:** `结合、联合体、密码组合 记忆技巧：combine 结合 + ation 行为 → 结合，联合`
+> > **marketplace:** `市场、集市`
+> > **feel free to:** `可以随便`
+> > **coupled with:** `接在一起`
+> > **very good:** `最好`
+> > your → 主
+> > can → 谓
+> 
+> Just five on-hundredths of an inch thick,light golden in color and with a perfect "saddle curl,"the Lay's potato chip seems an unlikely weapon for global domination.
+> > **an inch thick:** `一英寸厚`
+> > **light golden:** `浅金色`
+> > **perfect:** `完备的、完美的、完全的`
+> > **saddle curl:** `鞍状卷曲`
+> > **potato chip:** `马铃薯片`
+> > **seem:** `好像、似乎、看来`
+> > **unlikely:** `不可能的、未必的`
+> > **weapon:** `武器、兵器`
+> > **domination:** `控制、统治、占优势`
+> > potato chip → 主
+> > seems → 谓
 
 
 
+## 05-08 71页
 
+> But its maker.Frito-Lay.Thinks otherwise."Potato chips are a snack food for the world," said Salman Amin,the company's head of global marketing.
+> > **maker:** `制造者、制造商、上帝`
+> > **thinks:** `认为、以为、想、思索`
+> > **otherwise:** `否则、另外、别的方式、别的、另外的`
+> > Frito-Lay → 主
+> > thinks → 谓
+> 
+> Amin believes there is no corner of the world that can resist the charms of a Frito-Lay potato chip.
+> > **resist:** `反抗、抵抗`
+> > **charms:** `魅力、魔力、吸引力`
+> > Amin → 主
+> > believes → 谓
+> 
+> Frito-Lay is the biggest snack maker in America,owned by PepsiCo.
+> > **PepsiCo:** `百事可乐、百世集团`
+> > Frito-Lay → 主
+> > is → 谓
+> 
+> And accounts for over half of the parent company's $3 billion annual profits.
+> > **accounts:** `账户、账目、报告、描述`
+> > **annual:** `每年的  记忆技巧：annu 年，一年 + al …的 → 一年一度的`
+> > **profits:** `利润、收益、赢利、益处、好处`
+> > **billion:** `十亿`
+> > **over half:** `超过一半`
+> > accounts → 主
+> > over half → 谓
+> 
+> But the U.S. snack food market is largely saturated,and to grow,the company has to look overseas.
+> > **U.S.:** `美国`
+> > **saturated:** `饱和的、浸透的`
+> > **grow:** `扩大、扩展`
+> > **largely:** `很大程度上、多半、主要地`
+> > **overseas:** `外国的、海外的`
+> > snack → 主
+> > is → 谓
+> > > company → 主
+> > > has → 谓
+
+
+## 05-09 
+
+> Its strategy rests on two beliefs:first a global product offers economies of scale with which local brands cannot compete.
+> 
+> And second,consumers in the 21st century are drawn to "global" as a concent.
+> 
+> "Global" does not mean products the are consciously identified as American,but ones than consumers-especially young people-see as part of a modern,innovative world in which people are linked across cultures by shared beliefs and tastes.
+> 
+> Potato chips are an American invention,but most Chinese,for instance,do not know than Frito-Lay is an American company.
+> 
+> Riskey,the company's research and development head,would hope they associate the brand with the new world of global communications and business.
+
+
+## 05-10 
+
+> With brand perception a crucial factor,Riskey ordered a redesign of the Frito-Lay logo.
+> 
+> The logo,along with the company's long-held marketing image of the "irresistibility" of ites chips,would help facilitate the company's global expansion.
+> 
+> The executives acknowledge that very try to swing national eating habits to a food crated in America,but they deny that amounts to economic imperialism.
+> 
+> Rather,they see Frito-Lay as spreading the benefits of free enterprise across the world.
+> 
+> "We're making products in those countries,we're adapting them to the tastes of those countries,building businesses and employing people and changing lives,"said Steve Reinemund,PepsiCo's chief executive.
+>
+
+
+## 05-11 75页
+
+> Most episodes of absent-mindedness-forgetting where you left something or wondering why you just entered a room---are caused by a simple lack of attention,says Schacter."You're supposed to remember something,but you haven't encoded it deeply."
+> 
+> Encoding,Schacter explains,is a special way of paying attention to an event that has a marjior impact on recalling it later.
+> 
+> Failure to encode properly can create annoying situations.
+> 
+> If you put your mobile phone in a pocket,for example,and don't pay attention to what you did because you're involved in a conversation,you'll probably forget that the phone is in the jacket now hanging in you wardrobe.
+> 
+> "Your memory itself isn't failing you,"says Schacter."Rather,you didn't give your memory system the information(it needed)."
+> 
+
+
+## 05-12 76页
+
+>
+>
+>
+>
 
 
 

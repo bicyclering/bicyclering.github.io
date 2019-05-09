@@ -9,24 +9,19 @@ category: English
 ## My JOb
 
 
-> Hello everyone,Ladies and gentlemen.
+> Hello everyone,My topic is about my job.
 > 
-> My job is software project manager.
+> I'm a software project manager.I've been in the company for about three years.
 > 
-> I usually pepare**美[prɪˈper]** for project materials**美 [mə'tɪərɪrlz] **,take my colleagues,advice document and code.
+> I usually prepare**美[prɪˈper]** for project materials**美 [mə'tɪərɪrlz] **,take my colleagues',edit document and code.
 > 
-> My daily**美 [ˈdeli]** routine**美 [ruˈtin]** having  a meeting,writing document and codeing.
+> My daily**美 [ˈdeli]** routine**美 [ruˈtin]** is as follows-having  a meeting,writing document and coding.
 > 
-> I like my job,because the launch of a new software,will bring many users,so that we can users' information.And then,we use it to make more data analysis**美 [əˈnælɪsɪs]**.
+> I like my job,because the launch of a new software,will bring many users,so that we can get users' information.And then,we use it to make more data analysis**美 [əˈnælɪsɪs]**.Besides,My workmates are very friendly,happy and interesting.
 > 
-> My workmates are very firendly,happy and interesting.
+> As for the products,there are many products in my company,for example:chenxiang powder**美 [ˈpaʊdɚ]**,chenxiang carving**美 [ˈkɑ:rvɪŋ]** and chenxiang incense**美 ['ɪnsens]**.
 > 
-> As for the products,There are many products in my company,for example:chenxiang powder**美 [ˈpaʊdɚ]**,chenxiang carving**美 [ˈkɑ:rvɪŋ]** and chenxiang incense**美 ['ɪnsens]**.
-> 
-> They are all sold**美 [soʊld]** on the Apps designed by my company.Functions of these products curing**美 ['kjʊərɪŋ]** stomach disease**美 [dɪˈziz]**,dysmenorrhea**美 [ˌdɪsmenə'ri:ə]** and keeping minds refreshing**美 [rɪˈfrɛʃɪŋ]**/(in a better state) when working and studying.
-> 
-> I've been in the company for about three years.
-
+> They are all sold**美 [soʊld]** on the Apps designed by my company.Functions of these products-curing**美 ['kjʊərɪŋ]** stomach disease**美 [dɪˈziz]**,dysmenorrhea**美 [ˌdɪsmenə'ri:ə]** and keeping minds refreshing**美 [rɪˈfrɛʃɪŋ]**/(in a better state) when working and studying.
 
 ## 结束
 
