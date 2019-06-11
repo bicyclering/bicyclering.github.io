@@ -1707,50 +1707,496 @@ categories: Graduate
 ## 05-09 
 
 > Its strategy rests on two beliefs:first a global product offers economies of scale with which local brands cannot compete.
+> > **strategy:** `战略、策略、计策、行动计划、策划`
+> > **rests:** `休息、静止、休止`
+> > **beliefs:** `相信、信心、信念、信仰`
+> > **economies:** `经济、经济情况、经济结构`
+> > **scale:** `规模、范围、程度、等级、级别、等级体系`
+> > **brands:** `牌子、商标、烙印`
+> > **compete:** `竞争、对抗`
+> > **economies of scale:** 规模经济
+> > its → 主
+> > rests → 谓
 > 
 > And second,consumers in the 21st century are drawn to "global" as a concent.
+> > **consumers:** `消费者、顾客、用户`
+> > **drawn:** `吸引、憔悴的、拉、绘画、拖、拨出`
+> > **concent:** `协调、一致、和谐`
+> > consumers → 主
+> > are → 谓
 > 
 > "Global" does not mean products the are consciously identified as American,but ones than consumers-especially young people-see as part of a modern,innovative world in which people are linked across cultures by shared beliefs and tastes.
+> > **consciously:** `有意识地、自觉地`
+> > **identified:** `识别、确认、辨认、认出、支持`
+> > **consumers-especially:** `尤其是消费者`
+> > **people-see:** `人们看到`
+> > **modern:** `现代的、近代的、新式的、当代风格的、现代人、现代主义者`
+> > **part:** `部分、零件、参加、地区、分开、分离`
+> > **innovative:** `引进新思想的、采用新方法的、革新的、创新的`
+> > **cultures:** `文化、文明、培养`
+> > **shared:** `共有、合用、分配、分摊、分享、共享`
+> > **beliefs:** `相信、信心、看法、信念、信仰、宗教信仰`
+> > **tastes:** `体验、滋味、味觉、风味、尝、品尝、尝到、吃、喝`
+> > **linked:** `把连接起来、联系、相关联、说明有联系`
+> > global → 主
+> > mean → 谓
 > 
 > Potato chips are an American invention,but most Chinese,for instance,do not know than Frito-Lay is an American company.
+> > **potato chips:** `马铃薯片`
+> > **invention:** `发明、创意、创造、虚构、编造`
+> > potato chips → 主
+> > are → 谓
 > 
 > Riskey,the company's research and development head,would hope they associate the brand with the new world of global communications and business.
+> > **research:** `研究、调查、探索`
+> > **development:** `发展、发育、成长、壮大、开发、研制`
+> > **head:** `头部、头脑、上端、首脑、首长`
+> > **associate:** `联想、发生联系、联合、结交`
+> > **communications:** `通信、交流、交际、信息、通信工具`
+> > **business:** `商业、买卖、生意、商务、公事、营业额`
+> > Riskey → 主
+> > hope → 谓
+> > > they → 主
+> > > associate → 谓
 
 
 ## 05-10 
 
 > With brand perception a crucial factor,Riskey ordered a redesign of the Frito-Lay logo.
+> > **perception:** `感知、洞察力、悟性`
+> > **crucial:** `关键性的、至关重要的`
+> > **factor:** `因素、数因子、代理人、分解...的因子、将...分解成因子`
+> > **ordered:** `安排好的、整齐的、规则的、订购、点`
+> > **redesign:** `重新设计、新设计`
+> > Riskey → 主
+> > ordered → 谓
 > 
 > The logo,along with the company's long-held marketing image of the "irresistibility" of ites chips,would help facilitate the company's global expansion.
+> > **along:** `一起、向前、进展、沿着、顺着`
+> > **with:** `和...在一起`
+> > **long-held:** `长期持有、长期保留`
+> > **held:** `拿着、抓住、抱住、托住、按住(受伤的身体部分)`
+> > **marketing:** `市场营销、销售、经销、行销、市场学、出售、卖`
+> > **irresistibility:** `不可抗拒、不可抵抗(压制;反驳)`
+> > **ites:** `科技化服务`
+> > **chips:** `炸薯条`
+> > **facilitate:** `促进、促使、使便利`
+> > **expansion:** `扩张、扩展、扩大`
+> > **global:** `全球的、全事件的、整体的、全面的`
+> > **logo:** `标识、标志、微标`
+> > **along with:** `除某物以外、随同...一起、跟...一起`
+> > **image:** `形象、印象、声誉、画像、雕像、塑像`
+> > logo → 主
+> > long-held → 谓
 > 
-> The executives acknowledge that very try to swing national eating habits to a food crated in America,but they deny that amounts to economic imperialism.
+> The executives acknowledge that very try to swing national eating habits to a food create in America,but they deny that amounts to economic imperialism.
+> > **executives:** `经理、行政领导、行政部门`
+> > **acknowledge:** `承认(属实)、承认(权威、地位)、告知收悉`
+> > **swing:** `摇摆、摇荡、秋千、摆动`
+> > **national:** `国家的、国有的、国民的、民族主义的`
+> > **habits:** `习惯、惯常行为`
+> > **create:** `创造、创作、创建、造成`
+> > **deny:** `否认、否定、拒绝承认、拒绝接受、拒绝、拒绝给予`
+> > **amounts:** `金额、量、总额`
+> > **economic:** `经济的、经济上的`
+> > **imperialism:** `帝国主义、帝国主义政策`
+> > **try to:** `设法、试图、试着`
+> > **eating habits:** `饮食习惯`
+> > executives → 主
+> > acknowledge → 谓
+> > > they → 主
+> > > deny → 谓
 > 
 > Rather,they see Frito-Lay as spreading the benefits of free enterprise across the world.
+> > **spreading:** `传播、展开、伸开、散布`
+> > **benefits:** `优势、益处、成效`
+> > **enterprise:** `公司、企业单位、事业单位`
+> > **rather:** `相当、稍微、有点、宁愿、相反地`
+> > they → 主
+> > see → 谓
 > 
 > "We're making products in those countries,we're adapting them to the tastes of those countries,building businesses and employing people and changing lives,"said Steve Reinemund,PepsiCo's chief executive.
->
+> > **making:** `生成、制造`
+> > **adapting:** `适应、配合、适合`
+> > **chief:** `主要的、首领、主管人员`
+> > **executive:** `总经理、行政部门、管理的`
+> > we → 主
+> > making → 谓
 
 
 ## 05-11 75页
 
 > Most episodes of absent-mindedness-forgetting where you left something or wondering why you just entered a room---are caused by a simple lack of attention,says Schacter."You're supposed to remember something,but you haven't encoded it deeply."
+> > **episode:** `(人生的)一段经历、(小说的)片段、插曲`
+> > **absent-mindedness-forgetting:** `心不在焉,健忘`
+> > **wonder:** `奇妙的、奇迹、惊奇、奇观、奇才`
+> > **wondering:** `疑惑的、觉得奇怪的`
+> > **entered:** `进来、进去、进入、称为...的一员`
+> > **cause:** `原因、事业、动机、理由、引起、导致、成为...的原因`
+> > **caused:** `使发生、造成、引起、导致`
+> > **simple:** `简单的、单纯的、天真的`
+> > **lack of:** `缺少、缺乏、需要`
+> > **attention:** `注意、注意力、照料、关怀、殷勤、立正`
+> > **supposed:** `假定的、应当、不准、料想、意味着`
+> > **remember:** `回想起、记得、记起、想起、记住、把...牢记在心`
+> > **encoded:** `把...译成电码(或密码)、把...编码、把...译成外语`
+> > **deeply:** `很、非常、极其、(与某些动词连用)深刻地、强烈地、深坑地、至深处`
+> > **supposed to:** `应该`
+> > Schacter → 主
+> > says → 谓
+> > > you → 主
+> > > are → 谓
 > 
-> Encoding,Schacter explains,is a special way of paying attention to an event that has a marjior impact on recalling it later.
+> Encoding,Schacter explains,is a special way of paying attention to an event that has a major impact on recalling it later.
+> > **encoding:** `编码、字符编码、编码方式、消息编码`
+> > **explains:** `解释、说明、说明(...的)原因、解释(...的)理由`
+> > **special:** `特殊的、特别的、不寻常的`
+> > **major:** `主要的、重要的、大的、严重、大调的`
+> > **impact:** `巨大影响、强大作用、撞击、冲撞`
+> > **recalling:** `记起、回忆起、回想起、使想起`
+> > **later:** `后来、以后、其后、随后`
+> > **impact on:** `影响、对...冲击、碰撞、对...只影响`
+> > schacter → 主
+> > explains → 谓
 > 
 > Failure to encode properly can create annoying situations.
+> > **failure:** `失败、失败的人(或事物)、未做、未履行(应做之事)`
+> > **encode** `把...译成电码(或密码)、把...编码、把...译成外语`
+> > **properly:** `正确地、适当地、得体地、恰当地`
+> > **create:** `创作、创作、创建、造成`
+> > **situations:** `情况、状况、形式、局面`
+> > **annoying:** `恼人的、讨厌的、骚扰`
+> > encode → 主
+> > create → 谓
 > 
 > If you put your mobile phone in a pocket,for example,and don't pay attention to what you did because you're involved in a conversation,you'll probably forget that the phone is in the jacket now hanging in you wardrobe.
+> > **pocket:** `衣袋、口袋`
+> > **involved:** `参与、作为一部分、有关联、包含、需要`
+> > **conversation:** `(非正式)交谈、谈话`
+> > **probaly:** `几乎肯定、很可能、大概`
+> > **hanging:** `绞刑、绞死、帘子、悬`
+> > **wardobe:** `衣柜、衣橱`
+> > you → 主
+> > put → 谓
+> > > you → 主
+> > > are → 谓
+> > > you → 主
+> > > will → 谓
 > 
 > "Your memory itself isn't failing you,"says Schacter."Rather,you didn't give your memory system the information(it needed)."
-> 
+> > **memory:** `记忆力、记性、回忆、记忆`
+> > **failing:** `弱点、缺陷、如果没有、如果`
+> > **rather:** `宁愿、稍微、有点、相当、相反地、当然啦`
+> > **system:** `(思想或理论)体系、方法、制度、体制、系统、身体`
+> > **memory system:** `存储系统、记忆系统`
+> > you → 主
+> > isn't → 谓
+> > > schacter → 主
+> > > says → 谓
 
 
 ## 05-12 76页
 
+> Lack of interest can also lead to absent-mindedness."A man who can recite sports statistics from 30 years ago,"says Zelinski,"many not remember to drop a letter in the mailbox."
+> > **lack of:** `缺少、缺乏、需要`
+> > **interest:** `兴趣、关注、引入关注的性质`
+> > **lend to:** `导致、通向`
+> > **absent-mindedness:** `健忘、心不在焉`
+> > **recite:** `背诵、吟诵、朗诵`
+> > **statistic:** `统计数字、统计资料、统计学`
+> > **remember:** `回想起、记得、记起、记住、把...牢记在心`
+> > **drop:** `落下、投下、降低、减少、放弃、停止`
+> > **letter:** `信、证书、许可证、字母`
+> > **mailbox:** `信箱、邮筒`
+> > interest → 主
+> > lead to → 谓
+> > > man → 主
+> > > recite → 谓
+> > > Zelinski → 主
+> > > says → 谓
 >
+> Women have slightly better memories than men,possibly because they pay more attention to their environment,and memory relies on just that.
+> > **slightly:** `略微、稍微、身材瘦小的`
+> > **better:** `较好的、更合适的、能力更强的、更好的`
+> > **memories:** `记忆力、记性、回忆`
+> > **possibly:** `可能、或许、强调惊奇`
+> > **attention:** `注意、专心、留心、注意力、兴趣`
+> > **environment:** `环境、客观环境、自然环境、生态环境`
+> > **relies:** `依赖、依靠、信赖、信任`
+> > **just that:** `由于、既然`
+> > women → 主
+> > have → 谓
 >
+> Visual cues can help prevent absent-mindedness,says Schacter."But be sure the cue is clear and available,"he cautions.
+> > **visual:** `视力的、视觉的、视觉资料`
+> > **cues:** `线索、暗示、提示、球杆、给...暗示`
+> > **prevent:** `阻止、阻碍、阻扰`
+> > **absent-mindedness:** `健忘,心不在焉`
+> > **clear:** `明确的、清澈的、清楚的、明白的、清晰的`
+> > **available:** `可获得的、可购得的、可找到的、有空的`
+> > **cautions:** `警告、告诫、提醒`
+> > **be sure:** `确信、肯定、确定`
+> > Schacter → 主
+> > says → 谓
+> > > he → 主
+> > > cautions → 谓
 >
+> If you want to remember to take a medication with lunch,put the pill bottle on the kitchen table--don't leave it in the medicine chest and write yourself a note that you keep in a pocket.
+> > **medication:** `药、药物`
+> > **remember:** `回想起、记得、记起、记住、把...牢记在心`
+> > **medicine:** `医学、药、药水`
+> > **chest:** `胸部、胸膛、大箱子`
+> > **medicine chest:** `药箱、药柜`
+> > **pocket:** `口袋、钱袋、金钱、容器、隐藏`
+> > you → 主
+> > want → 谓
+> 
+> Another common episode of absent-mindedness:walking into a room and wondering why your're there.
+> > **another:** `又一、再一、另一`
+> > **common:** `普通的、通俗的、公共的、共有的、普通`
+> > **episode:** `一段经历、片段、插曲`
+> > **absent-mindedness:** `健忘,心不在焉`
+> > **wondering:** `觉得奇怪、疑惑的`
+> > episode → 主
+> > walking → 谓
+
+
+## 05-13
+
+> Most likely,you were thinking about something else.
+> > **most:** `最、最多、非常、很、几乎、最多的、最大的、大概的、大多数`
+> > **likely:** `可能的、适合的、有希望的、可能、或许`
+> > **most likely:** `最可能`
+> > **something:** `某物、某事、重要的事物、大致、左右、非常、有点、大约`
+> > **thinking:** `思考、想法、思想、意见、见解、有思想的、有理性的`
+> > **something else:** `另一回事`
+> > you → 主
+> > were → 谓
+> 
+> "Everyone does this from time to time,"says Zelinski.
+> > **from time to time:** `时不时地、不时地、间或、偶尔`
+> > everyone → 主
+> > does → 谓
+> 
+> The best thing to do is to return to where you were before entering the room,and you'll likely remember.
+> > **return:** `回转、返回、复发、又来、送还、归来`
+> > **likely:** `可能的、适合的、有希望的、可能、或许`
+> > best thing → 主
+> > to do → 谓
+> 
+> Sign has become a scientific hot button.
+> > **sign:** `签署、迹象、符合、手势、指示牌、签名`
+> > **scientific:** `科学(上)的、关于科学的、细致严谨的、科学的`
+> > **hot:** `热门的、激动的、紧迫的`
+> > **button:** `按钮、电钮、纽扣、扣子`
+> > **become:** `变得、变成、变为、变为、成为、适合`
+> > **hot button:** `热门话题`
+> > Sign → 主
+> > has → 谓
+> 
+> Only in the past 20 years have specialists in language study realized the signed languages are unique--a speech of the hand.
+> > **specialist:** `专家、专科医生`
+> > **language:** `语言、语言文字、表达能力、言语`
+> > **study:** `学习、研究、课题`
+> > **realize:** `理解、领会、认识到、意识到、实现`
+> > **sign:** `签署、迹象、符合、手势、指示牌、签名`
+> > **speech:** `演说、讲话、发言、说话的能力、说话方式`
+> > **hand:** `手、协助、帮助、把、柄、掌管、传递`
+> > **language study:** `语言研究`
+> > **a speech of the hand:** `手语`
+> > specialists → 主
+> > study → 谓
+
+
+## 05-14
+
+> They offer a new way to probe how the brain generates and understands language,and throw new light on an old scientific controversy;
+> > **offer:** `提供、给予、提出、提议`
+> > **probe:** `探查、盘问、追问、探究、查看 记忆技巧：prob 证明 + e → 为了证明 → 查明`
+> > **brain:** `n.脑、智力、脑力、逻辑思维能力 v.猛击...的脑袋致死`
+> > **generate:** `产生、引起、记忆技巧：gener 产生 + ate 使… → 产生；发电`
+> > **scientific:** `科学(上)的、关于科学的、细致严谨的、科学的`
+> > **controversy:** `(公开的)争论、辩论、论战`
+> > **throw new light:** `进一步提供消息、对...进行新的阐述`
+> > **scientific controversy:** `科学争论`
+> > **light:** `光、发光体、电灯、轻的、明亮的、浅色的`
+> > they → 主
+> > offer → 谓
+> 
+> whether language,complete with grammar,is something that we are born with,or whether it is a learned behavior.
+> > **whether:** `是否、是...、或者....、不管...`
+> > **complete:** `完整的、完成的、完全的、完成 记忆技巧：com 加强 + plet 满的；填满 + e → 特别满 → 完全的`
+> > **grammar:** `语法、文法 记忆技巧：gramm〔= gram〕写，画 + ar 表物 → 写的〔规则〕→ 语法`
+> > **learned:** `有学问的、博学的、学术上的、得知、学习`
+> > **behavior:** `行为、态度、反应`
+> > **born:** `出生、出世、出现、形成、成立`
+> > grammar → 主
+> > is → 谓
+> > > that → 主
+> > > are → 谓
+> 
+> The current interest in sign language has roots in the pioneering work of one rebel teacher at Gallaudet University in Washington,D.C.,the world's only liberal arts university for deaf people.
+> > **current:** `现在的、最近的、流行的、流传的、趋势 记忆技巧：curr 跑，引申为“发生” + ent 关于…的 → 跑的 → 流动的`
+> > **interest:** `利息、兴趣、爱好、利害关系、利益、趣味、感兴趣的事、使产生兴趣、使参与`
+> > **sign:** `迹象、符号、手势、指示牌、签名、打手势`
+> > **roots:** `根源、起因、根、词根、方根`
+> > **pioneering:** `开创性的、首创的、先驱的`
+> > **rebel:** `反叛者、叛逆者、反政府的人、反抗的人、反抗的、造反的 记忆技巧：re 回，向后 + bel 战争；打斗 → 反过来打〔自己人〕→ 叛乱者`
+> > **university:** `(综合性)大学、高等学府`
+> > **Washington:** `华盛顿`
+> > **liberal:** `自由主义者、自由堂堂员、自由的、开明的、慷慨的、不拘泥的`
+> > **arts:** `艺术、美术(尤其绘画、雕刻、雕塑)、艺术作品、美术作品、艺术技巧`
+> > **deaf:** `聋的、耳聋的人、聋子、不愿听、不去注意`
+> > sign language → 主
+> > has → 谓
+> 
+> When Bill Stokoe went to Gallaudet to teach English,the school enrolled him in a course in signing.
+> > **Gallaudet:** `加劳德特`
+> > **enrolled:** `(使)加入、注册、登记`
+> > **course:** `课程、讲座 记忆技巧：cours 跑，引申为“发生” + e → 跑的〔距离〕→ 路程`
+> > **signing:** `迹象、符号、手势、指示牌、签名、打手势`
+> > **course in signing:** `手语课程`
+> > Bill Stokoe → 主
+> > teach → 谓
+> > > school → 主
+> > > enrolled → 谓
+> 
+> But Stokoe noticed something odd:among themselves,students signed differently from his classroom teacher.
+> > **noticed:** `看(或听)到、注意到、意识到、注意、留意`
+> > **odd:** `奇怪的、怪异的、返厂的、偶然出现的、偶尔发生的、不规律的`
+> > **among:** `在...中、周围是、在(其中)、....之一、在三者或以上中(分配或选择)`
+> > **differently:** `不同地、相异地`
+> > Stokoe → 主
+> > noticed → 谓
+
+
+## 05-15
+
+> Stokoe had been taught a sort of gestural code,each movement of the hands representing a word in English.
+> > **taught:** `教(课程)、讲授、教授、训练 teach过去分词和过去式`
+> > **sort:** `种类、类别、品种`
+> > **gestural:** `手势、手势辅助、姿态`
+> > **code:** `密码、暗码、电码、代码`
+> > **movement:** `运动、转动、移动、迁移、转移`
+> > **representing:** `代表、作为...的代言人`
+> > Stokoe → 主
+> > taught → 谓
+> 
+> At the time,American Sign Language(ASL) was thought to be no more than a form of pidgin English.
+> > **at the time:** `当时`
+> > **sign:** `手势、手语`
+> > **thought:** `想法、看法、认为、以为`
+> > ASL → 主
+> > was → 谓
 >
+> But Stokoe believed the "hand talk" his students used looked richer.
+> > Stoke → 主
+> > believed → 谓 
+> 
+> He wondered:Might deaf people actually have a genuine language?
+> > **wondered:** `想知道、想弄明白、琢磨 wonder过去分词和过去式`
+> > **Might:** `可能、可以`
+> > **deaf:** `聋的、耳聋的人`
+> > **actually:** `实际上、确实`
+> > **genuine:** `真正的、真的、名副其实的、真诚的`
+> > He → 主
+> > wondered → 谓
+> 
+> And could that language be unlike any other on Earth?
+> > **could:** `能、可以 can过去时`
+> > **earth:** `世界、地球`
+> > **be unlike:** `不像、与...不同、相异`
+> > that → 主
+> > be unlike → 谓
+
+
+## 05-16
+
+> It was 1995,when even deaf people dismissed their signing as "substandard".
+> 
+> Stokoe's idea was academic heresy.
+> 
+> It is 37 years later.
+> 
+> Stokoe--now devoting his time to writing and editing books and journals and to producing video materials on ASL and the deaf culture--is having lunch at a cafe near the Gallaudet campus and explaining how he started a revolution.
+> 
+> For decades educators fought his idea that signed languages are natural languages like English,French and Japanese.
+
+
+## 05-17
+
+> They assumed language must be based on speech,the modulation of sound.
+> 
+> But sign language is based on the movement of hands,the modulation of space.
+> 
+> "What I said,"Stokoe explains,"is that language is not mouth stuff--it's brain stuff."
+> 
+> Exercise is one of the few factors with a positive role in long-term maintenance of body weight.
+> 
+> Unfortunately,the message has not gotten through to the average American,who would rather try switching to "light" beer and low-calorie bread than increase physical exertion.
+
+
+## 05-18
+
+> The Centers for Disease Control,for example,found that fewer than one-fourth of overwight adults who were trying to shed pounds said they were combing exercise with their diet.
+> 
+> In rejecting exercise,some people may be discouraged too much by caloric-expenditure charts:for example,one would have to briskly walkd three miles just to work off the 275 calories in one delicious Danish pastry.
+> 
+> Even exercise professionals concede half a point here.
+> 
+> "Exercise by itself is a very tough way to lose weight,"says Yourk Onnen,program director of the President's Council on Physical Fitness and Sports.
+> 
+> Still,exercise's supporting role in weight reduction is vital.
+
+
+## 05-19
+
+> A study at the Boston University Medical Center of overweight police officers and other public employees confirmed that those who dieted without exercise regained almost all their old weight,while those who worked exercise into their daily routine maintained their new weight.
+> 
+> If you have been sedentary and decide to start walking one mile a day,the add  exercise could burn an extra 100 calories daily.
+> 
+> In a year's time,assuming no increase in food intake,you could lose ten pounds.
+> 
+> By increasing the distance of your walks gradually and makeing other dietary adjustments,you may lose even more weight.
+
+
+## 05-20
+
+> Is there enough oil beneath the Arctic National Wildlife Refuge to help secure Amerca's energy future?
+> 
+> President Bush certainly thinks so.
+> 
+> He has argued that tapping ANWR's oil would help ease California's  electricity crisis and provide a major boost to the country's energy independence.
+> 
+> But no one knows for sure how much crude oil lies buried beneath the frozen earth with the last government survey,conducted in 1998,projecting output anywhere from 3 billion to 16 billion barrels.
+> 
+> The oil industry goes with the high end of the range,which could equal as much as 10% of U.S. consumption for as long as six years.
+> 
+>  
+
+## 05-21
+
+> By pumping more than 1 million barrels a day from the reserve for the next two three decades,lobbyists claim,the nation could cut back on imports equivalent to all shipments to the U.S. from Saudi Arabia.
+> 
+> Sounds good.An oil boom would also mean a multibillion-dollar windfall in tax revenues,royalties and leasing fees for Alaska and the Federal Government.
+> 
+> Best of all,advocates of drilling say,damage to the environment would be insignificant.
+> 
+> "We've never had a document case of oil rig chasing dder out onto the pack ice." says Alaska State Representative Scott Ogan.
+> 
+> No so fast,say environmentalists.
+> 
+
+
+## 05-22
+
+> Sticking to the low end of government estimates,the National Resources Defense Councial says there may be no more than 3.2 billion barrels of economically recoverable oil in the coastal plain of ANWR,a drop in the bucket that would do virtuall nothing to ease America's energy problems.
+> 
+> And consumers would wait up to a decade to gain any benefits,because drilling could begin only after much bargaining over leases,environmental permits and regulatory review.
+> 
+> As for ANWR's impact on the California power crisis,environmentalists point out that oil is responsible for only 1% of the Golden State's electricity output-and just 3% of the nation's.
+> 
+> 
 
 
 

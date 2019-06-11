@@ -1,0 +1,896 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="IOS," />
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="在这里，我们将讨论一些非常简单的位操作技巧，如果能够有效地使用，真的可以加快程序的执行时间。 我们偶尔会看到位级操作符。有点诡计是巧妙的小编程技巧,巧妙和有效地操作整数。这些编程块与一两个仔细选择的按位操作完全相同,而不是通过循环各个位来执行某些操作(例如对整数中的1进行计数)。 为了让事情继续下去,假如你知道一个整数的二进制补码表示是什么,并且你知道所有的按位运算。 在本文中，我将使用下面的符号">
+<meta name="keywords" content="IOS">
+<meta property="og:type" content="article">
+<meta property="og:title" content="简单的位操作技巧">
+<meta property="og:url" content="http://yoursite.com/2018/01/19/IOS/(Skill)技巧/LowLevelBitHacks/index.html">
+<meta property="og:site_name" content="Bicyclering">
+<meta property="og:description" content="在这里，我们将讨论一些非常简单的位操作技巧，如果能够有效地使用，真的可以加快程序的执行时间。 我们偶尔会看到位级操作符。有点诡计是巧妙的小编程技巧,巧妙和有效地操作整数。这些编程块与一两个仔细选择的按位操作完全相同,而不是通过循环各个位来执行某些操作(例如对整数中的1进行计数)。 为了让事情继续下去,假如你知道一个整数的二进制补码表示是什么,并且你知道所有的按位运算。 在本文中，我将使用下面的符号">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:updated_time" content="2018-07-18T08:17:01.037Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="简单的位操作技巧">
+<meta name="twitter:description" content="在这里，我们将讨论一些非常简单的位操作技巧，如果能够有效地使用，真的可以加快程序的执行时间。 我们偶尔会看到位级操作符。有点诡计是巧妙的小编程技巧,巧妙和有效地操作整数。这些编程块与一两个仔细选择的按位操作完全相同,而不是通过循环各个位来执行某些操作(例如对整数中的1进行计数)。 为了让事情继续下去,假如你知道一个整数的二进制补码表示是什么,并且你知道所有的按位运算。 在本文中，我将使用下面的符号">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2018/01/19/IOS/(Skill)技巧/LowLevelBitHacks/"/>
+
+
+
+
+
+  <title>简单的位操作技巧 | Bicyclering</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Bicyclering</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">要么读书,要么旅行,身体和灵魂总有一个在路上</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-commonweal">
+          <a href="/404/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br />
+            
+            公益404
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/01/19/IOS/(Skill)技巧/LowLevelBitHacks/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="覆雪古树">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/bicyclering.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Bicyclering">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">简单的位操作技巧</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-01-19T16:03:22+08:00">
+                2018-01-19
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/01/19/IOS/(Skill)技巧/LowLevelBitHacks/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count gitment-comments-count" data-xid="/2018/01/19/IOS/(Skill)技巧/LowLevelBitHacks/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <pre><code>在这里，我们将讨论一些非常简单的位操作技巧，如果能够有效地使用，真的可以加快程序的执行时间。
+</code></pre><p>我们偶尔会看到位级操作符。有点诡计是巧妙的小编程技巧,巧妙和有效地操作整数。这些编程块与一两个仔细选择的按位操作完全相同,而不是通过循环各个位来执行某些操作(例如对整数中的1进行计数)。</p>
+<p>为了让事情继续下去,假如你知道一个整数的二进制补码表示是什么,并且你知道所有的按位运算。</p>
+<p>在本文中，我将使用下面的符号进行按位操作：</p>
+<pre><code>&amp;   -  bitwise and
+|   -  bitwise or
+^   -  bitwise xor
+~   -  bitwise not
+&lt;&lt;  -  bitwise shift left
+&gt;&gt;  -  bitwise shift right
+</code></pre><p>文章中的数字是8位有符号整数，表示为二进制补码，通常命名为“x”。结果通常是’y’。“x”的各个位被命名为b7，b6，b5，b4，b3，b3，b2，b1和b0。位b7是符号位（最高有效位），而b0是最低有效位。</p>
+<p>我将从最基本的位操作入手，并逐渐走向更困难的阶段。我将用示例来解释每个位操作是如何工作的。</p>
+<h2 id="案例-1：检查整数是偶数还是奇数"><a href="#案例-1：检查整数是偶数还是奇数" class="headerlink" title="案例 1：检查整数是偶数还是奇数"></a>案例 1：检查整数是偶数还是奇数</h2><pre><code>if ((x &amp; 1) == 0)
+{
+    // x is even
+}
+else
+{
+    // x is odd
+}
+</code></pre><p>相信大多数人人都看到了这个方法。这里的想法是，当且仅当最低有效位b0是1时，整数是奇数。它来自“x”的二进制表示，其中位b0对1或0作出贡献。通过&amp;运算’x’与1，我们消除了除b0以外的所有其他比特。如果这个操作后的结果是0，那么’x’就是因为位b0是0.否则’x’是奇数。</p>
+<p>我们来看一个例子。我们取整数43，这是奇数。在二进制43中是00101011.注意最低有效位b0是1（粗体）。现在让我们和1：</p>
+<pre><code>    00101011
+&amp;   00000001   (note: 1 is the same as 00000001)
+    --------
+    00000001
+</code></pre><p>看看&amp;运算如何擦除所有的高位b1-b7，但是保留位b0是一样的呢？结果是1，这告诉我们整数是奇数。</p>
+<h2 id="案例2：测试第n位比特"><a href="#案例2：测试第n位比特" class="headerlink" title="案例2：测试第n位比特"></a>案例2：测试第n位比特</h2><pre><code>if (x &amp; (1&lt;&lt;n))
+{
+    // n-th bit is set
+}
+else
+{
+    // n-th bit is not set
+}
+</code></pre><p>在前面的比特测试,我们看到(x&amp;1)测试是否设置了第一位。这里做了一些改变，测试任意第N位,通过将第一个1位n位移动左边然后进行相同的&amp;运算来消除其他位,而不是第N位。</p>
+<p>如果你将几个位置移动左边,会发生什么情况:</p>
+<pre><code>1         00000001    (same as 1&lt;&lt;0)
+1&lt;&lt;1      00000010
+1&lt;&lt;2      00000100
+1&lt;&lt;3      00001000
+1&lt;&lt;4      00010000
+1&lt;&lt;5      00100000
+1&lt;&lt;6      01000000
+1&lt;&lt;7      10000000
+</code></pre><p>现在,如果我们的&amp;’x’向左移动了N个位置,我们就有效消除了’x’中的所有位,除了第N位。如果&amp;之后的结果是0,那么该位必须是0,否则该位被设置。</p>
+<p>我们来看一个例子：</p>
+<p>122有第三位吗? 我们要找到的操作是：</p>
+<pre><code>122 &amp; (1&lt;&lt;3)
+</code></pre><p>现在,122的二进制表示是01111010。(1&lt;&lt;3)即1向左平移3比特00001000。</p>
+<pre><code>1    01111010
+2&amp;   00001000
+3    --------
+4    00001000
+</code></pre><p>我们看到结果不为0,所有是的,122有第三位是1</p>
+<h2 id="案例3-设置第n位为1"><a href="#案例3-设置第n位为1" class="headerlink" title="案例3: 设置第n位为1"></a>案例3: 设置第n位为1</h2><pre><code>y = x | (1&lt;&lt;n)
+</code></pre><p>这个比特通过OR操作结合了相同的（1 &lt;&lt; n）设置第n位的技巧。将第n位设置的值与变量相加的结果是将第n位开启。这是因为将任何值与0进行或运算的位不变; 但是用1进行或者运算将参与运算的位置为1。让我们看看这是如何运作的:</p>
+<p>假设我们要将120的第2位比特设为1：</p>
+<pre><code>    01111000    (120 in binary)
+|   00000100    (1&lt;&lt;2)
+    --------
+    01111100
+</code></pre><h2 id="案例4-设置第n位为0"><a href="#案例4-设置第n位为0" class="headerlink" title="案例4: 设置第n位为0"></a>案例4: 设置第n位为0</h2><pre><code>y = x &amp; ~(1&lt;&lt;n)
+</code></pre><p>这个方法的关键就是~(1&lt;&lt;n)，它将第n位设为0，其它位全部为1。看下面：</p>
+<p>例子:</p>
+<pre><code>~1        11111110  (same as ~(1&lt;&lt;0))
+~(1&lt;&lt;1)   11111101
+~(1&lt;&lt;2)   11111011
+~(1&lt;&lt;3)   11110111
+~(1&lt;&lt;4)   11101111
+~(1&lt;&lt;5)   11011111
+~(1&lt;&lt;6)   10111111
+~(1&lt;&lt;7)   01111111
+</code></pre><p>与‘x’与运算的结果是清零了第n位，不管这一位是1还是0，其它位保持不变。</p>
+<p>小例子，将127的第4位设为0：</p>
+<pre><code>    01111111    (127 in binary)
+&amp;   11101111    (~(1&lt;&lt;4))
+    --------
+    01101111
+</code></pre><h2 id="案例5-取反第n位"><a href="#案例5-取反第n位" class="headerlink" title="案例5: 取反第n位"></a>案例5: 取反第n位</h2><pre><code>y = x ^ (1&lt;&lt;n)
+</code></pre><p>这一点比特也使用了美妙的“设置第n位移位比特”，但这次它与变量“X”异或。与其他东西异或的结果是，如果两个位相同，结果是0，否则是1.如何切换第n位？那么，如果第n位是1，那么与1异或将它改为0; 相反，如果它是0，那么与1异或将其更改为1.看到，该位被取反。</p>
+<p>这是一个例子。假设你想在值01110101中取反第5位：</p>
+<pre><code>    01110101
+^   00100000
+    --------
+    01010101
+</code></pre><p>同样的数值，但第5位本来是0呢？</p>
+<pre><code>    01010101
+^   00100000
+    --------
+    01110101
+</code></pre><p>注意什么？对同一位进行异或操作，将其返回到原来的值。这个漂亮的小技巧可以用在许多编程问题中。</p>
+<p>原文来自<a href="http://www.studyalgorithms.com/theory/low-level-bit-hacks-that-you-must-know/" target="_blank" rel="noopener">http://www.studyalgorithms.com/theory/low-level-bit-hacks-that-you-must-know/</a></p>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/IOS/" rel="tag"># IOS</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2018/01/18/IOS/(Skill)技巧/Skill/" rel="next" title="技巧">
+                <i class="fa fa-chevron-left"></i> 技巧
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2018/01/19/IOS/(Skill)技巧/SomeAdvancedBitHacks/" rel="prev" title="高级位操作技巧">
+                高级位操作技巧 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/bicyclering.jpg"
+                alt="覆雪古树" />
+            
+              <p class="site-author-name" itemprop="name">覆雪古树</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">121</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">15</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/bicyclering/" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#案例-1：检查整数是偶数还是奇数"><span class="nav-number">1.</span> <span class="nav-text">案例 1：检查整数是偶数还是奇数</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#案例2：测试第n位比特"><span class="nav-number">2.</span> <span class="nav-text">案例2：测试第n位比特</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#案例3-设置第n位为1"><span class="nav-number">3.</span> <span class="nav-text">案例3: 设置第n位为1</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#案例4-设置第n位为0"><span class="nav-number">4.</span> <span class="nav-text">案例4: 设置第n位为0</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#案例5-取反第n位"><span class="nav-number">5.</span> <span class="nav-text">案例5: 取反第n位</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2019</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">覆雪古树</span>
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: '1516349002000', 
+            owner: 'bicyclering',
+            repo: 'bicyclering.github.io',
+            
+            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: '182b21f290f00470ce262e9b8337488251f877f0',
+            
+                client_id: 'a20e7fe4e3bc17dde8b6'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      renderGitment();
+      
+      </script>
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

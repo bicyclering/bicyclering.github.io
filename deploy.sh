@@ -3,7 +3,7 @@
 # hexo clean
 
 # hexo generate
-cd bicyclering.github.io
+cd /Users/wubin/Documents/Github/bicyclering.github.io
 # git init
 git add .
 git commit -m "update at `date` "
@@ -14,7 +14,7 @@ git push origin master -f
 echo "### Done"
 
 # add gitcafe source
-#git remote add gitcafe git@gitcafe.com:tangqiaoboy/tangqiaoboy.git >> /dev/null 2>&1
+#git remote add origin git@github.com:bicyclering/bicyclering.github.io.git >> /dev/null 2>&1
 #echo "### Pushing to GitCafe..."
 #git push gitcafe master:gitcafe-pages -f
 #echo "### Done"

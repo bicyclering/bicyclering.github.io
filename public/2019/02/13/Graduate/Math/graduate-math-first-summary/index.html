@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="Math," />
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="专题一 实数的概念、性质及运算问题求解正整数 N 的 9 倍与 4 倍之和，除以 10 的余数为 9，则 N 的个位数字为( ) A.2 B.3 C.5 D.9 E.6  网上解释: 由已知得,13n除以10余数是9.所以13n的最末一位是9,则13乘以末位是3的话才能使13n的末位是9,所以n的末位数字为3 一个数除以10的余数为9,说明这个数的末位数字一定是9而正整数的8倍与5倍之和,即这个正">
+<meta name="keywords" content="Math">
+<meta property="og:type" content="article">
+<meta property="og:title" content="专题一 实数的概念、性质及运算">
+<meta property="og:url" content="http://yoursite.com/2019/02/13/Graduate/Math/graduate-math-first-summary/index.html">
+<meta property="og:site_name" content="Bicyclering">
+<meta property="og:description" content="专题一 实数的概念、性质及运算问题求解正整数 N 的 9 倍与 4 倍之和，除以 10 的余数为 9，则 N 的个位数字为( ) A.2 B.3 C.5 D.9 E.6  网上解释: 由已知得,13n除以10余数是9.所以13n的最末一位是9,则13乘以末位是3的话才能使13n的末位是9,所以n的末位数字为3 一个数除以10的余数为9,说明这个数的末位数字一定是9而正整数的8倍与5倍之和,即这个正">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:updated_time" content="2019-02-15T17:54:13.247Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="专题一 实数的概念、性质及运算">
+<meta name="twitter:description" content="专题一 实数的概念、性质及运算问题求解正整数 N 的 9 倍与 4 倍之和，除以 10 的余数为 9，则 N 的个位数字为( ) A.2 B.3 C.5 D.9 E.6  网上解释: 由已知得,13n除以10余数是9.所以13n的最末一位是9,则13乘以末位是3的话才能使13n的末位是9,所以n的末位数字为3 一个数除以10的余数为9,说明这个数的末位数字一定是9而正整数的8倍与5倍之和,即这个正">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2019/02/13/Graduate/Math/graduate-math-first-summary/"/>
+
+
+
+
+
+  <title>专题一 实数的概念、性质及运算 | Bicyclering</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Bicyclering</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">要么读书,要么旅行,身体和灵魂总有一个在路上</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-commonweal">
+          <a href="/404/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br />
+            
+            公益404
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/02/13/Graduate/Math/graduate-math-first-summary/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="覆雪古树">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/bicyclering.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Bicyclering">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">专题一 实数的概念、性质及运算</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-02-13T23:00:23+08:00">
+                2019-02-13
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Graduate/" itemprop="url" rel="index">
+                    <span itemprop="name">Graduate</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2019/02/13/Graduate/Math/graduate-math-first-summary/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count gitment-comments-count" data-xid="/2019/02/13/Graduate/Math/graduate-math-first-summary/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h1 id="专题一-实数的概念、性质及运算"><a href="#专题一-实数的概念、性质及运算" class="headerlink" title="专题一 实数的概念、性质及运算"></a>专题一 实数的概念、性质及运算</h1><h2 id="问题求解"><a href="#问题求解" class="headerlink" title="问题求解"></a>问题求解</h2><h3 id="正整数-N-的-9-倍与-4-倍之和，除以-10-的余数为-9，则-N-的个位数字为"><a href="#正整数-N-的-9-倍与-4-倍之和，除以-10-的余数为-9，则-N-的个位数字为" class="headerlink" title="正整数 N 的 9 倍与 4 倍之和，除以 10 的余数为 9，则 N 的个位数字为( )"></a>正整数 N 的 9 倍与 4 倍之和，除以 10 的余数为 9，则 N 的个位数字为( )</h3><ul>
+<li>A.2</li>
+<li>B.3</li>
+<li>C.5</li>
+<li>D.9</li>
+<li>E.6</li>
+</ul>
+<p>网上解释:</p>
+<p>由已知得,13n除以10余数是9.所以13n的最末一位是9,则13乘以末位是3的话才能使13n的末位是9,所以n的末位数字为3</p>
+<p>一个数除以10的余数为9,说明这个数的末位数字一定是9<br>而正整数的8倍与5倍之和,即这个正整数的13倍的末位数字是9<br>一个数与13的积,若使末位数字为9,那么这个数的最末一位数字一定是3</p>
+<p>设n的最末一位数字为m,则n可以表示为n=10k+m,k为非负整数.<br>13n=13(10k+m)=130k+13m=130k+10m+3m<br>因此n的13倍除以10的余数与3m除以10的余数相同</p>
+<p>假设13n÷10商为m 余数是9 m也是正整数<br>则 13n=10m+9<br>n=（10m+9）/13 n是正整数 说明分子的10m+9是分母13的倍数<br>最简单的方法 试一下 m=1 则19不能被13整除 不对 m=2 29不能被13整除 不对 m=3 10m+9=39 39÷13=3 符合题意n=3 就一位数 末位就是本身 当然m=16 则n=13 末位数还是3</p>
+<h3 id="若-a-c-lt-b-则下列不等式成立的是"><a href="#若-a-c-lt-b-则下列不等式成立的是" class="headerlink" title="若|a - c|&lt;|b|,则下列不等式成立的是_"></a>若|a - c|&lt;|b|,则下列不等式成立的是_</h3><ul>
+<li>A.a&gt;c-b</li>
+<li>B.a&lt;b+c</li>
+<li>c.|a|&lt;|b|+|c|</li>
+<li>d.|a|&gt;|b|-|c|</li>
+</ul>
+<h3 id="已知x-y-∈-R，且x-y-4，则3x-3y的最小值是"><a href="#已知x-y-∈-R，且x-y-4，则3x-3y的最小值是" class="headerlink" title="已知x,y ∈ R，且x+y=4，则3x+3y的最小值是"></a>已知x,y ∈ R，且x+y=4，则3x+3y的最小值是</h3><ul>
+<li>A.3√2</li>
+<li>B.18</li>
+<li>C.9</li>
+<li>D.2√2</li>
+<li>E.√6</li>
+</ul>
+<p>设x，y∈R且x+y=5，则3x+3y的最小值是<strong>__</strong>?</p>
+<p>由3x＞0，3y＞0，<br>∴3x+3y≥2<br>3x+y =18<br>3<br>所以3x+3y的最小值为18√2<br>3<br>故答案为：18√2<br>3 </p>
+<p>x，y∈R，且x+y=4，<br>∴3x+3y的≥2<br>3x+y<br>=18，（x=y=2等号成立）<br>故答案为：18</p>
+<h3 id="x-y的算数平均数是2，几何平均数也是2，则可以确定根号X分之一-根号y分之一的值是？"><a href="#x-y的算数平均数是2，几何平均数也是2，则可以确定根号X分之一-根号y分之一的值是？" class="headerlink" title="x,y的算数平均数是2，几何平均数也是2，则可以确定根号X分之一+根号y分之一的值是？"></a>x,y的算数平均数是2，几何平均数也是2，则可以确定根号X分之一+根号y分之一的值是？</h3><ul>
+<li>A.√2分之2  </li>
+<li>B.√2</li>
+<li>C.√2分之3</li>
+<li>D.2</li>
+<li>E.2√2</li>
+</ul>
+<p>(x+y)/2=√(xy),∴x=y=2<br>√(1/2)+√(1/2)=√2</p>
+<h3 id="某商品单价上调15-后，再降为原价，则降价率约为"><a href="#某商品单价上调15-后，再降为原价，则降价率约为" class="headerlink" title="某商品单价上调15% 后，再降为原价，则降价率约为_?"></a>某商品单价上调15% 后，再降为原价，则降价率约为_?</h3><ul>
+<li>A.15%</li>
+<li>B.14%</li>
+<li>C.13%</li>
+<li>D.12%</li>
+<li>E.11%</li>
+</ul>
+<p>设商品原价为a,上调15%后单价为1.15a,若此时 下调百分比为x,降原价a,则</p>
+<p>1.15a(1 - x) = a</p>
+<p>假设a = 100,<br>1.15 * 100(1-x) = 100</p>
+<p>某商品在原价的基础上提高15%，销售量明显下降，于是又降价15%，此时的售价是原价的<strong>__</strong>%</p>
+<p>设原价是1；<br>1×（1+15%）×（1-15%），<br>=1×115%×85%，<br>=1.15×85%，<br>=0.9775；<br>0.9775÷1=97.75%；<br>答：此时的售价是原价的97.75%．<br>故答案为：97.75．</p>
+<h3 id="两个数的最大公约数为-21，最小公倍数为-126，则两个数的和等于"><a href="#两个数的最大公约数为-21，最小公倍数为-126，则两个数的和等于" class="headerlink" title="两个数的最大公约数为 21，最小公倍数为 126，则两个数的和等于_?"></a>两个数的最大公约数为 21，最小公倍数为 126，则两个数的和等于_?</h3><ul>
+<li>A.105</li>
+<li>B.147</li>
+<li>C.105或147</li>
+<li>D.105或145</li>
+<li>E.145</li>
+</ul>
+<p>126 / 21 = 6<br>6分为:<br>1 <em> 6 = 1 </em> 21 + 6 <em> 21<br>2 </em> 3 = 2 <em> 21 + 3  </em>21</p>
+<h3 id="关于x一元一次方程px-3q-41的根是1-且p、q都是质数-则-150q-26p-3的值等于"><a href="#关于x一元一次方程px-3q-41的根是1-且p、q都是质数-则-150q-26p-3的值等于" class="headerlink" title="关于x一元一次方程px+3q=41的根是1,且p、q都是质数,则:150q+26p+3的值等于_?"></a>关于x一元一次方程px+3q=41的根是1,且p、q都是质数,则:150q+26p+3的值等于_?</h3><ul>
+<li>A.2004    </li>
+<li>B.2005    </li>
+<li>C.2006   </li>
+<li>D.2007  </li>
+<li>E.2008</li>
+</ul>
+<p>结果为奇数,代表偶数+奇数 = 奇数<br>质数唯一的偶数为2</p>
+<p><strong>第一种:</strong>p=2,q=13  2 + 3 * 13 = 41<br><strong>第二种:</strong>p=35,q=2   35≠ 质数</p>
+<p>150 <em> 13 + 26 </em> 2 + 3 = ?</p>
+<h3 id="已-知-x-3-y-z-1分之2-5分之3-1-，-且-x-y-3-5-，-则-x-2-y-z"><a href="#已-知-x-3-y-z-1分之2-5分之3-1-，-且-x-y-3-5-，-则-x-2-y-z" class="headerlink" title="已 知 x : 3 y : z = 1分之2 : 5分之3 : 1 ， 且 x + y = 3 5 ， 则 x - 2 y + z = ?"></a>已 知 x : 3 y : z = 1分之2 : 5分之3 : 1 ， 且 x + y = 3 5 ， 则 x - 2 y + z = ?</h3><ul>
+<li>A.0    </li>
+<li>B.11    </li>
+<li>C.17   </li>
+<li>D.30  </li>
+<li>E.55</li>
+</ul>
+<p>第一步:</p>
+<p>x:3y = 2分之1 : 5分之3<br>   x = 2分之5 * y</p>
+<p>第二步:</p>
+<p>3y:z = 5分之3 : 1<br>   z = 5y</p>
+<p>x + y = 35,所以2分之5 * y + y = 35<br>则y=10,x=25,z=50</p>
+<p>25 - 2 * 10 + 50 = 55</p>
+<h3 id="已知a、b、c为非零实数-且a-b-c-0-则a-b-分之-a-b-b-c-分之-b-c-c-a-分之-c-a的值等于"><a href="#已知a、b、c为非零实数-且a-b-c-0-则a-b-分之-a-b-b-c-分之-b-c-c-a-分之-c-a的值等于" class="headerlink" title="已知a、b、c为非零实数,且a+b+c=0,则a|b|分之|a|b + b|c|分之|b|c + c|a|分之|c|a的值等于_?"></a>已知a、b、c为非零实数,且a+b+c=0,则a|b|分之|a|b + b|c|分之|b|c + c|a|分之|c|a的值等于_?</h3><ul>
+<li>A.1</li>
+<li>B.-1</li>
+<li>C.3</li>
+<li>D.-3</li>
+<li>E.2</li>
+</ul>
+<p>已知a、b、c为为零实数,且a+b+c = 0.</p>
+<ol>
+<li>a、b正数,c为负数 a=b=1,c=-2,1+(-1)+(-1) = -1</li>
+<li>a、c正数,b为负数 a=c=1,b=-2</li>
+<li>c、b正数,a为负数 c=b=1,a=-2 </li>
+<li>a、b负数,c为正数 a=b=-1,c=2</li>
+<li>a、c负数,b为正数 a=c=-1,b=2</li>
+<li>c、b负数,a为正数 c=b=-1,a=2</li>
+</ol>
+<h3 id="已知实数x、y满足-1-x-1-√-1-y-1-²-则x²-y²"><a href="#已知实数x、y满足-1-x-1-√-1-y-1-²-则x²-y²" class="headerlink" title="已知实数x、y满足:1+|x-1|  = √(1-(y+1)²),则x² + y² = ?"></a>已知实数x、y满足:1+|x-1|  = √(1-(y+1)²),则x² + y² = ?</h3><ul>
+<li>A.0</li>
+<li>B.1</li>
+<li>C.2</li>
+<li>D.4</li>
+<li>E.8</li>
+</ul>
+<p>1+|x-1| = √(1-(y+1)²)<br>1+|x-1| = √(1-y²-1)<br>1+|x-1| = y</p>
+<p>第一步:假设x为正数<br>1+x-1 = y<br>    x = y<br>x = y = 1<br>1+|1-1| = √(1-1+1)<br>      1 = 1</p>
+<p>第二步:假设x为负数<br>1-x+1 = y<br>    x = y - 2<br>x=-1,y=-3<br>1+|-1-1| = √(1-(-3+1)²)<br>       3 = √(1-4)</p>
+<h2 id="条件充分性判断"><a href="#条件充分性判断" class="headerlink" title="条件充分性判断"></a>条件充分性判断</h2><h3 id="x1-x2的算术平均值与几何平均值的算术平均值为2分之1"><a href="#x1-x2的算术平均值与几何平均值的算术平均值为2分之1" class="headerlink" title="x1,x2的算术平均值与几何平均值的算术平均值为2分之1"></a>x1,x2的算术平均值与几何平均值的算术平均值为2分之1</h3><ol>
+<li>√x1 + √x2 = √2  (x1x2 ≠ 0)</li>
+<li>x1  + x2 = 2</li>
+</ol>
+<p>由题意令x1和x2算术平均值为A=(x1+x2)/2,几何平均值为B=根号(x1<em>x2)<br>已知：根号下x1+根号下x2=根号2(x1•x2≠0),那么：<br>(根号x1+ 根号x2)平方=2<br>即：x1+2根号(x1</em>x2)+x2=2<br>所以：(x1+x2)/2 + 根号(x1*x2)=1<br>即：A+B=1<br>所以：(A+B)/2=1/2<br>所以可知x1和x2算术平均值和几何平均值的算术平均值为1/2.</p>
+<h3 id="14分之n是一个整数"><a href="#14分之n是一个整数" class="headerlink" title="14分之n是一个整数"></a>14分之n是一个整数</h3><ol>
+<li>n是一个整数,且7分之n也是一个整数</li>
+<li>n是一个整数,且14分之3n也是一个整数 </li>
+</ol>
+<h3 id="以下二个条件如何推出x-1或x-8"><a href="#以下二个条件如何推出x-1或x-8" class="headerlink" title="以下二个条件如何推出x=-1或x=8"></a>以下二个条件如何推出x=-1或x=8</h3><p>(1)x=[(a+b)(b+c)(c+a)]/abc,(abc≠0)<br>(2)(a+b-c)/c=(a-b+c)/b=(-a+b+c)/a</p>
+<p><a href="https://www.zybang.com/question/915579c0e4ba8152d5a49704cd13db4a.html" target="_blank" rel="noopener">链接</a></p>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Math/" rel="tag"># Math</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2019/02/13/English/Let'sGo/T/SmallClass(小班)/Second/enlish-letIsGo-Unit1-practice/" rel="next" title="Let's Go 单元测试9">
+                <i class="fa fa-chevron-left"></i> Let's Go 单元测试9
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2019/02/14/English/Let'sGo/T/SmallClass(小班)/Second/enlish-letIsGo-Unit2-practice/" rel="prev" title="Let's Go 单元测试10">
+                Let's Go 单元测试10 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/bicyclering.jpg"
+                alt="覆雪古树" />
+            
+              <p class="site-author-name" itemprop="name">覆雪古树</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">121</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">15</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/bicyclering/" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#专题一-实数的概念、性质及运算"><span class="nav-number">1.</span> <span class="nav-text">专题一 实数的概念、性质及运算</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#问题求解"><span class="nav-number">1.1.</span> <span class="nav-text">问题求解</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#正整数-N-的-9-倍与-4-倍之和，除以-10-的余数为-9，则-N-的个位数字为"><span class="nav-number">1.1.1.</span> <span class="nav-text">正整数 N 的 9 倍与 4 倍之和，除以 10 的余数为 9，则 N 的个位数字为( )</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#若-a-c-lt-b-则下列不等式成立的是"><span class="nav-number">1.1.2.</span> <span class="nav-text">若|a - c|&lt;|b|,则下列不等式成立的是_</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#已知x-y-∈-R，且x-y-4，则3x-3y的最小值是"><span class="nav-number">1.1.3.</span> <span class="nav-text">已知x,y ∈ R，且x+y=4，则3x+3y的最小值是</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#x-y的算数平均数是2，几何平均数也是2，则可以确定根号X分之一-根号y分之一的值是？"><span class="nav-number">1.1.4.</span> <span class="nav-text">x,y的算数平均数是2，几何平均数也是2，则可以确定根号X分之一+根号y分之一的值是？</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#某商品单价上调15-后，再降为原价，则降价率约为"><span class="nav-number">1.1.5.</span> <span class="nav-text">某商品单价上调15% 后，再降为原价，则降价率约为_?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#两个数的最大公约数为-21，最小公倍数为-126，则两个数的和等于"><span class="nav-number">1.1.6.</span> <span class="nav-text">两个数的最大公约数为 21，最小公倍数为 126，则两个数的和等于_?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#关于x一元一次方程px-3q-41的根是1-且p、q都是质数-则-150q-26p-3的值等于"><span class="nav-number">1.1.7.</span> <span class="nav-text">关于x一元一次方程px+3q=41的根是1,且p、q都是质数,则:150q+26p+3的值等于_?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#已-知-x-3-y-z-1分之2-5分之3-1-，-且-x-y-3-5-，-则-x-2-y-z"><span class="nav-number">1.1.8.</span> <span class="nav-text">已 知 x : 3 y : z = 1分之2 : 5分之3 : 1 ， 且 x + y = 3 5 ， 则 x - 2 y + z = ?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#已知a、b、c为非零实数-且a-b-c-0-则a-b-分之-a-b-b-c-分之-b-c-c-a-分之-c-a的值等于"><span class="nav-number">1.1.9.</span> <span class="nav-text">已知a、b、c为非零实数,且a+b+c=0,则a|b|分之|a|b + b|c|分之|b|c + c|a|分之|c|a的值等于_?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#已知实数x、y满足-1-x-1-√-1-y-1-²-则x²-y²"><span class="nav-number">1.1.10.</span> <span class="nav-text">已知实数x、y满足:1+|x-1|  = √(1-(y+1)²),则x² + y² = ?</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#条件充分性判断"><span class="nav-number">1.2.</span> <span class="nav-text">条件充分性判断</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#x1-x2的算术平均值与几何平均值的算术平均值为2分之1"><span class="nav-number">1.2.1.</span> <span class="nav-text">x1,x2的算术平均值与几何平均值的算术平均值为2分之1</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#14分之n是一个整数"><span class="nav-number">1.2.2.</span> <span class="nav-text">14分之n是一个整数</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#以下二个条件如何推出x-1或x-8"><span class="nav-number">1.2.3.</span> <span class="nav-text">以下二个条件如何推出x=-1或x=8</span></a></li></ol></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2019</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">覆雪古树</span>
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: '1550070023000', 
+            owner: 'bicyclering',
+            repo: 'bicyclering.github.io',
+            
+            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: '182b21f290f00470ce262e9b8337488251f877f0',
+            
+                client_id: 'a20e7fe4e3bc17dde8b6'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      renderGitment();
+      
+      </script>
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>
