@@ -13,14 +13,15 @@ categories: Graduate
 ###  first
 
 > The outbreak of swine flu that was first detected in Mexico was declared a global epidemic on June 11. 2009.It is the first worldwide epidemic ___ by the world Health Organization in 41 years.
+> 
+> The heightened alert ___ an emergency meeting with flu experts in Geneva the assembled after a sharp rise in cases in Australia,and rising ___ in Britain,Japan,Chile and elsewhere.
+> 
 > > **outbreak《美 [ˈaʊtbreɪk]》:** `爆发 记忆技巧：out 出，外 + break 断裂 → 断裂喷出 → 爆发`
 > > **swine flu 《美 [ˈswaɪn fluː]》:** `猪流感`
 > > **detect《美 [dɪˈtekt]》:** `发现、查明、侦察出 记忆技巧：de 去掉 + tect 盖上；盖子 → 去掉盖子 → 发觉`
 > > **declared 《美 [dɪˈklerd]》:** `宣布、发明、宣告 记忆技巧：de 使…加强 + clar 清楚 + e → 大声澄清〔事实〕→ 声明`
 > > **epidemic《美 [ˌepɪˈdemɪk]》:** `流行病 记忆技巧：epi 在…上、周围或中间；在…后面 + dem 人民 + ic …的 → 在人民中间的 → 流行性的`
 > > **worldwide《美 [ˌwɜːrldˈwaɪd]》:** `全世界的、遍及全球地`
-> 
-> The heightened alert ___ an emergency meeting with flu experts in Geneva the assembled after a sharp rise in cases in Australia,and rising ___ in Britain,Japan,Chile and elsewhere.
 > > **heightened《美 [ˈhaɪtnd]》:** `使(加强)、提高、增加 升高、变强`
 > > **alert《美 [əˈlɜːrt]》:** `警觉的、警惕的、注意的、思维敏捷的、警报、向...报警 记忆技巧：al + ert 能量，活力；工作 → 有活力 → 提醒`
 > > **emergency 《美 [iˈmɜːrdʒənsi]》:** `突发事件、紧急情况 记忆技巧：e 出 + merg 沉，没 + ency 表行为 →〔突然〕出现 → 突发事件`
@@ -31,8 +32,14 @@ categories: Graduate
 > > **Britain《美 [ˈbrɪtn]》:** `不列颠(包括英格兰、苏格兰及威尔士)`
 > > **Chile《美 [ˈtʃiliː]》:** `智利（南美洲国家）`
 > > **elsewhere《美 [ˌelsˈwer]》:** `在别处`
+> > 
+> > 2009年6月11日,最初发现于墨西哥的猪流感的爆发被宣布为全球性传染病。 它是世界卫生组织41年来指定的首个全球性传染病。
+随着澳大利亚病例的急剧增多,以及英国、日本、智利和其他地区感染人数的不断上升,流感专家们在日内瓦召开了紧急会议,随后警惕升级了。
 > 
 > But the epidemic is "___" in severity,according to Margaret Chan,the organization's director general,___ the overwhelming majority of patients experiencing only mild symptoms and a full recovery,often in the ___ of any medical treatment.
+> 
+> The outbreak came to global ___ in late April 2009,when Mexican authorities noted an unusually large number of hospitalizations and deaths ___ healthy adults. As much of Mexico City shut down at the height of a panic,cases began to ___ in New York City,the southwestern United States and around the world.
+> 
 > > **epidemic《美 [ˌepɪˈdemɪk]》:** `流行病 记忆技巧：epi 在…上、周围或中间；在…后面 + dem 人民 + ic …的 → 在人民中间的 → 流行性的`
 > > **severe《美 [sɪˈvɪr]》:** `严峻的、严厉的、剧烈的`
 > > **severity《美 [sɪ'verəti] 》:** `严重、严厉、严肃`
@@ -51,8 +58,6 @@ categories: Graduate
 > > **recovery《美 [rɪˈkʌvəri]》:** `恢复、痊愈、改善`
 > > **medical 《美 [ˈmedɪkl]》:** `医学的、医疗的、医药的`
 > > **treatment《美 [ˈtriːtmənt]》:** `处理、治疗、疗法 记忆技巧：treat 处理 + ment 表名词 → 待遇；治疗`
-> 
-> > The outbreak came to global ___ in late April 2009,when Mexican authorities noted an unusually large number of hospitalizations and deaths ___ healthy adults. As much of Mexico City shut down at the height of a panic,cases began to ___ in New York City,the southwestern United States and around the world.
 > > **late《美 [leɪt]》:** `已故的、晚的、迟到的、时间不早的、晚、迟、后期地`
 > > **authorities《美 [əˈθɔrətiz]》:** `权力、权威、当权(地位)、权、职权、批准、授权`
 > > **noted《美 [ˈnoʊtɪd]》:** `闻名的、著名的、注意、记下`
@@ -68,6 +73,9 @@ categories: Graduate
 > > **began《美 [bɪˈɡæn]》:** `开始、着手、创始、创办`
 > > **southwestern《美 [ˌsaʊˈθwɛstərn]》:** `西南的、西南部的、西南人`
 > > **around the world《美 [əˈraʊnd ðə wɜːrld]》:** `世界各地、全世界`
+> > 
+> > 但据世界卫生组织总干事陈冯富珍称,此次传染病的严重程度**中等**,因为绝大多数患者只有轻微症状,通常不用借助任何治疗便能够完全康复。
+> > 该疫情的爆发在2009年4月末引起了全球性的关注,当时墨西哥当局注意到健康的成年人中出现了异常多的住院治疗和死亡病例。 在墨西哥城大部分地区在恐慌高峰时期关闭的同时,病情突然在纽约、美国西南部以及世界其他地区出现。
 > 
 > In the United States,new cases seemed to fade ___ warmer weather arrived.But in late September 2009,officials reported there was ___ flu activity in almost every state and that virtually all the ___ tested are the new swine flu,also known as(A) H1N1,not seasonal flu.In the U.S.,it has ___ more than one million people,and caused more than 600 deaths and more than 6,000 hospitalizations.
 > > **seemed:** `好像、似乎、看来`
@@ -82,8 +90,13 @@ categories: Graduate
 > > **every state:** `各州、每一个国家`
 > > **seasonal:** `季节性的、随季节变化的、周期性的`
 > > **million:** `一百万、大量`
+> > 
+> > 在美国,新病例似乎随着天气的转暖而逐渐变少了。但在2009年9月末,官方报告几乎每个州都有显著的流感蔓延情况,并且几乎所有化验的样本都是新型猪流感,也就是甲型HIN1流感,而不是季节性流感。在美国,这种病毒已经感染了百万余人,造成600多人死亡,6000多人住院治疗。
 > 
-> Federal health officials ___ Tamiflu for children from the national stockpile and began ___ orders from the states for the new swine flu vaccine. The new vaccine,which is different from the annual flu vaccine,is ___ ahead of expectations.More than three million does were to be made available in early OctoBer 2009,though most of those ___ doess were of the FluMist nasal spray type,which is not ___ for pregnant women,people over 50 or those with breathing difficulties,heart disease or several other ____.But is was still possible to vaccinate people in other high-risk groups:health care workers,people ___ infants and healthy young people.
+> Federal health officials _released_ Tamiflu for children from the national stockpile and began _taking_ orders from the states for the new swine flu vaccine. 
+> The new vaccine,which is different from the annual flu vaccine,is _available_ ahead of expectations.
+> More than three million does were to be made available in early OctoBer 2009,though most of those _initial_ doess were of the FluMist nasal spray type,which is not _recommended_ for pregnant women,people over 50 or those with breathing difficulties,heart disease or several other _problems_.
+> But is was still possible to vaccinate people in other high-risk groups:health care workers,people _caring_ infants and healthy young people.
 > > **federal《美[ˈfedərəl]》:** `联邦制的;(在美国、加拿大等联邦制下)联邦政府的 记忆技巧：feder 联盟 + al …的 → 联邦的`
 > > **health《美 [helθ] 》:** `人的身体(或精神)状况、健康、医疗、保健、卫生`
 > > **officials《美 [əˈfɪʃəlz]》:** `要员、官员、高级职员`
@@ -98,6 +111,8 @@ categories: Graduate
 > >  **expectations《美 [ˌɛkspɛkˈteɪʃənz]》:** `预料、预期、期待、希望、盼望、期望、指望 记忆技巧：ex 加强 + pect〔=spect〕看 + ation 状态 → 期待`
 > > **made《美 [meɪd]》:** `制造、做、组装、写、出产`
 > > **available《美 [əˈveɪləbl]》:** `可获得的、可购得的、可找到的、有空的 记忆技巧：a + vail 价值 + able 能…的 → 有价值的，有用的`
+> > **different from:** `异于...`
+> > **ahead of:** `在...前面、早于、领先`
 > > **early《美 [ˈɜːrli] 》:** `早期的、早的、早到的、提前的、提早的`
 > > **though《美 [ðoʊ]》:** `即使、虽然、尽管、纵然`
 > > **nasal《美 [ˈneɪzl]》:** `鼻的、鼻音的、鼻音 记忆技巧：nas 鼻 + al …的→ 鼻的`
@@ -115,6 +130,10 @@ categories: Graduate
 > > **health《美 [helθ] 》:** `人的身体(或精神)状况、健康、医疗、保健、卫生`
 > > **care《美 [ker]》:** `照顾、关心、担心、小心、忧虑`
 > > **infant《美 [ˈɪnfənt] 》:** `婴儿、幼儿、四岁到七岁之间的学童`
+> > **health care workers:** `医护人员`
+> 
+> 
+> 联邦卫生部官员从国家库存中发放了一些达菲(抗病毒药物),供孩子们使用,并开始接受各州的新型甲流疫苗订单。 新疫苗不同于按年发放的普通流感疫苗,比预期的提早问世。 2009年10月初,有三百多万剂投入使用,尽管这批初期药剂中的大部分为 FluMist 鼻用喷雾剂型疫苗,是不建议孕妇、50 岁以上或有呼吸困难、心脏疾病或一些其他疾病的人群使用的。 但其他高危人群还是可以注射此疫苗的,如医护人员、照料婴幼儿的人以及健康的年轻人.
 > 
 > 
 > **单词:**
@@ -154,44 +173,44 @@ categories: Graduate
 > > **significant《美 [sɪɡˈnɪfɪkənt] 》:** `有重大意义的、显著的、有某种意义的 记忆技巧：signi〔= sign〕记号 + fic 具有某种性质的 + ant …的 → 有意义的`
 > > **magnificent《美 [mæɡˈnɪfɪsnt]》:** `壮丽的、宏观的、值得赞扬的`
 > > **categories《美 [ˈkætəˌgɔriz] 》:** `(人或事物的)类别、种类`
-> > examples
-> > patterns
-> > samples
-> > imparted
-> > immersed
-> > injected
-> > infected
-> > released
-> > relayed
-> > relieved
-> > remained
-> > placing
-> > delivering
-> > taking
-> > giving
-> > feasible
-> > available
-> > reliable
-> > applicable
-> > prevalent
-> > principal
-> > innovative
-> > initial
-> > presented
-> > restricted
-> > recommended
-> > introduced
-> > problems
-> > issues
-> > agonies
-> > sufferings
-> > involved in
-> > caring for
-> > concerned with
-> > warding off
+> > **examples 《美 [ɪgˈzæmpəlz] 》:** `实例、例证、例子、典型`
+> >**patterns 《美 [ˈpætərnz] 》:** `模式、方式、图案、花样`
+> > **samples 《美 [ˈsæmplz]》:** `样本、样品、取样、样本`
+> > **imparted 《美 [ɪmˈpɑːrtɪd]》:** `通知、透露、传授、把(某性质)赋予`
+> > **immersed 《美 [ɪˈmɜːrst]》:** `沉浸在、使浸没于`
+> > **injected 《美 [ɪnˈdʒektɪd]》:** `注入、(给...)注射(药物等)`
+> > **infected 《美 [ɪnˈfektɪd]》:** `感染`
+> > **released 《美 [rɪˈliːst] 》:** `发布、发行、释放、放开`
+> > **relayed 《美 [ˈriˌleɪd] 》:** `接转、转送、播放`
+> > **relieved 《美 [rɪˈliːvd]》:** `宽慰的、放心的、减轻、解除`
+> > **remained 《美 [rɪˈmeɪnd] 》:** `保持、剩余、遗留`
+> > **placing 《美 [ˈpleɪsɪŋ] 》:** `名次、排名`
+> > **delivering 《美 [dɪˈlɪvərɪŋ]》:** `递送、传送、交付`
+> > **taking 《美 [ˈteɪkɪŋ]》:** `携带、拿走、取走、运走`
+> > **giving 《美 [ˈɡɪvɪŋ] 》:** `给、交给、赠送`
+> > **feasible 《美 [ˈfiːzəbl]》:** `可行的、行得通的`
+> > **available 《美 [əˈveɪləbl]》:** `可获得的、可购得的`
+> > **reliable 《美 [rɪˈlaɪəbl]》:** `可信赖的、可依靠的`
+> > **applicable 《美 [ˈæplɪkəbl]》:** `适用、适合`
+> > **prevalent 《美 [ˈprevələnt]》:** `流行的、普遍存在的`
+> > **principal 《美 [ˈprɪnsəpl]》:** `最重要的、主要的`
+> > **innovative 《美 [ˈɪnəveɪtɪv]》:** `创新的、革新的` 
+> > **initial 《美 [ɪˈnɪʃl] 》:** `最初的、开始的、第一的`
+> > **presented 《美 [prɪˈzentɪd]》:** `把...交给、颁发、授予、提出`
+> > **restricted 《美 [rɪˈstrɪktɪd]》:** `有受限制的、保密的、限制`
+> > **recommended 《美 [ˌrekəˈmendɪd]》:** `推荐、举荐、介绍、劝告、建议`
+> > **introduced 《美 [ˌɪntrəˈduːst]》:** `介绍、引见`
+> > **problems 《美 [ˈprɑbləmz]》:** `难题、困难`
+> > **issues 《美 [ˈɪʃuːz]》:** `问题、出版、发表`
+> > **agonies 《美 [ˈægəniz] 》:** `极度痛苦`
+> > **sufferings 《美 [ˈsʌfərɪŋz]》:** `痛苦、疼痛、折磨、苦难`
+> > **involved in:** `参与、作为一部分、有关联`
+> > **caring for 《美 [ˈkerɪŋ fɔːr]》:** `关心、关怀`
+> > **concerned with 《美 [kənˈsɜːrnd wɪð] 》:** `涉及、说到、关于`
+> > **warding off:** `避开、挡开、挡住、招架`
 
 
-###  second
+### 06-24 ~ 06-30
 
 > The Internet affords anonymity to its users,a blessing to privacy and freedom of speech.But that very anonymity is also behind the explosion of cyber-crime that has ___ across the Web.
 > Can privacy be preserved ___ bringing safety and security to a world that seems increasingly ____ ?
@@ -213,6 +232,9 @@ categories: Graduate
 > > **security《美 [sɪˈkjʊrəti] 》:** `安全、保证、担保、保护、防护、有价证卷、安全的、 记忆技巧：se 分开，离开 + cur 跑，引申为“发生” + ity 具备某种性质 → 安全；证券`
 > > **seem《美 [siːm]》:** `好像、似乎、看来装作、看来好像`
 > > **increasigly《美 [ɪnˈkriːsɪŋli]》:** `越来越多地`
+> > 
+> > 互联网能为用户提供匿名保护,这便于用户保护隐私权和言论自由。然而,这种匿名制访问也成为席卷互联网的网络犯罪激增的原因。
+在维护隐私权的同时,能否给似乎日渐失去法律控制的互联网领域带来安全保障?
 > 
 > Last month,Howard Schmidt,the nation's cyber-czar,offered the federal government a ___ to make the Web a safer place -- a "voluntary trusted identity" system that would be the high-tech ___ of a physical key,a fingerprint and a photo ID card,all rolled ___ one.The system might use a smart identity card,or a digital credential ___ to a specific computer,and would authenticate users at a range of online services.
 > > **nation《美 [ˈneɪʃn]》:** `国家、民族、国民`
@@ -235,6 +257,8 @@ categories: Graduate
 > > **specific《美 [spəˈsɪfɪk]》:** `具体的、明确的、特定的`
 > > **authenticate《美 [ɔːˈθentɪkeɪt]》:** `认证、证明...是真实的、证实`
 > 
+> 美国网络总管霍华德·施密特
+(Howard Schmidt)上个月向联邦政府提供了一个旨在使网络环境更为安全的提议,即(建立)一个“自愿可信身份”系统,这款系统是集物理密钥、指纹以及照片身份证件卡片(功能)于一体的高科技等价物。 该系统可利用连接于特定计算机的智能身份证或数字证书来验证一系列在线服务用户的身份！
 > 
 > The idea is to ___ a  federation of private online identity systems.Users could ___ which system to join,and only registered users whose identities have been authenticated could navigate those systems.The approach contrasts with one that would require an Internet driver's license ___ by the government.
 > Google and Microsoft are among companies that already have these "single-sign-on" systems that make it possible for users to ___ just once but use many different services.
@@ -262,4 +286,146 @@ categories: Graduate
 > ___,the approach would create a "walled garden" in cyberspace,with safe "neighborhoods" and bright "streetlights" to establish a sense of a ___  community.
 > Mr.Schmidt described it as a "voluntary ecosystem" in whcih "individuals and organizations can complete online transactions with ___ , trusting the identities of each other and the identities of the infrastructure ___ which the transcation runs."
 > > 
+> 
+
+
+### 07-01 ~ 07-07
+
+> The longest bull run in a century of art-market history ended on a dramatic note with a sale of 56 works by Damien Hirst,Beautiful Inside My Head Forever,at Sotheby's in London on September 15th 2008.All but two pieces sold,fetching more than 70m,a record for a sale by a single artist.It was a last victory.As the auctioneer called out bids,in New York on of the oldest banks on Wall Street,Lehman Brothers,filed for bankruptcy.
+> > **longest:** `长时间、长的`
+> > **bull:** `公牛、雄的`
+> > **bull run:** `牛市`
+> > **century:** `100年、百年、世纪`
+> > **ended:** `结束、终止`
+> > **dramatic:** `戏剧的、有关戏剧的、突然的、巨大的、令人吃惊的`
+> > **note:** `音符、笔记、记录、注释、批注`
+> > **Inside:** `里面的、内部的、里面、内侧`
+> > **pieces:** `片、块、段`
+> > **forever:** `永远、长久地`
+> > **sold:** `出让、转让、sell过去分词和过去式`
+> > **fetching:** `adj.吸引人的、迷人的、动人的  v.(去)拿来、(去)请来、售的`
+> > **victory:** `胜利、成功`
+> > **auctioneer:** `拍卖人、拍卖商`
+> > **bids:** `出价、喊价、投标`
+> > **filed:** `把(文件等)归档、提起(诉讼)`
+> > **bankruptcy:** `破产`
+> > **works:** `工程、工厂、工场、作为、运作`
+> > **sale:** `出售、销售`
+> > **Beautiful:** `永远、长久地`
+> > **artist:** `艺术家、画家`
+> > **record:** `唱片、记录、唱片、录制`
+> > 
+> 
+> 
+> The world art market had already been losing momentum for a while after rising bewilderingly since 2003.At its peak in 2007 it was worth some $65 billion,reckons Clare McAndrew,founder of Arts Economics,a research firm-double the figure five years earlier.Since then it may have come down to $50 billion.But the market generates interest far beyond its size because it brings together great wealth,enormous egos,greed,passion and controversy in a way matched by few other industries.
+> > **had already been:** `已经`
+> > **losing:** `丢失、遗失、损失、丧失、失去`
+> > **momentum:** `推进力、动力、势头、冲力、动量`
+> > **while:** `虽然、在...期间、与...同时、当...的时候`
+> > **after:** `在...之后、后来、以后`
+> > **rising:** `上升、攀升、提高`
+> > **bewilderingly:** `令人困惑地、使人迷乱地、困惑的`
+> > **since:** `自...以后、从...以来`
+> > **peak:** `山峰、最高点、尖端、达到高峰、最高的`
+> > **worth:** `值得的、有...的价值、等值的、价值`
+> > **billion:** `十亿、大量、一万亿`
+> > **reckons:** `想、认为、估计、指望`
+> > **founder:** `创始人、建立者、发起人、失败、破产、沉没`
+> > **Arts Economics:** `艺术经济研究所、艺术经济学`
+> > **research:** `研究、调查、探索`
+> > **firm-dobule:** `坚定的双重`
+> > **figure:** `估计、数字、数字符号、字码、位数、算术、认为、认定、计算`
+> > **earlier:** `早期的`
+> > **come down:** `下降、降低、落下、降落`
+> > **generates:** `产生、引起`
+> > **interest:** `兴趣、关注、爱好`
+> > **far:** `远、有多远、远`
+> > **size:** `大小、规模、尺寸`
+> > **beyond:** `超过、越过、那一边、在远处`
+> > **brings together:** `聚集、聚在一起`
+> > **great:** `大的、巨大的`
+> > **wealth:** `钱财、财富、财物、富裕`
+> > **enormous:** `巨大的、庞大的、极大的`
+> > **egos:** `自我价值感、自我`
+> > **greed:** `贪婪、贪心、贪欲`
+> > **passion:** `强烈情感、激情、盛怒`
+> > **controversy:** `争议、争论、辩论、论战`
+> > **industries:** `工业、生产制造、行业、勤奋、勤劳`
+> > **in a way:** `在某一点上、某种程度上`
+> 
+> 
+> In the weeks and months that followed Mr. Hirst's sale,spending of any sort became deeply unfashionable.In the art world that meant collectors stayed away from galleries and salerooms.Sales of contemporary art fell by two-thirds,and in the most overheated sector,they were down by nearly 90% in the year to November 2008.Within weeks the world's two biggest auction houses,Sotheby's and Christie's,had to pay out nearly $200m in guarantees to clients who had placed works for sale with them.
+> > **sale:** `出售、销售、销售部`
+> > **followed:** `跟随、跟着、在...后发生`
+> > **spending:** `开支、支出、花销`
+> > **sort:** `种类、类别、品种`
+> > **deeply:** `很、非常、极其、深刻地、强烈地、深沉地`
+> > **unfashionable:** `不时兴的、不时髦的、过时的`
+> > **meant:** `意味`
+> > **collectors:** `收集者、收藏家`
+> > **stayed away:** `远离`
+> > **gallery:** `画廊、陈列室、展览馆`
+> > **salerooms:** `拍卖场`
+> > **sales:** `销售额`
+> > **contemporary:** `当代的、现代的`
+> > **fell:** `下降、摔倒、击倒、打倒`
+> > **two-thirds:** `三分之二`
+> > **overheated:** `过热的、过于兴奋的、增长过快的`
+> > **sector:** `部门、领域、行业`
+> > **within:** `在里面、在内部、不出(某段时间)、在(某段时间)之内、不出(某段距离)`
+> > **weeks:** `周、星期、礼拜、一周`
+> > **auction:** `拍卖`
+> > **auction houses:** `拍卖行`
+> > **guarantees:** `担保、保证`
+> > **clients:** `委托人、当事人、客户机`
+> > **work:** `产品、作品、工作、劳动`
+> 
+> 
+> The current downturn in the art market is the worst since the Japanese stopped buying Impressionists at the end of 1989.This time experts reckon the prices are about 40% down on their peak on average,though some have been far more fluctuant.But Edward Dolman,Christie's chief executive,says:"I'm pretty confident we're at the bottom."
+> > **current:** `当前的、现在的、通用的、流通的`
+> > **downturn:** `衰退、下降、衰退期`
+> > **worst:** `最差的、最坏的、最糟的`
+> > **Impressionists:** `印象派、印象派画家、印象派艺术家`
+> > **experts:** `专家、行家、能手`
+> > **reckon:** `认为、计算、测算、估计`
+> > **peak:** `顶峰、高峰、最高的、最大值的`
+> > **though:** `虽然、尽管、即使`
+> > **far:** `远、有多远、较远的`
+> > **fluctuant:** `波动的、变动的、起伏的`
+> > **chief:** `最重要的、首要的、主要的、首领、头目、最高领导人`
+> > **executive:** `经理、主管领导、管理人员、经营管理的、决策的、有执行权的、实施的`
+> > **pretty:** `相当、十分、非常、极、很、漂亮的、标致的、动人的`
+> > **confident:** `自信的、有自信心的、肯定的`
+> 
+> What makes this slump different from the last,he says,is that there are still buyers in the market.Almost everyone who was interviewed for this sepecial report said that the biggest problem at the moment is not a lack of demand but a lack of good work to sell.The three Ds - death,debt and divorce - still deliver works of art to the market.but anyone who does not have to sell is keeping away,waiting for confidence to return.
+> > **last:** `上一个的、最后的`
+> > **slump:** `骤降、猛跌、锐减`
+> > **Almost:** `几乎、差不多`
+> > **buyers:** `买主、买方`
+> > **interviewed:** `采访、访问`
+> > **a lack of:** `缺乏`
+> > **moment:** `片刻、瞬间、准确时刻、时机`
+> > **at the moment:** `此刻、眼下、目前`
+> > **demand:** `需要、需求、请求`
+> > **sell:** `出让、转让、出售、售卖`
+> > **debt:** `债务、借款、欠款`
+> > **divorce:** `离婚、分离、脱离`
+> > **deliver:** `推向、递送、传送、交付`
+> > **keeping away:** `远离`
+> > **confidence:** `信心、信任、信赖、自信心`
+> > 
+> 
+
+### 07-08 ~ 07-14
+
+> I was addressing a small gathering in a suburban  Virginia living room - a  women's group that had invited men to join them.Throughout the evening,one man had been particularly talkative,frequently offering ideas and anecdotes,while his wife sat silently beside him  on the couch.Toward  the end  of  the evening,I commented that women frequently complain that their  husbands don't talk to them.This man quickly nodded in  agreement.He gestured toward his wift and said,"She's the talker in our family." The room burst into laughter;the man looked puzzled and hurt."It's true,"he explained."When I come from  work I have nothing to say.If she didn't keep the conversation going,we'd spend the whole evening in silence."
+> 
+> This  episode crystallizes the irony that although American men tend to talk more than women in public situations,they often talk less at home.And this pattern  is wreaking havoc with marriage.
+> 
+> The pattern was observed by political scientist Andrew Hacker in the late 1970s.Sociologist Catherine Kohler Riessman reports in her new book Divorce Talk that most of the women she interviewed - but only a few of the men - gave lack of communication as the reson for their divorces.Given the current divorce rate of nearly 50 percent,that amounts to millions of cases in the United States every year - a virtual epidemic of failed conversation.
+> 
+> In my own research,complaints from women about their husbands most often focused not on  tangible  inequites such as having given up the chance for a career to accompany a husband to his,or doing far more than their share of daily life-support work like cleaning,cooking and social arrangements.Instead,they focused on communication:"He doesn't listen to me." "He doesn't talk to me." I found,as Hacker observed years before,that most wives want their husbands to be,first and foremost,conversational partners,but few husbands share this  expectation  of their wives.
+> 
+> In short,the image that best represents the current crisis is the stereotypical cartoon scene of man sitting at the breakfast table with a newspaper help up in front of his face,while a woman glares at the back of it,wanting  to talk.
+> 
 > 

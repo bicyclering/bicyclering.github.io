@@ -1,6 +1,6 @@
 ---
 title: 阅读文章
-date: 2019-04-05 23:40
+date: 2019-05-07 23:40
 tags: English
 categories: Graduate
 ---
@@ -2113,90 +2113,544 @@ categories: Graduate
 ## 05-16
 
 > It was 1995,when even deaf people dismissed their signing as "substandard".
+> > **deaf:** `聋的、耳聋的人`
+> > **dismissed:** `解雇、开除`
+> > **singing:** `签署、签字`
+> > **substandard:** `不达标的、不合格的`
+> > deaf people → 主
+> > dismissed → 谓
+> > 
 > 
 > Stokoe's idea was academic heresy.
+> > **academic:** `学业的、学术的`
+> > **heresy:** `宗教异端、信奉邪说`
+> > Stokoe's → 主
+> > was → 谓
 > 
 > It is 37 years later.
+> > It → 主
+> > is → 谓
 > 
 > Stokoe--now devoting his time to writing and editing books and journals and to producing video materials on ASL and the deaf culture--is having lunch at a cafe near the Gallaudet campus and explaining how he started a revolution.
+> > **devoting:** `奉献、投入`
+> > **journals:** `日志、日记`
+> > **producing:** `生成、制作`
+> > **materials:** `布料、材料`
+> > **culture:** `文化、文明`
+> > **campus:** `校园、校区`
+> > **explaining:** `解释`
+> > **revolution:** `革命、巨变`
+> > Stokoe → 主
+> > devoting → 谓
+> > 
 > 
 > For decades educators fought his idea that signed languages are natural languages like English,French and Japanese.
+> > **decades:** `十年、十年期`
+> > **signed languages:** `手语`
+> > **educators:** `教育工作者、教师、教育学家`
+> > **fought:** `反对、打仗、战斗、作战`
+> > **natural:** `自然的、天然的`
+> > educators → 主
+> > fought → 谓
 
 
 ## 05-17
 
 > They assumed language must be based on speech,the modulation of sound.
+> > **assumed:** `假定的、假设的`
+> > **speech:** `演说、讲话`
+> > **modulation:** `调制、调谐、缓和`
+> > They → 主
+> > assumed → 谓
 > 
 > But sign language is based on the movement of hands,the modulation of space.
+> > **movement:** `运动、转动、迁移`
+> > **modulation:** `调制、调谐、缓和`
+> > **space:** `空间、空地`
+> > sign language → 主
+> > is → 谓
 > 
 > "What I said,"Stokoe explains,"is that language is not mouth stuff--it's brain stuff."
+> > **explains:** `解释、说明`
+> > **mouth:** `嘴、口、入口、开口`
+> > **stuff:** `东西、物品、玩意儿`
+> > **brain:** `脑、智力、脑力`
+> > Stokoe → 主
+> > explains → 谓
 > 
 > Exercise is one of the few factors with a positive role in long-term maintenance of body weight.
+> > **Exercise:** `练习、活动、锻炼`
+> > **one of** `...之一`
+> > **factors:** `因素`
+> > **positive:** `积极的、自信的`
+> > **role:** `智能、地位、角色`
+> > **long-term:** `长期的、长远的`
+> > **maintenance:** `维护、保养、维持`
+> > Exercise → 主
+> > is → 谓
+> > 
 > 
 > Unfortunately,the message has not gotten through to the average American,who would rather try switching to "light" beer and low-calorie bread than increase physical exertion.
+> > **Unfortunately:** `不幸地、遗憾地`
+> > **average:** `平均的、普通的、正常的`
+> > **rather:** `宁愿、稍微、有点、相当`
+> > **switching:** `改变、转变、突变、交换`
+> > **beer:** `啤酒、一杯`
+> > **low-calorie:** `低热量、低卡路里`
+> > **bread:** `面包、钱`
+> > **increase:** `增长、增多、增加`
+> > **physical:** `身体的、肉体的、躯体的`
+> > **exertion:** `努力、尽力、费力`
+> > message → 主
+> > through → 谓
 
 
 ## 05-18
 
 > The Centers for Disease Control,for example,found that fewer than one-fourth of overwight adults who were trying to shed pounds said they were combing exercise with their diet.
+> > **Centers:** `中心、研究中心、中心值`
+> > **Disease:** `疾病、弊端、恶疾`
+> > **Control:** `管理权、控制权、支配权`
+> > **fewer:** `较少的`
+> > **adults:** `成人`
+> > **shed:** `棚、库、流下、流出、脱皮、脱落`
+> > **exercise:** `活动、锻炼、运动`
+> > **diet:** `日常饮食、规定饮食、节制饮食、节食`
+> > **shed pounds:** `减肥`
+> > Disease → 主
+> > found → 谓
 > 
 > In rejecting exercise,some people may be discouraged too much by caloric-expenditure charts:for example,one would have to briskly walkd three miles just to work off the 275 calories in one delicious Danish pastry.
+> > **rejecting:** `拒绝接受、拒收、不录用`
+> > **discouraged:** `气馁、阻拦、阻止、劝阻`
+> > **caloric-expenditure:** `热消耗`
+> > **briskly:** `轻快地、活泼地`
+> > **delicious:** `美味的、可口的`
+> > **pastry:** `糕点、油酥糕点、油酥面团`
+> > some people → 主
+> > be → 谓
 > 
 > Even exercise professionals concede half a point here.
+> > **professionals:** `专业人员、专业人士、专家`
+> > **concede:** `承认、让步`
+> > professionals → 主
+> > concede → 谓
 > 
 > "Exercise by itself is a very tough way to lose weight,"says Yourk Onnen,program director of the President's Council on Physical Fitness and Sports.
+> > **tough:** `坚强的、坚韧的、艰苦的`
+> > **program:** `程序、节目、节目单、计划、安排`
+> > **director:** `导演、主管、主任`
+> > **Physical:** `身体的、物质的、自然规律的`
+> > **Fitness:** `健壮、健康、适当、适合`
+> > **program director:** `计划负责人`
+> > Exercise → 主
+> > is → 谓
 > 
 > Still,exercise's supporting role in weight reduction is vital.
+> > **Still:** `仍然、更、还要、静静地、不断地`
+> > **supporting:** `支持的、支撑的、支持、帮助`
+> > **role:** `作用、影响程度、职能、地位、角色`
+> > **reduction:** `减少、缩小、降低`
+> > **vital:** `必不可少的、至关重要的`
+> > **weight reduction:** `减肥`
+> > exercise's → 主
+> > is → 谓
+> > 
 
 
 ## 05-19
 
 > A study at the Boston University Medical Center of overweight police officers and other public employees confirmed that those who dieted without exercise regained almost all their old weight,while those who worked exercise into their daily routine maintained their new weight.
+> > **study:** `研究`
+> > **officers:** `官员、高级官员、警察的头衔`
+> > **overweight:** `超重`
+> > **employees:** `雇工、雇员`
+> > **confirmed:** `证实、证明、确认、认可`
+> > **dieted:** `节食、进规定饮食`
+> > **without:** `在外部、缺少、没有、缺乏`
+> > **regained:** `重新获得、恢复、回到、返回`
+> > **almost:** `几乎、差不多`
+> > **routine:** `常规、例行程序、一套动作`
+> > Boston Universtiy Medical Center → 主
+> > confirmed → 谓
 > 
 > If you have been sedentary and decide to start walking one mile a day,the add  exercise could burn an extra 100 calories daily.
+> > **have been:** `已经`
+> > **sedentary:** `不爱活动的、久坐不动的`
+> > **decide:** `对...做出抉择、决定、选定`
+> > **mile:** `英里`
+> > **burn:** `燃烧、烧伤、烧毁`
+> > **extra:** `额外的、分外的`
+> > you → 主
+> > decide → 谓
 > 
 > In a year's time,assuming no increase in food intake,you could lose ten pounds.
+> > **assuming:** `假设、假定、呈现`
+> > **increase:** `增长、增多、增加`
+> > **intake:** `吸入、进气、摄入、摄取`
+> > assuming → 主
+> > increase → 谓
 > 
 > By increasing the distance of your walks gradually and makeing other dietary adjustments,you may lose even more weight.
-
+> > **increasing:** `增长、增多、增加`
+> > **gradually:** `逐渐的、逐步的`
+> > **dietary:** `饮食的、有关饮食的、饮食中的`
+> > **adjustments:** `调整、调节器`
+> > you → 主
+> > lose → 谓
+> 
+> Is there enough oil beneath the Arctic National Wildlife Refuge to help secure Amerca's energy future?
+> > **enough:** `足够地、充足地、足够的`
+> > **beneath:** `在...的下方、低于、在下面、在底下`
+> > **Arctic:** `北极的`
+> > **refuge:** `庇护、避难、避难所、庇护者`
+> > **secure:** `安全的、牢固的、有把握的`
+> > **energy:** `精力、活力、干劲、力量、能源`
+> > Arctic National Wildlife → 主
+> > Refuge → 谓
 
 ## 05-20
 
-> Is there enough oil beneath the Arctic National Wildlife Refuge to help secure Amerca's energy future?
-> 
-> President Bush certainly thinks so.
+> President Bush certainly thinks so
+> > **President:** `总统、国家主席、会长`
+> > **bush:** `灌木、衬套、丛生、以灌木`
+> > **certainly:** `当然、无疑、确定、肯定、行`
+> > **thinks:** `认为、以为、想、思考`
+> > President Bush → 主
+> > thinks → 谓
 > 
 > He has argued that tapping ANWR's oil would help ease California's  electricity crisis and provide a major boost to the country's energy independence.
+> > **argued:** `争论、争吵、争辩`
+> > **tapping:** `开发、发掘、轻敲、轻拍`
+> > **electricity:** `电、电能、激动、兴奋`
+> > **crisis:** `危机、危急关头、危难时刻`
+> > **boost:** `增加、促进、提高`
+> > **energy:** `精力、能量、精神`
+> > **independence:** `独立、独立(之日)、自主、自立`
+> > He → 主
+> > argued → 谓
 > 
 > But no one knows for sure how much crude oil lies buried beneath the frozen earth with the last government survey,conducted in 1998,projecting output anywhere from 3 billion to 16 billion barrels.
+> > **crude:** `简陋的、粗糙的、粗杂的、粗鲁的、天然的`
+> > **lies:** `谎言、位置、假象、说谎、躺卧`
+> > **buried:** `掩埋、埋葬`
+> > **beneath:** `在...的下方、低于、在下面、在底下`
+> > **frozen:** `冷冻的、冷藏的、冻僵、极冷`
+> > **survey:** `民意调查、民意测验、测量`
+> > **conducted:** `实施、指挥、传导、引导`
+> > **output:** `输出、产量、作品`
+> > **barrels:** `桶、枪管、一桶`
+> > crude oil → 主
+> > beneath → 谓
 > 
 > The oil industry goes with the high end of the range,which could equal as much as 10% of U.S. consumption for as long as six years.
+> > **industry:** `工业、行业、生成制造`
+> > **consumption:** `消费、消耗`
+> > **range:** `范围、射程、类别、排列、搜索`
+> > **as much as:** `多达`
+> > oil → 主
+> > goes → 谓
 > 
->  
+> By pumping more than 1 million barrels a day from the reserve for the next two three decades,lobbyists claim,the nation could cut back on imports equivalent to all shipments to the U.S. from Saudi Arabia.
+> > **pumping:** `用泵输送、涌出、涌流、奔流`
+> > **barrels:** `桶`
+> > **reserve:** `预定、预约`
+> > **decades:** `十年`
+> > **lobbyists:** `游说者`
+> > **claim:** `宣称、声称、断言、索取`
+> > **imports:** `进口、输入、引进`
+> > **equivalent:** `相等的、相同的`
+> > **shipments:** `运输、运送、装运`
+> > lobbyists claim → 主
+> > cut back → 减少、消减
 
 ## 05-21
-
-> By pumping more than 1 million barrels a day from the reserve for the next two three decades,lobbyists claim,the nation could cut back on imports equivalent to all shipments to the U.S. from Saudi Arabia.
-> 
+                                                    
 > Sounds good.An oil boom would also mean a multibillion-dollar windfall in tax revenues,royalties and leasing fees for Alaska and the Federal Government.
+> > **boom:** `快速发展、暴涨、使繁荣、繁荣`
+> > **mean:** `意思是`
+> > **windfall:** `意外之财、横财`
+> > **tax:** `税、税额`
+> > **revenues:** `财政收入、税收收入、收益`
+> > **royalties:** `王室成员、版税`
+> > **leasing:** `租赁`
+> > **fees:** `专业服务费、咨询费、报酬`
+> > **Federal:** `联邦制的`
+> > **government:** `政府、内阁、政体`
+> > Alaska and the Federal Govenment → 主
+> > mean → 谓
 > 
 > Best of all,advocates of drilling say,damage to the environment would be insignificant.
+> > **advocates:** `倡导者、拥护、提倡`
+> > **drilling:** `转孔、打眼`
+> > **damage:** `损坏、破坏、损失`
+> > **environment:** `环境、客观环境、自然环境`
+> > **insignificant:** `微不足道的、无足轻重的`
+> > **Best of all:** `最好的是`
+> > **be insignificant:** `无足轻重`
+> > advocates → 主
+> > drilling → 谓
 > 
 > "We've never had a document case of oil rig chasing dder out onto the pack ice." says Alaska State Representative Scott Ogan.
+> > **never:** `从不、绝不、从未`
+> > **rig:** `操纵、控制`
+> > **chasing:** `追赶、追逐、追捕`
+> > **document case:** `公文包、文件套`
+> > **pack ice:** `聚集的浮冰、大块的浮冰`
+> > **oil rig:** `石油砖塔、钻井平台`
+> > Alaska State Representative Scott Ogan → 主
+> > says → 谓
 > 
 > No so fast,say environmentalists.
-> 
+> > **environmentalists:** `环境保护论者`
+> > environmentalists → 主
+> > say → 谓
+>
+> Sticking to the low end of government estimates,the National Resources Defense Councial says there may be no more than 3.2 billion barrels of economically recoverable oil in the coastal plain of ANWR,a drop in the bucket that would do virtual nothing to ease America's energy problems.
+> > **Sticking:** `粘着、粘贴`
+> > **estimates:** `估计、估价、估计的成本`
+> > **Defense:** `国防部、防卫、防卫物`
+> > **barrels:** `桶、枪管、一桶`
+> > **economically:** `在经济上、经济地、实惠地`
+> > **recoverable:** `可收回的、可重新获得的`
+> > **coastal:** `沿海的、靠近海岸的`
+> > **drop:** `减少、滴、水珠、少量、微量`
+> > **bucket:** `桶、大桶状物、一桶`
+> > **virtual:** `事实上的、很接近的、几乎...的、实际上的`
+> > **may be:** `多半`
+> > **no more than:** `不过是、仅仅`
+> > **economically recoveable oil:** `可经济地开采的石油储量`
+> > **coastal plain:** `海岸平原`
+> > **nothing to:** `比起...简直等于零`
+> > **plain:** `平原、清楚的、明显的`
+> > the National Resources Defense Counncial → 主
+> > says → 谓
+> > 
 
 
 ## 05-22
 
-> Sticking to the low end of government estimates,the National Resources Defense Councial says there may be no more than 3.2 billion barrels of economically recoverable oil in the coastal plain of ANWR,a drop in the bucket that would do virtuall nothing to ease America's energy problems.
-> 
 > And consumers would wait up to a decade to gain any benefits,because drilling could begin only after much bargaining over leases,environmental permits and regulatory review.
+> > **consumers:** `消费者、顾客、用户`
+> > **wait up:** `等着不睡、熬夜等待、等一等`
+> > **decade:** `十年`
+> > **gain:** `获得、赢得、增加`
+> > **benefits:** `优势、益处、成效`
+> > **drilling:** `钻孔、打眼、培训、训练`
+> > **bargaining:** `议价、讨价、商讨、讨价还价`
+> > **leases:** `租约、租借`
+> > **environmental:** `自然环境的、生态环境的、有关环境的`
+> > **permits:** `许可证、许可、允许、准许`
+> > **regulatory:** `调整的、监管的`
+> > **review:** `回顾、复习、评论、复审、复查`
+> > consumers → 主
+> > wait up → 谓
 > 
 > As for ANWR's impact on the California power crisis,environmentalists point out that oil is responsible for only 1% of the Golden State's electricity output-and just 3% of the nation's.
+> > **As for:** `至于、就...方面说来、至于、关于`
+> > **impact:** `巨大影响、强大作用、撞击、冲撞`
+> > **power:** `权力、控制力、影响力`
+> > **crisis:** `危机、危急关头`
+> > **environmentalists:** `环节保护论者`
+> > **point:** `观点、论点、指向、指出`
+> > **point out:** `指点、指明、指出、说出`
+> > **responsible for:** `为...负责、是造成...的原因`
+> > ANWR's → 主
+> > impact → 谓
+
+## 06-22
+
+> It remains to be seen whether the world can maintain its linguistic and cultural diversity in the centuries ahead.
 > 
+> Many powerful forces appear to work against it:population growth,which pushes migrant popluations into the world's last isolated,locations;mass tourism;global corporations.
 > 
+> All of these forces appear to signify a future in which the language of advertising popular culture,and consumer products become similar.Already English and a few other major tongues have emerged as global languages of commerce and communication.
+> 
+> For many of the world's  peoples,learning one of these  languages is viewed as the key to education,economic opporunity,and a better way of life.
+> > **remains:** `遗骨、遗体、剩余、保持、留下、留待`
+> > **whether:** `是否`
+> > **maintain:** `维持、保持、维修、保养`
+> > **linguistic:** `语言的、语言学的`
+> > **cultural:** `文化的、教养的、耕作的`
+> > **diversity:** `差异性、不同点、多样性、多样化`
+> > **centuries:** `一世纪、100年`
+> > **ahead:** `向前地、在前面`
+> > **powerful:** `有权势的、有影响力的、强有力的`
+> > **forces:** `力、武力、势力、气力、强制`
+> > **appear:** `似乎、发表、出现、显现`
+> > **against:** `反对、与...相反`
+> > **population:** `人口`
+> > **growth:** `生产、增长、生长`
+> > **migrant:** `移民、候鸟、移居的`
+> > **isolated:** `隔离的、孤独的、单独的`
+> > **mass tourism:** `大众旅游`
+> > **corporations:** `公司`
+> > **signfy:** `表示、说明、预示、表达`
+> > **popular:** `流行的`
+> > **consumer:** `消费者、顾客、用户`
+> > **similar:** `类似的、相仿的`
+> > **Already:** `已经、早已`
+> > **major:** `主要的、重要的`
+> > **tongues:** `舌、舌头、语言`
+> > **emerged:** `出现、形成、事实`
+> > **commerce:** `贸易、商业、商务`
+> > **communication:** `表达、交流、交际、传递`
+> > **viewed:** `把...视为、以...看待、看、观看、查看`
+> > **opporunity:** `机会`
+> > 
+> > 在未来的几个世纪中,世界是否能保持语言和文化的差异性还有待观察。
+> > 
+> > 许多强大的力量似乎都与之对抗:人口增长,将移动的人口推进世界最后一个独立的位置;大众旅游;全球公司。
+> > 
+> > 所有这些力量似乎预示着广告流行文化和消费者产品语言相似的未来。英语和其它主要语言已经形成全球商业和交流语言。
+> > 
+> > 世界上许多人而言,学习其中的某一种语言是视为教育、经济机会和更好的生活方式关键。
+> 
+> Only about  3,000 languages now in use are expected to survive the coming century.Are most of the rest doomed in the century after that?
+> > **expected:** `期待、盼望、要求、指望`
+> > **survive:** `生存、存活、继续存在`
+> > **doomed:** `命中注定的、注定、宣判`
+> > **coming:** `到来、来临、下一个的`
+> > **century:** `100年、百年、世纪`
+> > **rest:** `剩余部分、其余、残留`
+> > 
+> > 目前使用了语言大概3000种在下一个世界来临前存活,大多数剩余的语言在下一个世纪就注定了吗?
+> 
+
+
+## 07-02 ALEX 长难句慢慢学系列 
+
+> Besides the ninety or so learned ministers who came to Massachusetts church in the decade after 1629, there were political leaders like John Winthrop, an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston.
+> > **Besides:** `除...之外、另外、况且、以及`
+> > **learned:** `有学问的、博学的、学术上的、得知、学习`
+> > **ministers:** `部长、牧师、大臣、公使`
+> > **decade:** `十年、十年期`
+> > **church:** `教堂、礼拜堂、礼拜、礼拜仪式`
+> > **political:** `政治的、政府的、政权的、政党的`
+> > **leaders:** `领导者、领袖、首领、最佳的人`
+> > **educated:** `有教育的、教育、训练、教导、教养`
+> > **gentleman:** `绅士`
+> > **lawyer:** `律师`
+> > **official:** `官员、公务员、行政官员、裁判`
+> > **Crown:** `王冠、花冠、王权、顶部`
+> > **journeyed:** `旅行`
+> > **Boston:** `波士顿`
+> 
+解析:本句较长，但并不复杂。
+> 开始的介词结构 besides the ninety or so learned ministers... 作状语
+> > 其中 ministers 后面带有 who 引导的定语从句;
+> 
+> 句子的主干是 there were political leaders...
+> > 介词结构 like John Winthrop 作 leaders 的定语
+> > 接着的几个名词短语 an educated gentleman, lawyer, and official of the Crown 是介绍 Winthrop 来波士顿之前的身份。
+> 
+> 核心词汇:or so 大概,左右 learned 博学的
+> 译文:除了在 1629 年之后的十年内到达麻塞诸塞教堂的 90 个左右博学的牧师以外，还 有像 John Winthrop 这样的政治领袖------来波士顿之前他是位受过良好教育的绅士，律师以 及国王的官员。
+
+
+## 07-03 
+
+> It's hardly news that the immigration system is a mess. Foreign nationals have long been slipping across the border with fake papers, and visitors who arrive in the U. S legitimately often overstay their legal welcome without being punished. But since Sept 11, it's become clear that terrorists have been shrewdly factoring the weaknesses of our system into their plans. In addition to their mastery of forging passports, at least three of the 19 Sept. 11 hijackers (劫机者) were here on expired visas. That's been a safe bet until now. The Immigration and Naturalization Service (INS) (移民归化局) lacks the resources, and apparently the inclination, to keep track of the estimated 4 million foreigners who have intentionally overstayed their welcome.
+> 
+> But this laxness (马虎) toward immigration fraud may be about to change. Congress has already taken some modest steps. The U. S.A. Patriot Act, passed in the wake of the Sept. 11 tragedy, requires the FBI, the Justice Department, the State Department and the INS to share more data, which will make it easier to stop watch-listed terrorists at the border.
+> 
+>  But what have really needed, critics say, is even tougher laws and more resources aimed at tightening up border security. Reformers are calling for a rollback of rules that hinder law enforcement. They also want the INS to hire hundreds more border patrol agents and investigators to keep illegal immigrants out and to track them down once they're here. Reformers also want to see the INS set up a database to monitor whether visa holders actually leave the country when they are required to.
+> 
+> **hardly:** `几乎不、几乎没有`
+> **have long been:** `长期以来、一直以来`
+> **slipping:** `滑倒、滑跤、滑落、滑离、脱落、悄悄疾行、溜`
+> **fake:** `假的、冒充的、伪造的`
+> **legitimately:** `正当地、合理地`
+> **overstay:** `停留过久`
+> **punished:** `处罚、惩罚、对…判罪、判定…的处罚方式`
+> **shrewdly:** `精明地、机灵地、机灵的`
+> **factoring:** `把…因素包括进去、（数学）分解…的因子、将…分解成因子、以代理商（或管家等）的身份行事、做代理商（或管家）`
+> **expired:** `(因到期而)失效，终止、到期、届满、逝世、去世、故去`
+> **bet:** `下赌注(于)、用…打赌、敢说、八成儿、打赌、赌注、预计、估计`
+> **apparently:** `据…所知、看来、显然`
+> **inclination:** `倾向、意愿、趋向、趋势、倾斜度`
+> **intentionally:** `故意地、有意地、蓄意地`
+> **laxness:** `马虎、腹泻、弛缓`
+> **fraud:** `欺诈罪、欺骗罪、骗子、行骗的人、伪劣品、冒牌货`
+> **tougher:** `强硬地、顽强地、艰苦的、艰难的、棘手的、严厉的`
+> **aimed:** `力求达到、力争做到、目的是、旨在、瞄准、对准`
+> **tightening up:** `固紧`
+> **calling:** `呼吁`
+> **hinder:** `阻碍、妨碍、阻挡`
+> **enforcement:** `执行、实施`
+> **patrol:** `巡逻、巡查`
+> **investigators:** `调查者、侦查员`
+> **illegal:** ` 不合法的、非法的、违法的、非法移民、非法劳工`
+> 
+>  
+> 1. Terrorists have obviously taken advantage of______.
+> > A．the legal privileges granted to foreigners.
+> > B．the excessive hospitality of the American people.
+> > C．the irresponsibility of the officials at border checkpoints.
+> > D．the low efficiency of the Immigration and Naturalization Service.
+> > **obviously:** `显然、明显的`
+> > **advantage:** `有利条件、益处、优势、优点`
+> > **privileges:** `特权、特殊待遇`
+> > **granted:** `授予`
+> > **excessive:** `过分的、过度的`
+> > **hospitality:** `好客、殷勤、食物、饮料、服务`
+> > **irresponsibility:** `不负责任、无责任感、不承担责任`
+> > **officials:** `要员、官员、高级职员`
+> > **efficiency:** `效率、效能、功效`
+> > **immigration:** `移民`
+> 
+> 2. We learn from the passage that coordinated efforts will be made by various U.S. government agencies to _____ .
+> > A) limit the number Of immigrants to the U.S.
+> > B) prevent the forgery of immigration papers
+> > C) ward off terrorist suspects at the border
+> > D). refuse the renewing of expired visas
+> > **coordnated:** `协调`
+> > **immigrants:** `移民`
+> > **forgery:** `伪造`
+> > **ward off:** `躲开、防止`
+> > **suspects:** `嫌疑犯`
+> > **renewing:** `中止后继续`
+> > **expired:** `失效、终止`
+> >  
+> 3. It can be inferred from the passage that before Sept. 11, aliens with expired visas_______ .
+> > A) might stay on for as long as they wished
+> > B) would be closely watched by FBI agents
+> > C) would live in constant fear of deportation
+> > D) might have them extended without trouble
+> > **wished:** `希望、盼望、企求`
+> > **fear:** `害怕、惧怕、担忧`
+> > **deportation:** `驱逐出境`
+> > **extended:** `延期、扩大`
+> > **trouble:** `麻烦、忧虑、苦难` 
+
+## 07-05
+
+> Downshifting ---also known in America as " voluntary simplicity"----has, ironically ,even bred a new area of what might be termed anti-consumerism.
+> > **Downshifting:** `放慢生活、减速生活、降档`
+> > **voluntary:** `自愿的、志愿的、主动的、自告奋勇的、自愿性的`
+> > **simplicity:** `简单、容易、质朴、淳朴、简单`
+> > **ironically:** `嘲讽地、挖苦地`
+> > **bred:** `孕育、繁殖、生育`
+> > **might:** `可以、应该`
+> > **termed:** `把...称为、把...叫做`
+> > **anti-consumerism:** `反对消费主义`
+> > 解析:本句的主干在破折号之外:downshifting 是主语，has bred 是谓语，a new area 是宾语，其中 area 后的 of 短语 of what might be termed anti-consumerism 作 area 的定语， what 引导的从句作 of 的宾语。破折号中间的部分对 downshifting 作补充说明。
+> > 
+> > 译文:具有讽刺意味的是，放慢生活节奏-----在美国也被称为“自愿简朴”-----甚至孕 育了一个全新的领域，不妨称之为“反消费主义”。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
