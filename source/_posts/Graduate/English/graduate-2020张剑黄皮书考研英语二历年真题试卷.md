@@ -260,8 +260,8 @@ categories: Graduate
 > 美国网络总管霍华德·施密特
 (Howard Schmidt)上个月向联邦政府提供了一个旨在使网络环境更为安全的提议,即(建立)一个“自愿可信身份”系统,这款系统是集物理密钥、指纹以及照片身份证件卡片(功能)于一体的高科技等价物。 该系统可利用连接于特定计算机的智能身份证或数字证书来验证一系列在线服务用户的身份！
 > 
-> The idea is to ___ a  federation of private online identity systems.Users could ___ which system to join,and only registered users whose identities have been authenticated could navigate those systems.The approach contrasts with one that would require an Internet driver's license ___ by the government.
-> Google and Microsoft are among companies that already have these "single-sign-on" systems that make it possible for users to ___ just once but use many different services.
+> The idea is to _create_ a  federation of private online identity systems.Users could _select_ which system to join,and only registered users whose identities have been authenticated could navigate those systems.The approach contrasts with one that would require an Internet driver's license _issued_ by the government.
+> Google and Microsoft are among companies that already have these "single-sign-on" systems that make it possible for users to _log in_ just once but use many different services.
 > > **idea《美 [aɪˈdiːə]》:** `主意、想法、理念、观念、模糊想法`
 > > **federation《美 [ˌfedəˈreɪʃn]》:** `联邦、同盟、联盟、联合会、联邦政府 记忆技巧：feder 联盟 + ation 行为，结果 → 联盟`
 > > **private《美 [ˈpraɪvət]》:** `私有的、私人的、私密的、内心的、平民的 记忆技巧：priv 单个 + ate 有…性质的 → 个人的 → 私人的`
@@ -282,6 +282,9 @@ categories: Graduate
 > > **just《美 [dʒʌst] 》:** `正好、刚才、仅仅、只是、刚要、公正的、合理的`
 > > **different《美 [ˈdɪfrənt]》:** `不同的、有区别的、有差异的 记忆技巧：differ 不同 + ent 具有…性质的 → 不同的`
 > > **service《美 [ˈsɜːrvɪs]》:** `服务、服待 记忆技巧：serv 服务 + ice 性质，行为，情况 → 服务`
+> > 
+> > 其理念是创建联合私人在线身份验证系统。用户可以自行选择想要加入的系统,且只有身份通过验证的注册用户可以浏览这些系统。该途径与需要政府发给网络通行证的途径明显不同。
+> > 谷歌、微软等公司已经实行这种"单点登录系统",这样的系统使得用户只需要登录一次,便可以使用多种不同的服务。
 > 
 > ___,the approach would create a "walled garden" in cyberspace,with safe "neighborhoods" and bright "streetlights" to establish a sense of a ___  community.
 > Mr.Schmidt described it as a "voluntary ecosystem" in whcih "individuals and organizations can complete online transactions with ___ , trusting the identities of each other and the identities of the infrastructure ___ which the transcation runs."
@@ -429,3 +432,210 @@ categories: Graduate
 > In short,the image that best represents the current crisis is the stereotypical cartoon scene of man sitting at the breakfast table with a newspaper help up in front of his face,while a woman glares at the back of it,wanting  to talk.
 > 
 > 
+> In effect,the approach would create a "walled garden" in cyberspace,with safe "neighborhoods" and bright "streetlights" to establish a sense of a trusted community. 
+> Mr.Schmidt described it as a "voluntary ecosystem" in which" individuals and organizations can complete online transactions with confidence,trusting the identities of each other and the identities of the infrastructure on which the transaction runs.
+> > **In effect:** `实际上`
+> > **approach:** `途径、接近、走近、靠近`
+> > **cyberspace:** `网络空间、赛博空间`
+> > **neighborhoods:** `社区、街区`
+> > **establish:** `建立、创立、设立`
+> > **sense:** `感觉`
+> > **described:** `描述、形容`
+> > **voluntary:** `自愿的`
+> > **ecosystem:** `生态系统`
+> > **individuals:** `个人`
+> > **complete:** `完整的、完成的`
+> > **transactions:** `交易、业务、买卖、办理`
+> > **confidence:** `信心、信任`
+> > **trusting:** `轻信的、信任的、相信的`
+> > **infrastructure:** `平台、基础设施、基础建设`
+> 
+> 实际上,该途径相当于在网络空间中创建带有安全“街区”和明亮“路灯”的“围墙花园”,来建立一种可信社区的感觉。
+施密特先生将其描述为一个“自发的生态系统”,在该系统中个人和组织可以信任彼此的身份,信任交易运行的平台的身份,放心地完成网上交易。
+> 
+> Still,the administration's"plan has divided privacy rights activists.Some applaud the approach; others are concerned.It seems clear that such a scheme is an initiative push toward what would eventually be a compulsory Internet"driver's license" mentality.
+The plan has also been greeted with skepticism by some computer security experts,who worry that the "voluntary ecosystem" envisioned by Mr.Schmidt would still leave much of the Internet vulnerable .They argue that all Internet users should be forced to register and identify themselves,in the same way that drivers must be licensed to drive on public roads.
+> > **administration's** `政府`
+> > **plan:** `计划、安排`
+> > **divided:** `分裂的、有分歧的`
+> > **privacy:** `隐私、私密`
+> > **activists:** `积极分子、活跃分子`
+> > **applaud:** `鼓掌、称赞`
+> > **approach:** `靠近、接近、建议`
+> > **concerned:** `担心、忧虑的、感兴趣的`
+> > **scheme:** `计划、方案、体系、体制`
+> > **initiative:** `倡议、新方案、主动性、积极性`
+> > **eventually:** `最后、终于`
+> > **compulsory:** `强制的、强迫的`
+> > **mentality:** `心态、思想状况、思想方法`
+> > **skepticism:** `怀疑态度、怀疑主义`
+> > **security:** `安全、保护措施、安全工作、保卫部分`
+> > **worry:** `担心、担忧、发愁`
+> > **voluntary ecosystem:** `自愿性生态系统`
+> > **envisioned:** `展望、想象`
+> > **vulnerable:** `脆弱的、易受...伤害的`
+> > **argue:** `争论、争吵、争辩`
+> > **forced:** `强迫、被迫的、迫使`
+> > **identify:** `鉴定、验证`
+> 
+> 然而,政府的决策使隐私权活跃分子之间产生了分歧。 一些对此表示赞同,另一些则表示担忧。 似乎很明显,这样的一项计划将促进一种终将强制实行网络“驾照”的心态。
+一些计算机安全专家也对该计划表示质疑,他们担心施密特先生设想的“自发生态系统”仍会使互联网的大部分地方易受攻击。 他们认为应该强制所有互联网用户进行注册并验证身份,这就如同司机在公路上行驶必须持有驾照一样。
+
+
+### 07-15 ~ 07-21
+
+> Millions of Americans and foreigners see G.I.Joe as a mindless war toy,the symbol of American military adventurism,but that's not how it used to be.
+> To the men and women who served in World War II and the people they liberated,the G.I.was the common man grown into hero,the poor farm kid torn away from his home,the guy who bore all the burdens of battle,who slept in cold foxholes,who went without the necessities of food and shelter.,who stuck it out and drove back the Nazi reign of murder.This was not a volunteer soldier,not someone well paid,but an average guy, up against the best trained,best equipped,fiercest, most brutal enemies seen in centuries.
+> **foreigners:** `外国人、外来人、外地人`
+> **minndless:** `没头脑的、无畏的、盲目的`
+> **war:** `战争、竞争、斗争、对抗`
+> **military:** `军事的、军队的、武装的`
+> **adventurism:** `(企业、政治等方面)冒险主义`
+> **used to be:** `过去是`
+> **served:** `服务、提供`
+> **liberated:** `解放的、开放的`
+> **hero:** `英雄、豪杰`
+> **farm:** `农场、农舍、养殖场`
+> **torn:** `撕、破损`
+> **bore:** `(尤指因啰嗦)使厌烦`
+> **burdens:** `重担、负担、重负`
+> **battle:** `战役、战斗`
+> **foxholes:** `散兵坑`
+> **necessities:** `必然、必要、需要`
+> **shelter:** `居所、住处、避难`
+> **stuck:** `动不了、无法移动、卡住`
+> **murder:** `谋杀、杀戮、凶杀、杀人`
+> **volunteer:** `志愿者、义务工作者`
+> **soldier:** `军人、士兵`
+> **up against:** `面临、遭遇`
+> **against:** `反对、反抗`
+> **equip:** `装备、配备`
+> **fiercest:** `最凶猛的、凶狠的、凶残的`
+> **brutal:** `残暴的、兽性的`
+> **enemy:** `敌人、敌军、敌兵`
+> **century:** `100年、百年、世纪`
+> 
+> 在许多美国人和其他国家人们的眼中,G.I.Joe(美国兵)是一个机械的战争工具,是美国军事冒险主义的象征,但在过去并非如此。 
+> 对于在第二次世界大战中服役的男兵和女兵以及他们所解放的人们而言,G.I.是成长为英雄的普通人,贫困的农家子弟背井离乡,承受了战争中的所有负担,睡冰冷的散兵坑,没有食物和庇护所等必需品的供应,他坚持到最后,并击退了纳粹的杀戮统治。他不是志愿兵,没有高收入,而只是一个对抗几世纪以来最为训练有素、装备精良、最为凶猛和残酷的敌人的普通士兵。
+> 
+> His name isn't much.G.I.is just a military
+abbreviation meaning Government Issue,and it was on all of the articles handed out to soldiers.And Joe?A
+common name for a guy who never made it to the top.Joe Blow,Joe Palooka,Joe Magrac...a working class name.The United States has never had a president or vice-president or secretary of state Joe.
+> **military:** `军事的、军队的、武装的`
+> **abbreviation:** `缩写、略语、缩略`
+> **issue:** `重要议题、争论的问题`
+> **Government Issue:** `政府发给、政府发的`
+> **article:** `物品、用品`
+> **hand:** `交、递、给`
+> **soldier:** `军人、士兵`
+> **common:** `常见的、通常的、普遍的`
+> **working class:** `工人阶段`
+> **president:** `总统、国家主席`
+> **vice-president:** `副总统、国家副主席`
+> **secretary:** `秘书、文书、部长`
+> **all of:** `一共、足足、至少`
+> **common name:** `常用名`
+> 
+> 他的名字没那么重要。G.I.只是一个军事缩写,表示“政府发给”,分发给士兵的所有物品
+上都印有这个符号。而Joe也只是从未成功攀上最重要职位的普通人的常用名。 可能是Joe Blow,Joe Palooka 抑或Joe Magra 等,一个工人阶层的名字。 在美国从来没有过名为Joe的总统、副总统或国务卿.
+>
+> G.I.Joe had a distinguished career fighting German ,Japanese,and Korean troops.He appears as a character or a collection of American personalities,in the 1945 movie The Story of G.I.Joe,based on the last days of war correspondent Ernie Pyle.
+> Some of the soldiers Pyle interviewed portrayed themselves in the film.Pyle was famous for covering the human side of the war,writing about the dirt-snow-and-mud soldiers,not how many miles were gained or what towns were captured or liberated.
+> **distinguish:** `卓越的、杰出的、著名的`
+> **career:** `职业、生涯、经历、事业`
+> **fight:** `打仗、战斗、作战`
+> **appear:** `显得、看来、似乎`
+> **character:** `品质、性格、特点、特性`
+> **personality:** `性格、个性、人格、魅力、气质`
+> **Story:** `故事、小说、(真实情况的)叙述、描述、对往事的叙述`
+> **correspondent:** `记者、通讯员、通信者`
+> **soldiers:** `军人、士兵`
+> **portray:** `描绘、描画、描写`
+> **cover:** `(一层)覆盖层、遮盖物、装饰(或保护)性覆盖物`
+> **dirt-snow-and-mud:** `土、雪、泥`
+> **gain:** `获得、赢得、博得、取得`
+> **town:** `镇、市镇、集镇`
+> **capture:** `占领、俘虏、俘获、捕获`
+> **liberate:** `解放的、开放的、使自由`
+> 
+> G.I.Joe(美国兵)与德国、日本及韩国军队作战时,军旅生涯卓越。 在一部1945年根据战地记者厄尼.派尔(Ernie Pyle)生命最后时光的记录而拍成的电影《美国大兵乔的故事》中,G.I.Joe体现了美国人的个性,他的身上集合了美国人身上的性格特点。一些派尔采访的士兵在影片中本色出演。 派尔因报道战争人性化的一面而著称,他报道那些满身污垢、积雪和泥土的士兵,而不是关注行军多少英里抑或占领或解放了哪些城镇
+> 
+> His reports paralleled the"Willie"cartoons of famed Stars and Stripes artist Bill Maulden.Both men emphasized the dirt and exhaustion of war,the fragments of civilization that the soldiers shared with each other and the civilians: coffee, tobacco, whiskey, shelter, sleep.To Egypt, France,and a dozen more countries,G.I.Joe was any American soldier, at that point the most important person in their lives.
+> **paralleled:** `并行的、平行的`
+> **famed:** `著名的`
+> **stripes:** `条纹、臂章、纹理`
+> **emphasized:** `强调、重视、着重、使突出`
+> **dirt:** `污物、尘土、污垢`
+> **exhaustion:** `疲惫、精疲力尽`
+> **fragments:** `碎片、片段`
+> **civilization:** `文明、文明社会`
+> **soldiers:** `军人、士兵`
+> **civilians:** `平民、老百姓`
+> **shelter:** `居所、住所、避难所`
+> **dozen:** `一打、十二个、十来个`
+> **tobacco:** `烟叶、烟草`
+>  
+> 英里抑或占领或解放了哪些城镇。他的报道
+与《星条报》著名画家比尔·莫尔登的《威利》系列漫画相似。 两人都强调战争的丑陋和损耗,以及士兵相互之间以及与平民之间分享的文明碎片:咖啡、烟草、威士忌、庇护所以及睡眠。对埃及、法国以及更多的国家而言,G.I.Joe是任何一名美国士兵,那个时候G.I.Joe是他们生活中最重要的人。
+
+
+
+
+### 07-22 ~ 07-28
+
+> I Given the advantages of electronic money,you might think that we would move quickly to the cashless society in which all payments are made electronically.However,a true cashless society is probably not around the corner.Indeed,predictions have been around for two decades but have not yet come to fruition.For example,Business
+Week predicted in 1975 that electronic means of payment would soon "revolutionize the very concept of money it-self,"only to reverse itself several years later. Why has the movement to a cashless society been so slow in coming?
+> **Given:** `鉴于、规定的、已经安排好的`
+> **advantages:** `有利条件、有利因素、优势`
+> **electronic:** `电子的`
+> **cashless:** `不用现金的`
+> **payments:** `支付、付款、缴纳`
+> **electronically:** `用电子方法、用电子装置`
+> **however:** `然而、可是、无论如何、不管怎样`
+> **probably:** `几乎肯定、很可能、大概`
+> **around the corner:** `即将发生`
+> **Indeed:** `甚至、的确、确实、实在、实际上、真正地`
+> **predictions:** `预言、预测、预告`
+> **fruition:** `完成、实现、取得成果`
+> **predicted:** `预言、预告、预报`
+> **revolutionize:** `彻底改变、完全改革`
+> **reverse:** `颠倒、彻底转变、撤销、废除`
+> **several:** `几个、数个、一些、各自的、分别的`
+> 
+> **movement:** `运动、转动、移动、迁移、转移、活动`
+> **so slow:** `慢慢的`
+> 
+> 鉴于电子货币的优势,你或许认为我们将迅速步入无现金社会,所有支付将电子化。然而真正的无现金社会可能不会马上到来。实际上,二十年来一直有这样的预测,但至今还没有实现。例如,1975年《商业周刊》预测称,电子支付手段不久将“彻底改变(人们对)钱币本身的观念”不料几年之后该言论也不攻自破了。为什么步入无现金社会的步伐如此缓慢?
+> 
+> 
+> Although electronic means of payment may be more efficient than a payment system based on paper,several factors work against the disappearance of the paper system. First, it is very expensive to set up the computer, card reader,and telecommunications networks necessary to make electronic money the dominant form of payment. Second, paper checks have the advantage that they provide receipts, something that many consumers are unwilling to give up.
+> **although:** `尽管如此、虽然、尽管`
+> **electronic:** `电子的、电子器件的、电子设备的`
+> **means:** `方式、方法、途径、财富`
+> **payment:** `付款、支付、收款`
+> **efficient:** `效率高的、有能力的`
+> **system:** `体系、系统、制度、体制`
+> **paper:** `纸、文件、论文、文章、贴纸、包装、提供纸张`
+> **several:** `几个、数个、一些、各自的、分别的`
+> **factors:** `因素、要素、因子、因数`
+> **against:** `反对、对...不利、紧靠、以防`
+> **disappearance:** `消失、不见、不复存在`
+> **expensive:** `昂贵的、花钱多的、价格高的`
+> **set up:** `设置、建立、准备、安排、引起`
+> **card reader:** `读卡器、卡片阅读器、卡片输入机`
+> **telecommunications:** `电信、电讯`
+> **necessary:** `必须的、必要的、必然的、无法避免的`
+> **electronic:** `电子的、电子器件的、电子设备的`
+> **dominant:** `首要的、主导、占优势的、统治的、支配的`
+> **advantage:** `有利条件、有利因素、优势、优点`
+> **provide:** `提供、供应、给予、规定`
+> **receipts:** `收据、收条、接受、收到`
+> **unwilling:** `不情愿、不愿意、勉强的、无奈的`
+> **give up:** `放弃、戒除、认输`
+> 
+> 尽管电子支付手段可能会比纸币付款系统更为高效,但是一些因素却阻止了纸币付款系统的消失。 其一,建立使电子货币成为主要支付方式的计算机、读卡器以及电信网络是非常昂贵的;其二,纸质支票的优势在于它们提供了很多消费者都不愿意放弃的收据。 
+
+
+
+
+

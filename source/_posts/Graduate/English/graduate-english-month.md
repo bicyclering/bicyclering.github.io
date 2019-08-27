@@ -2517,37 +2517,6 @@ categories: Graduate
 > > 目前使用了语言大概3000种在下一个世界来临前存活,大多数剩余的语言在下一个世纪就注定了吗?
 > 
 
-
-## 07-02 ALEX 长难句慢慢学系列 
-
-> Besides the ninety or so learned ministers who came to Massachusetts church in the decade after 1629, there were political leaders like John Winthrop, an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston.
-> > **Besides:** `除...之外、另外、况且、以及`
-> > **learned:** `有学问的、博学的、学术上的、得知、学习`
-> > **ministers:** `部长、牧师、大臣、公使`
-> > **decade:** `十年、十年期`
-> > **church:** `教堂、礼拜堂、礼拜、礼拜仪式`
-> > **political:** `政治的、政府的、政权的、政党的`
-> > **leaders:** `领导者、领袖、首领、最佳的人`
-> > **educated:** `有教育的、教育、训练、教导、教养`
-> > **gentleman:** `绅士`
-> > **lawyer:** `律师`
-> > **official:** `官员、公务员、行政官员、裁判`
-> > **Crown:** `王冠、花冠、王权、顶部`
-> > **journeyed:** `旅行`
-> > **Boston:** `波士顿`
-> 
-解析:本句较长，但并不复杂。
-> 开始的介词结构 besides the ninety or so learned ministers... 作状语
-> > 其中 ministers 后面带有 who 引导的定语从句;
-> 
-> 句子的主干是 there were political leaders...
-> > 介词结构 like John Winthrop 作 leaders 的定语
-> > 接着的几个名词短语 an educated gentleman, lawyer, and official of the Crown 是介绍 Winthrop 来波士顿之前的身份。
-> 
-> 核心词汇:or so 大概,左右 learned 博学的
-> 译文:除了在 1629 年之后的十年内到达麻塞诸塞教堂的 90 个左右博学的牧师以外，还 有像 John Winthrop 这样的政治领袖------来波士顿之前他是位受过良好教育的绅士，律师以 及国王的官员。
-
-
 ## 07-03 
 
 > It's hardly news that the immigration system is a mess. Foreign nationals have long been slipping across the border with fake papers, and visitors who arrive in the U. S legitimately often overstay their legal welcome without being punished. But since Sept 11, it's become clear that terrorists have been shrewdly factoring the weaknesses of our system into their plans. In addition to their mastery of forging passports, at least three of the 19 Sept. 11 hijackers (劫机者) were here on expired visas. That's been a safe bet until now. The Immigration and Naturalization Service (INS) (移民归化局) lacks the resources, and apparently the inclination, to keep track of the estimated 4 million foreigners who have intentionally overstayed their welcome.
@@ -2623,7 +2592,39 @@ categories: Graduate
 > > **extended:** `延期、扩大`
 > > **trouble:** `麻烦、忧虑、苦难` 
 
-## 07-05
+## ALEX 长难句
+
+### 07-02
+
+
+> Besides the ninety or so learned ministers who came to Massachusetts church in the decade after 1629, there were political leaders like John Winthrop, an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston.
+> > **Besides:** `除...之外、另外、况且、以及`
+> > **learned:** `有学问的、博学的、学术上的、得知、学习`
+> > **ministers:** `部长、牧师、大臣、公使`
+> > **decade:** `十年、十年期`
+> > **church:** `教堂、礼拜堂、礼拜、礼拜仪式`
+> > **political:** `政治的、政府的、政权的、政党的`
+> > **leaders:** `领导者、领袖、首领、最佳的人`
+> > **educated:** `有教育的、教育、训练、教导、教养`
+> > **gentleman:** `绅士`
+> > **lawyer:** `律师`
+> > **official:** `官员、公务员、行政官员、裁判`
+> > **Crown:** `王冠、花冠、王权、顶部`
+> > **journeyed:** `旅行`
+> > **Boston:** `波士顿`
+> 
+解析:本句较长，但并不复杂。
+> 开始的介词结构 besides the ninety or so learned ministers... 作状语
+> > 其中 ministers 后面带有 who 引导的定语从句;
+> 
+> 句子的主干是 there were political leaders...
+> > 介词结构 like John Winthrop 作 leaders 的定语
+> > 接着的几个名词短语 an educated gentleman, lawyer, and official of the Crown 是介绍 Winthrop 来波士顿之前的身份。
+> 
+> 核心词汇:or so 大概,左右 learned 博学的
+> 译文:除了在 1629 年之后的十年内到达麻塞诸塞教堂的 90 个左右博学的牧师以外，还 有像 John Winthrop 这样的政治领袖------来波士顿之前他是位受过良好教育的绅士，律师以 及国王的官员。
+
+### 07-05
 
 > Downshifting ---also known in America as " voluntary simplicity"----has, ironically ,even bred a new area of what might be termed anti-consumerism.
 > > **Downshifting:** `放慢生活、减速生活、降档`
@@ -2634,23 +2635,507 @@ categories: Graduate
 > > **might:** `可以、应该`
 > > **termed:** `把...称为、把...叫做`
 > > **anti-consumerism:** `反对消费主义`
-> > 解析:本句的主干在破折号之外:downshifting 是主语，has bred 是谓语，a new area 是宾语，其中 area 后的 of 短语 of what might be termed anti-consumerism 作 area 的定语， what 引导的从句作 of 的宾语。破折号中间的部分对 downshifting 作补充说明。
+> > 解析:本句的主干在破折号之外:downshifting 是主语,has bred 是谓语,a new area 是宾语,其中 area 后的 of 短语 of what might be termed anti-consumerism 作 area 的定语,what 引导的从句作 of 的宾语。破折号中间的部分对 downshifting 作补充说明。
 > > 
-> > 译文:具有讽刺意味的是，放慢生活节奏-----在美国也被称为“自愿简朴”-----甚至孕 育了一个全新的领域，不妨称之为“反消费主义”。
+> > 译文:具有讽刺意味的是,放慢生活节奏-----在美国也被称为“自愿简朴”-----甚至孕 育了一个全新的领域,不妨称之为“反消费主义”。
+
+
+### 07-09
+
+> Applaud for your persistence and effort!
+> **Applaud:** `拍手、喝彩、鼓掌`
+> **persistence:** `坚持不懈`
+> **effort:** `努力、尽力`
+> 
+> You can make a mental blueprint of a desire as you would make a blueprint of a house and each of us is continually making these blueprints in the general routine of everyday living.
+> **mental:** `脑海里、思想的、精神的、思考的`
+> **desire:** `渴望、希望、欲望、请求`
+> **continually:** `不断地、不停地、持续地`
+> **general:** `普遍的、一般地`
+> **routine:** `常规、正常顺序、生活乏味`
+> 
+> 解析:本句是一个并列句,包含两个分局。
+> 
+> 第一个分句主干是  you can make a mental blueprint of a desire,后面的 as(像...一样)引导一个状语从句,将a mental blueprint of a desire 和 a blueprint of a house相比较。
+> 
+> 第二个分句的主干是 each of us is...making these blueprints ...。
+> 注意：第二个分句中的is continually making 使用一般进行时表示经常发生的 事情(这种事情往往冷人不快)。
+> 
+> 译文: 就像盖房子前给一所房子绘制蓝图一样,你可以在脑海里给你自己想要得到的东西绘制一幅蓝图;我们每个人在日常生活中做事的时候都在不断绘制这样的蓝图。
+
+
+### 07-10
+
+> Applaud for your persisttence and effort!
+> **Applaud:** `喝彩、鼓掌`
+> **persisttence:** `坚持`
+> **effort:** `努力`
+> 
+> That group --- the National Bioethics Advisory Commission---has been working feverishly to put its wisdom on paper,and at a meeting on 17 May,members agreed on a near-final draft of their recommendations...
+> **Bioethics:** `生物伦理学`
+> **Advisory:** `、顾问呢、咨询、公告、劝告的`
+> **Commission:** `委员会、委员、佣金、手续费`
+> **feverishly:** `发热地、狂热地`
+> **wisdom:** `智慧、才智、精明、明智`
+> **near-final:** `接近决赛`
+> **draft:** `草稿、草案、草图`
+> **recommendations:** `正式建议、提议、推荐、介绍、推荐信`
+> 
+> **解析:**
+> 本句包含两个并列句,以and连接
+> 
+> 第一个并列分句的主语是that group,两个破折号之间的部分是 that group的同位语,指出group的具体名称;谓语是working,后面的to put its wisdom on paper 是状语,表示目的,注意,此外的feverishly用作褒义词,意思是热情 高涨地。
+> 
+> 第二个并列分句在and后,结构相对简单。其中at a meeting on 17 May 是状语部分,逗号后面是主干。
+> 
+> 译文: 这个专家小组---全国生物伦理道德顾问委员会---一直在兴奋地工作,群策群力地写建议书,并于5月17号的会议上,委员会就接近定稿的建议达成了一致意见。
+
+
+### 07-15
+
+> Aimlessness has hardly been typical of the postwar Japan whose productivity and social harmony are the envy of the United States and Europe. But increasingly the Japanese are seeing a decline of the traditional work-moral values.
+> **Aimlessness:** `漫无目的、无目的`
+> **hardly:** `几乎不、几乎没有`
+> **typical:** `典型的、有代表性的`
+> **postwar:** `战后的、战后不久的`
+> **productivity:** `生产率、生产效率`
+> **harmony:** `融洽、和睦`
+> **envy:** `羡慕、妒忌`
+> **increasingly:** `越来越多地、不断增加地`
+> **decline:** `减少、下降、衰落、衰退`
+> **work-moral:** `工作道德`
+> 
+> **解析:**
+> > 第一句是复合句。Aimlessness 主语 + has been系动词 + typical of the postwar Japan表语，其中hardly作状语。
+> > whose productivity and social harmony are the envy of the United States and Europe,whose引导的这句话是定语从句修饰postwar Japan,这句话的结构是productivity and social harmny 主语 + are 系动词 + the envy of the United States and Europe表语。
+> > 第二句是个简单句。the Japanese 主语 + are seeing 谓语 + a decline宾语,介词短语of the traditional work-moral values作后置定语,修饰decline;副词increasingly 作状语。
+> > **译文:**
+> > 战后日本的生产能力和社会和谐为美国和欧洲各国所称羡,因此很难说漫无目的是战后日本的特色。但是,日本人的传统职业道德观正在日益衰退。
+
+### 07-19
+
+> That as much as one-fourth of all timber harvested is not used proved to be false.
+> **as much:** `同样地`
+> **timber:** `树木、林木`
+> **harvested:** `砍伐、收割、捕猎、采集`
+> **proved:** `证明、证实`
+> 
+> **解析:**
+> > 句子的主干是: That引导名词性从句作主语,谓语动词是proved,to be false是不定式作表语;在主语从句中,主语是timber,as much as one-fourth of all是主语timber 的前置定语,harvested是timber的后置定语,谓语是is not used; 此句中that引导的名词性从句置于句首,表面上看头重脚轻,实际这是一种语言修辞,是一种强调手段。
+> > 译文：所有被砍伐的木材里有多达四分之一没有被利用,结果证明这是错误的。
 
 
 
+### 07-23
+
+> At its peak in 2007 it was worth some ￥65 billion,reckons Clare McAndrew,founder of Arts Economies,a research firm - double the figure five years earlier.
+> **reckon:** `想、认为`
+> **Clare McAndrew:** `麦克安德鲁`
+> **founder:** `创建者、发起人、失败、破产、沉没`
+> **firm:** `商行、商号、公司`
+> **double:** `两倍`
+> **figure:** `数量、数字、数字符号、字码`
+> **earlier:** `早期的、早些时候`
+> 
+> **解析:**
+> 
+> 本句话采用了倒装语序,正常语序应是:Clare McAndrew,founder of Arts Economics,a research firm,reckons at its peak in 2007 it was worth some ￥65 billion - double the figure five years earlier.
+> 
+> 主语是Clare McAndrew,谓语动词是reckons,其后面是省略了连接词that的宾语从句;双逗号之间的founder.. 是主语的同位语,补充说明其身份,紧随其后的a research firm是其前面Arts Economies的同位语,补充说明该机构的性质;宾语从句中,画线表述at..是从句的时间状语,破折号后面是形容词短语double..作非限制性后置定语,对前面的some $ 65 billion作补充说明。
+> 
+> **译文: **
+> Clare McAndrew是一家名叫Arts Economics研究公司的创始人,他估计在2007年的高峰期,世界艺术品市场的价值约为650亿美元,是其五年前的两倍。
+
+
+### 07-25
+
+> I was addressing a small gathering in a suburban Virginia living room——a women's group that had invited men to join them.
+> **gathering:** `聚集、聚会、集会`
+> **suburban:** `郊区的、城外的`
+> **Virginia:** `弗吉尼亚洲`
+> 
+> 
+> **解析:**
+> 本句话的主干是I was addressing a small gathering.,其中主语是I,
+> 谓语动词是was addressing,
+> 宾语是a small gathering,
+> 介词短语(in..) 作地点状语,表示addressing发生的地点,
+> 破折号后面的画线表达是a small gathering的同位语,对其作进一步补充说明,最后的括号表达则是that引导的定语从句修饰限定先行词group。
+> **译文:**
+> 弗吉尼亚郊区的一间会客厅里有一个小的聚会,我正在作发言——这是个女性团体举办的聚会,但也邀请了男性一并参加。
+
+### 07-26
+
+> Given the current divorce rate of nearly 50 percent,that amounts to millions of cases in the United States every year—— a virtual epidemic of failed conversation..
+> **Given:** `考虑到、鉴于`
+> **rate:** `速度、比率、价格、费用`
+> **amounts to:** `等同、接近`
+> **virtual:** `事实上的、实际上的、几乎...的`
+> **epidemic:** `流行病`
+> **conversation:** `交谈、谈话`
+> 
+> 
+> **解析:**
+> 本句话的主干是: .. that amounts to millions of cases., 
+> 其中主语是that, 指代上文lack of communication,
+> 谓语动词是amounts to (等同于,意味着),
+> 宾语是millions of cases;过去分词短语(Given..) 在句中作原因状语,介词短语(in..) 作地点状语,(every year)在句中作时间状语。破折号后面的画线表达是名词短语作同位语,对前面的宾语millions of cases作进一步补充说明;句尾的介词短语(of..) 作后置定语,修饰限定epidemic。
+> **译文:**
+> 考虑到目前近50%的离婚率,这意味着在美国每年会有数以百万计的离婚案例一一实际就是交流不畅导致的瘟疫。
+
+### 07-28
+
+> Thinner isn't always better.A number of studies have concluded that normal-weight people are in fact at higher risk of some diseases compared to those who are overweight. And there are health conditions for which being overweight is actually protective .For example,heavier women are less likely to develop calcium deficiency than thin women.likewise,among the elderly,being somewhat overweight is often an indicator of good health.
+> **Thinner:** `较瘦的`
+> **better:** `更好的、更熟练的`
+> **conclude:** `推断、决定`
+> **normal-weight:** `正常体重`
+> **higher risk:** `高风险`
+> **compared:** `比较的、对照的`
+> **overweight:** `超重的、过重的`
+> **conition:** `条件、情况`
+> **actually:** `实际上、事实上`
+> **protective:** `防护的、关切保护的`
+> **hevier:** `沉重的、巨大的`
+> **heavier:** `沉重的、巨大的`
+> **likely:** `很有可能的、合适的`
+> **less likely:** `最不可能的是、较少可能`
+> **develop:** `开发、进步`
+> **calcium:** `[化学]钙`
+> **deficiency:** `缺陷、缺点`
+> **likewise:** `同样地、也`
+> **elderly:** `上了年纪的、过了中年的`
+> **being:** `存在、生物`
+> **somewhat:** `有点、稍微`
+> **indicator:** `指标、标志`
+> 
+> 
+> 更瘦并不总是意味着更好。一些研究得出结论,与超重人群相比,体重正常的人其实患某些疾病的风险更高。并且在一些健康状况方面,超重实际上是保护性的。例如,与苗条的女性相比,较重的女性更不容易缺钙。该道理在老年人中同样适用,有几分超重往往是身体健康的标志。
+
+### 07-29
+
+> Being a man has always been dangerous.There are about 105 males born for every 100 females,but this ratio drops to near balance at the age of maturity and among 70-year-olds there are twice as many women as men.
+> **being:** `存在、生物`
+> **been:** `是、有`
+> **dangerous:** `危险的、危险地`
+> **male:** `男性的、雄性的`
+> **female:** `女性的、雌性的`
+> **ratio:** `比例、比率`
+> **drop:** `推动、帮助`
+> **near:** `接近、靠近`
+> **balance:** `平衡、余额`
+> **maturity:** `成熟、到期`
+> 
+> **解析:**
+> 第一句是一个"主语(Being a man) + 系动词(has been) + 表语(dangerous)"结构的简单句;副词always作状语,修饰系动词。
+> 第二句是一个复合句,由三个分句构成,分句一There are about 105 males born for every 100 females是 There be句型: There +be+主语。for every 100 females是介词短语作状语。过去分词born作后置定语,修饰males。
+but连接并列分句二,表转折this ratio drops(主+谓),介词短语to near balance作状语,表程度,介词短语at the age of maturity作时间状语, 
+and连接并列分句三and..there are twice as many women as men.同样也是there be句型。
+,后面的介词短语among 70-year-olds作状语,这句话使用了倍数的表达方式:"...times + as many(或much) + 名词 + as.."。句中的介语短语as men作比较状语。
+> **译文:**
+> 身为男性总是充满危险。男女出生时的比例大约是105:100,但到了成年期,这一比例就会下降到几乎持平,而在70岁的老人中,女性人数是男性的两倍。
 
 
 
+### 07-30
+
+> Of even greater concern is the fact that obesity "turns out to be very difficult to define.It is often defined interms of body massindex,or BMI.BMI equals body mass divided by the square of height.An adult with a BMI of 18 to 25 is often considered to be normal weight.Between 25 and 30 is overweight.And over 30 is considered obese.Obesity,in turn,can be divided into moderately obese,severely obese,and very severely obese.
+> **of:** `属于、....的`
+> **even:** `甚至、即使`
+> **greater:** `较大的`
+> **concern:** `影响、牵涉`
+> **obesity:** `肥大、肥胖`
+> **turn out to be:** `结果是、原来是`
+> **defined:** `界定了、清晰的`
+> **in terms:** `明确地、毫不含糊的`
+> **mass index:** `质量指数`
+> **mass:** `块、团`
+> **divided:** `分裂的、分开的`
+> **square:** `平方的、正方形的`
+> **adult:** `成年的、成熟的`
+> **BMI(Body Mass Index):** `身体质量指数`
+> **considered:** `经过深思熟虑的、被尊重的`
+> **overweight:** `超重的、过重的`
+> **obese:** `肥胖的、过胖的`
+> **in turn:** `反过来、转而、轮流、依次`
+> **moderately:** `适度地、中庸地`
+> **severely:** `严重地、严格地`
+> 
+> 更令人关注的是,肥胖被证明是很难界定的。它通常依据身高体重指数(即BMI)来定义。BMI便是体重除以身高的平方。一个成年人的BMI介于18至25之间,往往被视作体重正常。BMI介于25至30之间被认为是超重。BMI为30以上被看作是肥胖。 而肥胖也相应地可再分为中度肥胖、严重肥胖及极严重肥胖。
+
+
+### 07-31
+
+> While such numerical standards seem straightforward,they are not.Obesity is probably less a matter of weight than body fat.Some people with a high BMI are in fact extremely fit,while others with a low BMI may be in poor shape.For example,many collegiate and professional football players qualify as obese, though their percentage body fat is low.Conversely, someone with a small frame may have high body fat but a normal BMI.
+> **while:** `在...期间、在...的过程中`
+> **with:** `和...在一起、具有`
+> **such:** `这样的、如此的`
+> **numerical:** `数值的、数字的`
+> **standards:** `标准、规格`
+> **seem:** `似乎、像是`
+> **straightforward:** `简单的、坦率的`
+> **obesity:** `肥大、肥胖`
+> **probably:** `大概、或许`
+> **matter:** `物质、事件`
+> **extremely:** `非常、极其`
+> **fact:** `事实、实际、真相`
+> **fit:** `安装、使...适应`
+> **poor:** `贫穷的、可伶的`
+> **shape:** `形状、模型`
+> **collegiate:** `大学的、学院的`
+> **professional:** `专业的、职业的`
+> **qualify:** `限定、修饰`
+> **obese:** `肥胖的、过胖的`
+> **percentage:** `百分比、百分率`
+> **conversely:** `相反地`
+> **someone:** `有人、某人`
+> **frame:** `框架、结构`
+> **normal:** `正常的、正规的`
+> 
+> 虽然这样的数值标准看上去很直接明了,但那其实是假象。肥胖与其说是体重的问题,倒不如说是身体脂肪含量的问题。有些BMI高的人实际上体格非常好,而另一些BMI低的人反而可能外形不佳。例如,许多大学和职业足球选手(按照BMI来衡量)可算作是肥胖者,可是他们的身体脂肪百分比却很低。反之,一些小身形的人可能身体脂肪含量很高但BMI却正常.
+
+
+### 08-01
+
+> Today we have a(n) tendency to label obesity as a disgrace.The overweight are sometimes pictured in the media with their faces covered.Stereotypes associated with obesity include laziness,lack of will power,and lower prospects for success.Teachers,employers,and health professionals have been shown to harbor biases against the obese.Even very young children tend to look down on the overweight,and teasing about body build has long been a problem in schools.Negative attitudes toward obesity,grounded in health concerns,have stimulated a number of antiobesity policies .My own hospital system has banned sugary drinks from its facilities.Many employers have instituted weight loss and fitness initiatives.Michelle Obama has launched a high-visibility campaign against childhood obesity,.even claiming that it represents our greatest national security threat.
+> **tendency:** `倾向、趋势`
+> **with:** `和...在一起、具有`
+> **label:** `标签、商标`
+> **obesity:** `肥大、肥胖`
+> **disgrace:** `耻辱、丢脸的人或事`
+> **overweight:** `超重的、过重的`
+> **pictured:** `画、想象`
+> **media:** `媒体、煤质`
+> **faces:** `表面、脸色`
+> **covered:** `覆盖了的、隐蔽着的`
+> **stereotype:** `陈腔滥调、老套`
+> **associated:** `关联的、联合的`
+> **include:** `包含、包括`
+> **laziness:** `怠惰、无精打采`
+> **power:** `力量、能力`
+> **prospect for:** `勘探`
+> **professionals:** `专业人员`
+> **shown:** `解释、给予`
+> **harbor:** `港、香港`
+> **biases:** `偏差、偏见`
+> **against:** `反对、违反`
+> **obese:** `肥胖的、过胖的`
+> **teasing:** `戏弄`
+> **has long been:** `长期以来、一直`
+> **negative:** `负的、消极的`
+> **attitudes:** `态度、看法`
+> **obesity:** `肥大、肥胖`
+> **grounded:** `理性的、理智的`
+> **concerns:** `关注、关注点`
+> **stimulated:** `受激的`
+> **autiobesity:** `减肥`
+> **a number of:** `若干、一些、许多`
+> **policies:** `政策、保险单`
+> **banned:** `被禁的、被取缔的`
+> **sugary:** `含糖的、甜的`
+> **facilities:** `设施、工具`
+> **employers:** `雇主`
+> **innstituted:** `创立、设置`
+> **loss:** `减少、亏损`
+> **fitness:** `健康、适当`
+> **initiatives:** `积极性、主动权`
+> **launched:** `启动、发射`
+> **high-visibility:** `高能见度`
+> **campaign:** `运动、活动`
+> **childhood:** `童年时期、幼年时代`
+> **claiming:** `声称、要求给予`
+> **represents:** `代表、表现`
+> **greatest:** `最伟大的、最好的`
+> **national:** `国家的、国民的`
+> **security:** `安全、安全性`
+> **threat:** `威胁`
+> 
+> 如今,人们倾向于将肥胖视作一件丢脸的事。超重的人有时在媒体拍摄中出现时脸部都是被遮住的。与肥胖有关的刻板印象包括懒惰、缺乏意志力及成功前景黯淡。 教师、雇主以及健康专业人士已被证明对肥胖者怀有偏见。 即便非常年幼的儿童往往也看不起超重的人,而且对体格的戏弄早已成为学校里的问题之一。基于健康考虑而对肥胖所持的负面态度,已经引发了一些抗肥胖政策。我自己的医院系统已经禁止了其设施中的含糖饮料。 许多雇主发起了减肥和健身计划。 米歇尔 ·奥巴马推出了高度引人注目的对抗儿童肥胖的运动,甚至声称“儿童肥胖问题”代表了美国最大的国家安全威胁。
 
 
 
+### 08-06
+
+> What is it that makes us feel we need to hide behind our screens? One answer is fear, according to Jon Wortmann, an executive mental coach. We fear rejection, or that our innocent social advances will be misinterpreted as "weird." We fear we'll be judged .We fear we'll be disruptive.
+> Strangers are inherently unfamiliar to us, so we are more likely to feel anxious when communicating with them compared with our friends and acquaintances. To avoid this uneasiness, we turn to our phones. “Phones become our security blanket,"Wortmann says. "They are our happy glasses that protect us from what we perceive is going to be more dangerous.”
+>
+> **screens:** `屏幕、卡位`
+> **fear:** `害怕、恐惧`
+> **executive:** `经营管理的、有执行权的`
+> **mental:** `精神的、脑力的`
+> **coach:** `教练、旅客车厢`
+> **an executive mental coach:** `高管心理教练`
+> **rejection:** `抛弃、拒绝`
+> **innocent:** `无辜的、无罪的`
+> **advances:** `前进、预付款`
+> **misinterpreted:** `曲解、误解`
+> **weird:** `怪异的、不可思议的`
+> **judged:** `裁决、审理`
+> **disruptive:** `破坏的、分裂性的`
+> **strangers:** `陌生人、陌生事物`
+> **inherently:** `内在地、固有地`
+> **unfamiliar:** `不熟悉的、不常见的`
+> **likely:** `很可能的、合适的`
+> **anxious:** `焦虑的、担忧的`
+> **communicating:** `(房间)想通的、相连的`
+> **compared:** `比较的、对照的`
+> **acquaintance:** `熟人、相识`
+> **avoid:** `避免、避开`
+> **uneasiness:** `不安、担忧`
+> **blanket:** `毛毯、毯子`
+> **protect:** `保护、防卫`
+> **perceive:** `察觉、感觉`
+> **dangerous:** `危险的`
+> 
+> 
+> 是什么让我们觉得自己需要躲在屏幕后面?高级心理培训师乔恩·沃特曼认为,答案之一是恐惧。我们害怕被拒绝,或者害怕我们单纯的主动社交行为会被误解为是“怪异的”。 我们害怕自己会被品头论足。 我们害怕会打扰到别人。
+我们本来就对陌生人不熟悉,因此与朋友或熟人相比,我们与陌生人交流时更有可能会感到焦虑。 为了避免这种局促感,我们转向我们的手机。“手机成了我们的安全毯,”沃特曼说道,“它们是我们愉悦的眼镜,使我们免受我们认为可能会更危险的事物之害。”
 
 
+### 08-07
+
+> But once we rip off the band-aid, tuck our smartphones in our pockets and look up, it doesn't hurt so bad. In one 2011 experiment, behavioral scientists Nicholas Epley and Juliana Schroeder asked commuters to do the unthinkable: Start a conversation. They had Chicago train commuters talk to their fellow passengers "When Dr.Epley and Ms.Schroeder asked other people in the same train station to predict how they would feel after talking to a stranger, the commuters thought their ride would be more pleasant if they sat on their own," The New York Times summarizes. Though the participants didn't expect a positive experience, after they went through with the experiment,” not a single person reported having been embarrassed.”
+> In fact, these commutes were reportedly more enjoyable compared with those without communication, which makes absolute sense, since human beings thrive off of social connections. It's that simple: Talking to strangers can make you feel connected.
+> **rip:** `撕、锯`
+> **rip off:** `偷窃、扯掉`
+> **band-aid:** `创可贴`
+> **tuck:** `卷起、挤进`
+> **smartphones:** `智能手机`
+> **look up:** `仰望、查阅`
+> **bad:** `坏的、严重的`
+> **experiment:** `实验、实验`
+> **behavioral:** `行为的`
+> **scientists:** `科学家`
+> **commuters:** `通勤者、每日往返上班者`
+> **unthinkable:** `不能想象的、过分的`
+> **fellow:** `(非正式)男人、男孩、家伙`
+> **passengers:** `旅客、乘客`
+> **predict:** `预言、预知`
+> **stranger:** `陌生人、外地人、局外人`
+> **thought:** `思想、思考、想法 (think过去式和过去分词)`
+> **pleasant:** `令人愉快的、舒适的`
+> **participants:** `参与者`
+> **expect:** `期望、指望`
+> **positive:** `积极的、正的`
+> **experiment:** `实验、试验`
+> **embarrassed:** `尴尬的、窘迫的`
+> **fact:** `事实、实际`
+> **commutes:** `通勤者、每日往返上班者`
+> **reportedly:** `据报道、据传闻`
+> **enjoyable:** `快乐的、有乐趣的`
+> **compared:** `比较的、对照的`
+> **communication:** `通讯、通信`
+> **absolute:** `绝对的、完全的`
+> **sense:** `感觉、功能`
+> **since:** `自...以后、何曾`
+> **thrive:** `繁荣、兴旺`
+> **strangers:** `陌生人、陌生事物`
+> 
+> 但一旦我们撕掉这个绷带,把我们的智能手机塞入口袋,抬起头来,其实情况并没那么糟糕。在2011年的一项实验中,行为科学家尼古拉斯·埃普利和朱莉安娜·施罗德让通勤者做了一件不可思议的事:主动攀谈。他们让芝加哥火车通勤乘客与同车的乘客聊天。“当埃普利博士和施罗德女士让同一车站的其他人预测他们与陌生人交谈之后是什么感受时,那些通勤者认为,如果他们自己一个人坐着,旅途会更愉悦。”《纽约时报》总结道。尽管参与者并没有期待会有一次积极体验,但当他们完成实验后,“没有一个人声称自己感到尴尬”.
+> 实际上,这些(参与交流的)通勤者的旅程据称比那些没有沟通的通勤者的旅程更加令人愉悦,这是完全合乎情理的,因为人类是在社会交往中发展起来的。 道理很简单:与陌生人交谈可以让你感受到自己与他人是有联系的
 
 
+### 08-08
 
+> Happy people work differently. They're more productive, more creative, and willing to take greater risks. And new research suggests that happiness might influence how firms work, too. Companies located in places with happier people invest more, according to a recent research paper. In particular firms in happy places spend more on R&D(research and development). That's because happiness is linked to the kind of longer-term thinking necessary for making investments for the future.
+> **differently:** `不同地、差异`
+> **productive:** `能生成的、生成的`
+> **risks:** `风险、危险`
+> **suggests:** `暗示、建议`
+> **invest:** `投资、覆盖`
+> **recent:** `最近的、近代的`
+> **particular:** `特别的、详细的`
+> **long-term:** `长期的`
+> **investments:** `投资、投资的财产`
+> **future:** `未来、前途`
+> 
+> 幸福的人工作方式有所不同。他们更高效,更有创造力,且愿意去冒更大风险。新的研究表明幸福感也可能影响公司如何运作.根据近期某篇研究论文,位于居民幸福感更强的地方的公司投资更多。尤其地,位于幸福之地的公司在研发(研究和开发)上投入更多。 那是因为幸福感与对未来做投资所必需的那种长远思考相联系。
 
+### 08-09
 
+> The researchers wanted to know if the optimism and inclination for risk-taking that come with happiness would change the way companies invested. So they compared U.S. cities' average happiness measured by Gallup polling with the investment activity of publicly traded firms in those areas.
+> Sure enough, firms' investment and R&D intensity were correlated with the happiness of the area in which they were headquartered. But is it really happiness that's linked to investment, or could something else about happier cities explain why firms there spend more on R&D? To find out, the researchers controlled for various factors that might make firms more likely to invest-like size, industry, and sales-and for indicators that a place was sociable to live in, like growth in wages or population. The link between happiness and investment generally held even after accounting for these things.
+> **optimism:** `乐观、乐观主义`
+> **inclination:** `倾向、爱好`
+> **risk-taking:** `冒险、承担风险`
+> **invested:** `投资、花费`
+> **compared:** `比较的、对照的`
+> **measured:** `量过的、慎重的`
+> **polling:** `投票、轮询`
+> **investment:** `投资、投入`
+> **activity:** `活动、行动`
+> **publicly:** `公然地、以公众名义`
+> **traded:** `交易、买卖货物`
+> **sure enough:** `果然、果真`
+> **intensity:** `强度、强烈`
+> **find out:** `找出、查明`
+> **correlated:** `有相互关系的`
+> **headquartered:** `以...为总部所在地的`
+> **happier:** `更快乐的、更幸福的`
+> **controlled:** `受控制的、受约束的`
+> **various:** `各式各样的`
+> **factor:** `因素、要素`
+> **invest:** `投资、覆盖`
+> **industry:** `产业、工业`
+> **indicator:** `指示器、指示剂`
+> **sociable:** `社交的、好交际的`
+> **growth:** `增长、发票`
+> **wage:** `工资、报酬`
+> **population:** `人口、种群`
+> **generally:** `通常、普遍地、一般地`
+> **accounting:** `会计、会计学`
+> 
+> 研究者想要了解随幸福感而来的乐观和冒险倾向是否会改变公司的投资方式。于是,他们将由盖洛普民意测验调查得出的美国城市平均幸福指数与那些地区上市公司的投资活动进行了比较。果然,公司的投资和研发力度与其总部所在地的幸福指数相关。但与投资相联系的真的是幸福指数吗?或者说,和幸福指数较高城市相关的其他方面能否解释为何那里的公司在研发上投入更多?为了查明真相,研究者们控制了可能促使公司更愿意投资的多种因素一-比如规模,产业和销售一以及一个地方适宜居住的指标,比如工资涨幅或人口增长.甚至在考虑了这些情况之后,幸福感和投资之间的关联依然普遍适用.
 
+### 08-12
+
+> The correlation between happiness and investment was particularly strong for younger firms, which the authors attribute to“less codified decision making process” and the possible presence of "younger and less experienced managers who are more likely to be influenced by sentiment." The relationship was also stronger in places where happiness was spread more equally .Firms seem to invest more in places where most people are relatively happy, rather than in places with happiness inequality.
+> 
+> While this doesn't prove that happiness causes firms to invest more or to take a longer-term view , the authors believe it at least  hints at that possibility. It's not hard to imagine that local culture and sentiment would help shape how executives think about the future. “It surely seems plausible that happy people would be more forward-thinking and creative and lean towards R&D more than the average," said one researcher.
+> 
+> **correlation:** `相互关系、相关`
+> **investment:** `投资、投入`
+> **particularly:** `异乎寻常地、特别是`
+> **attribute:** `归属、把...归于`
+> **codify:** `编纂、将...编成法典`
+> **decision:** `决定、决心`
+> **process:** `过程、工艺流程`
+> **decision making process:** `决策过程`
+> **presence:** `存在、出席`
+> **sentiment:** `感情、情绪`
+> **spread:** `传播、伸展`
+> **invest:** `投资、覆盖`
+> **relatively:** `相当地、相对地`
+> **prove:** `证明、检验`
+> **cause:** `原因、事业`
+> **longer-term:** `更长期的`
+> **hint:** `暗示、线索`
+> **possibility:** `可能性、可能发生的事物`
+> **culture:** `文化、文明`
+> **shape:** `形状、模型`
+> **executive:** `经营管理的、有执行权的`
+> **surely:** `当然、无疑`
+> **plausible:** `看似可信的、花言巧语的`
+> **forward-thinking:** `有远见的`
+> **lean:** `倾斜身体、倚靠`
+> **average:** `一般人、平均、平均数`
+> 
+> 幸福感和投资之间的关联在较年轻公司尤其明显,作者将其归因于“不那么固守成规的决策过程”以及(企业)可能存在“较为年轻且经验较少的管理者,他们更容易受到思想情感的影响”。这一关联在幸福感较为均等分布的地方也更加明显。.,公司似乎在大多数人都比较幸福的地区投资更多,而不是在幸福感不均等的地区。
+尽管这并不能证明幸福感致使公司增加投资或更有远见,作者相信它至少隐含了那种可能性,不难想象,地方文化和思想情感将有助于影响管理者如何思考未来。“似乎可以确信的是,幸福的人更有远见,更加创新,并且比一般人更倾向于研发,”一位研究者说道。
+
+### 08-26
+
+> What makes this slump different from the last, he says,is that there are still buyers in the market.Al-most everyone who was interviewed for this special report said that the biggest problem at the moment is not a lack of demand but a lack of good work to sell. The three Ds-death,debt and divorce-still deliver works of art to the market. But anyone who does not have to sell is keeping away,waiting for confidence to return.
+> **slump:** `骤降、重重地坐下`
+> 
+> **almost:** `差不多、几乎`
+> 
+> **interviewed:** `面试、接见`
+> 
+> **moment:** `片刻、瞬间`
+> 
+> **demand:** `要求、需求`
+> 
+> **work:** `作品`
+> 
+> 他说,此次衰退不同于上次的地方在于现在市场上仍然有买家。 几乎所有接受此次特别报道的受访者都说,当前最大的问题不是缺少需求,而是缺少好的售卖作品。3D-一死亡、债务和离婚-一依然是将艺术品推向市场的三大因素。 但那些不是非卖不可的人都在远离市场,等待市场信心的回转。
