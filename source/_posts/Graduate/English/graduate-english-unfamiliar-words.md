@@ -1,5 +1,5 @@
 ---
-title: 阅读文章
+title: 英语二
 date: 2019-08-11 18:40
 tags: English
 categories: Graduate
@@ -8,6 +8,16 @@ categories: Graduate
 
 # words
 
+
+**注意事项:阅读文章背诵**
+
+* 2007年第2、3篇
+* 2008年第4篇
+* 2012年第4篇
+* 2013年第1篇
+* 2014年第1篇
+* 2016年第4篇
+* 2018年第2、3篇
 
 **Introduction of English Test**
 
@@ -2908,49 +2918,49 @@ categories: Graduate
 
 ### 02
 
-> major `主要的`
+> major `主要的、重要的`
 > 
 > prairie `草原、牧场`
 > 
 > drastically `彻底地、剧烈地`
 > 
-> population `数量`
+> population `人口、数量`
 > 
-> underestimate `低估`
+> underestimate `低估、看轻`
 > 
-> acreage `面积`
+> acreage `面积、英亩数`
 > 
-> desperate `绝望地`
+> desperate `不顾一切的、令人绝望的`
 > 
 > appeal `呼吁`
 > 
 > insistence `坚持、强调`
 > 
-> insist `坚持`
+> insist `坚持、强调`
 > 
-> landowners `地主`
+> landowners `地主、土地所有者`
 > 
-> disappointed `失望`
+> disappointed `失望的、沮丧的`
 > 
 > give-in `让步、屈服`
 > 
-> involve `涉及`
+> involve `包含、涉及`
 > 
-> agencies `机构`
+> agency `代理、中介`
 > 
-> granted `授予`
+> grant `授予、允许`
 > 
-> conservation `保护 `
+> conservation `保存、保持、保护 `
 > 
-> unintentional `无意地`
+> unintentional `非故意地、无意识的`
 > 
-> prosecuted `起诉`
+> prosecuted `被起诉的、起诉`
 > 
-> compensation `赔偿金`
+> compensation `补偿、报酬、赔偿金`
 > 
-> volunteer `志愿者`
+> volunteer `志愿者、志愿兵`
 > 
-> set up `建立`
+> set up `建立、装配`
 > 
 > 
 > 
@@ -3075,7 +3085,7 @@ categories: Graduate
 > 
 > pressure `压力、压迫`
 > 
-> fulfilling `令人满意的`
+> fulfilling `令人满意的、能实现个人抱负的`
 > 
 > pursue `继续、从事、追赶`
 > 
@@ -3188,7 +3198,688 @@ categories: Graduate
 
 ### 01
 
+> popularity `普及、流行`
 > 
+> strengthen `加强、巩固`
+> 
+> tie `系、系牢`
+> 
+> festival `节日、庆祝`
+> 
+> legacy `遗赠、遗产`
+> 
+> boost `促进、增加`
+> 
+> population `人口、种群`
+> 
+> participation `参与、分享`
+> 
+> increase `增加、增大`
+> 
+> olympic `奥林匹克的`
+> 
+> aims `自动化工业管理系统`
+> 
+> discover `发现、发觉`
+> 
+> talent `才能、天才、天资`
+> 
+> mass `块、团、民众、大量`
+> 
+> competition `竞争、比赛`
+> 
+> emphasize `强调、着重`
+> 
+> elitism `精英主义、杰出人物统治论`
+> 
+> regard `注意、尊重`
+> 
+> government `政府、政体`
+> 
+> grassroots `基层的、草根的`
+> 
+> supervise `监督、管理`
+> 
+> association `协会、联盟、联想`
+> 
+> invest `投资、覆盖`
+> 
+> facilities `设施、工具`
+> 
+> have done `结束`
+> 
+> tolerant `宽容的、容忍的`
+> 
+> critical `鉴定的、临界的、批评的`
+> 
+> uncertain `无把握的、多变的`
+> 
+> sympathetic `同情的、交感神经的`
+
+### 02
+
+> digital `数字的、手指的`
+> 
+> design `设计、构思`
+> 
+> simplify `简化、使单纯`
+> 
+> routine `常规、惯例`
+> 
+> matter `物质、事件`
+> 
+> absorb `吸收、吸引`
+> 
+> food-testing `食品检测`
+> 
+> exercise `运动、练习`
+> 
+> appetite `食欲、嗜好`
+> 
+> distract `转移、分心`
+> 
+> slow `慢的、减速的、迟钝的`
+> 
+> slows down `慢下来`
+> 
+> verbal `口头的、言语的`
+> 
+> communication `通讯、通信`
+> 
+> experiment `实验、实验、尝试`
+> 
+> blank `空白的、空虚的`
+> 
+> expression `表现、表示`
+> 
+> unnecessary `不必要的、多余的`
+> 
+> emotional `情绪的、易激动的`
+> 
+> insensitive `未意识到的、漠不关心的`
+> 
+> mood `情绪、语气`
+> 
+> oppressive `压迫的、沉重的`
+> 
+> ideology `意识形态、思想意识`
+> 
+> exposure `暴露、曝光`
+> 
+> fantasy `幻想、白日梦`
+> 
+> interaction `相互作用、相互影响`
+> 
+> concern `影响、牵扯`
+> 
+> attentive `注意的、体贴的`
+
+### 03
+
+> graduate `大学毕业生、毕业生`
+> 
+> academically `学术上、学业上`
+> 
+> mislead `误导、带错`
+> 
+> fun `开玩笑`
+> 
+> strange `奇怪的、陌生的`
+> 
+> worthless `无价值的、不值钱的`
+> 
+> off-campus `校外、校园外`
+> 
+> course `科目、课程`
+> 
+> unrealistic `不切实际的、不实在的`
+> 
+> lower `下方的、在底部的`
+> 
+> risk `风险、危险`
+> 
+> ease `容易、舒适`
+> 
+> freshman `新手、生手`
+> 
+> burden `负担、责任`
+> 
+> relieve `解除、减轻`
+> 
+> acclimation `适应环境`
+> 
+> adaptation `适应、改编`
+> 
+> application `应用、申请`
+> 
+> motivation `动机、积极性`
+> 
+> save `节省、保存、储蓄`
+> 
+> avoid `避免、避开`
+> 
+> academic `学术的、理论的`
+> 
+> switch `开关、转变`
+> 
+> decide `决定、解决`
+> 
+> major `主要的、重要的`
+> 
+> favor `较喜欢、偏袒`
+> 
+> come back `回来、记起`
+> 
+> dilemma `困难、进退两难`
+
+
+### 04
+
+> wildfire `野火、烈火`
+> 
+> exhaust `使精疲力尽的、耗尽`
+> 
+> unprecedented `空前的、无前例的`
+> 
+> effort `努力、成就`
+> 
+> consume `消耗、消费`
+> 
+> record-high `创历史最高`
+> 
+> percentage `百分比、百分率`
+> 
+> budget `预算、预算费`
+> 
+> severely `严重地、严格地`
+> 
+> damage `损害、损毁`
+> 
+> ecology `生态学、社会生态学`
+> 
+> western `西方的、西部的`
+> 
+> cause `原因、事业`
+> 
+> huge `巨大的、庞大的`
+> 
+> rise `攀升、起床`
+> 
+> infrastructure `基础设施、公共建设`
+> 
+> expenditure `支出、花费`
+> 
+> magnify `放大、赞美`
+> 
+> glass `玻璃、玻璃制品、镜子`
+> 
+> fire-prone `容易引起火灾的`
+> 
+> avoid `避免、避开`
+> 
+> redirection `重寄、改道`
+> 
+> landscape `风景、风景画`
+> 
+> guarantee `保证、担保`
+> 
+> safer `更安全`
+> 
+> admit `承认、准许进入`
+> 
+> climate `气候、风气`
+> 
+> settle `解决、安居`
+> 
+> yet `还、但是`
+> 
+> fire-fighting `消防工作、救火`
+> 
+> overlook `忽略、俯瞰`
+> 
+> shift `转移、快速移动`
+> 
+> overly `过度的、极度地`
+> 
+> simplify `简化、使单纯`
+> 
+> fundamental `基本的、根本的`
+> 
+> nature `自然、性质`
+> 
+> explore `探索、探测`
+> 
+> mechanism `机制、原理`
+> 
+> maximize `增加到最大限度、充分利用`
+> 
+> interrelation `相互关系`
+> 
+> do away with `消除、终止`
+> 
+> come to terms with `接受、向...让步、对...妥协`
+> 
+> pay a price for `付出代价`
+> 
+> keep away from `远离`
+
+
+## 2018
+
+### 01
+
+> broken `破碎的、坏掉的`
+> 
+> chain `链、束缚`
+> 
+> mechanical `机械的、力学的`
+> 
+> memorization `记住、暗记`
+> 
+> academic `学术的、理论的`
+> 
+> practical `实际的、实用性的`
+> 
+> pioneering `首创的、先驱的`
+> 
+> spirit `精神、心灵`
+> 
+> exist `存在、出现`
+> 
+> prejudice `偏见、侵害`
+> 
+> vocational `职业的、行业的`
+> 
+> financially `财政上、金融上`
+> 
+> disadvantaged `贫困的、处于不利地位的`
+> 
+> academically `学术上、学业上`
+> 
+> successful `成功的、一帆风顺的`
+> 
+> stereotype `陈腔滥调、老套`
+> 
+> motivation `动机、积极性`
+> 
+> graduate `大学毕业生、毕业生`
+> 
+> entitle `给(某人)权利(或资格)、给...题名、称呼`
+> 
+> privilege `特权、优待`
+> 
+> reluctant `不情愿的、勉强的`
+> 
+> manufacture `制造、产品`
+> 
+> opportunities `因素、机会`
+> 
+> concern `影响、牵扯`
+> 
+> headlong `头超前、头向前地`
+> 
+> degrees `角度、学历`
+> 
+> narrow `狭窄的、有限的`
+> 
+> working-class `工人阶段的、劳动阶段的`
+> 
+> yield `出产、产出`
+> 
+> overvalue `对...估价过高、过分重视`
+> 
+> describe `描述、形容`
+> 
+> tolerant `宽容的、容忍的`
+> 
+> disappointed `失望的、沮丧的`
+> 
+> cautious `谨慎的、十分小心的`
+
+
+### 02
+
+> plummeting `垂直落下、骤然下跌`
+> 
+> stabilizing `使稳固、使安定`
+> 
+> renewable `可再生的、可更新的`
+> 
+> progress `进步、发展`
+> 
+> notably `显著地、尤其`
+> 
+> extensive `广泛的、大量的`
+> 
+> challenge `挑战、怀疑`
+> 
+> impractical `不切实际的、不现实的`
+> 
+> wind `风、呼吸`
+> 
+> widely `广泛地`
+> 
+> fossil `化石、僵化的事物`
+> 
+> fuel `燃料、刺激因素`
+> 
+> giant `巨人、伟人`
+> 
+> invest `投资、入股`
+> 
+> shortage `缺乏、缺少`
+> 
+> supply `供给、补给`
+> 
+> boost `促进、增加`
+> 
+> battery `电池、蓄电池`
+> 
+> storage `存储、仓库`
+> 
+> commonly `一般地、通常地`
+> 
+> manufacture `制造、产品`
+> 
+> supply `供给、补给`
+> 
+> reality `现实、实际`
+> 
+> sustainable `可以忍受的、足以支撑的`
+> 
+> exploitation `开发、开采`
+> 
+> environmental `环境的、周围的`
+> 
+> really `实际上、事实上`
+> 
+> encourage `鼓励、怂恿`
+> 
+> competitive `竞争的、比赛的`
+> 
+> enough `足够地、充足地`
+> 
+> regard `注意、尊重`
+
+### 03
+
+> acquire `获得、取得`
+> 
+> asset `资产、优点`
+> 
+> quality `质量、品质`
+> 
+> identities `身份、特性`
+> 
+> worsen `恶化、变的更坏`
+> 
+> political `政治的、党派的`
+> 
+> dispute `争论、争吵`
+> 
+> mess up `陷入困境、搞糟`
+> 
+> pose `造成、形成`
+> 
+> mislead `误导、带错`
+> 
+> commission `委员会、佣金`
+> 
+> competition `竞争、比赛`
+> 
+> just `只是、仅仅`
+> 
+> solution `解决方案、溶液`
+> 
+> pace `一步、步速`
+> 
+> keep pace `并驾齐驱、齐步并进`
+> 
+> presently `目前、不久`
+> 
+> interpret `说明、口译`
+> 
+> hardly `几乎不、简直不`
+> 
+> financially `财政上、金融上`
+> 
+> reliable `可靠的、可信赖的`
+> 
+> ant `蚂蚁`
+> 
+> analogy `类比、类推`
+> 
+> illustrate `阐明、举例说明`
+> 
+> win-win `双赢的、互利互惠的`
+> 
+> digital giants `数字巨头`
+> 
+> typical `典型的、特有的`
+> 
+> pattern `模式、图案`
+> 
+> benefit `利益、好处`
+
+### 04
+
+> mastering `精通、掌握`
+> 
+> deep `深的、纵深的`
+> 
+> focus `集中、聚焦、调节焦距`
+> 
+> immediate `当前的、立即的、直接的`
+> 
+> specific `特殊的、特定的`
+> 
+> seize `抓住、夺取`
+> 
+> distraction `注意力分散、消遣`
+> 
+> actually `实际上、事实上`
+> 
+> efficiency `效率、效能`
+> 
+> schedules `时间表、日程安排`
+> 
+> indispensable `不可缺少的、绝对必要的`
+> 
+> hardly `几乎不、简直不`
+> 
+> motivate `刺激、使有动机`
+> 
+> monthly `每月的、每月一次的`
+> 
+> fruitful `富有成效的、多产的`
+> 
+> idleness `懒惰、闲散`
+> 
+> desirable `可取的、值得拥有的`
+> 
+> mental `精神的、脑力的`
+> 
+> contributor `贡献者、投稿者`
+> 
+> physical `物理的、身体的`
+> 
+> essential `本质、要素`
+> 
+> factor `因素、要素`
+> 
+> accomplish `完成、实现`
+> 
+> shift `转移、快速移动`
+> 
+> psychological `心理的、心理学的`
+> 
+> well-being `幸福、康乐`
+> 
+> efficiency `效率、效能`
+> 
+> aimed `目标、目的`
+> 
+> urgency `紧急、催促`
+> 
+> relieve `解除、减轻`
+> 
+> tension `张力、拉力`
+> 
+> approaches `走进、与...接洽、处理`
+> 
+> eliminate `消除、排除`
+> 
+> distraction `注意力分散、消遣`
+> 
+> cause `原因、事业、目标`
+> 
+> focus time `聚焦时间`
+
+
+## 2019
+
+### 01
+
+> think `想、认为、想起`
+> 
+> guilt `内疚、悔恨、犯罪、过失`
+> 
+> thing `事情、东西`
+> 
+> regulate `调节、规定`
+> 
+> foster `促进、抚育`
+> 
+> moral `道德的、精神上的`
+> 
+> intensify `增加、强化`
+> 
+> feeling `感觉、触觉`
+> 
+> deceptive `欺诈的、迷惑的`
+> 
+> burdensome `繁重的、累赘的`
+> 
+> addictive `使人上瘾的`
+> 
+> inexcusable `不可原谅的、没法辩解的`
+> 
+> rethink `重新考虑、再想`
+> 
+> awareness `意识、认识`
+> 
+> context-independent `上下文无关`
+> 
+> socially `在社会上、在社交方面`
+> 
+> constructive `建设性的、推定的`
+> 
+> stability `稳定性、鉴定`
+> 
+> benefit `利益、好处`
+> 
+> emotion `情感、情绪`
+> 
+> oppose `反对、对抗`
+> 
+> cooperation `合作、协作`
+> 
+> correct `正确的、恰当的`
+> 
+> emotional `情绪的、易激动的`
+> 
+> deficiency `缺陷、缺点`
+> 
+> either `或者、要么`
+> 
+> sympathy `同情、慰问`
+> 
+> satisfaction `满意、满足`
+> 
+> outcome `结果、结局`
+> 
+> impulsive `冲动的、受感情驱使的`
+> 
+> transgression `海侵、犯罪、违反`
+> 
+> discussion `讨论、论述`
+> 
+> restriction `限制、约束`
+> 
+> wrongdoing `坏事、不道德的行为`
+
+
+### 02
+
+> harder `更难的、更努力的`
+> 
+> climate `气候、风气`
+> 
+> get out `离开、出去、泄露`
+> 
+> get out of control `失控`
+> 
+> extreme `极端的、极度的`
+> 
+> arise `出现、上升`
+> 
+> forset `森林、林区`
+> 
+> potential `潜在的、可能的`
+> 
+> valuable `有价值的、贵重的`
+> 
+> carbon sinks `碳灰、碳吸存`
+> 
+> preserve `保存、保护`
+> 
+> diversity `多样化、差异`
+> 
+> species `物种、种类`
+> 
+> strike `撞击、打、踢`
+> 
+> 
+
+
+## 写作
+
+### Part A
+
+#### 2010
+
+
+##### version 1.0
+
+> Dear May,
+> 
+> As a member of a Sino-American cultural exchange program,I am writing this letter for expressing my thanks for your warm reception and welcome you to visit China in due course.
+> 
+> We are very grateful for your kind hospitality and what you has done for our team.We communnicated a lot in English,which makes me open up horizons and improve my English communication ability.We enjoyed our visit.
+> 
+> I welcome your visiting at any time when you are free.I will take you some interesting places and take you to eat delicious food.I think you will like it.
+> 
+> Looking forward to your reply.
+> 
+> All the best.
+> 
+> Zhang Wei.
+
+##### version 2.0
+
+> Dear May,
+> 
+> I write a letter to you,because I have just come back from the U.S. as a member of a Sino-American cultural exchange program.I have very happly experience.
+> 
+> Frist of all,I thinks for example:hamburger,pissa so on. The food is so good,I am very happy.
+> 
+> In addition,Welcome to china.If you come to china,I will take you to eat chinese food for example: noodles,rice.I think you will enjoy chinese food.
+> 
+> Looking forward to your reply.
+> 
+> All the best.
+> 
+> Zhang Wei.
 
 ## 问题
 
