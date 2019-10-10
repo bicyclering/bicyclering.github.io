@@ -4485,12 +4485,52 @@ categories: Graduate
 > > > > 
 > > > > **公司:**companies and corporations should be aware of the consequences of this problem
 > > > > 
-> > > > **个人:** the genneral publbic should also be educated that any prompt solution is of benefit(beneficial) to all.
+> > > > **个人:** the general public  should also be educated that any prompt solution is of benefit(beneficial) to all.
 > > > 
 > > > **展望未来:**
 > > > > 中文: 综合上述,我们可以预测,随着社会和科技的发展,这个趋势将会一直延续下去
 > > > > 
 > > > > Taking all these factors into consideration,we may reasonable predict that along with repid and further advance of our society,the trend will go on.
+> > 
+> > **常用句型:**
+> > > **1 表 "影响"**
+> > >
+> > > **n.** has a great/significant/far-reaching/negative/impact/influence on  **n.**
+> > > 
+> > > **例:** 人口的快递增长对于环境的破坏有着巨大的影响。
+> > > > The rapid growth of population has a negative impact on the environment.
+> > > 
+> > > **2 表 "比例"**
+> > > > n.  **account for** % of....
+> > > > 
+> > > > **例:** 因为环境选择餐厅的顾客占了24.2%
+> > > > 
+> > > > Consumers who choose a restaurant for its envionment **account for** 24.2%.
+> > > 
+> > > **3 表 "因果"**
+> > > >  **Consequently,**代替  **so that**
+> > > 
+> > > **4 表 "越来越..."**
+> > > > An increasing number of people tend to do sth
+> > > > 
+> > > > **代替more and more**
+> > > > 
+> > > > > eg.越来越多的人倾向于选有特色的餐厅用餐
+> > > > > 
+> > > > > An increasing number of people tend to do choose a restaurant which is special.
+> > >
+> > > **5 表 "重要"**
+> > > ___ is **of vital importance**(=important) for/to
+> > > > **例: 在今天这个快速变化的社会中,精神健康对我们十分重要**
+> > > > > In the rapid-changing society,mental health **is of vital importance for** us.
+> > 
+> > **时态:**
+> > > 一般时
+> > > > **一般过去时:** did
+> > > > 
+> > > > **一般现在时:** do/does
+> > > > 
+> > > > **一般将来时:** be going to do/will do
 >
 > 不同年份的发展中中国和发达国家对手机订阅者的数量
 > 
@@ -4501,7 +4541,12 @@ categories: Graduate
 > MeanWhile,the number of mobile-phone subscriptions declines,which decreases from 0.7 million in 2000 to 1 billion in 2008.
 > **数据举例 ???**
 > 
+> Some driving factors that contribute to the above mentioned changes may be summarized as follows.
+> **第一个论点**To being with,there is a trend that people tend to go to the museum in their free time.An increasing number of The mobile-phone subscriptions  tend to developing countries.
 > 
+> In addition to that,**第二个论点**It takes a long studyed.They can learn a lot and imporove their life.
+> 
+> Taking all these factors into consideration,our authorities should make strict laws to solve the problem.
 
 ## 写作
 
