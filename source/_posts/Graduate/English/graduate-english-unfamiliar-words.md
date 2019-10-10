@@ -55,6 +55,13 @@ categories: Graduate
 > > 
 > > **美国新闻在线:** [www.usnews.com](www.usnews.com)
 
+### 平行阅读法
+
+1. 阅读  5题的题干、找定位词(n、adj、方向、词频)
+2. 看第一题的题干
+3. 看文章 定位词出现  第一题做完
+4. 看第二题的题干
+
 ### 掌握阅读考察的逻辑思维能力
 
 > e.g. Customers believe in tipping because they think it makes economic sense.
@@ -299,6 +306,10 @@ categories: Graduate
 
 > **考查:** *作者对全文谈论对象的情感态度*
 > 
+> 态度题,要全文读,然后看有没有表达态度的话语。
+> 
+> 如果没有看全文对于这个事件/谈论的对象是贬义还是褒义,通常和作者是一致的。
+> 
 > **题干:** attitude、idea、opinion
 > 
 > **不会成为答案的词:**
@@ -322,6 +333,8 @@ categories: Graduate
 > > approve
 > > 
 > > negative
+> > 
+> > positive
 
 
 #### 推论题
@@ -329,6 +342,21 @@ categories: Graduate
 > **考查:** `间接信息`
 > 
 > **题干:** infer、imply、may
+> > **选项:**
+> > 1.三错一对
+> > 
+> > 2.四个都对
+> > > 选语法最复杂
+> > > 
+> > > **对应的原文**
+> > > > 否 + 比较 
+> > > > 
+> > > > 虚拟
+> > > 
+> > > **虚拟:**
+> > > > would/could/should/might   have done
+> > > > 
+> > > > I can't agree with you any more.
 > 
 > What can be **inferred** from the passage ?
 > 
@@ -343,6 +371,56 @@ categories: Graduate
 > 
 > Which of the following are true excpet...
 
+
+> **题干**
+> > 1️⃣ 陈述句填空
+> > 
+> > 2️⃣ 特殊疑问句 what、why、which、which....NOT
+> > > **正确选项:** 同义改写
+> > > 
+> > > **错误选项:** 
+> > > > 1️⃣ 反向
+> > > > 
+> > > > 2️⃣ 杂揉
+> > > > 
+> > > > 3️⃣ 换词
+> > 
+> > **重点词汇:**
+> > > rather  **0️⃣** 
+> > > 
+> > > but  **0️⃣** 
+> > > 
+> > > however **0️⃣** 
+> > > 
+> > > **0️⃣** other than  
+> > > 
+> > > 否 + 比较级
+> > > 
+> > > instead **0️⃣**
+> > > 
+> > > **0️⃣** rather than 
+> > > 
+> > > **0️⃣所在位置表强调**
+> 
+> 
+> **SS结构:** **0️⃣**
+> > study      show **0️⃣**
+> > 
+> > research   indicate **0️⃣**
+> > 
+> > data       imply **0️⃣**
+> > 
+> > survey     refer **0️⃣**
+> > 
+> > poll       reveral **0️⃣**
+> > 
+> > ??         demostrate
+> > 
+> > ❌❎   learn/find/conclude that
+> > 
+> > ..     regard
+> > 
+> > ❌❎   say "   "
 
 
 ### effective information
@@ -3839,8 +3917,591 @@ categories: Graduate
 > 
 > strike `撞击、打、踢`
 > 
+> endeavor `努力、尽力`
 > 
+> density `密度`
+> 
+> cultivate `培养、陶治`
+> 
+> drought-resistant `抗旱的`
+> 
+> effective `有效的、起作用的`
+> 
+> insect `昆虫、卑鄙的人`
+> 
+> restore `恢复、修复`
+> 
+> wildfires `野火、大火灾、鬼火`
+> 
+> essential `基本的、必要的`
+> 
+> obtain `获得、流行`
+> 
+> enough `足够地、充足地`
+> 
+> carry `拿、扛、携带`
+> 
+> prefect `长官、地方行政长官`
+> 
+> emissions-permit `排放许可证`
+> 
+> handle `触摸、以手触球、操纵`
+> 
+> serious `严肃的、严重的`
+> 
+> tolerant `宽容的、容忍的`
+> 
+> cautious `谨慎的、十分小心的`
 
+
+### 03
+
+> addressed `在...上写地址、解决、处理`
+> 
+> flaw `瑕疵、缺点`
+> 
+> immigration 外来移民、移居`
+> 
+> farm `农场、农舍`
+> 
+> discrimination `歧视、区别`
+> 
+> bias `偏见、偏爱`
+> 
+> favor `较喜欢、偏袒`
+> 
+> agriculture `农业、农耕`
+> 
+> workforce `劳动力、工人总数`
+> 
+> illegal `非法的、违法的`
+> 
+> aging `老化、陈化`
+> 
+> mobility `移动性、机动性`
+> 
+> crop `产量、农作物`
+> 
+> much-argued `备受争论`
+> 
+> solution `解决方案、溶液`
+> 
+> shortage `缺乏、缺少`
+> 
+> strengthen `加强、巩固`
+> 
+> attract `吸引、引起`
+> 
+> native `本国的、土著的`
+> 
+> back to `后退到、回到`
+> 
+> employer `雇主、老板`
+> 
+> complain `投诉、发牢骚`
+> 
+> visa `签证、签发签证`
+> 
+> admission `承认、入场费、进入许可`
+> 
+> duration `持续、持续的时间`
+> 
+> grant `授予、允许`
+> 
+> procedure `程序、手续`
+> 
+> tighten `变紧、使变紧`
+> 
+> requirement `要求、必要条件`
+> 
+> manpower `人力、人力资源`
+> 
+> saved `获救的、已保存的`
+> 
+> import `进口、进口货`
+
+
+### 04
+
+> celebrity `名人、名声`
+> 
+> star `星、恒星、明星`
+> 
+> disclose `公开、揭露`
+> 
+> cause `原因、事业`
+> 
+> plastics `塑料、整形外科、外科修补术`
+> 
+> demand `要求、需求`
+> 
+> opinion `意见、主张`
+> 
+> urge `力劝、催促`
+> 
+> cut `割破、切下`
+> 
+> concern `影响、牵扯`
+> 
+> moral `道德的、精神上的`
+> 
+> license `执照、许可证`
+> 
+> suppress `抑制、镇压`
+> 
+> desire `欲望、要求`
+> 
+> mislead `误导、带错`
+> 
+> worthless `无价值的、不值钱的`
+> 
+> weaken `减少、使变弱`
+> 
+> sense `感觉、功能、观念`
+> 
+> accomplishment `成就、完成`
+> 
+> prevent `预防、防止`
+> 
+> further `更远地、远非`
+> 
+> effort `努力、成就`
+> 
+> point out `指出、指明`
+> 
+> identity `身份、同一性`
+> 
+> citizen `公民、市民`
+> 
+> have been `一直、去过`
+> 
+> actively `积极地、活跃地`
+> 
+> exercise `运动、练习`
+> 
+> civil `公民的、民间的`
+> 
+> rights `权利、权限`
+> 
+> civil rights `公民的权利`
+> 
+> press `压、按、逼迫`
+> 
+> governments `政府、政权`
+> 
+> combat `战斗、搏斗`
+> 
+> relationship `关系、关联`
+> 
+> shift `转移、快速移动`
+> 
+> community `社区、群落`
+> 
+> welfare `福利、幸福`
+> 
+> argue `争论、辩论`
+> 
+> collective `集体的、共同的`
+> 
+> arrangement `布置、整理`
+> 
+> top-town `名城`
+> 
+> process `过程、工艺流程`
+> 
+> self-driven `自动驱动的、自励的`
+> 
+> mechanism `机制、原理`
+> 
+> cost-effective `划算的、成本效益好的`
+> 
+> approach `走进、与...接洽、处理`
+> 
+> individual `个人的、个别的`
+> 
+> effort `努力、成就`
+> 
+> sufficient `足够的、充分的`
+> 
+> rational `合理的、理性的`
+> 
+> inconsistent `不一致的、前后矛盾的`
+> 
+> aggressive `侵略性的、好斗的`
+
+
+## 文章翻译
+
+### 2010
+
+#### 01
+
+> 在一个世纪较长的牛市艺术市场历史以一个戏剧性的提示结束了伴随着56个艺术作品在Damien Hirst售卖,美丽永远在我心头,在伦敦2008年9月15号Sotheby地方。
+> 除了2件商品以外其它艺术作品都卖出去了,售价700万英镑,一条艺术作品的售卖记录。
+> 这是最后的胜利。随着拍卖商叫价结束,在纽约华尔街一个古老的银行Lehman Brothers,申请破产。
+> 
+> 在2003年之后世界艺术市场已经开始丢掉势头。在2007年的时候艺术市场巅峰的时候Clare McAndrew认为价值650亿美元,艺术经济学的开拓者,一家研究公司--五年之前双倍的数字化。
+> 在这之后下降到500亿美元。但是艺术市场产生的利息这个方式远远超过比其它行业因为可以带来更大的财富,巨大的自负,贪婪,激情和争论。
+> 
+> 在几周和几月之间艺术市场随着Mr. Hirst's售卖,任何形式的花费将不再时尚。在艺术市场意味着收藏家远离画廊和售卖间。当时的艺术市场掉到2/3,超过了大多数行业,在2008年11月份艺术市场下降了将近90%。在几周时间之内世界上两大拍卖行,Sotheby's 和 Christie's,支付出去20000万美金用作担保给把作品放在拍卖行售卖的顾客。
+> 
+> 自从1989年底日本停止购买印象派艺术作品当前艺术市场衰退了更差了。这个时间专家认为当前的价格在顶峰平均的40%,虽然受到更大的波动的。但是Edward Dolman,Christie's首席执行官说:"我相当自信认为我们已经垫底了"。
+> 
+> 他说,去年艺术市场不同程度的骤降,仍然有很多买者在市场里。几乎每个人都被特殊报道采访了说目前最大的问题不是缺乏需求而是缺乏好的作品去卖。三个Ds原因-死亡,债务和离婚-仍然是艺术市场的传送。但是没有人在不得不卖的情况下,等待市场的回暖。
+> 
+> 21.在第一段,Damien Hirst's 售卖暗示"最后的胜利"因为?
+> > A.艺术市场见证了连续的胜利
+> > 
+> > B.拍卖商最终两件商品得到了高价
+> > 
+> > C.美丽在我心头永远赢了其它作品
+> > 
+> > D.在世界金融危机之前它是成功的
+> 
+> 22.在第三段第一行到第二行说"任何形式的花费将不再时尚"?
+> > A.收藏家不再积极地参与艺术市场拍卖
+> > 
+> > B.人们停止任何形式的花费和远离在画廊
+> > 
+> > C.艺术收藏家的时尚丢失了很大程度的吸引力
+> > 
+> > D.艺术作品在一般失去时尚它们已经不值得购买
+> 
+> 23.以下哪一个陈述的是假的?
+> > A.2007年~2008年当前的艺术作品戏剧性的降落
+> > 
+> > B.艺术市场的势头超过了其它行业
+> > 
+> > C.艺术市场已经在多个方向衰退
+> > 
+> > D.一些艺术经销商等待更好的机会到来
+> 
+> 24.提到最后一段3个Ds是__?
+> > A.拍卖行的喜爱
+> > 
+> > B.当前的趋势
+> > 
+> > C.许多因素提高艺术市场的流行
+> > 
+> > D.印象派风格代表
+> 
+> 25.本章最适合的标题是_?
+> > A.艺术价格的波动
+> > 
+> > B.当代艺术拍卖
+> > 
+> > C.艺术市场的下滑
+> > 
+> > D.艺术兴趣的转移
+
+
+#### 02
+
+> 在郊区外Virginia房子里一场小聚会我演讲了-- 一个妇女俱乐部邀请男士参加。
+> 整个晚上,一个特别的男士说话了,频繁提供了一些意见和奇闻轶事,然而他的妻子安静地坐在沙发上。直到这个聚会快结束了,我发表意见哪个妇女频繁的抱怨她们的丈夫不跟她们聊天。这个男士快速的点头同意了。他手指着他的妻子说,"她在家里面是一个爱说话"。房间里面爆发出一阵笑声;这个男士表示迷惑和受伤。他说:"这是真的",他解释"当我下班以后回到家以后我是不说话的,如果她不跟我说话,我们整个晚上都是沉默的"。
+> 
+> 一段具体的插曲讽刺了**上面那个情景**虽然美国男人在公共场合比妇女说更多的话,他们在家却很少说话。这个行为严重破坏着婚姻。
+> 
+> 在1970年底政治社会学家Andrew Hacker通过这个行为观察发现。
+> 社会学家Catherine Kohler Riessman在他的新书离婚里面采访了大多数妇女--但是只有少数男人--认为缺乏沟通原因导致离婚。当前的离婚率将近50%,每年在美国数以百万的案件--缺乏沟通导致的一场虚拟的流行病。
+> 
+> 在我的个人研究里,妇女抱怨来至于她们的丈夫大多数经常聚焦在有形的不公平性比如放弃职业生涯的机会陪伴在她们丈夫身边,或者做许多她们日常生活支持的工作清理,烹饪和社交安排。代替,她们聚焦在交流中:"他不听我说话。" "他不和我说话。"
+> 我发现,例如几年前Hacker观察大多数妻子希望她们的丈夫,首先和最重要的,交流行为,但是少数丈夫和他们的妻子分享。
+> 
+> 简言之,可以想象最有代表当前危机是老式的卡通场景一个男人坐在桌子旁边吃早餐拿了一份报纸在他的脸前面,一个妇女怒视着他,想和他说话。
+> 
+> 26.大多数妻子期待他们的丈夫?
+> > A.和她们谈话
+> > 
+> > B.信任她们
+> > 
+> > C.支持她们的职业生涯
+> > 
+> > D.分享家务事
+> 
+> 27.根据上下文判断短语"严重破坏"(第二段第三行)大多数可能意味着?
+> > A.产生动机
+> > 
+> > B.发挥影响
+> > 
+> > C.导致危险
+> > 
+> > D.建立压力
+> 
+> 28.以下哪一个是假的?
+> > A.在公众场合男人比女人更喜欢说话
+> > 
+> > B.50%导致近代离婚的原因是失败的交流
+> > 
+> > C.在夫妻中妇女很重视交流
+> > 
+> > D.在她的配偶中在家里面女性说更多的话
+> 
+> 29.以下哪一个根据本文最好总结了主题?
+> > A.大多数社会学家研究道德衰退导致离婚
+> > 
+> > B.性别不平等是导致婚姻的中断
+> > 
+> > C.在他们的婚姻中丈夫和妻子有不同的期待
+> > 
+> > D.丈夫和妻子交流模式的不同
+> 
+> 30.作者最可能在接下来的文章中焦点聚焦在?
+> > A.一个生动描述的新书离婚谈话
+> > 
+> > B.详细描述了陈旧的卡通
+> > 
+> > C.在美国其他可能原因导致一个高离婚率
+> > 
+> > D.简便介绍了政治社会学家Andrew Hacker
+
+#### 03
+
+> 在过去几年,许多企业倾向于创造艺术自动习惯--在消费者群体中间。这些习惯帮助企业获利几十亿美元当消费者吃零食或者擦柜台没有事情的时候,经常给予一套精心设计的日常提示。
+> 
+> "这是基本的公共医疗问题,例如一个肥皂习惯代替脏手,**那个需求杀死自己**因为我们不能解决改变人们的习惯,"在Hygiene伦敦学校和热带医学Hygiene中心主管Dr.Curtis说"我们想从私有产业学习如何创造新的行为自动的发生"。
+> 
+> 企业家Mr.Curtis转向宝洁,高露洁和联合利华-投资数以百万的美元找微妙的暗示在消费者生活中公司应该使用引入新的惯例。
+> 
+> 如果你足够努力的看,你会找到每天我们的许多产品被使用--口香糖,爽肤水,擦消毒,空气净化器,纯净水,健康食品,牙齿清洁,软织物,维他命--制作习惯的结果。
+> 一世纪前,少数人定期清洗他们的牙齿一天多次。
+> 今天,因为精明的广告和公共健康活动,许多美国人习惯地珍珠白的一个防蛀牙一天两次的清洗,经常使用高露洁和佳洁士或者其它品牌。
+> 
+> 几年前,许多人在外面吃饭的时候不喝水。
+> 当企业家开始从遥远的清泉的水装到瓶子里面,和现在办公室工作中不假思索的小口喝瓶子里面的水在一天中很长时间。
+> 口香糖,曾经未成年主要需求带来,现在商业的特征比如呼吸新鲜空气和牙齿清洁工在用餐后使用。
+> 爽肤水通过广告是早上美容规定形式,在头发清洗和化妆的时候使用。
+> 
+> "我们的产品成功当成为日常或者每周模式的一部分,最近从高露洁和佳洁士退休的消费者心理学家 "Carol Berning说,企业通过佳洁士卖760亿美元,去年Crest和其它产品。
+> "提升我们消费者生活是一个巨大创造积极的习惯,和它是一个必备制造新产品商业的可行性"。
+> 
+> 通过经验和观察,社会学家Dr.Berning通过学习尝试某一行为习惯性暗示通过残忍的广告。
+> 习惯出现在新的科学里,争论的爆发当一些策略已经使用有问题美丽的面霜和不健康的食品。
+> 
+> 31.根据Dr.Curtis,一些习惯例如肥皂来洗手?
+> > A.应该是未来培养
+> > 
+> > B.应该是逐步的改变
+> > 
+> > C.在历史里是非常深刻的
+> > 
+> > D.基础上私有影响
+> 
+> 32.第5段提到瓶装水,口香糖和爽肤水?
+> > A.揭露它们对于人们的影响
+> > 
+> > B.日常必需品紧急需求
+> > 
+> > C.表明它们的影响对于人们购买能力
+> > 
+> > D.表明好的习惯重大的规则
+> 
+> 33.以下除了那个产品是不能帮助人们习惯?
+> > A.Tide
+> > 
+> > B.Crest
+> > 
+> > C.Colgate
+> > 
+> > D.Unilever
+> 
+> 34.**从本文知道消费者一些习惯发展到期是?**
+> > A.产品的艺术完美性
+> > 
+> > B.自动行为创造
+> > 
+> > C.商业提升
+> > 
+> > D.科学实验
+> 
+> 35.作者对广告影响人们习惯的态度是?
+> > A.漠不关心
+> > 
+> > B.否定的
+> > 
+> > C.积极的
+> > 
+> > D.偏见的
+
+
+#### 04
+
+> 许多美国人关注陪审团体系一个重要的民主价值的表现,包含着许多原则陪审团体系所有公民满足年龄和文学的最低要求是平等胜任的**担当**陪审团;**陪审团**应该从一个代表性各行业随机选举;陪审团
+**任何公平应该有权利担当陪审团比赛描述,宗教,性别,或者民族血统**;**陪审团被告人**相当地位的人审判;和陪审团裁决应该代表团体良心和不仅仅是纸于字面上法律。
+> 陪审团也说最好的幸存管理例子**而不是**最有代表性民主性。
+> 在一个民主管理中,公民统治着自己,**而不是**选举代表性的统治他们。
+> 
+> 但是在最近的1968,陪审团选举程序冲突着他们民主理念。在一些州,例如,陪审团责任限制人们优秀智力,教育,和更多道德特性。尽管在美国最高人民法院禁止故意的种族歧视在陪审团选举早在1880年Strauder v. West Virginia案例前,选举所谓的精英或头等的惯例陪审团提供一种捷径绕过陪审团和其它反歧视法律。
+> 
+> 这个体系也失败的定期地包含妇女在陪审团直到20世纪中期。虽然妇女第一次担当州陪审团在1898年美国犹他州,直到1940年**陪审团**州大多数妇女才合格担当陪审团责任。
+> 甚至各个州自动免除妇女来自陪审团责任除非个人要求他们的名字包含在陪审团名单上。这个惯例是为了妇女更好的在家,**和在1960年妇女通过保持不具代表性陪审团。**
+> 
+> 在1968年,美国国会通过陪审团选举和服务法案,传达民主一个新时代改革陪审团。
+> 这个法律废除了特殊教育要求为联邦陪审团和他们必须随机选择从全部团队各个部门。
+> 在1975年纪念碑Taylor v. Louisiana,最高人民法院延伸需求陪审团为代表性的所有部门团体州级.
+> Taylor决心也宣布性别歧视在陪审团选举是违反宪法的和下令到各个州使用一样的程序为男性和女性陪审团选举。
+> 
+> 36.从美国陪审团体系原则中,我们得到什么信息？
+> > A.有文化和文盲人两人都能担当陪审团
+> > 
+> > B.被告人免疫于其他相当地位的人审批
+> > 
+> > C.没有年龄限制应该是施加陪审团服务
+> > 
+> > D.判断应该考虑公共的意见
+> 
+> 37.在1968年选举所谓的精英陪审团优先的惯例得到?
+> > A.反歧视法律的不足
+> > 
+> > B.歧视反对某一种族流行
+> > 
+> > C.在陪审团选举过程中有冲突的意见
+> > 
+> > D.在最高陪审团法院大多数普遍自大
+> 
+> 38.甚至在1960年,妇女很少在一些州陪审团名单上原因?
+> > A.他们自动地禁止国家法律
+> > 
+> > B.他们必要资格条件的还远远不够
+> > 
+> > C.他们假设执行国内的债务
+> > 
+> > D.他们逃避公共参与度趋向
+> 
+> 39.陪审团选举和服务法案的通过意味着?
+> > A.性别歧视在陪审团选举中是违反宪法的和要废除的
+> > 
+> > B.教育需求因为少数严格联邦陪审员
+> > 
+> > C.陪审员在州级应该为整个团队代表的
+> > 
+> > D.州应该遵从联邦法院陪审团体系的改革
+> 
+> 40.在美国陪审团体系中,本文中心讨论是?
+> > A.它的性质和问题
+> > 
+> > B.它的特性和传统
+> > 
+> > C.它的问题呢和他们的解决方案
+> > 
+> > D.它的传统和发展
+
+#### 作文
+
+##### Part A
+
+> Dear May.
+> 
+> I am writing this letter thank you(目的),because you took care of me during my visit.The Sino-American cultural exchange program was very meaningful and interesting.I had a very nice experience.
+> 
+> In during the program.I studyed most knowledge(事实).I like American more and more（影响）.I felt very happy(情感).Thank you very much!
+> 
+> Welcome to Chinna,If you came come.I will take part China special race(事实).You will like China sport race(影响).I felt very happy(情感).
+> 
+> 
+> All the best,
+> 
+> Zhang Wei
+
+
+##### Part B  **趋势**
+
+> **总分总结果:**
+> > **1.** 第一段描述图表、现象
+> > > **1.1** 大体描述图表
+> > > 
+> > > **1.2** 总体趋势
+> > > 
+> > > **1.3** 数据举例
+> > 
+> > **2.** 第二段阐述论点论据
+> > > **2.1** 总述: 功能性废话
+> > > 
+> > > **2.2-2.3** 论点1,论据1
+> > > 
+> > > **2.4-2.5** 论点2,论据2
+> > 
+> > 第三段展望未来、提供措施
+> > > 展望 或 措施
+> > 
+> > **万能论点:**
+> > > **Time:** 
+> > > > it takes a long/short time to do...
+> > > > 
+> > > > ....is time-consuming
+> > > 
+> > > **Trend:**
+> > > > There is a trend that ...
+> > > > 
+> > > > People tend to do
+> > > 
+> > > **comfort/Convenience:**
+> > > > it's very convenient/comfortable to...
+> > > > 
+> > > > people enjoy... a lot
+> > > 
+> > > **Health/Safety:**
+> > > > it's safe/healthy to do
+> > > > 
+> > > > They will suffer a lot if...
+> > > 
+> > > **Money:**
+> > > > ... cost a lot/doesn't cost anything
+> > > > 
+> > > > sb spend much money on that
+> > > 
+> > > **Education:**
+> > > > sb spend much money on that 
+> > > > 
+> > > > it is educational/meaningful for sb to do...
+> > 
+> > **常用论据:**
+> > > **原因:**
+> > > > eg. the major reason is that...
+> > > 
+> > > **例证:**
+> > > > eg. the major reason is that...
+> > > 
+> > > **对比:**
+> > > > eg....,while,on the other hand,....
+> > > 
+> > > **数据:**
+> > > > eg. the recent study demonstrages that...
+> > 
+> > **第二段 阐述论点2**
+> > > **2.1** Some driving factors that contribute to the above mentioned changes may be summarized as follows.
+> > > 
+> > > **2.2** To begin with, 第一个论点(万能论点)
+> > > 
+> > > **2.3** 第一个论据(常用论据)
+> > > 
+> > > **2.4** In addition to that,第二个论点(万能论点)
+> > > 
+> > > **2.5** 第二个论据(常用论据)
+> > 
+> > **第三段 展望未来 or 提供措施**
+> > > **提供措施:** Talking all these factors into consideration,
+> > > > **政府:** our authorities should make strict laws to solve the problem
+> > > > 
+> > > > **公司:**companies and corporations should be aware of the consequences of this problem
+> > > > 
+> > > > **个人:** the genneral publbic should also be educated that any prompt solution is of benefit(beneficial) to all.
+> > > 
+> > > **展望未来:**
+> > > > 中文: 综合上述,我们可以预测,随着社会和科技的发展,这个趋势将会一直延续下去
+> > > > 
+> > > > Taking all these factors into consideration,we may reasonable predict that along with repid and further advance of our society,the trend will go on.
+>
+> 不同年份的发展中中国和发达国家对手机订阅者的数量
+> 
+> the number of mobile-phone subscriptions what developing countries and developed countries of different years
+> 
+> What is illustrated in the digram above shows us that there are some **change** in the number of mobile-phone subscriptions what developing countries and developed countries of different years.
+> **We** can see the number of mobile-phone subscriptions is on a steady rise,which increases from 0.5 billion in 2000 to 4 billion in 2008.
+> MeanWhile,the number of mobile-phone subscriptions declines,which decreases from 0.7 million in 2000 to 1 billion in 2008.
+> **数据举例 ???**
+> 
+> 
 
 ## 写作
 
@@ -3850,6 +4511,7 @@ categories: Graduate
 
 
 ##### version 1.0
+
 
 > Dear May,
 > 
@@ -3880,6 +4542,174 @@ categories: Graduate
 > All the best.
 > 
 > Zhang Wei.
+
+
+#### 2011
+
+
+##### version 1.0
+
+> Dear Li Ming,
+> 
+> I write a letter to congratulate you.You admitted to a university
+> I feel very hhappy.
+> 
+> First of all,I think university knowledage very good,You are must study everything.The help you homework improve.That's very good.
+> 
+> In addition,I think univeristy food very good,You could look a look,eat a eat,That is intesting,You are feel very happy.
+> 
+> Looking forward to your reply.
+> 
+> All the best.
+> 
+> Zhang Wei.
+
+#### 2012
+
+
+##### version 1.0
+
+> Dear service center,
+> 
+> I wirte a letter to you,I bought an electronic dictionary from an online store is wrong.
+> 
+> First of all,I study hard very diffcult,because the electronic dictionary very wrong,I so bad.
+> 
+> In addition,I demand you prompt solution,The electronic dictionary is very wrong,I don't go to foreign country.I hope you restore give me,I feel happy.
+> 
+> Looking forward to you reply.
+> 
+> All teh best.
+> 
+> Zhang Wei.
+
+
+
+#### 2013
+
+
+##### version 1.0
+
+> Dear May,
+> 
+> I write a letter to you,The hold a charity sale for kids in need for help.
+> 
+> First of all,The kids very need for exmaple:books、clothes、foods.I hope you give kids hlep.I very happy.
+> 
+> In addition,I hope everyone take a charity sale,Give kids some help.Changne kids life and knowledage important.I so very happy.
+> 
+> All the best.
+> 
+> LiMing.
+
+
+### Part B
+
+> what is illustrated in the diagram above shows us that there are some **changes/differences** inn the **number/percentage/population** of **名词 which ...**
+
+#### 2010
+
+> 不同阶段的国家对手机订阅的数量
+> 
+> the number of the what are mobile-phone subscription different countries
+> 
+> What is illustrated in the diagram above shows us that there are some **change** in the number of the what are mobile subscription different countries。
+> 
+> We can see the number of Mobile-phone is on a steady rise,which increases from 50 million in 2000 to 4 billion in 2008 year.
+> Meanwhile,the number of Mobile-phone is on a steady rise,which increases from 50 million in 2000 to 1 billionin 2008 year.
+> 
+> 每年发展中国家比发达国家对手机订阅的需求量不断在提升。
+> 
+> Every year developing countries more than developed countries has mobile-phone subscription number increase.
+> 
+
+
+#### 2011
+
+> 不同国家的品牌对轿车的比例
+> 
+> the percentage of what are cars different countries brand
+> 
+> What is illustrated in the diagram above shows us that there are some changes in the percentage of what are cars different countries brand.
+> 
+> We can see the percentage of car-market is on a steady rise,which increases from twenty-five in 2008 to thirty-five in 2009 year.
+> Meanwhile,the percentage of car-market declines,which decreases from thirty-five in 2008 to twenty-five in 2009 year.
+> 
+> 每年国产汽车占据市场的份额不断在上升。
+> 
+> The share of domestic automobiles in the market is rising every year.
+
+
+#### 2012
+
+> 不同年龄阶段人对工作满意度的比例
+> 
+> the percentage of people who are satisfaction with their job different age groups
+>
+> What is illustrated in the diagram above shows us that there are some changes in the percentage of people who are satisfaction with their job different age groups。
+> 
+
+
+#### 2013
+
+> 不同年级阶段的大学生对兼职的比例
+> 
+> the percentage of students who are part-time jobs in different grades
+> 
+> What is illustrated in the diagram above shows us that there are some changes in the percentage of students who are part-time jobs in different grades.
+
+#### 2014
+
+> 城镇和乡村人口的
+> 
+> the population of the city and the countryside.
+> 
+> What is illustrated in the diagram above shows us that there are some changes in the population of the city and the countryside.
+
+#### 2015
+
+> 不同行业花销的人对春节假期的比例 
+> 
+> the percentage of people spend who are Spring Festival different industry
+> 
+> What is illustrated in the diagram above shows us that there are some changes in the percentage of people spend who are Spring Festival different industry
+
+
+#### 2016
+
+> 不同目的的学生对旅游的比例
+> 
+> the percentage of students who are travel different purposes
+> 
+> What is illustrated in the diagram above shows us that there are some changes in the percentage of students who are travel different purposes.
+
+
+#### 2017
+
+> 博物馆数量和参观人数
+> 
+> the museum number and visist population
+> 
+> What is illustrated in the diagram above shows us that there are some changes in the museum number and visist population.
+
+
+#### 2018
+
+> 不同因素的消费者对选择餐厅的比例
+> 
+> the percentage of people who are choice restaurant different factor
+> 
+> What is illustrated in the diagram above shows us that there are some changes in the percentage of people who are choice restaurant different factor.
+
+
+#### 2019
+
+> 不同因素的大学生对毕业后去向的比例
+> 
+> the percentage of college students who are  future after graduation different factors
+> 
+> What is illustrated in the diagram above shows us that there are some changes in the percentage of college students who are  future after graduation different factors.
+
 
 ## 问题
 
@@ -3963,3 +4793,27 @@ categories: Graduate
 > > D.rarity generally increases pleasure
 
 > 英语问题 一对一 问: assumed 大部分是其他人，但是也有出现过作者观点的。你这个问题记着然后一对一的时候我帮你举例子说一下，你就更清楚啦
+
+
+## 翻译
+
+### 2010
+
+> 在这些天里"维持能力"一个流行的词语,但是对Ted Ning而言,这个概念有个人的理解。没有维持能力是一个恐怖的周期在他自己的生活清理中维持能力定向价值表达了通过每天的动作和选择。
+> 
+> 在1990年底Ning回想度过令人困惑的一年卖保险。他已经通过dot-com因特网爆发,苛求一份工作,签署一份Boulder代理。
+> 
+> 他并不是很好。Ning说:"真的很槽糕因为这已经不再是我的激情,"那些关于工作的翻译,可行性,缺乏售卖."我可能误以为的。晚上和看着天花板期间我很难过或我每次醒来。我没有钱和需要工作。每个人说,'仅仅等待,你会转角了,需要一些时间'"。
+
+
+
+
+
+
+
+
+
+
+
+
+
