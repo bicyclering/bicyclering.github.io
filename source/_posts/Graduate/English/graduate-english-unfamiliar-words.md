@@ -4132,6 +4132,177 @@ categories: Graduate
 
 ## 文章翻译
 
+**注意事项:**
+
+> **1.表影响:** 
+> > **好:**
+> > > n. has a far-reaching influence on sth
+> > 
+> > **坏:**
+> > > n. has a negative impact on sth __
+>
+> **2.表比例:** 
+> > n. account for  % of sth
+> > 
+> > which is % →  which accounts for %
+> 
+> **3.趋势:**
+> > An increasing number of people do sth
+> > 
+> > There is a trend that people tend to do ...
+> 
+> 
+> **4.表"造成结果:"** 
+> > Consequently, → So that
+> > 
+> > 
+> 
+> **5.表示"重要"** which is of vital imprtance
+> > n. is (of vital importance )/(important) for/to n.
+> 
+
+**Part:B模板**
+
+**I **
+  ____________  是  %
+
+  ____________  是不同的 → English
+
+**II 问题:**
+
+> 为什么就业 ⬇️
+> 
+> 开学创业 ⬆️  
+> 
+> 就业最高
+   
+
+> **总分总结果:**
+> > **1.** 第一段描述图表、现象
+> > > **1.1** 大体描述图表
+> > > 
+> > > **1.2** 总体趋势
+> > > 
+> > > **1.3** 数据举例
+> > 
+> > **2.** 第二段阐述论点论据
+> > > **2.1** 总述: 功能性废话
+> > > 
+> > > **2.2-2.3** 论点1,论据1
+> > > 
+> > > **2.4-2.5** 论点2,论据2
+> > 
+> > 第三段展望未来、提供措施
+> > > 展望 或 措施
+> > 
+> > **万能论点:**
+> > > **Time:** 
+> > > > it takes a long/short time to do...
+> > > > 
+> > > > ....is time-consuming
+> > > 
+> > > **Trend:**
+> > > > There is a trend that People tend to do....
+> > > 
+> > > **comfort/Convenience:**
+> > > > it's very convenient/comfortable to...
+> > > > 
+> > > > people enjoy... a lot
+> > > 
+> > > **Health/Safety:**
+> > > > it's safe/healthy to do
+> > > > 
+> > > > They will suffer a lot if...
+> > > 
+> > > **Money:**
+> > > > ... cost a lot/doesn't cost anything
+> > > > 
+> > > > sb spend much money on that
+> > > 
+> > > **Education:**
+> > > > sb spend much money on that 
+> > > > 
+> > > > it is educational/meaningful for sb to do...
+> > 
+> > **常用论据:**
+> > > **原因:**
+> > > > eg. the major reason is that...
+> > > 
+> > > **例证:**
+> > > > eg. the major reason is that...
+> > > 
+> > > **对比:**
+> > > > eg....,while,on the other hand,....
+> > > 
+> > > **数据:**
+> > > > eg. the recent study demonstrages that...
+> > 
+> > **第二段 阐述论点2**
+> > > **2.1** Some driving factors that contribute to the above mentioned changes/differences may be summarized as follows.
+> > > 
+> > > **2.2** An increasing number of people do sth
+> > > 
+> > > **2.3** To begin with, 第一个论点(万能论点)
+> > > 
+> > > **2.4** 第一个论据(常用论据)
+> > > 
+> > > **2.5** In addition to that,第二个论点(万能论点)
+> > > 
+> > > **2.6** 第二个论据(常用论据)
+> > 
+> > **第三段 展望未来 or 提供措施**
+> > > **提供措施:** Talking all these factors into consideration,
+> > > > **政府:** our authorities should make strict laws to solve the problem
+> > > > 
+> > > > **公司:** Companies and corporations should be aware of the consequences of this problem
+> > > > 
+> > > > **个人:** The general public  should also be educated that any prompt solution is of benefit(beneficial) to all.
+> > > 
+> > > **展望未来:**
+> > > > 中文: 综合上述,我们可以预测,随着社会和科技的发展,这个趋势将会一直延续下去
+> > > > 
+> > > > Taking all these factors into consideration,we may reasonable predict that along with repid and further advance of our society,the trend will go on.
+> > 
+> > **常用句型:**
+> > > **1 表 "影响"**
+> > >
+> > > **n.** has a great/significant/far-reaching/negative/impact/influence on  **n.**
+> > > 
+> > > **例:** 人口的快递增长对于环境的破坏有着巨大的影响。
+> > > > The rapid growth of population has a negative impact on the environment.
+> > > 
+> > > **2 表 "比例"**
+> > > > n.  **account for** % of....
+> > > > 
+> > > > **例:** 因为环境选择餐厅的顾客占了24.2%
+> > > > 
+> > > > Consumers who choose a restaurant for its envionment **account for** 24.2%.
+> > > 
+> > > **3 表 "因果"**
+> > > >  **Consequently,**代替  **so that**
+> > > 
+> > > **4 表 "越来越..."**
+> > > > An increasing number of people tend to do sth
+> > > > 
+> > > > **代替more and more**
+> > > > 
+> > > > > eg.越来越多的人倾向于选有特色的餐厅用餐
+> > > > > 
+> > > > > An increasing number of people tend to do choose a restaurant which is special.
+> > >
+> > > **5 表 "重要"**
+> > > ___ is **of vital importance**(=important) for/to
+> > > > **例: 在今天这个快速变化的社会中,精神健康对我们十分重要**
+> > > > > In the rapid-changing society,mental health **is of vital importance for** us.
+> > 
+> > **时态:**
+> > > 一般时
+> > > > **一般过去时:** did
+> > > > 
+> > > > **一般现在时:** do/does
+> > > > 
+> > > > **一般将来时:** be going to do/will do
+
 ### 2010
 
 #### 01
@@ -4197,16 +4368,16 @@ categories: Graduate
 
 #### 02
 
-> 在郊区外Virginia房子里一场小聚会我演讲了-- 一个妇女俱乐部邀请男士参加。
-> 整个晚上,一个特别的男士说话了,频繁提供了一些意见和奇闻轶事,然而他的妻子安静地坐在沙发上。直到这个聚会快结束了,我发表意见哪个妇女频繁的抱怨她们的丈夫不跟她们聊天。这个男士快速的点头同意了。他手指着他的妻子说,"她在家里面是一个爱说话"。房间里面爆发出一阵笑声;这个男士表示迷惑和受伤。他说:"这是真的",他解释"当我下班以后回到家以后我是不说话的,如果她不跟我说话,我们整个晚上都是沉默的"。
+> 在郊区外Virginia房子里有一场小聚会上我演讲了-- 一场邀请男士参加妇女俱乐部。
+> 整个晚上,一个特别的男士说话了,频繁提供了一些意见和奇闻轶事,然而他的妻子安静地坐在沙发上。直到这个聚会快结束了,我说哪个妇女频繁的抱怨她们的丈夫不跟她们聊天。这个男士快速的点头同意了。他手指着他的妻子说,"她在家里面是一个爱说话"。房间里面爆发出一阵笑声;这个男士表示迷惑和受伤。他说:"这是真的",他解释"当我下班以后回到家以后我是不说话的,如果她不跟我说话,我们整个晚上都是沉默的"。
 > 
 > 一段具体的插曲讽刺了**上面那个情景**虽然美国男人在公共场合比妇女说更多的话,他们在家却很少说话。这个行为严重破坏着婚姻。
 > 
 > 在1970年底政治社会学家Andrew Hacker通过这个行为观察发现。
-> 社会学家Catherine Kohler Riessman在他的新书离婚里面采访了大多数妇女--但是只有少数男人--认为缺乏沟通原因导致离婚。当前的离婚率将近50%,每年在美国数以百万的案件--缺乏沟通导致的一场虚拟的流行病。
+> 社会学家Catherine Kohler Riessman在他的新书《离婚》里面采访了大多数妇女--但是只有少数男人--认为缺乏沟通原因导致离婚。当前的离婚率将近50%,每年在美国数以百万的案件--缺乏沟通导致的一场实质的流行病。
 > 
 > 在我的个人研究里,妇女抱怨来至于她们的丈夫大多数经常聚焦在有形的不公平性比如放弃职业生涯的机会陪伴在她们丈夫身边,或者做许多她们日常生活支持的工作清理,烹饪和社交安排。代替,她们聚焦在交流中:"他不听我说话。" "他不和我说话。"
-> 我发现,例如几年前Hacker观察大多数妻子希望她们的丈夫,首先和最重要的,交流行为,但是少数丈夫和他们的妻子分享。
+> 我发现,例如几年前Hacker观察大多数妻子希望她们的丈夫,首先和最重要的,交流行为,但是极少数丈夫和他们的妻子分享。
 > 
 > 简言之,可以想象最有代表当前危机是老式的卡通场景一个男人坐在桌子旁边吃早餐拿了一份报纸在他的脸前面,一个妇女怒视着他,想和他说话。
 > 
@@ -4257,25 +4428,25 @@ categories: Graduate
 
 #### 03
 
-> 在过去几年,许多企业倾向于创造艺术自动习惯--在消费者群体中间。这些习惯帮助企业获利几十亿美元当消费者吃零食或者擦柜台没有事情的时候,经常给予一套精心设计的日常提示。
+> 在过去几年,许多企业倾向于在消费者中创造自动习惯的艺术。这些习惯帮助企业获利几十亿美元当消费者吃零食或者擦柜台没有事情的时候,经常给予一套精心设计的日常提示。
 > 
-> "这是基本的公共医疗问题,例如一个肥皂习惯代替脏手,**那个需求杀死自己**因为我们不能解决改变人们的习惯,"在Hygiene伦敦学校和热带医学Hygiene中心主管Dr.Curtis说"我们想从私有产业学习如何创造新的行为自动的发生"。
+> "这是基本的公共医疗问题,例如一个肥皂习惯代替脏手,**那个习惯只留下杀手因为我们不能解决人们的习惯**,"在Hygiene伦敦学校和热带医学Hygiene中心主管Dr.Curtis说"我们想从私有产业学习如何创造新的行为自动的发生"。
 > 
 > 企业家Mr.Curtis转向宝洁,高露洁和联合利华-投资数以百万的美元找微妙的暗示在消费者生活中公司应该使用引入新的惯例。
 > 
 > 如果你足够努力的看,你会找到每天我们的许多产品被使用--口香糖,爽肤水,擦消毒,空气净化器,纯净水,健康食品,牙齿清洁,软织物,维他命--制作习惯的结果。
-> 一世纪前,少数人定期清洗他们的牙齿一天多次。
+> 一世纪前,少数人习惯清洗他们的牙齿一天刷牙多次。
 > 今天,因为精明的广告和公共健康活动,许多美国人习惯地珍珠白的一个防蛀牙一天两次的清洗,经常使用高露洁和佳洁士或者其它品牌。
 > 
 > 几年前,许多人在外面吃饭的时候不喝水。
-> 当企业家开始从遥远的清泉的水装到瓶子里面,和现在办公室工作中不假思索的小口喝瓶子里面的水在一天中很长时间。
+> 当企业家开始从遥远的清泉的水装到瓶子里面,和现在办公室工作中不假思索的小口喝瓶子里面的水在一天中。
 > 口香糖,曾经未成年主要需求带来,现在商业的特征比如呼吸新鲜空气和牙齿清洁工在用餐后使用。
 > 爽肤水通过广告是早上美容规定形式,在头发清洗和化妆的时候使用。
 > 
 > "我们的产品成功当成为日常或者每周模式的一部分,最近从高露洁和佳洁士退休的消费者心理学家 "Carol Berning说,企业通过佳洁士卖760亿美元,去年Crest和其它产品。
 > "提升我们消费者生活是一个巨大创造积极的习惯,和它是一个必备制造新产品商业的可行性"。
 > 
-> 通过经验和观察,社会学家Dr.Berning通过学习尝试某一行为习惯性暗示通过残忍的广告。
+> 通过经验和观察,社会学家Dr.Berning通过学习尝试某一行为习惯性暗示通过赶尽杀绝的广告。
 > 习惯出现在新的科学里,争论的爆发当一些策略已经使用有问题美丽的面霜和不健康的食品。
 > 
 > 31.根据Dr.Curtis,一些习惯例如肥皂来洗手?
@@ -4388,11 +4559,11 @@ categories: Graduate
 
 #### 翻译
 
-> 在这些天里"维持能力"一个流行的词语,但是对Ted Ning而言,这个概念有个人的理解。没有维持能力是一个恐怖的周期在他自己的生活清理中维持能力定向价值表达了通过每天的动作和选择。
+> 在这些天里"持续性"一个流行的词语,但是对Ted Ning而言,这个概念有个人的理解。没有持续能力是一个恐怖的周期在他自己的生活清理中持续性定向价值表达了通过每天的动作和选择。
 > 
-> 在1990年底Ning回想度过令人困惑的一年卖保险。他已经通过dot-com因特网爆发,苛求一份工作,签署一份Boulder代理。
+> 在1990年底Ning回想度过令人困惑的一年卖保险。他度过了dot-com因特网爆发的时间,苛求一份工作,签署一份Boulder代理。
 > 
-> 他并不是很好。Ning说:"真的很槽糕因为这已经不再是我的激情,"那些关于工作的翻译,可行性,缺乏售卖."我可能误以为的。晚上和看着天花板期间我很难过或我每次醒来。我没有钱和需要工作。每个人说,'仅仅等待,你会转角了,需要一些时间'"。
+> 他并不是很好。Ning说:"真的很槽糕因为这已经不再是我的激情,"工作上进退两难导致缺乏销售."我可能误以为的。晚上和看着天花板期间我很难过或我每次醒来。我没有钱和需要工作。每个人说,'仅仅等待,你会转角了,需要一些时间'"。
 
 
 #### 作文
@@ -4401,11 +4572,11 @@ categories: Graduate
 
 > Dear May.
 > 
-> I am writing this letter thank you(目的),because you took care of me during my visit.The Sino-American cultural exchange program was very meaningful and interesting.I had a very nice experience.
+> I am writing this letter to thank you(目的),because you took care of me during my visit.The Sino-American cultural exchange program was very meaningful and interesting.I had a very nice experience.
 > 
-> In during the program.I studyed most knowledge(事实).I like American more and more（影响）.I felt very happy(情感).Thank you very much!
+> During the program.I learnt plenty of useful knowledge,which benefited me a lot.(事实).I like America more and more（影响）.I felt very happy(情感).Thank you very much!
 > 
-> Welcome to Chinna,If you came come.I will take part China special race(事实).You will like China sport race(影响).I felt very happy(情感).
+> Welcome to China,If you came here.We can take part inn some special races(事实).You will like China sport race(影响).I felt very happy(情感).
 > 
 > Looking forward to your reply.
 > 
@@ -4416,143 +4587,20 @@ categories: Graduate
 
 ##### Part B  **趋势**
 
-> **总分总结果:**
-> > **1.** 第一段描述图表、现象
-> > > **1.1** 大体描述图表
-> > > 
-> > > **1.2** 总体趋势
-> > > 
-> > > **1.3** 数据举例
-> > 
-> > **2.** 第二段阐述论点论据
-> > > **2.1** 总述: 功能性废话
-> > > 
-> > > **2.2-2.3** 论点1,论据1
-> > > 
-> > > **2.4-2.5** 论点2,论据2
-> > 
-> > 第三段展望未来、提供措施
-> > > 展望 或 措施
-> > 
-> > **万能论点:**
-> > > **Time:** 
-> > > > it takes a long/short time to do...
-> > > > 
-> > > > ....is time-consuming
-> > > 
-> > > **Trend:**
-> > > > There is a trend that ...
-> > > > 
-> > > > People tend to do
-> > > 
-> > > **comfort/Convenience:**
-> > > > it's very convenient/comfortable to...
-> > > > 
-> > > > people enjoy... a lot
-> > > 
-> > > **Health/Safety:**
-> > > > it's safe/healthy to do
-> > > > 
-> > > > They will suffer a lot if...
-> > > 
-> > > **Money:**
-> > > > ... cost a lot/doesn't cost anything
-> > > > 
-> > > > sb spend much money on that
-> > > 
-> > > **Education:**
-> > > > sb spend much money on that 
-> > > > 
-> > > > it is educational/meaningful for sb to do...
-> > 
-> > **常用论据:**
-> > > **原因:**
-> > > > eg. the major reason is that...
-> > > 
-> > > **例证:**
-> > > > eg. the major reason is that...
-> > > 
-> > > **对比:**
-> > > > eg....,while,on the other hand,....
-> > > 
-> > > **数据:**
-> > > > eg. the recent study demonstrages that...
-> > 
-> > **第二段 阐述论点2**
-> > > **2.1** Some driving factors that contribute to the above mentioned changes may be summarized as follows.
-> > > 
-> > > **2.2** To begin with, 第一个论点(万能论点)
-> > > 
-> > > **2.3** 第一个论据(常用论据)
-> > > 
-> > > **2.4** In addition to that,第二个论点(万能论点)
-> > > 
-> > > **2.5** 第二个论据(常用论据)
-> > 
-> > **第三段 展望未来 or 提供措施**
-> > > **提供措施:** Talking all these factors into consideration,
-> > > > **政府:** our authorities should make strict laws to solve the problem
-> > > > 
-> > > > **公司:**companies and corporations should be aware of the consequences of this problem
-> > > > 
-> > > > **个人:** the general public  should also be educated that any prompt solution is of benefit(beneficial) to all.
-> > > 
-> > > **展望未来:**
-> > > > 中文: 综合上述,我们可以预测,随着社会和科技的发展,这个趋势将会一直延续下去
-> > > > 
-> > > > Taking all these factors into consideration,we may reasonable predict that along with repid and further advance of our society,the trend will go on.
-> > 
-> > **常用句型:**
-> > > **1 表 "影响"**
-> > >
-> > > **n.** has a great/significant/far-reaching/negative/impact/influence on  **n.**
-> > > 
-> > > **例:** 人口的快递增长对于环境的破坏有着巨大的影响。
-> > > > The rapid growth of population has a negative impact on the environment.
-> > > 
-> > > **2 表 "比例"**
-> > > > n.  **account for** % of....
-> > > > 
-> > > > **例:** 因为环境选择餐厅的顾客占了24.2%
-> > > > 
-> > > > Consumers who choose a restaurant for its envionment **account for** 24.2%.
-> > > 
-> > > **3 表 "因果"**
-> > > >  **Consequently,**代替  **so that**
-> > > 
-> > > **4 表 "越来越..."**
-> > > > An increasing number of people tend to do sth
-> > > > 
-> > > > **代替more and more**
-> > > > 
-> > > > > eg.越来越多的人倾向于选有特色的餐厅用餐
-> > > > > 
-> > > > > An increasing number of people tend to do choose a restaurant which is special.
-> > >
-> > > **5 表 "重要"**
-> > > ___ is **of vital importance**(=important) for/to
-> > > > **例: 在今天这个快速变化的社会中,精神健康对我们十分重要**
-> > > > > In the rapid-changing society,mental health **is of vital importance for** us.
-> > 
-> > **时态:**
-> > > 一般时
-> > > > **一般过去时:** did
-> > > > 
-> > > > **一般现在时:** do/does
-> > > > 
-> > > > **一般将来时:** be going to do/will do
->
 > 不同年份的发展中中国和发达国家对手机订阅者的数量
 > 
 > the number of mobile-phone subscriptions what developing countries and developed countries of different years
 > 
-> What is illustrated in the digram above shows us that there are some **change** in the number of mobile-phone subscriptions what developing countries and developed countries of different years.
-> **We** can see the number of mobile-phone subscriptions is on a steady rise,which increases from 0.5 billion in 2000 to 4 billion in 2008.
+> 
+> What is illustrated in the digram above shows us that there are some **change** in the number of mobile-phone subscriptions what developing countries and developed countries of different years.**We** can see the number of mobile-phone subscriptions is on a steady rise,which increases from 0.5 billion in 2000 to 4 billion in 2008.
 > MeanWhile,the number of mobile-phone subscriptions declines,which decreases from 0.7 million in 2000 to 1 billion in 2008.
 > **数据举例 ???**
 > 
 > Some driving factors that contribute to the above mentioned changes may be summarized as follows.
-> **第一个论点**To being with,there is a trend that people tend to go to the museum in their free time.An increasing number of The mobile-phone subscriptions  tend to developing countries.
+> 
+> 
+> 
+> **第一个论点**To being with,there is a trend that people get an increasing number of knowledge.An increasing number of The mobile-phone subscriptions  tend to developing countries.
 > 
 > In addition to that,**第二个论点**It takes a long studyed.They can learn a lot and imporove their life.
 > 
@@ -4638,11 +4686,11 @@ categories: Graduate
 
 > 不管什么时候报纸死亡的发生?
 > 一年前似乎将近结束了。
-> **报纸衰退的危险删除广告和读者在不早已消失因特网。**
+> **经济的衰退威险还没有到互联网撤走的广告和读者**
 > 报纸在San Francisco Chronicle是记录着他们自己厄运。
 > 美国联邦交易委员会发起报纸存活一个会谈。
 > 他们应该成为慈善企业?
-> 他们应该国家资助?
+> 国家应该资助他们?
 > 他们举办了另外一个会议。
 > 但是他们的现在讨论已经过时了
 > 
@@ -4863,9 +4911,9 @@ categories: Graduate
 
 #### 翻译
 
-> 谁应该思考那个,全球的,IT行业产品温室关于相同体积气体如世界的航空公司做--概略地所有CO2排放2%。
+> 谁应该思考那个,全球的,IT行业产品温室关于相同体积气体如世界的航空公司做--大约所有CO2排放2%。
 > 
-> 许多每天任务讨论一个惊讶的代价在环境上。
+> 许多每天任务讨论在环境上造成损失。
 > Google调查泄露在0.2到0.7之间的CO2气体,依赖多少企图需要得到"正确的"回答。
 > 去交付结果去它的快速使用者,然后,Goolge维持广阔的数据机构围绕着世界,充满了关于强大的电脑。
 > 在产生大数量CO2,这些电脑排放大量的热量,那么机构需要好的空调调节器调节,然后甚至使用更多能量。
@@ -4879,13 +4927,13 @@ categories: Graduate
 
 > Dear Li Ming,
 > 
-> I am writeing this letter for congratulate you(目的),because you admitted to a university(背景). I felt very happy.
+> I am writing this letter for congratulate you(目的),because you admitted to a university(背景). I felt very happy.
 > 
 > During the university,you should go to library study books knowledge(事实).
-> You more like the university(影响).I felt so happy about it(情感). 
+> You will like the university(影响).I feel so happy about it(情感). 
 > 
-> During the university,you taste some school's food if suit for your taste(事实).
-> You found best suit food(影响).I felt so happy about it(情感).
+> During the university,you can make more firends they are if suit for your taste(事实).
+> You find best suit food(影响).I feel so happy about it(情感).
 > 
 > Looking forward to your reply.
 > 
@@ -4896,135 +4944,10 @@ categories: Graduate
 
 ##### Part B  **趋势**
 
-> **总分总结果:**
-> > **1.** 第一段描述图表、现象
-> > > **1.1** 大体描述图表
-> > > 
-> > > **1.2** 总体趋势
-> > > 
-> > > **1.3** 数据举例
-> > 
-> > **2.** 第二段阐述论点论据
-> > > **2.1** 总述: 功能性废话
-> > > 
-> > > **2.2-2.3** 论点1,论据1
-> > > 
-> > > **2.4-2.5** 论点2,论据2
-> > 
-> > 第三段展望未来、提供措施
-> > > 展望 或 措施
-> > 
-> > **万能论点:**
-> > > **Time:** 
-> > > > it takes a long/short time to do...
-> > > > 
-> > > > ....is time-consuming
-> > > 
-> > > **Trend:**
-> > > > There is a trend that ...
-> > > > 
-> > > > People tend to do
-> > > 
-> > > **comfort/Convenience:**
-> > > > it's very convenient/comfortable to...
-> > > > 
-> > > > people enjoy... a lot
-> > > 
-> > > **Health/Safety:**
-> > > > it's safe/healthy to do
-> > > > 
-> > > > They will suffer a lot if...
-> > > 
-> > > **Money:**
-> > > > ... cost a lot/doesn't cost anything
-> > > > 
-> > > > sb spend much money on that
-> > > 
-> > > **Education:**
-> > > > sb spend much money on that 
-> > > > 
-> > > > it is educational/meaningful for sb to do...
-> > 
-> > **常用论据:**
-> > > **原因:**
-> > > > eg. the major reason is that...
-> > > 
-> > > **例证:**
-> > > > eg. the major reason is that...
-> > > 
-> > > **对比:**
-> > > > eg....,while,on the other hand,....
-> > > 
-> > > **数据:**
-> > > > eg. the recent study demonstrages that...
-> > 
-> > **第二段 阐述论点2**
-> > > **2.1** Some driving factors that contribute to the above mentioned changes may be summarized as follows.
-> > > 
-> > > **2.2** To begin with, 第一个论点(万能论点)
-> > > 
-> > > **2.3** 第一个论据(常用论据)
-> > > 
-> > > **2.4** In addition to that,第二个论点(万能论点)
-> > > 
-> > > **2.5** 第二个论据(常用论据)
-> > 
-> > **第三段 展望未来 or 提供措施**
-> > > **提供措施:** Talking all these factors into consideration,
-> > > > **政府:** our authorities should make strict laws to solve the problem
-> > > > 
-> > > > **公司:**companies and corporations should be aware of the consequences of this problem
-> > > > 
-> > > > **个人:** the general public  should also be educated that any prompt solution is of benefit(beneficial) to all.
-> > > 
-> > > **展望未来:**
-> > > > 中文: 综合上述,我们可以预测,随着社会和科技的发展,这个趋势将会一直延续下去
-> > > > 
-> > > > Taking all these factors into consideration,we may reasonable predict that along with repid and further advance of our society,the trend will go on.
-> > 
-> > **常用句型:**
-> > > **1 表 "影响"**
-> > >
-> > > **n.** has a great/significant/far-reaching/negative/impact/influence on  **n.**
-> > > 
-> > > **例:** 人口的快递增长对于环境的破坏有着巨大的影响。
-> > > > The rapid growth of population has a negative impact on the environment.
-> > > 
-> > > **2 表 "比例"**
-> > > > n.  **account for** % of....
-> > > > 
-> > > > **例:** 因为环境选择餐厅的顾客占了24.2%
-> > > > 
-> > > > Consumers who choose a restaurant for its envionment **account for** 24.2%.
-> > > 
-> > > **3 表 "因果"**
-> > > >  **Consequently,**代替  **so that**
-> > > 
-> > > **4 表 "越来越..."**
-> > > > An increasing number of people tend to do sth
-> > > > 
-> > > > **代替more and more**
-> > > > 
-> > > > > eg.越来越多的人倾向于选有特色的餐厅用餐
-> > > > > 
-> > > > > An increasing number of people tend to do choose a restaurant which is special.
-> > >
-> > > **5 表 "重要"**
-> > > ___ is **of vital importance**(=important) for/to
-> > > > **例: 在今天这个快速变化的社会中,精神健康对我们十分重要**
-> > > > > In the rapid-changing society,mental health **is of vital importance for** us.
-> > 
-> > **时态:**
-> > > 一般时
-> > > > **一般过去时:** did
-> > > > 
-> > > > **一般现在时:** do/does
-> > > > 
-> > > > **一般将来时:** be going to do/will do
-> 
 > 2008、2009年国内部分汽车品牌对市场的占比**不同年份国内部分汽车品牌对市场的占比**
 > 
 > the percentage of cars what inland part market brand different years
+> 
 > 
 > **What is illustrated in the diagram above shows us that there are some changes in the percentage of which** the percentage of cars what inland part market brand different years.
 > 
@@ -5359,135 +5282,11 @@ categories: Graduate
 
 ##### Part B  **区别**
 
-> **总分总结果:**
-> > **1.** 第一段描述图表、现象
-> > > **1.1** 大体描述图表
-> > > 
-> > > **1.2** 总体趋势
-> > > 
-> > > **1.3** 数据举例
-> > 
-> > **2.** 第二段阐述论点论据
-> > > **2.1** 总述: 功能性废话
-> > > 
-> > > **2.2-2.3** 论点1,论据1
-> > > 
-> > > **2.4-2.5** 论点2,论据2
-> > 
-> > 第三段展望未来、提供措施
-> > > 展望 或 措施
-> > 
-> > **万能论点:**
-> > > **Time:** 
-> > > > it takes a long/short time to do...
-> > > > 
-> > > > ....is time-consuming
-> > > 
-> > > **Trend:**
-> > > > There is a trend that ...
-> > > > 
-> > > > People tend to do
-> > > 
-> > > **comfort/Convenience:**
-> > > > it's very convenient/comfortable to...
-> > > > 
-> > > > people enjoy... a lot
-> > > 
-> > > **Health/Safety:**
-> > > > it's safe/healthy to do
-> > > > 
-> > > > They will suffer a lot if...
-> > > 
-> > > **Money:**
-> > > > ... cost a lot/doesn't cost anything
-> > > > 
-> > > > sb spend much money on that
-> > > 
-> > > **Education:**
-> > > > sb spend much money on that 
-> > > > 
-> > > > it is educational/meaningful for sb to do...
-> > 
-> > **常用论据:**
-> > > **原因:**
-> > > > eg. the major reason is that...
-> > > 
-> > > **例证:**
-> > > > eg. the major reason is that...
-> > > 
-> > > **对比:**
-> > > > eg....,while,on the other hand,....
-> > > 
-> > > **数据:**
-> > > > eg. the recent study demonstrages that...
-> > 
-> > **第二段 阐述论点2**
-> > > **2.1** Some driving factors that contribute to the above mentioned changes may be summarized as follows.
-> > > 
-> > > **2.2** To begin with, 第一个论点(万能论点)
-> > > 
-> > > **2.3** 第一个论据(常用论据)
-> > > 
-> > > **2.4** In addition to that,第二个论点(万能论点)
-> > > 
-> > > **2.5** 第二个论据(常用论据)
-> > 
-> > **第三段 展望未来 or 提供措施**
-> > > **提供措施:** Talking all these factors into consideration,
-> > > > **政府:** our authorities should make strict laws to solve the problem
-> > > > 
-> > > > **公司:**companies and corporations should be aware of the consequences of this problem
-> > > > 
-> > > > **个人:** the general public  should also be educated that any prompt solution is of benefit(beneficial) to all.
-> > > 
-> > > **展望未来:**
-> > > > 中文: 综合上述,我们可以预测,随着社会和科技的发展,这个趋势将会一直延续下去
-> > > > 
-> > > > Taking all these factors into consideration,we may reasonable predict that along with repid and further advance of our society,the trend will go on.
-> > 
-> > **常用句型:**
-> > > **1 表 "影响"**
-> > >
-> > > **n.** has a great/significant/far-reaching/negative/impact/influence on  **n.**
-> > > 
-> > > **例:** 人口的快递增长对于环境的破坏有着巨大的影响。
-> > > > The rapid growth of population has a negative impact on the environment.
-> > > 
-> > > **2 表 "比例"**
-> > > > n.  **account for** % of....
-> > > > 
-> > > > **例:** 因为环境选择餐厅的顾客占了24.2%
-> > > > 
-> > > > Consumers who choose a restaurant for its envionment **account for** 24.2%.
-> > > 
-> > > **3 表 "因果"**
-> > > >  **Consequently,**代替  **so that**
-> > > 
-> > > **4 表 "越来越..."**
-> > > > An increasing number of people tend to do sth
-> > > > 
-> > > > **代替more and more**
-> > > > 
-> > > > > eg.越来越多的人倾向于选有特色的餐厅用餐
-> > > > > 
-> > > > > An increasing number of people tend to do choose a restaurant which is special.
-> > >
-> > > **5 表 "重要"**
-> > > ___ is **of vital importance**(=important) for/to
-> > > > **例: 在今天这个快速变化的社会中,精神健康对我们十分重要**
-> > > > > In the rapid-changing society,mental health **is of vital importance for** us.
-> > 
-> > **时态:**
-> > > 一般时
-> > > > **一般过去时:** did
-> > > > 
-> > > > **一般现在时:** do/does
-> > > > 
-> > > > **一般将来时:** be going to do/will do
->
 > 不同年龄组对某公司工作满意度的比列
 > 
 > the percentage of job satisfaction what this company of different age job groups
+> 
+> 
 > 
 > What is illustrated in the diagram above shows us that there are some **differences** in the **percentage** of **job satisfaction** which the percentage of job satisfaction what this company of different age job groups.
 > 
@@ -5503,296 +5302,1102 @@ categories: Graduate
 > 
 > Taking all these factors into consideration,Our authorities should make strict laws to solve the problem.
 
-## 写作
+
+### 2013
+
+#### 01
+
+> 一篇散文给"发展在美国",**作者Adam Davidson**叙述一个笑话从产棉国家关于多少现代纺织厂已经自动化:纺织厂平均一天只有两个员工,"一个男人和一条狗"。
+> 这个男人喂狗,和狗远让这个男的远离器械。
+> 
+> Davidson's文章的作品是大多数其中之一最近发现观点**那个理由**我们有这样的倔强高失业率和中产阶级收入下降在今天原因因为大萧条,但是**它**也是发展双方全球化和信息技术革命,**越快速地越替换劳动力与机器或者外籍工人**。
+> 
+> 过去,工人平均技能,做平均工作,平均生活方式。
+> 但是,今天,平均已经正式结束了。
+> 平均不仅仅是你赚多少用多少。
+> **它**不能当如此多员工有如此多进入超过平均便宜外国劳动力,便宜机器人,便宜软件,便宜自动化和便宜的天才。
+> 因此,每个人需要找到他们额外的--他们唯一价值贡献使他们脱离在职业领域。
+> 
+> 新技术已经永远侵蚀工作,和一直会。
+> 但是这儿已经是一个加速。
+> 如Davidson提示,"在截止2009年的10年里,美国工厂摆脱工人们这么快**那个他们**以前70年抹掉大多数利益;概略地每三个制造业工作一个脱颖而出--关于60亿总量--消失了"。
+> 
+> 这儿将会被改变--新工作,新产品,新服务。
+> 但是一件事情我们知道正确发展全球化和IT革命,最好的工作需要工人们有更多和最好的教育使他们自己突出。
+> 
+> 在世界平均工作是正式结束了,许多事情需要支持就业,但是没有什么应该比通过某种G.I.法案在21世纪保证每个美国人进入高中后学校教育。
+> 
+> 21.第一段使用哪个笑话表明?
+> > A.技术发展的影响
+> > 
+> > B.工作压力的缓解
+> > 
+> > C.纺织厂收缩
+> > 
+> > D.中产阶级收入的下降
+> 
+> 22.根据第三段成为一位成功的员工,要点?
+> > A.工作在便宜软件上
+> > 
+> > B.要求中产薪水
+> > 
+> > C.采取平均生活方式
+> > 
+> > D.贡献唯一价值
+> 
+> 23.引用第四段解释?
+> > A.技术已经增加收入
+> > 
+> > B.工作机会高速地消失
+> > 
+> > C.工厂比之前产生如此少的钱
+> > 
+> > D.已经提供新的工作和服务
+> 
+> 24.根据作者,减少失业率,最重要?
+> > A.加速I.T.革命
+> > 
+> > B.确保更多教育人们
+> > 
+> > C.发展经济全球化
+> > 
+> > D.在21世纪中间通过更多法案
+> 
+> 25.最适合的标题?
+> > A.新法律生效
+> > 
+> > B.技术变得廉价
+> > 
+> > C.平均时代结束
+> > 
+> > D.经济衰退是坏的
+
+
+#### 02
+
+> 一个世纪前,移民从穿过大西洋包含移民者和旅居者。
+> 随着许多人关注长期居住在美国来**这些人**无意停留,和准备一些回家的。
+> 在1908年和1915年,关于700万人到达与200万离去。
+> 关于全部四分之一意大利移民,例如:最后恢复好。
+> 他们甚至有深情的呢称,"uccelli di passaggio"漂泊不定的人。
+> 
+> 今天,我们如此严格关于移民。
+> 我们分配新来的人两种策略:文化或文盲,好或坏。
+> 我们欢迎他们如美国人在形成中,或谴责他们如**外星人**踢出。
+> **那**结构有有助于激烈我们打破移民体系和长期政治的停顿修复**它**。
+> 我们不需要更多分类,但是我们需要改变方式关于分类。
+> 我们需要去看超过严格定义法律和非法的。
+> 开始,我们能识别漂泊不定的人,这些现存的和繁荣的灰色区域。
+> 我们可能开始解决移民挑战。
+> 
+> 作物采摘机,小提琴家,建筑工人,企业家,工程师,家庭保健助理和物理学家是漂泊不定的人之一。
+> 他们积极的参与者在全球经济的驱流工作,钱和理念。
+> 他们更愿意适合时机呼叫他们。
+> 他们设法有一份工作在一个地方和一个家庭在其他。
+> 
+> 有没有允许,他们跨界法,司法管辖区和身份识别。
+> 我们需要他们想象美国一个地方**他们**能生成的给**那些**没有犯错的他们自己永远停留。
+> 我们需要他们感到**that那**家能两者和这儿和**that那**他们能属于两个国家光荣地。
+> 
+> 容纳人在这个新世界请求会需要新的关注度在外来移居者战争两边。
+> 看超过文化战争权利或错误地逻辑性开放中间立场和理解**那**管理外来移民者今天需要多样的路径和多样的效果,允许一些**that那**不能容易的完成合法的现存体系。
+> 
+> 26."漂泊不定的人"参考这些?
+> > A.外国临时停留
+> > 
+> > B.离开他们国家对好的
+> > 
+> > C.移民穿过大西洋
+> > 
+> > D.在海外找固定职业
+
+> 
+> 27.根据第二段当前外来移民体系在美国暗示?
+> > A.需要新移民策略
+> > 
+> > B.分散的控制移民
+> > 
+> > C.适合于满足挑战
+> > 
+> > D.已经修改通过政治手段
+> 
+> 28.根据作者的态度,今天的漂泊不定的人想要?
+> > A.财政的激励
+> > 
+> > B.全球化公认
+> > 
+> > C.自由停留或离开
+> > 
+> > D.有机会得到常规工作
+> 
+> 29.作者建议漂泊不定的人今天应该被视为?
+> > A.忠实的伙伴
+> > 
+> > B.法律容忍
+> > 
+> > C.经济的支持
+> > 
+> > D.有力的对手
+> 
+> 30.最适合的标题?
+> > A.来和去:大错误
+> > 
+> > B.生活和繁荣:大危险
+> > 
+> > C.有或没有:大危机
+> > 
+> > D.法律的或非法的:大危险
+
+
+### 2015
+
+#### 01
+
+> 一项新研究调查大多数建议是相反,人们实际上在家比工作压力更大。
+> 研究者基于人们标准的皮质醇,哪一种是压力标识,他们在工作和在家和更高的压力地方想要建立一个避难所。
+> 
+> 研究者Sarah Damaske写到:"更多的反驳常见至理名言,我们找到女士与男士一样工作比家里较低的压力,"
+> 她说明:**甚至**事实上妇女他们在工作上感觉最好.
+> "男士也这么认为,女士不以为然,哪一类人在家比工作更快乐"。
+> 另外惊讶的**工作中的快乐**是找到适用两者这些与孩子们没有的,**但是**更多没有子女的。
+> 这也是为什么人们在外工作更加健康的原因。
+> 
+> 研究判断当他们在家的时候他们仍然工作,无论家庭工作或者事业工作都从办公室带到家里。
+> 许多男士认为,工作日结束以后有一段时间放松一下。
+> 许多女士宁愿在家也不离开办公。
+> 和许多女士在外面工作,他们经常抓取家庭任务。
+> 用模糊的规则,和事实在家前滞后很好地在工作背后调整职业女性,**It's???**惊讶的不是女性在家压力更大。
+> 
+> **但是**不只是性别的事情。
+> 在工作上,人非常知道他们要求做什么:工作上,赚钱,他们有制定收入计划.
+> 交易是非常公正的:雇员身体的或者脑力劳动和抽出维持生命的金钱。
+> 
+> 在家门口,无论如何,人们没有如此仁慈。
+> Rara的家庭的分工如此公正的和系统地安排。
+> 大量的任务要做,不足的报酬给他们。
+> 你的同事-家庭-没有他们的报酬;他们需要被说服,或者如果他们是青少年,危险电子设备完全排除。
+> 加,你的家庭。
+> 你不能牵连家庭。
+> 你从不实际回家和在家。
+> 
+> 如此**it's**人们不在惊讶在家压力更大。
+> 不仅仅是任务是无限的,同事更难激励。
+> 
+> 21.根据第一段,大多数早先调查发现在家?
+> > A.提供较大的放松比工作地方
+> > 
+> > B.一种理想的压力地方测试
+> > 
+> > C.产生更多压力比工作地方
+> > 
+> > D.一种不切实际放松的地方
+> 
+> 
+> 22.根据Damaske,谁在家可能快乐?
+> > A.职场妈妈
+> > 
+> > B.无子女丈夫
+> > 
+> > C.职场爸爸
+> > 
+> > D.无子女妻子
+> 
+> 
+> 23.职场女性模糊的规则暗示的事实?
+> > A.他们在家也有一个地方放松
+> > 
+> > B.两者是一家之主和家庭主妇
+> > 
+> > C.他们经常有很多家务事留下
+> > 
+> > D.离开办公室对于他们是困难
+> 
+> 
+> 24.单词"钞票"(第四段,第四行)大多数可能意味着?
+> > A.技能
+> > 
+> > B.能力
+> > 
+> > C.收入
+> > 
+> > D.营养学
+> 
+> 25.家门口不同工作地方?
+> > A.家庭的劳力经常获得足够的奖赏
+> > 
+> > B.家里几乎不是职业温暖舒适工作环境
+> > 
+> > C.家务事任务普遍更多激励
+> > 
+> > D.家里分工是清晰的
+
+
+#### 02
+
+> 好几年,研究发现第一代大学生 -- 没有父母的学院学位 -- 落后其它学生在教育成就因素范围内。
+> 这些成绩的学生在底部和中途退学率比较高。
+> **但是**自经济增长以后这样的学生如果他们成功在高等教育,专科学院,大学已经推动了几十年组成更多的人。
+> 创造"一个悖论"招聘第一代大学生,**但是**看到需要大学生失败了,意味着高等教育"继续复制和放宽,而不是结束"成绩差距基于社会阶级,一篇即将发表的令人沮丧的开头在社会心理学日报。
+> 
+> **但是**文章实际上非常乐观,文章的大概描述了一个潜在解决的问题,建议与方式(并且包含一小时,仅次于无成本计划)接近63%成绩差距(判断这些因素与成绩)在第一代和其它学生之间。
+> 
+> 文章的作者来自不同的大学,和他们基于研究包含147名学生(完成项目)在不知名的私有大学。
+> 大多数第一代学生(59.1%)Pell Grants收件人,联邦允许本科生财政的需求,只给学生最少8.6%单亲父母与四年制学位。
+> 
+> 这些论点 -- 相对中等介入一个大的影响 -- 基于观察第一代学生大多数缺乏没有潜能**但是**在实际大多数专科生知识关于如何处理问题与事实。
+> 他们引用过去研究各自作者展示大学生间隔必须被缩小了成绩差距的接近成绩间隔。
+> 
+> 
+> 他们写:许多第一代学生"奋斗走过中产阶级高等教育的文化,学习'游戏的规则,'利用专科有利资源"。
+> 和因为大多数问题当专科生不知道谈论不同年级学生班级优势和缺点。
+> "因为US专科和大学很少承认社会阶层能影响学生的'教育的经验,许多第一代学生缺乏洞察力关于为什么他们努力的和不理解学生们如何'像他们'能改善"
+> 
+> 26.招聘更多第一代学生?
+> > A.减少他们中途退学率
+> > 
+> > B.缩小成绩差距
+> > 
+> > C.失去了最初的目的
+> > 
+> > D.压低专科学生
+> 
+> 
+> 27.研究作者文章是乐观?
+> > A.他们发现呼吁学生
+> > 
+> > B.招聘率提高
+> > 
+> > C.问题是可以解决的
+> > 
+> > D.他们几乎无花费
+> 
+> 
+> 28.研究建议大多数第一代学生?
+> > A.来自单亲家庭
+> > 
+> > B.学习在私有大学
+> > 
+> > C.需要财政的支持
+> > 
+> > D.失败他们的专科
+> 
+> 
+> 29.论文的作者相信第一代学生?
+> > A.可能缺乏机会申请研究项目
+> > 
+> > B.不熟练处理他们的问题在大学
+> > 
+> > C.一个潜在影响其它学生
+> > 
+> > D.实际上漠不关心成绩差距
+> 
+> 
+> 30.最后一段暗示?
+> > A.大学经常拒绝中产阶级的文化
+> > 
+> > B.学生们归咎于他们缺乏资源
+> > 
+> > C.社会阶级大大地帮助他们丰富教育经验
+> > 
+> > D.大学对这个问题有部分负责
+
+
+#### 03
+
+> Harvard商务学校教授Nacy Koehn说:甚至在传统的办公室,"美国公司lingua franca比20年前更加情绪化和头脑清醒"。
+> 她开始模仿例子。
+> "在1990年如果你和我调回到世界5百强,我们应该见多识广少频繁短语使用行程,任务,激情"。
+> 这儿目标,策略,宗旨,**但是**不能讨论关于精神;我们不能讨论关于激情。
+> 
+> 
+> Koehn指出合作词汇新时代非常"团队"- 重视 - 和不是巧合."不要忘记运动 - 男性主导美国公司,仍然是一个大的交易"。
+> 不是明确地意识到;我是教练,和你是我的团队,和我们在一起。
+> 这是很多很多CEO在不同公司,**但是**大多数CEO认为他们自己是教练和他们团队想要赢。
+> 
+> 这个关系也打算灌输工作的意义 - 和,如Rakesh Khurana,另外的教授,指出,增加效忠公司。
+> Khurana说:"你有重要的历史上地术语使用与不利益组织和宗教的组织联系:像这样愿景的术语,价值,激情,和目的"。
+> 
+> 
+> 新聚焦在个人实行能帮助保持员工积极性过程中越来越多地大声的讨论超过工作生活平衡。
+> 1990年"妈咪战争"今天仍然存在,引发争论关于为什么女性仍然不能拥有所有和书籍像Shery1 Sandberg's Lean In,谁的标题因为流行词正确。
+> 术语像短暂休息,脱机地,生活黑客,频带宽度,和容量关于设置边界在办公在家之间。
+> **但是**如果你的工作是你的"激情",你会被更多可能致力于你自己,**甚至**如果"激情"意味回家吃饭和长时间工作在孩子睡着以后时候。
+> 
+> **但是**这个似乎办公室说话被讽刺:每个人开玩笑的,**但是**管理都喜欢它,企业依赖它,和普通人欣然吸收它。
+> 如意味语言学家说:"那你可以让人们认为这是胡说八道的同时,你购买它"。
+> 在工作地方根本地漠不关心你的生活和意义,办公室人你说能帮助你解决如何放松你的工作 -- 和如何规定你的工作你是谁 。
+> 
+> 
+> 31.根据Nancy Koehn,办公室语言?
+> > A.少策略
+> > 
+> > B.少积极性
+> > 
+> > C.少目标
+> > 
+> > D.更多情绪化 
+> 
+> 
+> 32."团队" - 定向公司词汇接近放松?
+> > A.运动文化
+> > 
+> > B.性别差异
+> > 
+> > C.历史的事件
+> > 
+> > D.体育主管
+> 
+> 
+> 33.Khurana相信那个术语重要目标?
+> > A.恢复历史术语
+> > 
+> > B.激励公司想象
+> > 
+> > C.促进公司合作
+> > 
+> > D.加强员工忠诚
+> 
+> 
+> 34.从Lean In暗示?
+> > A.职业女性的声音
+> > 
+> > B.恳求热情的工作狂
+> > 
+> > C.引发讨论在大多数妈咪
+> > 
+> > D.赞美积极性员工
+> 
+> 
+> 35.以下哪一个关于办公室说话是对的?
+> > A.语言学家相信它是胡说的
+> > 
+> > B.普通人嘲笑它但是认可它
+> > 
+> > C.企业发现这是最基本的
+> > 
+> > D.管理钦佩它但是避免它
+
+
+#### 04
+
+> 许多人谈论在7月劳动力部门报告288,000新工作,伴随着失业率降到6.1%,好消息。
+> 和他们正确的。
+> 现在出现经济创造工作在同步的。
+> 我们仍然有一种方法充分就业,**但是**至少我们现在最终以更快的速度前进。
+> 
+> **无论如何**,这是另一个工作图片重要部分是主要忽略的。
+> 志愿兼职的人数大增。
+> 现在830,000(4.4%)比去年上升。
+> 
+> Obamacare解释之间的联系之前,值得做一个重要的区分。
+> 许多人兼职工作实际上想要全职工作。
+> 他们做兼职因为这是他们得到的。
+> 增加志愿工作弱点是明显的在劳动力市场和它意味着许多人会非常努力做完。
+> 
+> 
+> 增加在志愿兼职在7月份,**但是**普遍趋势下降。
+> 志愿兼职职业仍然远高于之前经济衰退,**但是**从去年下降640,000(7.9%)。
+> 
+> 
+> 我们知道差异在志愿和非志愿兼职员工因为人们告诉他们。
+> 调查使用劳动力部门要求人们如果他们工作小于35小时在参考周。
+> 如果回答"是,"他们兼职分类。
+> 调查询问无论他们工作小于35小时在参考周因为想要工作小于全职时间因为他们没有选择。
+> 他们只有分类志愿兼职工作如果他们告诉调查者他们选择工作小于35小时一周。
+> 
+> 志愿兼职问题叙述Oamacare因为主要目的之一允许人们得到就业外保险。
+> 许多人,特么那些严重健康条件或者家庭成员与厌女症健康条件,Obamacare之前只有一种方法得到保险通过一份工作提供健康保险。
+> 
+> 
+> 无论如何,Obamacare允许更多12百万人也得到保险通过医疗补助计划或者交换。
+> 这些人可能预先需要得到全职工作来提供保险掩饰自己和他们的家庭。
+> Obamacare不在是链接在职业和保险里面。
+> 
+> 
+> 36.那个工作图片部分被忽略?
+> > A.繁荣工作市场前景
+> > 
+> > B.志愿兼职工作增加
+> > 
+> > C.全职可能性
+> > 
+> > D.加速创造工作
+> 
+> 
+> 37.许多人兼职因为他们?
+> > A.宁愿兼职也不全职
+> > 
+> > B.感觉**兼职**足够收支平衡
+> >  
+> > C.找不到全职工作
+> > 
+> > D.没有看见市场弱点
+> 
+> 
+> 38.非志愿兼职员工在US?
+> > A.普遍趋势下降
+> > 
+> > B.比一年前更难获得
+> > 
+> > C.满足实现事业的需求
+> > 
+> > D.经济衰退比之前低
+> 
+> 
+> 39.通过Obamacare得到?
+> > A.**它**便不再容易兼职获得保险
+> > 
+> > B.全职员工仍然必要保险
+> > 
+> > C.**它**仍然要求家庭成员获得保险
+> > 
+> > D.员工不再是一个前提获得保险
+> 
+> 
+> 40.本文主要讨论?
+> > A.雇佣在美国
+> > 
+> > B.兼职的人分类
+> > 
+> > C.保险通过医疗补助计划
+> > 
+> > D.Obamacare's麻烦
+
+
+#### 翻译
+
+> 认为关于驱动路线非常常见的。
+> **它**应该减缓你的工作,进程旅行或者回家的路。
+> 无论哪个,你指定每次转动和向手背一样转。
+> 在这些旅行种类**它是**缺乏注意力在驱动和少量关注通过风景。
+> 结果是你察觉旅行话更少的时间比**它**实际的。
+> 
+> 这是非常旅行愉快的道路影响:人们倾向低估时间**它**走熟悉的路。
+> 
+> 这个影响导致路线我们分配关注度。
+> 当我们向下移动一个出名的路线,因为我们不能过多集中,时间似乎流逝更快。
+> 和后来,当我们回想,我们不能记住好行程因为我们不能花费太多关注。
+> 如此我们设想它是较短的。
+
+#### 作文
+
+##### Part A ????
+
+> Dear students,
+> 
+> I writing this letter for take part a summer camp activities , (目的) because call for volunteers.The university is going to host a summer camp for high school students.I have a very nice experience.
+> 
+> Duringn the activities,I introduce the camp activities,There are have run ground,library,and canteen.(陈述) The volunteers has a far-reachinng impact on camp activities.(影响)I feel very happy.(情感)
+> 
+> During the summer camp activities,I call for volunteers,An increasing number of meet of exchange.(陈述) The students has a far-reaching impact on meet of exchange get knowledge.(影响) I feel very happy.(情感)
+
+
+##### Part B  **区别**
+
+> 春节假期不同人群花销比例
+> 
+> the percentage of spring Festival who spending different person group
+> 
+> What is illustrate in the diagram above shows us that there are some differents in the percentage of spring Festrival which the percentage of spring Festival who spending different person group.We can see the percentage of spring Festrival is the highest.Which is 40%.MeanWhile,the percentage of spring Festrival is the lowest.Which is 20%.
+> 
+> 
+> 
+> Some driving factors that contributed to the above mentioned changes may be summarized as follows.
+> 
+> To being with,there is a trend that in increasing number of buy gifts of people,the major reason is that give family members.
+> 
+> In addition to that,Spring Festrival gift cost a lot money,the major reason is that family happy.
+> 
+> Talking all these factors into consideration,we may reasonably predict that along with the rapid and further advance of our society,the trend will go on.
+
+
+### 2017
+
+#### 01
+
+> 每周六早上上午9点,超过50,000跑者动身去围绕公园跑5公里。
+> 开始在公园跑步现场十几个朋友鼓励400比赛项目在英国和更多国外地方。
+> 比赛项目是免费的,雇佣100名工作志愿者。
+> 跑者范围从4年到祖父母;时间范围从Andrew Baddeley's 世界纪录13分钟48秒到一小时。
+> 
+> 
+> 公园跑步是随后在伦敦奥林匹克"遗留"是失败的。
+> 10年前的星期一,**it它**宣布奥林匹克运动会在伦敦30号开始。
+> 规划文件给予比赛重大遗留国际地位运动爱好者远离他们的睡椅。
+> 人口会更健康,健康者和引起更多获胜者。
+> **它**没有发生过。
+> 成年人数量每周运动都会增加,接近2百万在跑 - 到2012 - **但是**普遍人口增长太快。
+> 更坏的,现在这个数量加速下降。
+> 反对派要求主要的学校学生至少一周运动接近两个小时。
+> 肥胖上升在大多数成年人和孩子们。
+> 官方继续回顾为什么伦敦2012年未能"激发一代人"。
+> 公司跑步成功提供了答案。
+> 
+> 公园跑步不是一场比赛**但是**是一场磨炼:你竞争对手是时间。
+> 民族精神欢迎任何人。
+> 这是如此的快乐在新手气喘吁吁时候开始在跑道线上鼓掌因为最优秀的人才。
+> 奥林申办人,相比之,想要更多人参加运动和产生精英运动员。
+> 双重目标混合:新来的人强调压力和紧张不安。
+> 
+> 
+> 的确,这是有一点荒谬的在各国参与基础地"基层的"计划,社区概念运动关联的。
+> 如果这里有政府的角色,**it它**应该真实地参与提供普遍货物 -- 确保这个地方给运动场和铺设网球场的钱,和鼓励学校所有所有的活动。
+> **但是** 政府连续主持出售绿地,压榨从地方当局和下滑关注在运动教育。
+> **Instead of**而不是口头的,有价值的策略,未来政府需要更多提供条件给运动的繁荣。
+> 或者至少不使他们更坏。
+> 
+> 
+> 21.根据第一段,公园跑?
+> > A.创造更多工作
+> > 
+> > B.成为官方节日
+> > 
+> > C.增加较大人口
+> > 
+> > D.加强社交纽带
+> 
+> 
+> 22.作者相信伦敦奥林匹克"遗留"未能?
+> > A.促进人口增长
+> > 
+> > B.提升城市的形象
+> > 
+> > C.提升运动参与
+> > 
+> > D.增加运动时间在学校
+> 
+> 
+> 23.公园跑与奥林匹克运动差异?
+> > A.不强调精英主义
+> > 
+> > B.不能吸引新手
+> > 
+> > C.目标在于发现人才
+> > 
+> >  D.聚焦大多数比赛
+> 
+> 
+> 24.注意群众运动,作者认为政府?
+> > A.增加资金给运动俱乐部
+> > 
+> > B.投资公共运动设备
+> > 
+> > C.监督地方体育社团
+> > 
+> > D.组织"基层"体育比赛项目
+> 
+> 
+> 25.作者对英国政府已经完成了为体育?
+> > A.批评
+> > 
+> > B.宽容的
+> > 
+> > C.多变的
+> > 
+> > D.同情的/赞同的
+
+#### 02
+
+> 非常聚焦在孩子们屏幕的使用,**it's**它是容易地父母忘记关于他们自己屏幕的使用。
+> Jenny Radesky说"科技是为了吸引你"在他的数字播放研究,"和数字产品提升最大的接触。很难脱离,和导致家庭生活中大量出血。"
+> 
+> 
+> Radesky研究手机使用和进餐时服用药片给母子做食物测试练习。
+> 她找到母亲在使用设备练习期间20%少说话和39%更少的非语言与孩子互动。
+> 单独的55照顾者观察一个孩子或者更多孩子吃饭的时候,他说手机成为家庭紧张的根源。
+> 父母应该考虑他们的邮件在孩子们出价很高给他们的关注。
+> 当孩子们兴奋吸引他们的注意力时候,家长们会看他们的电子邮件。
+> 
+> 
+> 婴儿天生在家长面前尝试理解他们的世界,和如果**婴儿们those**面对单调的和无反应的 - 他们通常被一个设备吸引的时候 - **it设备**非常打扰孩子们。
+> 在1970年Radesky引用"静面实验"通过Ed Tronick心理学家发展。
+> 其中,在空白的表达式和不给**them**孩子们任何实际社会反馈,一位母亲要求与他的孩子简单的互动方式。
+> 如视频所示,孩子因为越来越多地忧虑的如她尝试获得母亲的关注力。
+> Radesky说"家长不一定一直都是优雅的父母,**但是**必须平衡家长们响应和对孩子感情上的需要的言语或非言语表达"。
+> 
+> 
+> 另一方面,Tronick它自己也比较担心关于孩子出生使用屏幕"沉重的思想意识要求家长应该一直互动"与他们的孩子。
+> 它基于有点幻想,非常自然,非常上层中产阶级思想意识说如果你未能显示你的孩子30,000词汇,你会疏忽他们。
+> Tronick相信**that**那只是因为孩子不能从屏幕中学到尤其是没有价值如果**它it**能给家长时间洗澡,做家务或简单地休息一下
+> 家长,他说,使用他们的设备和朋友交流或者做些不必要的工作。
+> 这能使他们感觉开心,这让他们在剩余的时间里更容易得到孩子的帮助。
+> 
+> 
+> 26.根据Jenny Radesky,数字产品设计?
+> > A. 吸引用户关注
+> > 
+> > B.增加工作效率
+> > 
+> > C.简化日常事务
+> > 
+> > D.改善人际关系
+> 
+> 
+> 27.Radesky's食品测试练习展示妈妈使用设备?
+> > A.带走孩子的嗜好
+> > 
+> >  B.转移孩子们的关注
+> > 
+> > C.减少母子交流
+> > 
+> > D.孩子言语的发展
+> 
+> 
+> 28.Radesy'引用"仍然面对实验"展示?
+> > A.**it**孩子们习惯用空白表达法
+> > 
+> > B.家长需要给予孩子们情感需要
+> > 
+> > C.言语表达对感交流不是必须的
+> > 
+> > D.孩子们未意识到改变父母的情绪
+> 
+> 
+> 29.Tronnick提到沉重的思想意识要求家长？
+> > A.保护孩子面临狂野幻想的影响
+> > 
+> > B.一年教孩子至少30000词汇
+> > 
+> > C.保持有关关于孩子屏幕使用
+> > 
+> > D.确保经常与孩子们互动
+> 
+> 
+> 30.根据Tronick,孩子使用屏幕可能?
+> > A.让他们的父母更有创造力
+> > 
+> > B.让家长休息一会
+> > 
+> > C.帮他们做作业
+> > 
+> > D.帮助他们变得更专注
+
+
+#### 03
+
+> 今天,普遍社会压力从大学和越来越多地高度期待移动迅速的世界导致学生们竞争忽略间隔年的可能性。
+> 毕竟,如果你认识每个人将会在秋天上学,**it它**那么呆在家里一年似乎很傻,不是**it**吗?
+> 在上学12年以后,**it**到花费一年时间做一些不学术的事情不自然的。
+> 
+> 
+> **但是**这可能是真的,**it's**它不是一个足够好的原因判断间隔年。
+> 人们总是担心长期在社会上落后其他人"终点赛跑","**whether不论/是否**对研究生院,媒体学校或者有利可图的职业。
+> **但是**尽管普遍误解,间隔年不能阻碍美术追求成功 -- 事实上,**it**它很可能提高它。
+> 
+> 
+> 从美国和澳大利亚学生研究显示接受间隔年的学生通常比不接受间隔年的学生在大学里面有更好的准备和表现。
+> 而不是拉学生回去,间隔年推动学生们的独立性,新的责任和环境的改变 --  一年级学生最常与之斗争的事情。
+> 间隔年的经历能减少当**it**它来的时候适应大学和扔进一个全新环境的打击,使简单的聚焦在美术和活动而不是比适应环境错误。
+> 
+> 
+> 如果你不能确信休息一年探索兴趣的内在价值,考虑到它在未来美术选择对财务的影响。
+> 根据国际中心教育统计学,接近80%大学生至少一次换一次专业。
+> 不是令人惊讶的,考虑到基本高校总课程,学生们对学校等待他们的巨大美术可能性缺乏了解。
+> 许多学生发现自己在大学申请表列出一个专业,**但是**上完大学后换个班。
+> **It's**它不是必要地坏事,**但是**依赖学校,**it**在游戏转换太晚后弥补不高昂的学分。
+> Boston大学,举例,你应该完成额外一年从另外一个部门切换到护理学院。
+> 先花一年把事情搞清楚能帮助预防压力和以后节省钱。
+> 
+> 31.原因之一高中毕业生不愿意间隔年？
+> > A.**they**他们认为**间隔年**学术上有误导
+> > 
+> > B.**they**在大学他们期待有很多兴趣
+> > 
+> > C.**it**做与别人不同的事情感觉很奇怪
+> > 
+> > D.**it**无价值的参加校外课程
+> 
+> 
+> 32.US和Australia研究参加间隔年暗示?
+> > A.学生们不切实际的
+> > 
+> > B.**保持学术存在不切实际的**
+> > 
+> > C.减轻新生财政责任
+> > 
+> > D.减轻新生压力
+> 
+> 
+> 33.第三段第八行单词"适应环境"最接近意味着?
+> > A.适应
+> > 
+> > B.引用
+> > 
+> > C.动机
+> > 
+> > D.竞争
+> 
+> 
+> 34.间隔年可能节省学生钱帮助他们?
+> > A.避免学术的失败
+> > 
+> > B.建立长期目标
+> > 
+> > C.去另外一个大学
+> > 
+> > D.选对专业
+> 
+> 
+> 35.最适合的标题?
+> > A.间隔年的偏爱
+> > 
+> > B.间隔年的ABCs
+> > 
+> > C.间隔年回来了
+> > 
+> > D.间隔年:困境
+
+
+
+#### 04
+
+> 虽然西方国家经常看待这个问题,Moritz教授和其他人说:野火频繁地快速增长是一个国际担心的事情因为**its**它会影响到联邦税美元。
+> 
+> 
+> 2015年里,美国森林服务首次将55亿美元年度预算的一半以上用于灭火 -- 几乎是20年前花费的努力的2倍。实际上,今天较少的联邦资金将会用来代理其它工作 -- 比如森林环境,流域和文化资源管理,和基础设施维修 -- 影响美国人生活.
+> 
+> 
+> 另一个全国性的关系到**whether**不论从其它机构的公共资金,比如房屋部门和城市发展,正在进入建设物易着火的区域。
+> 如Moritz说,多久联邦资金建造房屋可能被大火烧毁的房子。
+> 
+> 
+> 
+> 他说:"**It's**全球已经是一个巨大的问题从公共支出角度来看"。
+> "我们需要个放大镜。例如,'等一分钟,这可以吗?' 我们想要代替改变这些资金集中降低风险地区"。
+> 
+> 
+> 研究人员说:如此一个支点需要美国社会对火灾看法发生转变。
+> 
+> 一方面,关于野火需要更多包含的交流。
+> 过去十年,聚焦在气候变化 -- 地球的温度从绿色屋气体(不包含人类二氧化碳排放)导致条件是火灾加剧。
+> 
+> 
+> Moritz说:气候是一个关键要素,**it**它不应该达到方程式损失休息.
+> 
+> 
+> 他说："人类体系和风景和我们生活息息相关,两个方式互动"。
+> 他提示未能识别那个,导致"一种极度地简化解决方案可能是风景。我们认知能力解决方案是什么变得非常有限的问题"。
+> 
+> 
+> Colorado大学Bbalch教授说:同一时间,人们继续灭火事件需要全部控制和只在必要时释放。
+> 她说:**但是**承认火灾不可避免的存在在人类生活关注重要的开展中法律,政策,和惯例使可能安全。
+> 
+> 
+> Balch说"我们已经脱离了与火的生活,"。
+> 实际上重要理解和尝试和梳理 今天人类与火有什么联系。
+> 
+> 
+> 36.2015年更多频繁野火成为国际担心因为他们?
+> > A.耗尽前所未有的管理努力
+> > 
+> > B.消耗了高纪录高比例的预算
+> > 
+> > C.严重危险西方国家生态学
+> > 
+> > D.导致一个巨大基础设施支出危机
+> 
+> 
+> 
+> 37.Moritz回应使用"放大镜"?
+> > A.增加更多资金给容易引发火灾的地区
+> > 
+> > B.避免联邦资金的转移
+> > 
+> > C.发现无野火在地形部分
+> > 
+> > D.保证公共资金安全花费
+> 
+> 
+> 38.Moritz提示承认气候是一个关键要素?
+> > A.公共辩论尚未解决
+> > 
+> > B.改善灭火条件
+> > 
+> > C.其它因素不应该忽略
+> > 
+> > D.火灾视野发生了变化
+> 
+> 
+> 39.极度简化视野Moritz提到未得到一个结果?
+> > A.发现基本的自然化妆品
+> > 
+> > B.探索人类系统的机制
+> > 
+> > C.在人类生活中充分利用地形规则
+> > 
+> > D.理解人类与自然相互关系
+> 
+> 
+> 40.Balch教授指出火灾一些事情人类应该?
+> > A.消除
+> > 
+> > B.勉强接受
+> > 
+> > C.付出代价
+> > 
+> > D.远离
+
+
+#### 翻译
+
+> 我的梦想一直都是在时尚和出版之间某个地方工作。
+> 两年前从中等的学校毕业,我参加缝纫业和设计课程认为我可以转到时尚设计课程。
+> 无论如何,在课程期间我已经有足够的能力在未来这个专区竞争其它创造性人格,所以我决定那不是正确的路径对我而言。
+> 在申请大学之前我告诉每个人我应该学习新闻业,因为是我最喜爱活动之一。
+> 但是,说实话,我说它,因为我思考那个时尚和我只是梦想 -- 我知道在时尚行业里面我是不应该想象的!
+> 所以我决定探索一些时尚相关的课程包含写作。
+> 当我注意到这课程是"时尚媒体&提升"。
+
+#### 作文
+
+##### Part A 
+
+> Dear Williams
+> 
+> I am writing this letter to thank you(目的),because I accept to Chinese culture to a group of international students(背景和要点一).
+> 
+> (要点二)During the Chinese cultrue,I speak Chinese Food(事实)。An increaing number pople has a far-reaching imapct on Chinna(影响)。I feel very happy。
+> 
+> 
+> (要点二)During the Chinese cultrue,An number people of like China language(事实)。 An increasing number people has a far-reaching impact on local people of talk(影响)。I feel so happy。
+> 
+> Looking forward to your reply.
+> 
+> All the best,
+> 
+> Li Ming
+
+
+
+##### Part B  **趋势**
+
+> 我国博物馆数量和参观人数
+> 
+> **the country number of museums and number of visit people**
+> 
+> 
+> What is illustrate in the diagram above shows us that there are some changes in the number of **the number of museums and number of visit people** which the country the number of museums and number of visit people。
+> We can see the number of number of museums and numer of visit people is on steady rise,Which increases from 4000 **hundred thousand** in 2013 to 4200 **hundred thousand** in 2015。
+> MeanWhile,the numer of **number of museums and number of visit people** declines,Which disincreases from 8000 **hundred thousand** in 2015 to 6100 **hundred thousand** in 2013。
+> 
+> 
+> Some driving factors that contributed to the above mentioned may be summarzied as follows。
+> 
+> To begin with,This is a trend that an increasing number of read books(论点).the major reason is that tech own child.(论据)
+> 
+> In additation to that,This is trend that an number people of go to museum read books(论点),the major reason is that read MBA。
+> 
+> Talking all these factors into consideration,we may reasonably predict that along with the rapid and further advance of our society,the trend will go on.
+
+
+### 2018
+
+#### 05
+
+> A 只管说
+> 
+> B.在场
+> 
+> C.独特的赞美
+> 
+> D.姓名,地位,事情
+> 
+> E.找到"我也是"
+> 
+> F.别说闲话了
+> 
+> G.询问意见
+> 
+> A、E、G、F、C
+> 
+> 与任何人交谈的五种方式
+> 
+> 交谈是连续的,这意味着当你有一次与陌生人形成每次会话以后将会加强交流联系。
+> 
+> 你明天遇见陌生人:食品杂货店工人,出租车司机,新人在工作中或者门口保安。
+> 开始简单的交流与他们形成联系。
+> 
+> 这里有五种简单方法你可以开始与陌生人交流。
+> 
+> 41.______________________________
+> > 假设你在一个房间与某人**你不知道什么事情**你说"我想与这个人交流一下"---这件事情通常发生于我们有关系。你想说一些事情---第一个单词--但是说不出口,某个地方被卡住了感觉。我知道当时的感觉在这儿我的建议:说出口。
+> > 
+> > 仅仅认为:最坏的时候何时发生?他们都不想与你交流?当然,现在都不知道你在说什么?
+> > 
+> > 我真诚的相信一次交流你开口说第一个单词随后就会滔滔不绝。
+> > 如果保持简单地:"嘿","嘿" 或者 "你好" -- 激发你的热情和能量做最好的你,一个微笑和说"Hi"。
+> 
+> 42._____________________________
+> > 我们面对所有的问题;有限的时间内与人尽可能交流这是值得难忘的。
+> > 真诚地,如果我们墨守成规说"Hi","Hello","how are you?" and "What is going on?",**你将不能活跃聊天气氛。**
+> > 如此害怕问人问题。相信我,如果你去询问,你将会惊讶多少人愿意分享。
+> 
+> 43.____________________________
+> > 当第一时间遇见一个人,努力找话题与人交流观点。当你开始交流从这里聊到哪里,你会突然找到所有观点交流因为太简单了。
+> 
+> 44.____________________________
+> > 想象一下你倾注给某人和他们忙于电话,和如果要求他们关注你会得到回复"我能一心二用"。
+> > 当某人尝试与你交流,交流要全心全意。
+> > 眼神接触。
+> > 相信我,眼神交会神奇的发生。
+> > 眼神交会时候,你能感觉交流。
+> 
+> 45.____________________________
+> > 在哪里首次遇见人你会与她交流,但是一些时间以后你可能再次忘记他们的名字。
+> > 不是尴尬的!
+> > 如此,记得你与某人交流的小细节;也许他们去过这个地方,这个地方他们想要去,他们认为喜欢,他们反感---不管如何关于你的讨论。
+> > 
+> > 当你无意识地时候记得成为投资者事情幸福的时候。
+> > 如此他们感觉责任保持发展关系。
+> > 
+> > 就这样好了。五种令人惊讶与人交流的方式。
+> > 每个人实际上是读取一本优秀的书籍,或者与你谈谈!
+
+### 2019
+
+#### 05
+
+> 选择新家,Camille McClain's 孩子有一个要求:一个后院。
+> 
+> 当有人来到家McClain's小家伙们不只是孩子们的意见,和许多情况下青少年观点考虑父母真实房地产决策,2018根据Harris Poll调查超过2000美国成年人。
+> 
+> 而更多家族巴克老一代倾向离开孩子们不知关于实际的房地产决策,房地产代理人和心理学家混合视图关于财政的,个人的和长期可能影响儿童的意见。
+> 
+> Ryan Hooper临床的心理学家在Chicago说涉及孩子们想法在一个大决策里是一个好主意因为它能帮助他们管理和所有权的一种感觉能成为压倒性进程。
+> 
+> 他说"孩子们可以面对严重困难处理重大举措,特别如果它删除他们当前学校或者支持体系"。
+> 
+> Greg Jaroszewski,不动产代理人与Gagliardo Realty合伙人,说他不确信孩子们应该被涉及选择家--但是他们的意见应该被考虑在涉及朋友和社交活动,如果可能的.
+> 
+> Bailey说,询问他们问题关于一种潜在的家庭后院会使他们感觉相似因为包含决策过程。
+> 
+> 房地产代理基于在Santa Clarita,Tracey Hampson说,购买者许多方面不考虑孩子们。
+> 和他们安排太多重点在他们的意见毁了一个奇妙的购房。
+> 
+> Hampson说"在与你的孩子说话之前你做房地产决策很明智,但是我不应该基于购买决策仅仅在他们意见身上"。
+> 
+> Aaron NOrris说需要孩子们有其它的问题 --- 尤其是老的 -- 可能在HGTV上基于房产证知识,Norris组在Riverside,Calif。
+> 
+> 他说"他们喜欢Chip和Joanna Gaines和我们其他人一样"。
+> "HGTV认真地改变人们如何看待房产证。不是避难所,他是一个生活方式。与心态改变一些严重的后果。"
+> 
+> Norris说孩子们倾向上当在功能上和眼前利益。
+> 
+> Gurner说"明年他们的意见能改变".
+> "Harsh可能说,那个决策应该附带的孩子们的意见,而是弥补他们与重大考虑满足他们的最好需求-和给他们机会定做一点和做他们自己的。"
+> 
+> 在这个建议是比现在相关的更永远之前,甚至更多父母想要包含他们孩子的理念,尽管当前的住房危机。
+> 
+> 41.Ryan Hooper
+> 
+> 42.Adam Bailey
+> 
+> 43.Tracey Hampson
+> 
+> 44.Aaron Norris
+> 
+> 45.Julie Gurner
+> 
+> A.指出重大措施可能对儿童造成挑战
+> 
+> B.明智的离开孩子们在无知关于房地产决策
+> 
+> C.建议购房应该不基于儿童意见
+> 
+> D.儿童们认为应该给一种包含购房者决策感觉  
+> 
+> E.说明多方面像儿童的朋友和社交活动应该被考虑到购房
+> 
+> F.相信购房决策应该基于儿童们的需要而不是他们的意见
+> 
+> G.假设通过流媒体影响儿童看待房地产
+
+
+
+
+### 2019
+
+#### 作文
+
 
 ### Part A
 
-#### 2010
-
-
-##### version 1.0
-
-
-> Dear May,
+> Dear Harvard business school,
 > 
-> As a member of a Sino-American cultural exchange program,I am writing this letter for expressing my thanks for your warm reception and welcome you to visit China in due course.
+> I am writing this letter to recommend my colleague,Mr Smith.He is a market manager and is willing to get a master degress in your school.
 > 
-> We are very grateful for your kind hospitality and what you has done for our team.We communnicated a lot in English,which makes me open up horizons and improve my English communication ability.We enjoyed our visit.
+> I recommend him because he is a fast learner and studies very hard.I am sure he can improve himself if he can improve himself if he is admitted to Harvard University.In addition to that,He has very rich work experience,which is of vital importance.He is very suitable for this program.This is a golden chance for him.Harvard is his dream University.He will be very happy if he can study in the Business School.
 > 
-> I welcome your visiting at any time when you are free.I will take you some interesting places and take you to eat delicious food.I think you will like it.
+> I am honored to recommend him.
+> 
+> All the best,
+> 
+> Zhang Wei
+
+
+
+### 2019(A1)
+
+
+### Part A
+
+> 陈述 + 影响 + 情感
+> 
+> Dear Mr.Smith,
+> 
+> I am writing this letter to tell you my current condition,I received your letter and you asked me about my life(目标).I want to apologize for my delayed response.I will tell you about my university life(背景).
+> 
+> I had an important exam.I had to prepare for it.Sorry about that.
+> I have some good friends.We get along very well(I learn a lot from them,which is of vital importance.)I fell very happy.
+> 
+> I read many books and learn a lot improve my self,which is of vital importance.I like local university.I fell very happy.
+> 
 > 
 > Looking forward to your reply.
 > 
-> All the best.
+> All the best,
 > 
-> Zhang Wei.
-
-##### version 2.0
-
-> Dear May,
-> 
-> I write a letter to you,because I have just come back from the U.S. as a member of a Sino-American cultural exchange program.I have very happly experience.
-> 
-> Frist of all,I thinks for example:hamburger,pissa so on. The food is so good,I am very happy.
-> 
-> In addition,Welcome to china.If you come to china,I will take you to eat chinese food for example: noodles,rice.I think you will enjoy chinese food.
-> 
-> Looking forward to your reply.
-> 
-> All the best.
-> 
-> Zhang Wei.
-
-
-#### 2011
-
-
-##### version 1.0
-
-> Dear Li Ming,
-> 
-> I write a letter to congratulate you.You admitted to a university
-> I feel very hhappy.
-> 
-> First of all,I think university knowledage very good,You are must study everything.The help you homework improve.That's very good.
-> 
-> In addition,I think univeristy food very good,You could look a look,eat a eat,That is intesting,You are feel very happy.
-> 
-> Looking forward to your reply.
-> 
-> All the best.
-> 
-> Zhang Wei.
-
-#### 2012
-
-
-##### version 1.0
-
-> Dear service center,
-> 
-> I wirte a letter to you,I bought an electronic dictionary from an online store is wrong.
-> 
-> First of all,I study hard very diffcult,because the electronic dictionary very wrong,I so bad.
-> 
-> In addition,I demand you prompt solution,The electronic dictionary is very wrong,I don't go to foreign country.I hope you restore give me,I feel happy.
-> 
-> Looking forward to you reply.
-> 
-> All teh best.
-> 
-> Zhang Wei.
-
-
-
-#### 2013
-
-
-##### version 1.0
-
-> Dear May,
-> 
-> I write a letter to you,The hold a charity sale for kids in need for help.
-> 
-> First of all,The kids very need for exmaple:books、clothes、foods.I hope you give kids hlep.I very happy.
-> 
-> In addition,I hope everyone take a charity sale,Give kids some help.Changne kids life and knowledage important.I so very happy.
-> 
-> All the best.
-> 
-> LiMing.
+> Li Ming
 
 
 ### Part B
 
-> what is illustrated in the diagram above shows us that there are some **changes/differences** inn the **number/percentage/population** of **名词 which ...**
-
-#### 2010
-
-> 不同阶段的国家对手机订阅的数量
+> What is illustrated in the diagram above shows us that there are some differences in the of percentage of different ways that. 
+> People get product information. the percentage of Internet advertisements is the highest,which is 40%.MeanWhile,the percentage of TV advertisement,flyer and newspaper are lower,which one 22%,18% and 15%.
 > 
-> the number of the what are mobile-phone subscription different countries
+> Some driving factors that contribute to the above mentioned differences may be summarized as follows.
 > 
-> What is illustrated in the diagram above shows us that there are some **change** in the number of the what are mobile subscription different countries。
+> An increasing number of people buy something of Internet advertisements.
 > 
-> We can see the number of Mobile-phone is on a steady rise,which increases from 50 million in 2000 to 4 billion in 2008 year.
-> Meanwhile,the number of Mobile-phone is on a steady rise,which increases from 50 million in 2000 to 1 billionin 2008 year.
+> To begin with,with the advance of IT revolution,it is very convenient to get information from the Interent,because most people can cannect the Internet by their cell phone.
 > 
-> 每年发展中国家比发达国家对手机订阅的需求量不断在提升。
+> In addition to that,many people still spennd some time on watching TV,or reading newpaper and flyer Such as elder people.Consequently,they still get information from that.
 > 
-> Every year developing countries more than developed countries has mobile-phone subscription number increase.
-> 
+> Talking all these factors into consideration , we may reasonably predit that along with the rapid and the further advance of our socity,the trend will go on.
 
 
-#### 2011
-
-> 不同国家的品牌对轿车的比例
-> 
-> the percentage of what are cars different countries brand
-> 
-> What is illustrated in the diagram above shows us that there are some changes in the percentage of what are cars different countries brand.
-> 
-> We can see the percentage of car-market is on a steady rise,which increases from twenty-five in 2008 to thirty-five in 2009 year.
-> Meanwhile,the percentage of car-market declines,which decreases from thirty-five in 2008 to twenty-five in 2009 year.
-> 
-> 每年国产汽车占据市场的份额不断在上升。
-> 
-> The share of domestic automobiles in the market is rising every year.
 
 
-#### 2012
-
-> 不同年龄阶段人对工作满意度的比例
-> 
-> the percentage of people who are satisfaction with their job different age groups
->
-> What is illustrated in the diagram above shows us that there are some changes in the percentage of people who are satisfaction with their job different age groups。
-> 
 
 
-#### 2013
-
-> 不同年级阶段的大学生对兼职的比例
-> 
-> the percentage of students who are part-time jobs in different grades
-> 
-> What is illustrated in the diagram above shows us that there are some changes in the percentage of students who are part-time jobs in different grades.
-
-#### 2014
-
-> 城镇和乡村人口的
-> 
-> the population of the city and the countryside.
-> 
-> What is illustrated in the diagram above shows us that there are some changes in the population of the city and the countryside.
-
-#### 2015
-
-> 不同行业花销的人对春节假期的比例 
-> 
-> the percentage of people spend who are Spring Festival different industry
-> 
-> What is illustrated in the diagram above shows us that there are some changes in the percentage of people spend who are Spring Festival different industry
 
 
-#### 2016
-
-> 不同目的的学生对旅游的比例
-> 
-> the percentage of students who are travel different purposes
-> 
-> What is illustrated in the diagram above shows us that there are some changes in the percentage of students who are travel different purposes.
 
 
-#### 2017
-
-> 博物馆数量和参观人数
-> 
-> the museum number and visist population
-> 
-> What is illustrated in the diagram above shows us that there are some changes in the museum number and visist population.
 
 
-#### 2018
-
-> 不同因素的消费者对选择餐厅的比例
-> 
-> the percentage of people who are choice restaurant different factor
-> 
-> What is illustrated in the diagram above shows us that there are some changes in the percentage of people who are choice restaurant different factor.
 
 
-#### 2019
-
-> 不同因素的大学生对毕业后去向的比例
-> 
-> the percentage of college students who are  future after graduation different factors
-> 
-> What is illustrated in the diagram above shows us that there are some changes in the percentage of college students who are  future after graduation different factors.
 
 
-## 问题
-
-### 例证题
-
-**注意事项:**
-
-* **考查:** 论点和论据之间的对应关系
-* 题目为论据**找文章中论点为正确选项**
-* 选项中肯定会有论据为答案**记住选择论点**
-* 
-* **论据的内容是从冒号开始** **??????**
-* **模型:**
-* The author mentions/cites/uses/quotation....as an example to show/illustrate the point that...
 
 
-> P71-02
-> Ford's announcement this week that it would cut up to 30.000 jobs by 2012 was as much a sign of its "legacy" health - care costs as of the ills of the car industry.**Pushed by polls that show health care is one of his main domestic problems and by forecasts showing that the retiring baby-boomers will crush the government's finances,George Bush is to unveil a reform plan in next week's state -of -the-union address.**
-> 
-> Ford's announcement of cutting up to 30,000 jobs by 2012 indicates that Ford _____.
-> > A.has the biggest health problem of the car industry.
-> > 
-> > B.has made profits from its health-care legacy
-> > 
-> > C.has accumulated too heavy a health-care burden
-> > 
-> > D.owes a great deal  of debt to its employees.
 
 
-> P85
-> **The real problem is that Western governments continue to insist that they retain control of the key global economic and financial institutions while drifting away from global liberalizaiton.**Look at what's happening at the IMF(International Monetary Fund).The Europeans have demanded that keep the post of managing director,but all too often,western officials put their own interests above everyone else's when they dominate these global institutions.
-> 
-> The author uses "IMF" as an example to illustrate the point that ___.
-> > A.European leaders are reluctant to admit they are hypocritical.
-> > 
-> > B.there is an inconsistency between Wsetern theory annd practice.
-> > 
-> > C.global institutions are not being led by true globalization advocates.
-> > 
-> > D.European countries' interests are being ignored by economic leaders.
 
 
-> P108-02
-> **A year ago the end seemd near.The recession threatened to remove the advertising and readers that had not already fled to the internet.**Newspapers like the San Francisco Chroncile were chronicling their own doom.
-> 
-> 
-> By saying "Newspapers like ... their own doom"(Lines 3-4,Para. 1),the author indicates that newspapers ____.
-> > A.neglected the sign of crisis
-> > 
-> > B.faild to get state subsidies
-> > 
-> > C.were not charitable corporations
-> > 
-> > D.were in a desperate situation
 
 
-> P125-01
-> In an essay entitled "Marking It in America",the author Adam Davidson relates a joke from cotton country about just how much a modern textile mill has been automated:**The average mill has only two employees today,"a man and a dog.The man is there to feed the dog,and the dog is there to keep the man away from the machines."**
-> > **冒号后:** 论据
->
->
-> The joke in Paragraph 1 in used to illustrate _____.
-> > A.the impact of technological advances
-> > 
-> > B.the alleviation of job pressure
-> > 
-> > C.the shrinkage of textile mils
-> > 
-> > D.the decline of middle-class incomes
-
-> P135-01
-> **Buying gifts or giving to charity is often more pleasureable than purchasing things for oneself,and luxuries are most enjoyable when they are consumed sparingly.**This is apparently the reason McDonald's restricts the availability of its popular McRib - a marketing gimmick that has turned the pork sandwich into an object of obsession.
-> 
-> McRib is mentioned in Paragraph 3 to show that ____.
-> > A.popularity usually comes after quaility
-> > 
-> > B.consumers are sometimes irrational
-> > 
-> > C.marketing tricks are often effective
-> > 
-> > D.rarity generally increases pleasure
-
-> 英语问题 一对一 问: assumed 大部分是其他人，但是也有出现过作者观点的。你这个问题记着然后一对一的时候我帮你举例子说一下，你就更清楚啦
 
 
 
