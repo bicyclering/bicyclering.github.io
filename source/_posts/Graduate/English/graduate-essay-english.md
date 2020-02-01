@@ -10,6 +10,8 @@ categories: Graduate
 
 **注意事项:**
 
+1. 每段落开头缩进4个字母
+
 | 现在时态  | 过去时态  | 将来时态 |
 |:------------- |:---------------:| -------------:|
 | are     |  were  |     will be   |
@@ -64,7 +66,7 @@ categories: Graduate
 > 
 >  **I am writing to apply for the position of**  project manager **in the**  baidu .
 > 
->  **Thank you for you consideration of my application , I looking forward to your favorite reply at your earliest convenience .**
+>  **Thank you for your consideration of my application , I am looking forward to your favorite reply at your earliest convenience .**
 > 
 > **All the best ,**
 > 
@@ -90,7 +92,7 @@ categories: Graduate
 
 > **Dear** 姓名 ,
 > 
-> **I am writing to you to recommend** one my of my best friend , **for is quite qualified for the**  job . 
+> **I am writing the letter to recommend my one of my best friends** , **for he is quite qualified for the** job . 
 > 
 > **Thank you for you consideration my opinion , I am looking forward to your favorite reply at your earliest convenience .**
 > 
@@ -104,7 +106,7 @@ categories: Graduate
 
 > **Dear** 姓名 ,
 > 
-> **I am writing to your to inquire about** exhibition any information .
+> **I am writing to you to inquire about** exhibition any information .
 > 
 > **I am looking forward to your favorite reply at your earliest convenience .**
 > 
@@ -120,7 +122,7 @@ categories: Graduate
 > 
 > **I  am writing to you help** my finish project  for provide any about it information .
 > 
-> **I am looking forward to your favorite reply to at your earliest convenience .**
+> **I am looking forward to your favorite reply at your earliest convenience .**
 > 
 > **All the best ,**
 > 
@@ -146,7 +148,7 @@ categories: Graduate
 
 > **Dear** 姓名 ,
 > 
-> **I am writing the letter to thank you for** teach English knowledge .
+> **I am writing the letter to thank you for** teaching English knowledge .
 > 
 > **Please accept my gratitude , now and always .**
 > 
@@ -162,7 +164,7 @@ categories: Graduate
 > 
 > **I am writing the letter to apologize for** my careless mistake .
 > 
-> **Please accept my apologize , now and always .**
+> **Please accept my apology , now and always .**
 > 
 > **All the best ,**
 > 
@@ -202,7 +204,133 @@ categories: Graduate
 
 ## 案例
 
+### 2016
+
+#### 小作文
+
+> Dear Jack ,
+> 
+> I am writing this letter to thank you , because you congratulate me  won a translation contest and ask my for advice on translation .
+> 
+> I want to give your advice , with the quickening pace of urban life and eve-increasing pressure , talk with some friends improve language  ability . 
+> 
+> In addition to that , since the trend of globalization becomes irresistible and the speedy development of the economy , we need to take into some translation race .
+> 
+> I am looking forward to your favorite reply at your earliest convenience .
+> 
+> All the best ,
+> 
+> Your sincerely ,
+> 
+> Li Ming ,
+
+#### 大作文
+
+> 某高校学生选择不同因素旅行的目的调查比例
+> 
+> the percentage of students who choose to different things aim travel  
+> 
+> 某高校学生选择欣赏风景和缓解压力的比例较高
+> 
+> the percentage of students who choose to looking view or release pressure  was the higher
+> 
+> 某高校学习选择广交朋友和培养独立能力的比例较低
+> 
+> the percentage of students who choose to make friends or train independent ability was the lower
+> 
+> What is illustrated in the diagram shows  us that there are some differences in the percentage of students who choose to look view or release pressure  **was the higher** , **which was 37% or 33%** Meanwhile , the percentage of students who choose to make friends or train independent ability **was the lower** , **which was 9% or 6%**.
+> 
+> Some driving factors that  contribute to the above mentioned may be summarized as follows .
+> To being with , with the quickening pace of urban life and ever-increasing , people in growing are  either suffering physical and mental problems , therefore an increasing number of people like look view .
+> 
+> In addition to that , since the trend of globaization  becomes the speedy development of the economy , we can derive pleasure , experience and instruction from make friends or train independent ability .
+> 
+> Talking all these factors into consideration , we may reasonably predict that along with the rapid and the further advance of our society , the trend will go on .
+> 
+ 
+### 2017
+
+#### 小作文
+
+> Dear Professor Williams ,
+> 
+> I am writing this letter for to thank you , because you give my a  chance presentation about Chinese culture to a group of international students .
+> 
+> I want to accept the invitation , since the trend of globalization becomes the speedy development of the economy , an increasing number of students want to derive Chinese culture .
+> 
+> In addition to that ,  I want to introduce the key point of my presentation , with the quickening pace of urban life and ever-increasing pressure , we can derive pleasure , experience and instruction from Chinese foods .
+> 
+> I am looking forward to your favorite reply at your earliest convenience .
+> 
+> All the best ,
+> 
+> Your sincerely ,
+> 
+> Li Ming **,**
+
+
+#### 大作文
+
+> 2013~2015年博物馆数量和参观人数增加
+> 
+> the number of people who visit  museum  grew and the number of museum  grew
+> 
+> the number of people who visit  museum different years grew
+> 
+> the number of museum different years grew
+> 
+> What is illustrated in the diagram shows us that there are some changes in the number of people who visit  museum different years grew , from 6378 in 2013 to 7811 in 2015 . Meanwhile , the number of museum different years grew  , from 4000 in 2013 to 4697 in 2015 .
+> 
+> Some driving factors that contribute to the above mentioned may be summarized as follows .
+> To being with , with the quickening pace of urban life and ever-increasing pressure , an increasing number of people visit museum like through improve themselves .
+> 
+> In addition to that , since the trend of globalization becomes the speedy development of the economy  ,  we can derive pleasure , experience and instruction from museum .
+> 
+> Talking all these factors into consideration , we may reasonably predict that along with the rapid and the further advance of our society , the trend will go on .
+
 ### 2018
+
+#### 小作文(道歉信)
+
+> I am writing this letter for to apologize , because I will not be able to visit you . 
+> 
+> I want to tell you about situation and reasons , with the quickening pace of urban life and ever-increasing pressure , therefore I suffered car accident .
+> 
+> In addition to that , I suggest a future meeting at the May 28 2021 .
+> 
+> Please accept my apology , now and alwasy .
+> 
+> All the best,
+> 
+> Your sincerely,
+> 
+> Li Ming ,
+
+#### 大作文
+
+> 某市消费者选择不同因素餐厅比例
+> 
+> the percentage of consumer who choose different factors eat restaurant 
+> 
+> 消费者选择餐厅的特色的比例最多
+> 
+> the percentage of consumer who choose  to feature eat restaurant
+> 
+> 消费者选择餐厅的价格、环境、服务比例
+> 
+> the percentage of consumer who choose price , environment and service eat restaurant
+>
+> 
+>  What is illustrated in the diagram shows us that there are some differences in the percentage of consumer who choose different factors eat restaurant  **was the highest** , Meanwhile , the percentage of consumer who choose price , environment and service eat restaurant **was the lower** .
+> 
+> Some driving factors that contribute to the above mentioned may be summarized as follows .
+> To being with , with the quickening pace of urban life and ever-increasing pressure , an increasing number of consumers   through at special restaurant get pleasure . 
+>  In addition to that , since the trend of globalization becomes irresistible and the speedy development of the economy ,  an increasing number of consumers attention price , environment and service because along with the life level and knowledge improve .
+>  
+> Talking all these factors into consideration , we may reasonably predict that along with the rapid and the further advance of our society , the trend will go on .
+
+
+
 
 #### 翻译
 
@@ -248,19 +376,24 @@ categories: Graduate
 
 ![](/images/Graduate/English/MBA/2019/part_a.png)
 
-> Dear Professor 
+
+> Dear Professor Smith,
 > 
-> I am writing this letter for thank you**(目的)**,because ask me to plan a debate on the theme of city traffic**(背景)**。
+> I am writing this letter for thank you , because ask me to plan a debate about theme of city traffic .
 > 
->  I want to suggest a specific topic with my reasons , the topic are whether city traffic cancels car driving , because it of an increasing number of people cause traffic accident **(要点一)** 。It has a negative impact  family's live 。 I feel very sad 。
+> I want to suggest a specific topic with my reasons , the topic are whether city traffic cancel driving , since the trend globalization becomes irresistible and the speedy development of the economy an increasing number of traffic accident .
 > 
-> In addition , I want tell your about my arrangements**(要点二)** , on the one hand , strengthen people use share bicycle , on the other hand , strengthen traffic rule。 It has far-reaching influence any traffic accident。I feel very happy。
+> In addition to that , I want to tell my arrangement , on the one hand , strengthen people use share bicycle . on the other hand , strengthen city traffic rule .
 > 
->  Looking forward to your reply,
+> I am looking forward to your favorite reply at your earliest convenice .
 > 
->  All the best,
+> All the best ,
 > 
->  Li Ming
+> Your sincerely ,
+> 
+> Professor Smith,Li Ming
+
+
 
 #### 翻译
 
