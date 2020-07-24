@@ -6,7 +6,7 @@ categories: Graduate
 ---
 
 
-# 日常练习(考研倒计时:162天)
+# 日常练习(考研倒计时:148天)
 
 ## 未打卡统计
 
@@ -1671,7 +1671,7 @@ categories: Graduate
 > > > 6. a public health disaster 公共卫生的灾难
 > > 
 > > 结构解析:
-> > > 1. In a nation｛where …｝ where引导定语从句，修饰限定nation。
+> > > 1. In a nation｛where …｝ where引导定语从句,修饰限定nation。
 
 
 ### 16号
@@ -1685,8 +1685,6 @@ categories: Graduate
 ![问题 ](/images/Graduate/practice/mathematics/07-16-answer-2.jpg)
 
 
-#### 英语
-
 
 
 ### 17号
@@ -1699,7 +1697,46 @@ categories: Graduate
 
 ![问题 ](/images/Graduate/practice/mathematics/07-17-answer-2.jpg)
 
+
+
 #### 英语
+
+
+> Young people who are still getting started in life are more likely than older adults to prioritize personal fulfillment in their work.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgxNDM2) 
+> > 
+> > 仍处于人生起步阶段的年轻人相比年长者往往更重视工作中的个人满足感。
+> > 
+> > 必记词汇:
+> > > 1. likely ['laɪkli] a. 可能的 
+> > > 
+> > > 2. adult ['ædʌlt] n. 成年人 
+> > > 
+> > > 3. prioritize [praɪˈɒrətaɪz] vt. 优先考虑,最重视 
+> > > 
+> > > 4. personal [ˈpɜːsənl] a. 个人的 
+> > > 
+> > > 5. fulfillment [fʊl'fɪlmənt] n. 满足感
+> > 
+> > 写作积累:
+> > > 1. be still getting started in life 人生正处于起步阶段 
+> > > 
+> > > 2. be likely to 有可能,（引申）往往 
+> > > 
+> > > 3. are more likely to 更有可能会…,（引申）往往更… 
+> > > 
+> > > 4. older adults 年长的成年人 
+> > > 
+> > > 5. personal fulfillment 个人满足感 
+> > > 
+> > > 6. personal fulfillment in their work 工作中的个人满足感 
+> > > 
+> > > 7. prioritize personal fulfillment in their work 优先考虑工作中的个人满足感
+> > 
+> > 结构解析:
+> > > 1. Young people｛who are still getting started in life｝ who引导定语从句修饰限定Young people。 
+> > > 
+> > > 2. are more likely｛than older adults｝to… 比较对象译为中文时常前置: 相对于较年长的成年人
 
 
 ### 18号
@@ -1713,14 +1750,277 @@ categories: Graduate
 #### 英语
 
 
+> Looking back, he is struck that his parents could provide a comfortable life for their children even though neither had completed college when he was young.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgxNjA3) 
+> > 
+> > 回顾过去,他对于自己小时候父母都没上过大学却能给子女提供舒适的生活深有感触。
+> > 
+> > 必记词汇:
+> > > 1. struck [strʌk] a. 受触动的 
+> > > 
+> > > 2. provide [prə'vaɪd] vt. 提供 
+> > > 
+> > > 3. comfortable [ˈkʌmftəbl] a. 舒适的 
+> > > 
+> > > 4. complete [kəmˈpliːt] vt. 完成
+> > 
+> > 写作积累:
+> > > 1. look back (on) 回顾过去 
+> > > 
+> > > 2. be struck that 对…感触良多 
+> > > 
+> > > 3. provide a comfortable life for 为…提供舒适的生活 
+> > > 
+> > > 4. even though 即使,尽管 
+> > > 
+> > > 5. complete college 完成大学学业
+> > 
+> > 结构解析:
+> > > 1. Looking back… 现在分词短语作伴随状语,表示后面主句信息的伴随状况。 
+> > > 
+> > > 2. he is struck that … 主观感受形容词后面的that从句,可理解为形容词宾语从句。 
+> > > 
+> > > 3. his parents could provide…even though …when he was young  
+> > > > even though引导让步状语从句,对前面主句作反向强调；when是让步状语从句中的时间状语。
+
 
 ### 19号
 
 #### 数学
 
-![问题 ](/images/Graduate/practice/mathematics/07-19-question.jpg)
-
 ![问题 ](/images/Graduate/practice/mathematics/07-19-answer.jpg)
 
 
+
 #### 英语
+
+
+> In another dreadful week for workers in the aviation industry, Airbus said it would cut 15,000 jobs, about a tenth of its total, because it does not expect demand for its aircraft to return to pre-COVID levels until at least 2023, or possibly 2025. The announcement was lambasted in France, where the government has dispensed a huge rescue package. Aeromexico, Mexico’s biggest international airline, filed for bankruptcy protection. And easyJet, a British carrier, started a consultation on redundancies, which could see 727 pilots lose their jobs. Qantas announced 6,000 jobs cuts.
+> > 对于航空业的工人来说,又是可怕的一周,空客公司表示,将裁员1.5万人,约占总人数的十分之一,因为该公司预计至少要到2023年,或者2025年,对其飞机的需求才能恢复到疫情之前的水平。这一声明在法国遭到抨击,法国政府已经推出了一项巨额救助计划。墨西哥最大的国际航空公司Aeromexico申请破产保护。英国航空公司易捷航空(easyJet)开始就裁员进行磋商,可能导致727名飞行员失业。澳航宣布裁员6000人。
+> 
+> There was some good news for Virgin Australia, after two months in bankruptcy proceedings, as Bain Capital stepped in to buy the business. Shareholders lost their shirts in the deal, but the airline hopes to fly again in September.
+> > 在经历了两个月的破产程序后,维珍澳大利亚航空公司(Virgin Australia)迎来了一些好消息,贝恩资本(Bain Capital)介入收购了该公司。股东们在这笔交易中血本无归,但该航空公司希望在9月份恢复营业。
+> 
+> The Federal Aviation Administration confirmed that the first certification flights had been conducted for Boeing’s 737 max, which has been grounded for 15 months following two crashes. Although the tests were described as a “milestone” in its rehabilitation, Boeing’s passenger plane won’t be returning to the skies soon; the faa still has to carry out “a number of key tasks”.
+> > 美国联邦航空管理局证实,波音737 max飞机已经进行了首次飞行认证。这款机型在两次坠毁事件后停飞了15个月。尽管此番测试被称为波音飞机修复过程的一座“里程碑”,但波音的客机不会很快重返蓝天；联邦航空局仍然需要执行“一些关键任务”。
+> 
+> Shell joined the list of big oil and gas companies that have had to write down the value of assets because of falling energy demand and lower oil prices. The company expects to record charges of between $15bn and $22bn in the second quarter related to the writedowns. BP, meanwhile, agreed to sell what is left of its petrochemicals business to Ineos, a privately held firm with a record of taking over the chemical divisions of multinational companies, for $5bn.
+> > 由于能源需求下降和油价下跌,壳牌也加入了不得不减记资产价值的大型油气公司的行列。该公司预计,与减记相关的支出将在第二季度达到150亿至220亿美元。与此同时,英国石油公司(BP)同意将其剩余的石化业务出售给英力士集团(Ineos)。英力士集团是一家私人控股公司,曾以50亿美元的价格收购跨国公司的化工部门。
+> 
+> Germany became the latest flashpoint for safety concerns at Amazon warehouses during the pandemic, as its workers went on strike. Their union claims that 40 people contracted COVID-19 at two sites recently. The online retailer says it has provided enough personal protective equipment.
+> > 在疫情期间,德国工人举行罢工,成为亚马逊仓库安全问题的最新爆发点。他们的工会声称,最近有40人在两处地点感染了新冠肺炎。这家在线零售商表示,他们已经提供了足够的个人防护装备。
+
+
+
+### 20号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-20-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-20-answer-1.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-20-answer-2.jpg)
+
+
+
+#### 英语
+
+
+> As adults, it seems that we're constantly pursuing happiness, often with mixed results.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgxODU3) 
+> > 
+> > 我们成年人似乎总在追求幸福,但结果却并非总尽如人意。
+> > 
+> > 必记词汇:
+> > > 1. adult ['ædʌlt] n. 成年人 
+> > > 
+> > > 2. constantly [ˈkɒnstəntli] ad. 不断地 
+> > > 
+> > > 3. pursue [pəˈsjuː] vt.追求 
+> > > 
+> > > 4. mixed [mɪkst] a. 混合的,不同的
+> > 
+> > 写作积累:
+> > > 1. as adults 作为成年人 
+> > > 
+> > > 2. it seems that… 似乎 
+> > > 
+> > > 3. pursue happiness 追求幸福 
+> > > 
+> > > 4. mixed results 不同的结果,结果不一
+> > 
+> > 结构解析:
+> > > 1. be constantly doing… 表示强烈主观色彩，常为不满情绪 
+> > > 
+> > > 2. often with mixed results 介词with短语作伴随状语,但译文中为何加了转折呢?听语音！
+
+
+
+### 21号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-21-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-21-answer.jpg)
+
+
+#### 英语
+
+
+> I still grew up in an upper middle-class home with parents who didn't have college degrees.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgyMTky) 
+> > 
+> > 尽管我父母都没有大学文凭,但我依然在一个中上层家庭中长大。
+> > 
+> > 必记词汇:
+> > > 1. upper [ˈʌpə(r)] a. 上面的,地位较高的 
+> > > 
+> > > 2. middle-class [ˌmɪdl ˈklɑːs] a. 中产阶级的 
+> > > 
+> > > 3. degree [dɪˈɡriː] n. 学位
+> > 
+> > 写作积累:
+> > > 1. grow up 成长 
+> > > 
+> > > 2. an upper middle-class home 一个中上层家庭 
+> > > 
+> > > 3. college degrees 大学学位 
+> > > 
+> > > 4. have college degrees 获得大学文凭
+> > 
+> > 结构解析:
+> > > 1. 如何理解still？如何理解介词短语with…？二者间有无逻辑关系？
+
+
+### 22号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-22-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-22-answer.jpg)
+
+
+#### 英语
+
+
+> We hold strong views against video games and advocate the closing of all recreation facilities for such games.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid= MzA5MTY4Nzc1N18yNjUzMzgyNTIw) 
+> > 
+> > 我们强烈反对视频游戏,主张关闭所有含这种游戏的娱乐设施。
+> > 
+> > 必记词汇:
+> > > 1. hold [həʊld] vt. 持有 
+> > > 
+> > > 2. view [vjuː] n. 观点 
+> > > 
+> > > 3. video [ˈvɪdiəʊ] a. 可视的 
+> > > 
+> > > 4. game [ɡeɪm] n. 游戏 
+> > > 
+> > > 5. advocate [ˈædvəkeɪt；-et] vt.倡导 
+> > > 
+> > > 6. closing [ˈkləʊzɪŋ] n. 关闭 
+> > > 
+> > > 7. recreation [ˌriːkriˈeɪʃn] n. 娱乐 
+> > > 
+> > > 8. facilities [fə'silitiz] n. 设施
+> > 
+> > 写作积累:
+> > > 1. hold strong views against 强烈反对 
+> > > 
+> > > 2. video games 视频游戏 
+> > > 
+> > > 3. advocate the closing of 倡导关闭… 
+> > > 
+> > > 4. all recreation facilities 所有的娱乐设施 
+> > > 
+> > > 5. the closing of all recreation facilities 关闭所有娱乐设施
+> > 
+> > 结构解析:
+> > > 1. We hold…and advocate… 
+> > > > and连接并列的谓语动词
+
+
+
+### 23号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-23-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-23-answer.jpg)
+
+
+#### 英语
+
+
+> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgyNjA4) 
+> > 
+> > 当我们表达感谢时,我们绝不能忘记感恩的最高形式不是说出的话,而是实际的作为。
+> > 
+> > 必记词汇:
+> > > 1. express [ɪkˈspres] vt. 表达 
+> > > 
+> > > 2. gratitude [ˈɡrætɪtjuːd] n. 感激 
+> > > 
+> > > 3. appreciation [əˌpriːʃiˈeɪʃn] n. 感激 
+> > > 
+> > > 4. utter [ˈʌtə(r)] vt. 发出
+> > 
+> > 写作积累:
+> > > 1. express our gratitude 表达我们的感激 
+> > > 
+> > > 2. we must never forget that … 我们一定不要忘记 
+> > > 
+> > > 3. the highest appreciation 最高形式的感激 
+> > > 
+> > > 4. utter words 说出话语 
+> > > 
+> > > 5. live by 通过…生活
+> > 
+> > 结构解析:
+> > > 1. As …,时间状语从句 
+> > > 
+> > > 2. forget that … 
+> > > > that引导宾语从句 
+> > > 
+> > > 3. not to utter words,but to live by them not…but…不是…而是…，连接并列不定式短语作表语
+
+
+### 24号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-24-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-24-answer.jpg)
+
+
+#### 英语
+
+
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgyNjQ5) 
+> > 
+> > 能力决定了你能做什么。动机决定了你要做什么。态度决定了你会做成什么样。
+> > 
+> > 必记词汇:
+> > > 1. ability [əˈbɪləti] n. 能力 
+> > > 
+> > > 2. capable [ˈkeɪpəbl] a. 能够的,有能力的 
+> > > 
+> > > 3. motivation [ˌməʊtɪˈveɪʃn] n. 动机 
+> > > 
+> > > 4. determine [dɪˈtɜːmɪn] vt. 决定 
+> > > 
+> > > 5. attitude [ˈætɪtjuːd] n. 态度
+> > 
+> > 写作积累:
+> > > 1. be capable of 能够…
+> > 
+> > 结构解析:
+> > > 1. what you're capable of doing、what you do、how well you do it是三个名词性从句,第一个作表语(即表语从句),后两个作宾语(即宾语从句).
