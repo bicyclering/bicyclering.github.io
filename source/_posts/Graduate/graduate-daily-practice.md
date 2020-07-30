@@ -6,7 +6,7 @@ categories: Graduate
 ---
 
 
-# 日常练习(考研倒计时:148天)
+# [日常练习(考研倒计时:140天)](https://www.igaitu.com/)
 
 ## 未打卡统计
 
@@ -220,7 +220,7 @@ categories: Graduate
 
 #### 英语
 
-> In our rapidly changing economy, we more than ever need people in the workplace who can take initiative and exercise their imagination “to respond to unexpected events.”
+> In our rapidly changing economy, we more than ever need people in the workplace who can take initiative and exercise their imagination "to respond to unexpected events."
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc3ODI0) 
 > > 
 > > 在经济形势瞬息万变的今天,我们比以往更加需要那些在工作中能够采取主动并发挥想象力去"应对突发情况"的人。
@@ -740,7 +740,7 @@ categories: Graduate
 
 #### 英语
 
-> Hagel says we have designed jobs in the U.S. that tend to be “tightly scripted” and “highly standardized” ones that leave no room for “individual initiative or creativity.”
+> Hagel says we have designed jobs in the U.S. that tend to be "tightly scripted" and "highly standardized" ones that leave no room for "individual initiative or creativity."
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc3NjAx) 
 > > 
 > > Hagel说,在美国,我们已把工作设计成"严格照本宣科"和"高度标准化"的岗位,这使得个人根本没有自主创新空间。
@@ -1046,7 +1046,7 @@ categories: Graduate
 > Her cancer tips include using time-saving mass e-mails to keep friends informed, sewing or buying fashionable hospital gowns so you're not stuck with regulation blue or gray and playing Gloria Gaynor's "l Will Survive" so loud your neighbors call the police.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
 > > 
-> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子“我会活下去”,声音大到让邻居去报警。
+> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警。
 > > 
 > > 必记词汇:
 > > > 1. cancer [ˈkænsə(r)] n. 癌症 
@@ -1138,7 +1138,7 @@ categories: Graduate
 > Life is filled with either problems or possibilities. What you see is what you choose to see. On the surface life can seem tumultuous and perplexing, yet deep inside, where it truly matters, life is what you make of it. Choose to see beyond the problems to the possibilities that await your attention.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
 > > 
-> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子“我会活下去”,声音大到让邻居去报警。
+> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警。
 > > 
 > > 必记词汇:
 > > > 1. fill [fɪl] vt. 充满 
@@ -1236,7 +1236,7 @@ categories: Graduate
 > It surely seems plausible that happy people would be more forward-thinking and creative and lean towards R&D more than the average.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwNDQ1) 
 > > 
-> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子“我会活下去”,声音大到让邻居去报警。
+> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警。
 > > 
 > > 必记词汇:
 > > > 1. surely [ˈʃʊəli] ad. 肯定,确实 
@@ -1801,8 +1801,8 @@ categories: Graduate
 > There was some good news for Virgin Australia, after two months in bankruptcy proceedings, as Bain Capital stepped in to buy the business. Shareholders lost their shirts in the deal, but the airline hopes to fly again in September.
 > > 在经历了两个月的破产程序后,维珍澳大利亚航空公司(Virgin Australia)迎来了一些好消息,贝恩资本(Bain Capital)介入收购了该公司。股东们在这笔交易中血本无归,但该航空公司希望在9月份恢复营业。
 > 
-> The Federal Aviation Administration confirmed that the first certification flights had been conducted for Boeing’s 737 max, which has been grounded for 15 months following two crashes. Although the tests were described as a “milestone” in its rehabilitation, Boeing’s passenger plane won’t be returning to the skies soon; the faa still has to carry out “a number of key tasks”.
-> > 美国联邦航空管理局证实,波音737 max飞机已经进行了首次飞行认证。这款机型在两次坠毁事件后停飞了15个月。尽管此番测试被称为波音飞机修复过程的一座“里程碑”,但波音的客机不会很快重返蓝天；联邦航空局仍然需要执行“一些关键任务”。
+> The Federal Aviation Administration confirmed that the first certification flights had been conducted for Boeing’s 737 max, which has been grounded for 15 months following two crashes. Although the tests were described as a "milestone" in its rehabilitation, Boeing’s passenger plane won’t be returning to the skies soon; the faa still has to carry out "a number of key tasks".
+> > 美国联邦航空管理局证实,波音737 max飞机已经进行了首次飞行认证。这款机型在两次坠毁事件后停飞了15个月。尽管此番测试被称为波音飞机修复过程的一座"里程碑",但波音的客机不会很快重返蓝天；联邦航空局仍然需要执行"一些关键任务"。
 > 
 > Shell joined the list of big oil and gas companies that have had to write down the value of assets because of falling energy demand and lower oil prices. The company expects to record charges of between $15bn and $22bn in the second quarter related to the writedowns. BP, meanwhile, agreed to sell what is left of its petrochemicals business to Ineos, a privately held firm with a record of taking over the chemical divisions of multinational companies, for $5bn.
 > > 由于能源需求下降和油价下跌,壳牌也加入了不得不减记资产价值的大型油气公司的行列。该公司预计,与减记相关的支出将在第二季度达到150亿至220亿美元。与此同时,英国石油公司(BP)同意将其剩余的石化业务出售给英力士集团(Ineos)。英力士集团是一家私人控股公司,曾以50亿美元的价格收购跨国公司的化工部门。
@@ -1851,7 +1851,7 @@ categories: Graduate
 > > > 4. mixed results 不同的结果,结果不一
 > > 
 > > 结构解析:
-> > > 1. be constantly doing… 表示强烈主观色彩，常为不满情绪 
+> > > 1. be constantly doing… 表示强烈主观色彩,常为不满情绪 
 > > > 
 > > > 2. often with mixed results 介词with短语作伴随状语,但译文中为何加了转折呢?听语音！
 
@@ -1988,7 +1988,7 @@ categories: Graduate
 > > > 2. forget that … 
 > > > > that引导宾语从句 
 > > > 
-> > > 3. not to utter words,but to live by them not…but…不是…而是…，连接并列不定式短语作表语
+> > > 3. not to utter words,but to live by them not…but…不是…而是…,连接并列不定式短语作表语
 
 
 ### 24号
@@ -2024,3 +2024,361 @@ categories: Graduate
 > > 
 > > 结构解析:
 > > > 1. what you're capable of doing、what you do、how well you do it是三个名词性从句,第一个作表语(即表语从句),后两个作宾语(即宾语从句).
+
+
+
+### 25号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-25-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-25-answer.jpg)
+
+#### 英语
+
+> lf we adults could indulge in a bit of silliness and giggling, we would reduce stress hormones in our bodies, improve blood flow to our hearts and even have a greater chance of fighting off infection.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgyNzIz) 
+> > 
+> > 如果我们成年人可以纵情于一点儿傻气和傻笑,那么我们将会减少体内的压力荷尔蒙、改善心脏血流量,甚至提升防御传染病的概率。
+> > 
+> > 必记词汇:
+> > > 1. indulge [ɪn'dʌldʒ] vi.（in）沉溺于
+> > > 
+> > > 2. silliness [ˈsɪlinəs] n. 愚蠢
+> > > 
+> > > 3. giggle  ['ɡɪɡl] vi. 傻笑
+> > > 
+> > > 4. reduce  [rɪˈdjuːs] vt. 减少
+> > > 
+> > > 5. stress [stres] n. 压力
+> > > 
+> > > 6. hormone [ˈhɔːməʊn] n. 荷尔蒙,激素
+> > > 
+> > > 7. improve [ɪmˈpruːv] vt. 提高
+> > > 
+> > > 8. flow [flo] n. 流量,流动
+> > > 
+> > > 9. fight [faɪt] vt. 与…作战
+> > > 
+> > > 10. infection [ɪnˈfekʃn] n. 感染
+> > 
+> > 写作积累:
+> > > 1. we adults 我们成年人
+> > > 
+> > > 2. indulge in 沉溺于,纵情于
+> > > 
+> > > 3. a bit of silliness and giggling 一点儿傻气与傻笑
+> > > 
+> > > 4. reduce stress hormones in our bodies 减少我们体内的压力荷尔蒙
+> > > 
+> > > 5. improve blood flow to our hearts 改善心脏的血流量
+> > > 
+> > > 6. have a greater chance of 增加…的概率
+> > > 
+> > > 7. fight off infection 防御传染病
+> > 
+> > 结构解析:
+> > > 1. lf we could …, we would… 虚拟语气,表建议,可视为表委婉建议的经典句型。
+
+### 26号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-26-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-26-answer.jpg)
+
+
+#### 英语
+
+> Climate change is starving polar bears into extinction, according to research published Monday that predicts the apex carnivores could all but disappear within the span of a human lifetime. In some regions they are already caught in a vicious downward spiral, with shrinking sea ice cutting short the time bears have for hunting seals, scientists reported in Nature Climate Change.
+> > 周一发布的一项研究称,气候变化正在饿死北极熊并迫使它们灭绝。该研究预测,北极熊这一食物链顶端的食肉动物可能会在百年内几近灭绝。科学家在《自然气候变化》上发表的报告称,在部分地区,由于海冰消融缩短了北极熊捕食海豹的时间,北极熊已经陷入数量螺旋式下降的恶性循环
+> 
+> Their dwindling body weight undermines their chances of surviving Arctic winters without food, the scientists added.
+> > 科学家补充道,因为体重不断下降,北极熊在没有食物的情况下熬过北极冬天的几率降低了。
+> 
+> The bears face an ever longer fasting period before the ice refreezes and they can head back out to feed," Steven Amstrup, who conceived the study and is chief scientist of Polar Bears International, told AFP.
+> > 该研究的提出者、北极熊国际协会的首席科学家斯蒂芬·阿姆斯特拉普告诉法新社说："在冰雪重新冻结、可以外出觅食前,北极熊面临着前所未有的超长禁食期。"
+> 
+> On current trends, the study concluded, polar bears in 12 of 13 subpopulations analyzed will have been decimated within 80 years by the galloping pace of change in the Arctic, which is warming three times as fast as the planet as a whole.
+> > 该研究得出结论称,按照目前的趋势,随着北极加速变暖,研究分析的13个北极熊亚种群将有12个在80年内灭绝。目前北极变暖速度是地球整体的三倍。
+> 
+> By 2100, recruitment" — new births — "will be severely compromised or impossible everywhere except perhaps in the Queen Elizabeth Island subpopulation," in Canada's Arctic Archipelago, said Amstrup.
+> > 阿姆斯特拉普称,"到2100年,新生北极熊数量将会剧减甚至降为零,除了（加拿大北极群岛的）伊丽莎白女王群岛的亚种群之外"。
+
+### 27号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-27-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-27-answer.jpg)
+
+#### 英语
+
+> Across generational lines, Americans continue to prize many of the same traditional milestones of a successful life, including getting married, having children, owning a home, and retiring in their sixties.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgzNjIx) 
+> > 
+> > 如果我们成年人可以纵情于一点儿傻气和傻笑,那么我们将会减少体内的压力荷尔蒙、改善心脏血流量,甚至提升防御传染病的概率。
+> > 
+> > 必记词汇:
+> > > 1. generational [ˌdʒenəˈreɪʃənl] a. （一）代的 
+> > > 
+> > > 2. prize [praɪz] vt. 珍惜,重视 
+> > > 
+> > > 3. traditional [trə'dɪʃənl] a. 传统的 
+> > > 
+> > > 4. milestone [ˈmaɪlstəʊn] n. 里程碑 
+> > > 
+> > > 5. retire [rɪˈtaɪər] vi. 退休
+> > 
+> > 必记词汇:
+> > > 1. Across generational lines 世世代代 
+> > > 
+> > > 2. continue to prize… 一直重视 
+> > > 
+> > > 3. traditional milestones of a successful life 成功人生的传统标志 
+> > > 
+> > > 4. get married 结婚 
+> > > 
+> > > 5. have children 要孩子 
+> > > 
+> > > 6. own a home 买房子 
+> > > 
+> > > 7. retire in their sixties 六十多退休
+> > 
+> > 结构解析:
+> > > 1. Across generational lines, Americans… 美国人世世代代都…,可以将时间状语转译为定语,译为: 世世代代的美国人都…
+> > > 
+> > > 2. many of the same traditional milestones of a successful life, including …including相当于非限制性定语从句(which include)的省略,解释说明前面的many。
+
+### 28号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-28-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-28-answer-1.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-28-answer-2.jpg)
+
+
+#### 英语
+
+> A big survey of Indian households in 2004 found that nearly 40% of emigrants had more than a high school education, compared with around 3.3% of all Indians over the age of 25.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgzODIy) 
+> > 
+> > 如果我们成年人可以纵情于一点儿傻气和傻笑,那么我们将会减少体内的压力荷尔蒙、改善心脏血流量,甚至提升防御传染病的概率。
+> > 
+> > 必记词汇:
+> > > 1. survey [ˈsɜːveɪ , səˈveɪ] n. 调查 
+> > > 
+> > > 2. Indian ['ɪndɪən] n. 印度人 
+> > > 
+> > > 3. household [ˈhaʊshəʊld] n. 家庭 
+> > > 
+> > > 4. emigrant [ˈemɪɡrənt] n. 移民 
+> > > 
+> > > 5. high school n. 高中 
+> > > 
+> > > 6. compare [kəmˈpeə(r)] vt. (with)把…与…比较
+> > 
+> > 必记词汇:
+> > > 1. A big survey of …in 2004 found that …  2004年对…的一个大规模调查显示… 
+> > > 
+> > > 2. a high school education 高中教育 
+> > > 
+> > > 3. have more than a high school education 受过高等教育 
+> > > 
+> > > 4. (be)compared with 与…相比 
+> > > 
+> > > 5. around 3.3% 大约3.3% 
+> > > 
+> > > 6. over the age of 超过…的年龄
+> > 
+> > 结构解析:
+> > > 1. A big survey of Indian Households in 2004 found that … that引导宾从。 
+> > > 
+> > > 2. …compared with … 过去分词短语表条件状语,但为什么译为相比之下,请听语音。
+
+### 29号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-29-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-29-answer.jpg)
+
+
+#### 英语
+
+> Her cancer tips include using time-saving mass e-mails to keep friends informed, sewing or buying fashionable hospital gowns so you're not stuck with regulation blue or gray and playing Gloria Gaynor's "l Will Survive" so loud your neighbors call the police.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
+> > 
+> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子“我会活下去”,声音大到让邻居去报警。
+> > 
+> > 必记词汇:
+> > > 1. cancer [ˈkænsə(r)] n. 癌症 
+> > > 
+> > > 2. tip [tɪp] n. 窍门 
+> > > 
+> > > 3. time-saving [ˈtaɪm seɪvɪŋ] a. 省时的 
+> > > 
+> > > 4. mass [mæs] n. 大量,规模 
+> > > 
+> > > 5. e-mail ['i,mel] n. 电子邮件 
+> > > 
+> > > 6. inform [ɪn'fɔrm] vt. 通知 
+> > > 
+> > > 7. sew [səʊ] vt. 缝制 
+> > > 
+> > > 8. fashionable ['fæʃnəbl] a. 时尚的 
+> > > 
+> > > 9. gown [ɡaʊn] n. 长袍,外罩 
+> > > 
+> > > 10. stick [stɪk] vt. 卡住,粘住 
+> > > 
+> > > 11. regulation [ˌreɡjuˈleɪʃn] n. 规章,制度 
+> > > 
+> > > 12. gray [ɡreɪ] a. 灰色的,灰暗的  
+> > > 
+> > > 13. survive [səˈvaɪv] vi. 存活,幸存 
+> > > 
+> > > 14. loud [laʊd] ad. 大声地 
+> > > 
+> > > 15. neighbor ['nebɚ] n. 邻居
+> > 
+> > 必记词汇:
+> > > 1. cancer tips 抗癌窍门 
+> > > 
+> > > 2. mass e-mails 群发电子邮件 
+> > > 
+> > > 3. use mass e-mails 使用群发电子邮件 
+> > > 
+> > > 4. use time-saving mass e-mails 使用省时的群发电子邮件 
+> > > 
+> > > 5. keep friends informed 保持与朋友的联系 
+> > > 
+> > > 6.  hospital gowns 住院服,病号服 
+> > > 
+> > > 7. sew or buy fashionable hospital gowns 缝制或购买时尚的住院服 
+> > > 
+> > > 8. be stuck with 被…卡住,无法摆脱 
+> > > 
+> > > 9. be stuck with regulation blue or gray 总穿着规定的蓝色或灰色（病号服） 
+> > > 
+> > > 10. Gloria Gaynor 葛罗莉亚·盖诺 
+> > > 
+> > > 11. play … so loud 大声播放… 
+> > > 
+> > > 12. call the police 报警
+> > 
+> > 结构解析:
+> > > 1. include｛using… e-mails｝,｛sewing or buying fashionable hospital gowns｝…and ｛playing…｝ 
+> > > > and连接的三重并列动名词短语,共同作include的宾语。
+
+### 30号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-30-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-30-answer-1.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-30-answer-2.jpg)
+
+
+
+#### 英语
+
+> The best way to disconnect from a troubled past is to trust and connect with possibilities of the present moment. When you embrace the power of now, the future belongs to you.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
+> > 
+> >忘记不堪过去的最好办法就是相信并把握当下的机遇。一旦把握住当下,未来也将属于你！
+> > 
+> > 必记词汇:
+> > > 1. disconnect [,dɪskə'nɛkt] vi. 断开（from） 
+> > > 
+> > > 2. troubled ['trʌbld] a. 混乱的,存在诸多问题的 
+> > > 
+> > > 3. trust [trʌst] vt. 信任,相信 
+> > > 
+> > > 4. connect [kəˈnekt] vi. 连接,连上（with） 
+> > > 
+> > > 5. present [ˈpreznt , prɪˈzent] 当前的 
+> > > 
+> > > 6. embrace [ɪmˈbreɪs] vt. 拥抱,接受
+> > 
+> > 必记词汇:
+> > > 1. The best way to 做…的最佳方式 
+> > > 
+> > > 2. disconnect from 与…断开连接,与…分开 
+> > > 
+> > > 3. a troubled past 不堪的过去 
+> > > 
+> > > 4. the present moment 当前 
+> > > 
+> > > 5. possibilities of the present moment 当前的种种可能 
+> > > 
+> > > 6. trust and connect with possibilities of the present moment 相信并（连系上）把握住当前的种种机遇 
+> > > 
+> > > 7. embrace the power of now 拥抱当前的力量,把握住当前 
+> > > 
+> > > 8. belong to 属于
+> > 
+> > 结构解析:
+> > > 1. The best way (to disconnect from …)  不定式作后置定语 
+> > > 
+> > > 2. is to trust … 不定式作表语
+
+
+
+### 31号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/07-31-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-31-answer-1.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/07-31-answer-2.jpg)
+
+
+
+
+
+## 08月
+
+### 01号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/08-01-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/08-01-answer-1.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/08-01-answer-2.jpg)
+
+
+### 02号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/08-02-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/08-02-answer-1.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/08-02-answer-2.jpg)
+
+
+
+### 03号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/08-03-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/08-03-answer-1.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/08-03-answer-2.jpg)
