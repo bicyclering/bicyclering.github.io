@@ -2345,7 +2345,40 @@ categories: Graduate
 ![问题 ](/images/Graduate/practice/mathematics/07-31-answer-2.jpg)
 
 
-
+> Outside directors are supposed to serve as helpful, yet less biased, advisers on a firm's board.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
+> > 
+> > 外部董事应在董事会担任起有益且少有偏见的顾问角色。
+> > 
+> > 必记词汇:
+> > > 1. director [dəˈrektə(r); daɪˈrektə(r)] n. 董事 
+> > > 
+> > > 2. suppose [səˈpəʊz] vt. 猜想,认为 
+> > > 
+> > > 3. helpful [ˈhelpfl] a. 有益的 
+> > > 
+> > > 4. biased [ˈbaɪəst] a. 有偏见的 
+> > > 
+> > > 5. adviser [ədˈvaɪzə(r)] n. 顾问 
+> > > 
+> > > 6. board [bɔːd] n. 董事会
+> > 
+> > 必记词汇:
+> > > 1. outside director 外部董事 
+> > > 
+> > > 2. be supposed to 理应,应该 
+> > > 
+> > > 3. serve as 担任 
+> > > 
+> > > 4. helpful, yet less biased advisers 有益且相对公正的顾问 
+> > > 
+> > > 5. on a firm's board 在公司董事会
+> > 
+> > 结构解析:
+> > > 1. are supposed to 
+> > > > =are expected to 
+> > > > 
+> > > > 被认为,应该
 
 
 ## 08月
