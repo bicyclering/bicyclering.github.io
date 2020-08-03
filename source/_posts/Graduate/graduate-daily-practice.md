@@ -78,7 +78,7 @@ categories: Graduate
 > This government does not want to see a return to large-scale provision of council housing,so it is naturally wary of measures that will lead us down that route.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc4Mjc3) 
 > > 
-> > 本届政府不想重回大规模提供市政住房的模式,所以它自然会对有关此方向的措施持谨慎态度。
+> > 本届政府不想重回大规模提供市政住房的模式,所以它自然会对有关此方向的措施持谨慎态度.
 > > 
 > > 必记词汇: 
 > > > 1. return [rɪ'tɜːn]  n.返回 
@@ -120,10 +120,10 @@ categories: Graduate
 
 #### 英语
 
-> It needs to put historical prejudices to one side and take some steps to address our urgent housing need。
+> It needs to put historical prejudices to one side and take some steps to address our urgent housing need.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc4Mjk1) 
 > > 
-> > 它需要把历史偏见抛在一边,采取一些步骤以逐渐解决我们迫切的住房需求。
+> > 它需要把历史偏见抛在一边,采取一些步骤以逐渐解决我们迫切的住房需求.
 > > 
 > > 必记词汇:
 > > > 1. historical [hɪ'stɒrɪk(ə)l]  a. 历史的
@@ -164,10 +164,10 @@ categories: Graduate
 
 #### 英语
 
-> The communities minister,Don Foster,has hinted that George Osborne,Chancellor of the Exchequer,may introduce more flexibility to the current cap on the amount that local authorities can borrow against their housing stock debt。
+> The communities minister,Don Foster,has hinted that George Osborne,Chancellor of the Exchequer,may introduce more flexibility to the current cap on the amount that local authorities can borrow against their housing stock debt.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc4MzU4) 
 > > 
-> > 社区大臣Don Foster暗示.财政大臣George Osborne可能会放宽(导入更多的灵活性)地方政府建房债务方面现行的借贷额度限制。
+> > 社区大臣Don Foster暗示.财政大臣George Osborne可能会放宽(导入更多的灵活性)地方政府建房债务方面现行的借贷额度限制.
 > > 
 > > 必记词汇:
 > > > 1. community [kəˈmju:nətɪ]  n. 社区
@@ -223,7 +223,7 @@ categories: Graduate
 > In our rapidly changing economy, we more than ever need people in the workplace who can take initiative and exercise their imagination "to respond to unexpected events."
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc3ODI0) 
 > > 
-> > 在经济形势瞬息万变的今天,我们比以往更加需要那些在工作中能够采取主动并发挥想象力去"应对突发情况"的人。
+> > 在经济形势瞬息万变的今天,我们比以往更加需要那些在工作中能够采取主动并发挥想象力去"应对突发情况"的人.
 > > 
 > > 必记词汇:
 > > > 1. changing [tʃendʒɪŋ]  a. 变化的;发展的
@@ -272,7 +272,7 @@ categories: Graduate
 > So then the problem is not really about technology,but rather,"how do we innovate our institutions and our work practices?"
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc3OTUz) 
 > > 
-> > 由此可见,问题确实不在于技术,而是相反,在于"我们该如何改进工作制度及工作方式"。
+> > 由此可见,问题确实不在于技术,而是相反,在于"我们该如何改进工作制度及工作方式".
 > > 
 > > 必记词汇:
 > > > 1. rather ['rɑːðə] ad. 相反地
@@ -303,7 +303,7 @@ categories: Graduate
 > Ministers should also look at creating greater certainty in the rental environment,which would have a significant impact on the ability of registered providers to fund new developments from revenues.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc4Njcz) 
 > > 
-> > 部长们(政府)还应考虑进一步稳定房屋的租赁环境,这将对注册供应商把收益用于新开发项目的投资能力产生重大影响。
+> > 部长们(政府)还应考虑进一步稳定房屋的租赁环境,这将对注册供应商把收益用于新开发项目的投资能力产生重大影响.
 > > 
 > > 必记词汇:
 > > > 1. minister ['mɪnɪstə] n.部长
@@ -361,7 +361,7 @@ categories: Graduate
 > While these measures would be welcome in the short term,we must face up to the fact that the existing £4.5bn programme of grants to fund new affordable housing,set to expire in 2015,is unlikely to be extended beyond then.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc4Njkz) 
 > > 
-> > 虽然这些措施在短期内会受到欢迎,但我们必须勇于面对现实:当前用于资助廉价房建设的45亿英镑拨款计划定于2015年到期,并且不可能得到延期。
+> > 虽然这些措施在短期内会受到欢迎,但我们必须勇于面对现实:当前用于资助廉价房建设的45亿英镑拨款计划定于2015年到期,并且不可能得到延期.
 > > 
 > > 必记词汇:
 > > > 1. existing [ɪɡ'zɪstɪŋ]  a. 现存的 
@@ -412,7 +412,7 @@ categories: Graduate
 > The Labour Party has recently announced that it will retain a large part of the coalition’s spending plans if it returns to power.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc4OTk5) 
 > > 
-> > 工党最近宣布,若能重新上台,他们将保留联合政府支出计划的一大部分。
+> > 工党最近宣布,若能重新上台,他们将保留联合政府支出计划的一大部分.
 > > 
 > > 必记词汇:
 > > > 1. recently ['riːsntlɪ] ad.最近
@@ -459,7 +459,7 @@ categories: Graduate
 > Researchers measured people’s cortisol,which is a stress marker,while they were at work and while they were at home and found it higher at what is supposed to be a place of refuge.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc5MDU3) 
 > > 
-> > 研究人员对人们工作时和在家时的皮质醇(压力大小的标识)进行了测量,发现在家这个理应是庇护所的地方人们的皮质醇更高。
+> > 研究人员对人们工作时和在家时的皮质醇(压力大小的标识)进行了测量,发现在家这个理应是庇护所的地方人们的皮质醇更高.
 > > 
 > > 必记词汇:
 > > > 1. researcher [rɪ'sɜ:tʃə]  n.研究员
@@ -514,7 +514,7 @@ categories: Graduate
 > "Further contradicting conventional wisdom,we found that women as well as men have lower levels of stress at work than at home,"writes one of the researchers,Sarah Damaske.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc5MDky) 
 > > 
-> > "此外,另一与传统认识相矛盾的是,我们发现,与男性一样,女性在工作中的压力程度也比在家里低",其中一名研究人员Sarah Damaske 这样写道。
+> > "此外,另一与传统认识相矛盾的是,我们发现,与男性一样,女性在工作中的压力程度也比在家里低",其中一名研究人员Sarah Damaske 这样写道.
 > > 
 > > 必记词汇:
 > > > 1. contradict [ˌkɒntrəˈdɪkt] vt.与......矛盾
@@ -552,7 +552,7 @@ categories: Graduate
 > In our rapidly changing economy, we more than ever need people in the workplace who can take initiative and exercise their imagination "to respond to unexpected events."
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc3ODI0) 
 > > 
-> > 在经济形势瞬息万变的今天,我们比以往更加需要那些在工作中能够采取主动并发挥想象力去"应对突发情况"的人。
+> > 在经济形势瞬息万变的今天,我们比以往更加需要那些在工作中能够采取主动并发挥想象力去"应对突发情况"的人.
 > > 
 > > 必记词汇:
 > > > 1. changing [tʃendʒɪŋ] a.变化的；发展的
@@ -600,7 +600,7 @@ categories: Graduate
 > It’s time to reinvent the formula for how work is conducted,since we are still relying on a very 20th century notion of work, Hagel says.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc3NzUw) 
 > > 
-> > Hagel认为,我们现在已到彻底改进(做)工作方式的时候了,这是因为我们目前仍在依赖过去20世纪的工作理念。
+> > Hagel认为,我们现在已到彻底改进(做)工作方式的时候了,这是因为我们目前仍在依赖过去20世纪的工作理念.
 > > 
 > > 必记词汇:
 > > > 1. reinvent [ˌri:ɪnˈvent] vt. 彻底改造 
@@ -643,7 +643,7 @@ categories: Graduate
 > With the blurring of roles,and the fact that the home front lags well behind the workplace in making adjustments for working women,it’s not surprising that women are more stressed at home.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc5Mjgz) 
 > > 
-> > 由于角色模糊,外加职业女性在家的协调难度远大于职场这一事实,女性在家里压力更大也就不足为奇了。
+> > 由于角色模糊,外加职业女性在家的协调难度远大于职场这一事实,女性在家里压力更大也就不足为奇了.
 > > 
 > > 必记词汇:
 > > > 1. blurring [blɜːriŋ] n. 模糊 
@@ -690,7 +690,7 @@ categories: Graduate
 > U.S. President Barack Obama is urging the public to persuade members of Congress to extend a payroll tax cut that saved a typical middle class family about $ 1,000 last year.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc5Mjkz) 
 > > 
-> > 美国总统巴拉克·奥巴马督促公众游说国会议员延长削减工资税法案,该法案在去年为一般的中产家庭省下大约1000美元。
+> > 美国总统巴拉克·奥巴马督促公众游说国会议员延长削减工资税法案,该法案在去年为一般的中产家庭省下大约1000美元.
 > > 
 > > 必记词汇:
 > > > 1. president [ˈprezɪdənt] n. 总统
@@ -743,7 +743,7 @@ categories: Graduate
 > Hagel says we have designed jobs in the U.S. that tend to be "tightly scripted" and "highly standardized" ones that leave no room for "individual initiative or creativity."
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc3NjAx) 
 > > 
-> > Hagel说,在美国,我们已把工作设计成"严格照本宣科"和"高度标准化"的岗位,这使得个人根本没有自主创新空间。
+> > Hagel说,在美国,我们已把工作设计成"严格照本宣科"和"高度标准化"的岗位,这使得个人根本没有自主创新空间.
 > > 
 > > 必记词汇:
 > > > 1. 1.design [dɪ'zaɪn] vt.设计
@@ -794,7 +794,7 @@ categories: Graduate
 > 
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc3NjAx) 
 > > 
-> > Hagel说,在美国,我们已把工作设计成"严格照本宣科"和"高度标准化"的岗位,这使得个人根本没有自主创新空间。
+> > Hagel说,在美国,我们已把工作设计成"严格照本宣科"和"高度标准化"的岗位,这使得个人根本没有自主创新空间.
 > > 
 > > 必记词汇:
 > > > 1. 1.design [dɪ'zaɪn] vt.设计
@@ -849,7 +849,7 @@ categories: Graduate
 > ln the confrontation between the stream and the rock,the stream always wins,not through strength but by perseverance.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc5NjAx) 
 > > 
-> > Hagel说,在美国,我们已把工作设计成"严格照本宣科"和"高度标准化"的岗位,这使得个人根本没有自主创新空间。
+> > Hagel说,在美国,我们已把工作设计成"严格照本宣科"和"高度标准化"的岗位,这使得个人根本没有自主创新空间.
 > > 
 > > 必记词汇:
 > > > 1. confrontation [ˌkɒnfrʌnˈteɪʃn]  n. 面对,对峙
@@ -889,7 +889,7 @@ categories: Graduate
 > All the negativity from the past can be erased in the moment with a single positive action. Go ahead and make it happen.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc5NjAx) 
 > > 
-> > Hagel说,在美国,我们已把工作设计成"严格照本宣科"和"高度标准化"的岗位,这使得个人根本没有自主创新空间。
+> > Hagel说,在美国,我们已把工作设计成"严格照本宣科"和"高度标准化"的岗位,这使得个人根本没有自主创新空间.
 > > 
 > > 必记词汇:
 > > > 1. negativity [ˌneɡəˈtɪvəti] n. 负面性,消极性 
@@ -935,7 +935,7 @@ categories: Graduate
 > The best way to disconnect from a troubled past is to trust and connect with possibilities of the present moment. When you embrace the power of now, the future belongs to you.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc5Nzg4) 
 > > 
-> > 忘记不堪过去的最好办法就是相信并把握当下的机遇。一旦把握住当下,未来也将属于你！
+> > 忘记不堪过去的最好办法就是相信并把握当下的机遇.一旦把握住当下,未来也将属于你！
 > > 
 > > 必记词汇:
 > > > 1. disconnect [,dɪskə'nɛkt] vi. 断开(from) 
@@ -988,7 +988,7 @@ categories: Graduate
 > They had pushed the agency to designate the bird as "endangered", a status that gives federal officials greater regulatory power to crack down on threats.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzc5ODYy) 
 > > 
-> > 他们曾推动该机构将此鸟类列为"濒危物种",该定位可赋予联邦官员更大的执法权以粉碎种种(对其生存的)威胁。
+> > 他们曾推动该机构将此鸟类列为"濒危物种",该定位可赋予联邦官员更大的执法权以粉碎种种(对其生存的)威胁.
 > > 
 > > 必记词汇:
 > > > 1. push [pʊʃ] vt. 推动,敦促 
@@ -1027,7 +1027,7 @@ categories: Graduate
 > > > 6. crack down on threats 粉碎威胁
 > > 
 > > 结构解析:
-> > > 1. designate the bird as "endangered" as后省略了being。 
+> > > 1. designate the bird as "endangered" as后省略了being. 
 > > > 
 > > > 2. a status(that …) 阅读必考结构: 同位语＋后置定语
 
@@ -1046,7 +1046,7 @@ categories: Graduate
 > Her cancer tips include using time-saving mass e-mails to keep friends informed, sewing or buying fashionable hospital gowns so you're not stuck with regulation blue or gray and playing Gloria Gaynor's "l Will Survive" so loud your neighbors call the police.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
 > > 
-> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警。
+> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警.
 > > 
 > > 必记词汇:
 > > > 1. cancer [ˈkænsə(r)] n. 癌症 
@@ -1107,7 +1107,7 @@ categories: Graduate
 > > 结构解析:
 > > > 1. include{using… e-mails},{sewing or buying fashionable hospital gowns}…and {playing…} 
 > > > 
-> > > 2. and连接的三重并列动名词短语,共同作include的宾语。
+> > > 2. and连接的三重并列动名词短语,共同作include的宾语.
 
 
 
@@ -1138,7 +1138,7 @@ categories: Graduate
 > Life is filled with either problems or possibilities. What you see is what you choose to see. On the surface life can seem tumultuous and perplexing, yet deep inside, where it truly matters, life is what you make of it. Choose to see beyond the problems to the possibilities that await your attention.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
 > > 
-> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警。
+> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警.
 > > 
 > > 必记词汇:
 > > > 1. fill [fɪl] vt. 充满 
@@ -1236,7 +1236,7 @@ categories: Graduate
 > It surely seems plausible that happy people would be more forward-thinking and creative and lean towards R&D more than the average.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwNDQ1) 
 > > 
-> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警。
+> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警.
 > > 
 > > 必记词汇:
 > > > 1. surely [ˈʃʊəli] ad. 肯定,确实 
@@ -1264,9 +1264,9 @@ categories: Graduate
 > > 
 > > 结构解析:
 > > > 1. It surely seems plausible that … 
-> > > > …这似乎确有道理。 
+> > > > …这似乎确有道理. 
 > > > > 
-> > > > lt是形式主语,指代that主语从句。
+> > > > lt是形式主语,指代that主语从句.
 > > > 
 > > >  2. would be (more forward-thinking and creative) and lean towards more… 将会更加…并更倾向于… 
 > > > > would be…and lean towards…大并列 
@@ -1291,7 +1291,7 @@ categories: Graduate
 > Companies advertise blue-collar or clerical jobs in local newspapers and management positions in national papers or professional journals, while the Internet is one of the best ways of advertising IT vacancies or recruiting abroad.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwNTM0) 
 > > 
-> > 公司会把蓝领或文秘的岗位刊登在地方报纸上,把管理职位刊登在全国报纸或专业杂志上,而互联网则是刊登IT职位或者在海外招聘的最佳方式之一。
+> > 公司会把蓝领或文秘的岗位刊登在地方报纸上,把管理职位刊登在全国报纸或专业杂志上,而互联网则是刊登IT职位或者在海外招聘的最佳方式之一.
 > > 
 > > 必记词汇:
 > > > 1. advertise [ˈædvətaɪz] vt. 对…做广告 
@@ -1338,11 +1338,11 @@ categories: Graduate
 > > > 7. recruit abroad 在海外招聘
 > > 
 > > 结构解析:
-> > > 1. advertise (blue-collar or clerical jobs in local newspapers0 and (management positions in national papers or professional journals0 注意and前后括弧信息的并列对应。 
+> > > 1. advertise (blue-collar or clerical jobs in local newspapers0 and (management positions in national papers or professional journals0 注意and前后括弧信息的并列对应. 
 > > > 
-> > > 2. …while the lnternet is… while前后是并列的二个分句,表对比关系。 
+> > > 2. …while the lnternet is… while前后是并列的二个分句,表对比关系. 
 > > > 
-> > > 3. one of the best ways of (advertising lT vacancies0or (recruiting abroad0 注意of后有or连接的二个并列动名词短语。
+> > > 3. one of the best ways of (advertising lT vacancies0or (recruiting abroad0 注意of后有or连接的二个并列动名词短语.
 
 
 ### 9号
@@ -1362,7 +1362,7 @@ categories: Graduate
 > A survey conducted recently in Beijing by a market survey company indicated that about 3.3 percent of 1,300 surveyed families in Beijing said they have no plans to have children.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwNzI4) 
 > > 
-> > 一家市场调查公司最近在北京实施的调查显示,1300个被调查的北京家庭中,大约3.3％的家庭说他们没有生育子女的计划。
+> > 一家市场调查公司最近在北京实施的调查显示,1300个被调查的北京家庭中,大约3.3％的家庭说他们没有生育子女的计划.
 > > 
 > > 必记词汇:
 > > > 1. survey [ˈsɜːveɪ , səˈveɪ]  n. 调查 
@@ -1411,7 +1411,7 @@ categories: Graduate
 > The first and greatest victory is to conquer yourself; to be conquered by yourself is of all things the most shameful and vile.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwNzQ2) 
 > > 
-> > 战胜自己是最首要、最伟大的胜利,无法克制自己是最令人羞愧、最可怜的失败。
+> > 战胜自己是最首要、最伟大的胜利,无法克制自己是最令人羞愧、最可怜的失败.
 > > 
 > > 必记词汇:
 > > > 1. victory ['vɪktəri] n. 胜利 
@@ -1434,7 +1434,7 @@ categories: Graduate
 > > > 5. the most shameful and vile 最可耻、最可怜（糟糕）的（事情）
 > > 
 > > 结构解析:
-> > > 1. is ｛of all things｝ the most shameful and vile… 大括弧表达是范围状语,一般置于the most …最高级之后,表示其所处的范围。
+> > > 1. is ｛of all things｝ the most shameful and vile… 大括弧表达是范围状语,一般置于the most …最高级之后,表示其所处的范围.
 
 ### 11号
 
@@ -1452,7 +1452,7 @@ categories: Graduate
 > Students also benefit from learning something about coding before they get to college, where introductory computer-science classes are packed to the brim, which can drive the less-experienced or -determined students away.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwODEx) 
 > > 
-> > 学生们在上大学前了解一些编程知识同样会从中受益,因为在大学,计算机科学入门课程排得很满,这会让经验不足或意志力薄弱的学生望而却步。
+> > 学生们在上大学前了解一些编程知识同样会从中受益,因为在大学,计算机科学入门课程排得很满,这会让经验不足或意志力薄弱的学生望而却步.
 > > 
 > > 必记词汇:
 > > > 1. benefit [ˈbenɪfɪt] vi. 受益,获益 
@@ -1524,7 +1524,7 @@ categories: Graduate
 > Too many high-school students or their parents for them choose the professional field, disregarding both the relatively small proportion of workers in the professions and the extremely high educational and personal requirements.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgxMTEy) 
 > > 
-> > 太多的高中生或者他们的父母在选择职业领域时,既不考虑这些职业就业人数的相对偏少,也不考虑它们对就业者极高的教育和个人要求。
+> > 太多的高中生或者他们的父母在选择职业领域时,既不考虑这些职业就业人数的相对偏少,也不考虑它们对就业者极高的教育和个人要求.
 > > 
 > > 必记词汇:
 > > > 1. ①high-school a. 高中的
@@ -1561,7 +1561,7 @@ categories: Graduate
 > > > 5. the extremely high educational and personal requirements 极高的教育与个人要求
 > > 
 > > 结构解析:
-> > > 1. …,disregarding … 现在分词短语,作伴随状语。
+> > > 1. …,disregarding … 现在分词短语,作伴随状语.
 
 
 
@@ -1582,7 +1582,7 @@ categories: Graduate
 > That everyone 's too busy these days is a cliche. But one specific complaint is made especially mournfully :There's never any time to read.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgxMjk5) 
 > > 
-> > 如今人人都很忙碌,这已是陈词滥调。但有一个具体的抱怨却令人尤为痛苦:从来没有时间阅读。
+> > 如今人人都很忙碌,这已是陈词滥调.但有一个具体的抱怨却令人尤为痛苦:从来没有时间阅读.
 > > 
 > > 必记词汇:
 > > > 1. cliche ['kli:ʃei] n. 陈词滥调,老生常谈 
@@ -1607,9 +1607,9 @@ categories: Graduate
 > > > 5. There's never any time to … 从来没有时间做…
 > > 
 > > 结构解析:
-> > > 1. That everyone 's too busy these days … That引导主语从句,表示强调。 
+> > > 1. That everyone 's too busy these days … That引导主语从句,表示强调. 
 > > > 
-> > > 2. But one specific complaint … :There's never any time to read. 冒号后是对complaint内容的解释。
+> > > 2. But one specific complaint … :There's never any time to read. 冒号后是对complaint内容的解释.
 
 
 
@@ -1630,7 +1630,7 @@ categories: Graduate
 > In a nation where close to a tenth of the population has diabetes and heart disease is the number-one killer, our food system is a national disgrace and a public health disaster.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgxMzM4) 
 > > 
-> > 如今人人都很忙碌,这已是陈词滥调。但有一个具体的抱怨却令人尤为痛苦:从来没有时间阅读。
+> > 如今人人都很忙碌,这已是陈词滥调.但有一个具体的抱怨却令人尤为痛苦:从来没有时间阅读.
 > > 
 > > 必记词汇:
 > > > 1. nation [ˈneɪʃn] n. 国家 
@@ -1671,7 +1671,7 @@ categories: Graduate
 > > > 6. a public health disaster 公共卫生的灾难
 > > 
 > > 结构解析:
-> > > 1. In a nation｛where …｝ where引导定语从句,修饰限定nation。
+> > > 1. In a nation｛where …｝ where引导定语从句,修饰限定nation.
 
 
 ### 16号
@@ -1705,7 +1705,7 @@ categories: Graduate
 > Young people who are still getting started in life are more likely than older adults to prioritize personal fulfillment in their work.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgxNDM2) 
 > > 
-> > 仍处于人生起步阶段的年轻人相比年长者往往更重视工作中的个人满足感。
+> > 仍处于人生起步阶段的年轻人相比年长者往往更重视工作中的个人满足感.
 > > 
 > > 必记词汇:
 > > > 1. likely ['laɪkli] a. 可能的 
@@ -1734,7 +1734,7 @@ categories: Graduate
 > > > 7. prioritize personal fulfillment in their work 优先考虑工作中的个人满足感
 > > 
 > > 结构解析:
-> > > 1. Young people｛who are still getting started in life｝ who引导定语从句修饰限定Young people。 
+> > > 1. Young people｛who are still getting started in life｝ who引导定语从句修饰限定Young people. 
 > > > 
 > > > 2. are more likely｛than older adults｝to… 比较对象译为中文时常前置: 相对于较年长的成年人
 
@@ -1753,7 +1753,7 @@ categories: Graduate
 > Looking back, he is struck that his parents could provide a comfortable life for their children even though neither had completed college when he was young.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgxNjA3) 
 > > 
-> > 回顾过去,他对于自己小时候父母都没上过大学却能给子女提供舒适的生活深有感触。
+> > 回顾过去,他对于自己小时候父母都没上过大学却能给子女提供舒适的生活深有感触.
 > > 
 > > 必记词汇:
 > > > 1. struck [strʌk] a. 受触动的 
@@ -1776,12 +1776,12 @@ categories: Graduate
 > > > 5. complete college 完成大学学业
 > > 
 > > 结构解析:
-> > > 1. Looking back… 现在分词短语作伴随状语,表示后面主句信息的伴随状况。 
+> > > 1. Looking back… 现在分词短语作伴随状语,表示后面主句信息的伴随状况. 
 > > > 
-> > > 2. he is struck that … 主观感受形容词后面的that从句,可理解为形容词宾语从句。 
+> > > 2. he is struck that … 主观感受形容词后面的that从句,可理解为形容词宾语从句. 
 > > > 
 > > > 3. his parents could provide…even though …when he was young  
-> > > > even though引导让步状语从句,对前面主句作反向强调；when是让步状语从句中的时间状语。
+> > > > even though引导让步状语从句,对前面主句作反向强调；when是让步状语从句中的时间状语.
 
 
 ### 19号
@@ -1796,19 +1796,19 @@ categories: Graduate
 
 
 > In another dreadful week for workers in the aviation industry, Airbus said it would cut 15,000 jobs, about a tenth of its total, because it does not expect demand for its aircraft to return to pre-COVID levels until at least 2023, or possibly 2025. The announcement was lambasted in France, where the government has dispensed a huge rescue package. Aeromexico, Mexico’s biggest international airline, filed for bankruptcy protection. And easyJet, a British carrier, started a consultation on redundancies, which could see 727 pilots lose their jobs. Qantas announced 6,000 jobs cuts.
-> > 对于航空业的工人来说,又是可怕的一周,空客公司表示,将裁员1.5万人,约占总人数的十分之一,因为该公司预计至少要到2023年,或者2025年,对其飞机的需求才能恢复到疫情之前的水平。这一声明在法国遭到抨击,法国政府已经推出了一项巨额救助计划。墨西哥最大的国际航空公司Aeromexico申请破产保护。英国航空公司易捷航空(easyJet)开始就裁员进行磋商,可能导致727名飞行员失业。澳航宣布裁员6000人。
+> > 对于航空业的工人来说,又是可怕的一周,空客公司表示,将裁员1.5万人,约占总人数的十分之一,因为该公司预计至少要到2023年,或者2025年,对其飞机的需求才能恢复到疫情之前的水平.这一声明在法国遭到抨击,法国政府已经推出了一项巨额救助计划.墨西哥最大的国际航空公司Aeromexico申请破产保护.英国航空公司易捷航空(easyJet)开始就裁员进行磋商,可能导致727名飞行员失业.澳航宣布裁员6000人.
 > 
 > There was some good news for Virgin Australia, after two months in bankruptcy proceedings, as Bain Capital stepped in to buy the business. Shareholders lost their shirts in the deal, but the airline hopes to fly again in September.
-> > 在经历了两个月的破产程序后,维珍澳大利亚航空公司(Virgin Australia)迎来了一些好消息,贝恩资本(Bain Capital)介入收购了该公司。股东们在这笔交易中血本无归,但该航空公司希望在9月份恢复营业。
+> > 在经历了两个月的破产程序后,维珍澳大利亚航空公司(Virgin Australia)迎来了一些好消息,贝恩资本(Bain Capital)介入收购了该公司.股东们在这笔交易中血本无归,但该航空公司希望在9月份恢复营业.
 > 
 > The Federal Aviation Administration confirmed that the first certification flights had been conducted for Boeing’s 737 max, which has been grounded for 15 months following two crashes. Although the tests were described as a "milestone" in its rehabilitation, Boeing’s passenger plane won’t be returning to the skies soon; the faa still has to carry out "a number of key tasks".
-> > 美国联邦航空管理局证实,波音737 max飞机已经进行了首次飞行认证。这款机型在两次坠毁事件后停飞了15个月。尽管此番测试被称为波音飞机修复过程的一座"里程碑",但波音的客机不会很快重返蓝天；联邦航空局仍然需要执行"一些关键任务"。
+> > 美国联邦航空管理局证实,波音737 max飞机已经进行了首次飞行认证.这款机型在两次坠毁事件后停飞了15个月.尽管此番测试被称为波音飞机修复过程的一座"里程碑",但波音的客机不会很快重返蓝天；联邦航空局仍然需要执行"一些关键任务".
 > 
 > Shell joined the list of big oil and gas companies that have had to write down the value of assets because of falling energy demand and lower oil prices. The company expects to record charges of between $15bn and $22bn in the second quarter related to the writedowns. BP, meanwhile, agreed to sell what is left of its petrochemicals business to Ineos, a privately held firm with a record of taking over the chemical divisions of multinational companies, for $5bn.
-> > 由于能源需求下降和油价下跌,壳牌也加入了不得不减记资产价值的大型油气公司的行列。该公司预计,与减记相关的支出将在第二季度达到150亿至220亿美元。与此同时,英国石油公司(BP)同意将其剩余的石化业务出售给英力士集团(Ineos)。英力士集团是一家私人控股公司,曾以50亿美元的价格收购跨国公司的化工部门。
+> > 由于能源需求下降和油价下跌,壳牌也加入了不得不减记资产价值的大型油气公司的行列.该公司预计,与减记相关的支出将在第二季度达到150亿至220亿美元.与此同时,英国石油公司(BP)同意将其剩余的石化业务出售给英力士集团(Ineos).英力士集团是一家私人控股公司,曾以50亿美元的价格收购跨国公司的化工部门.
 > 
 > Germany became the latest flashpoint for safety concerns at Amazon warehouses during the pandemic, as its workers went on strike. Their union claims that 40 people contracted COVID-19 at two sites recently. The online retailer says it has provided enough personal protective equipment.
-> > 在疫情期间,德国工人举行罢工,成为亚马逊仓库安全问题的最新爆发点。他们的工会声称,最近有40人在两处地点感染了新冠肺炎。这家在线零售商表示,他们已经提供了足够的个人防护装备。
+> > 在疫情期间,德国工人举行罢工,成为亚马逊仓库安全问题的最新爆发点.他们的工会声称,最近有40人在两处地点感染了新冠肺炎.这家在线零售商表示,他们已经提供了足够的个人防护装备.
 
 
 
@@ -1830,7 +1830,7 @@ categories: Graduate
 > As adults, it seems that we're constantly pursuing happiness, often with mixed results.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgxODU3) 
 > > 
-> > 我们成年人似乎总在追求幸福,但结果却并非总尽如人意。
+> > 我们成年人似乎总在追求幸福,但结果却并非总尽如人意.
 > > 
 > > 必记词汇:
 > > > 1. adult ['ædʌlt] n. 成年人 
@@ -1872,7 +1872,7 @@ categories: Graduate
 > I still grew up in an upper middle-class home with parents who didn't have college degrees.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgyMTky) 
 > > 
-> > 尽管我父母都没有大学文凭,但我依然在一个中上层家庭中长大。
+> > 尽管我父母都没有大学文凭,但我依然在一个中上层家庭中长大.
 > > 
 > > 必记词汇:
 > > > 1. upper [ˈʌpə(r)] a. 上面的,地位较高的 
@@ -1909,7 +1909,7 @@ categories: Graduate
 > We hold strong views against video games and advocate the closing of all recreation facilities for such games.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid= MzA5MTY4Nzc1N18yNjUzMzgyNTIw) 
 > > 
-> > 我们强烈反对视频游戏,主张关闭所有含这种游戏的娱乐设施。
+> > 我们强烈反对视频游戏,主张关闭所有含这种游戏的娱乐设施.
 > > 
 > > 必记词汇:
 > > > 1. hold [həʊld] vt. 持有 
@@ -1960,7 +1960,7 @@ categories: Graduate
 > As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgyNjA4) 
 > > 
-> > 当我们表达感谢时,我们绝不能忘记感恩的最高形式不是说出的话,而是实际的作为。
+> > 当我们表达感谢时,我们绝不能忘记感恩的最高形式不是说出的话,而是实际的作为.
 > > 
 > > 必记词汇:
 > > > 1. express [ɪkˈspres] vt. 表达 
@@ -2006,7 +2006,7 @@ categories: Graduate
 > Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgyNjQ5) 
 > > 
-> > 能力决定了你能做什么。动机决定了你要做什么。态度决定了你会做成什么样。
+> > 能力决定了你能做什么.动机决定了你要做什么.态度决定了你会做成什么样.
 > > 
 > > 必记词汇:
 > > > 1. ability [əˈbɪləti] n. 能力 
@@ -2040,7 +2040,7 @@ categories: Graduate
 > lf we adults could indulge in a bit of silliness and giggling, we would reduce stress hormones in our bodies, improve blood flow to our hearts and even have a greater chance of fighting off infection.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgyNzIz) 
 > > 
-> > 如果我们成年人可以纵情于一点儿傻气和傻笑,那么我们将会减少体内的压力荷尔蒙、改善心脏血流量,甚至提升防御传染病的概率。
+> > 如果我们成年人可以纵情于一点儿傻气和傻笑,那么我们将会减少体内的压力荷尔蒙、改善心脏血流量,甚至提升防御传染病的概率.
 > > 
 > > 必记词汇:
 > > > 1. indulge [ɪn'dʌldʒ] vi.（in）沉溺于
@@ -2079,7 +2079,7 @@ categories: Graduate
 > > > 7. fight off infection 防御传染病
 > > 
 > > 结构解析:
-> > > 1. lf we could …, we would… 虚拟语气,表建议,可视为表委婉建议的经典句型。
+> > > 1. lf we could …, we would… 虚拟语气,表建议,可视为表委婉建议的经典句型.
 
 ### 26号
 
@@ -2093,19 +2093,19 @@ categories: Graduate
 #### 英语
 
 > Climate change is starving polar bears into extinction, according to research published Monday that predicts the apex carnivores could all but disappear within the span of a human lifetime. In some regions they are already caught in a vicious downward spiral, with shrinking sea ice cutting short the time bears have for hunting seals, scientists reported in Nature Climate Change.
-> > 周一发布的一项研究称,气候变化正在饿死北极熊并迫使它们灭绝。该研究预测,北极熊这一食物链顶端的食肉动物可能会在百年内几近灭绝。科学家在《自然气候变化》上发表的报告称,在部分地区,由于海冰消融缩短了北极熊捕食海豹的时间,北极熊已经陷入数量螺旋式下降的恶性循环
+> > 周一发布的一项研究称,气候变化正在饿死北极熊并迫使它们灭绝.该研究预测,北极熊这一食物链顶端的食肉动物可能会在百年内几近灭绝.科学家在《自然气候变化》上发表的报告称,在部分地区,由于海冰消融缩短了北极熊捕食海豹的时间,北极熊已经陷入数量螺旋式下降的恶性循环
 > 
 > Their dwindling body weight undermines their chances of surviving Arctic winters without food, the scientists added.
-> > 科学家补充道,因为体重不断下降,北极熊在没有食物的情况下熬过北极冬天的几率降低了。
+> > 科学家补充道,因为体重不断下降,北极熊在没有食物的情况下熬过北极冬天的几率降低了.
 > 
 > The bears face an ever longer fasting period before the ice refreezes and they can head back out to feed," Steven Amstrup, who conceived the study and is chief scientist of Polar Bears International, told AFP.
-> > 该研究的提出者、北极熊国际协会的首席科学家斯蒂芬·阿姆斯特拉普告诉法新社说："在冰雪重新冻结、可以外出觅食前,北极熊面临着前所未有的超长禁食期。"
+> > 该研究的提出者、北极熊国际协会的首席科学家斯蒂芬·阿姆斯特拉普告诉法新社说："在冰雪重新冻结、可以外出觅食前,北极熊面临着前所未有的超长禁食期."
 > 
 > On current trends, the study concluded, polar bears in 12 of 13 subpopulations analyzed will have been decimated within 80 years by the galloping pace of change in the Arctic, which is warming three times as fast as the planet as a whole.
-> > 该研究得出结论称,按照目前的趋势,随着北极加速变暖,研究分析的13个北极熊亚种群将有12个在80年内灭绝。目前北极变暖速度是地球整体的三倍。
+> > 该研究得出结论称,按照目前的趋势,随着北极加速变暖,研究分析的13个北极熊亚种群将有12个在80年内灭绝.目前北极变暖速度是地球整体的三倍.
 > 
 > By 2100, recruitment" — new births — "will be severely compromised or impossible everywhere except perhaps in the Queen Elizabeth Island subpopulation," in Canada's Arctic Archipelago, said Amstrup.
-> > 阿姆斯特拉普称,"到2100年,新生北极熊数量将会剧减甚至降为零,除了（加拿大北极群岛的）伊丽莎白女王群岛的亚种群之外"。
+> > 阿姆斯特拉普称,"到2100年,新生北极熊数量将会剧减甚至降为零,除了（加拿大北极群岛的）伊丽莎白女王群岛的亚种群之外".
 
 ### 27号
 
@@ -2120,7 +2120,7 @@ categories: Graduate
 > Across generational lines, Americans continue to prize many of the same traditional milestones of a successful life, including getting married, having children, owning a home, and retiring in their sixties.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgzNjIx) 
 > > 
-> > 如果我们成年人可以纵情于一点儿傻气和傻笑,那么我们将会减少体内的压力荷尔蒙、改善心脏血流量,甚至提升防御传染病的概率。
+> > 如果我们成年人可以纵情于一点儿傻气和傻笑,那么我们将会减少体内的压力荷尔蒙、改善心脏血流量,甚至提升防御传染病的概率.
 > > 
 > > 必记词汇:
 > > > 1. generational [ˌdʒenəˈreɪʃənl] a. （一）代的 
@@ -2151,7 +2151,7 @@ categories: Graduate
 > > 结构解析:
 > > > 1. Across generational lines, Americans… 美国人世世代代都…,可以将时间状语转译为定语,译为: 世世代代的美国人都…
 > > > 
-> > > 2. many of the same traditional milestones of a successful life, including …including相当于非限制性定语从句(which include)的省略,解释说明前面的many。
+> > > 2. many of the same traditional milestones of a successful life, including …including相当于非限制性定语从句(which include)的省略,解释说明前面的many.
 
 ### 28号
 
@@ -2169,7 +2169,7 @@ categories: Graduate
 > A big survey of Indian households in 2004 found that nearly 40% of emigrants had more than a high school education, compared with around 3.3% of all Indians over the age of 25.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgzODIy) 
 > > 
-> > 如果我们成年人可以纵情于一点儿傻气和傻笑,那么我们将会减少体内的压力荷尔蒙、改善心脏血流量,甚至提升防御传染病的概率。
+> > 如果我们成年人可以纵情于一点儿傻气和傻笑,那么我们将会减少体内的压力荷尔蒙、改善心脏血流量,甚至提升防御传染病的概率.
 > > 
 > > 必记词汇:
 > > > 1. survey [ˈsɜːveɪ , səˈveɪ] n. 调查 
@@ -2198,9 +2198,9 @@ categories: Graduate
 > > > 6. over the age of 超过…的年龄
 > > 
 > > 结构解析:
-> > > 1. A big survey of Indian Households in 2004 found that … that引导宾从。 
+> > > 1. A big survey of Indian Households in 2004 found that … that引导宾从. 
 > > > 
-> > > 2. …compared with … 过去分词短语表条件状语,但为什么译为相比之下,请听语音。
+> > > 2. …compared with … 过去分词短语表条件状语,但为什么译为相比之下,请听语音.
 
 ### 29号
 
@@ -2216,7 +2216,7 @@ categories: Graduate
 > Her cancer tips include using time-saving mass e-mails to keep friends informed, sewing or buying fashionable hospital gowns so you're not stuck with regulation blue or gray and playing Gloria Gaynor's "l Will Survive" so loud your neighbors call the police.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
 > > 
-> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子“我会活下去”,声音大到让邻居去报警。
+> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子“我会活下去”,声音大到让邻居去报警.
 > > 
 > > 必记词汇:
 > > > 1. cancer [ˈkænsə(r)] n. 癌症 
@@ -2276,7 +2276,7 @@ categories: Graduate
 > > 
 > > 结构解析:
 > > > 1. include｛using… e-mails｝,｛sewing or buying fashionable hospital gowns｝…and ｛playing…｝ 
-> > > > and连接的三重并列动名词短语,共同作include的宾语。
+> > > > and连接的三重并列动名词短语,共同作include的宾语.
 
 ### 30号
 
@@ -2295,7 +2295,7 @@ categories: Graduate
 > The best way to disconnect from a troubled past is to trust and connect with possibilities of the present moment. When you embrace the power of now, the future belongs to you.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
 > > 
-> >忘记不堪过去的最好办法就是相信并把握当下的机遇。一旦把握住当下,未来也将属于你！
+> >忘记不堪过去的最好办法就是相信并把握当下的机遇.一旦把握住当下,未来也将属于你！
 > > 
 > > 必记词汇:
 > > > 1. disconnect [,dɪskə'nɛkt] vi. 断开（from） 
@@ -2345,10 +2345,12 @@ categories: Graduate
 ![问题 ](/images/Graduate/practice/mathematics/07-31-answer-2.jpg)
 
 
+#### 英语
+
 > Outside directors are supposed to serve as helpful, yet less biased, advisers on a firm's board.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
 > > 
-> > 外部董事应在董事会担任起有益且少有偏见的顾问角色。
+> > 外部董事应在董事会担任起有益且少有偏见的顾问角色.
 > > 
 > > 必记词汇:
 > > > 1. director [dəˈrektə(r); daɪˈrektə(r)] n. 董事 
@@ -2404,7 +2406,23 @@ categories: Graduate
 
 ![问题 ](/images/Graduate/practice/mathematics/08-02-answer-2.jpg)
 
+#### 英语
 
+
+> The oil and gas sector, once worth a combined $3 trillion, is now worth less than Apple's $1.5 trillion market capitalization. If it wanted, the Cupertino, California technology company could purchase the world's most expensive private oil and gas firm, ExxonMobil, for $198 billion with cash to spare.
+> > 曾经,石油天然气行业总价值为3万亿美元,但现在却低于苹果1.5万亿美元的市值.这家位于加利福尼亚州库比蒂诺的技术公司如果愿意,它可以收购全球市值最高的私人石油天然气公司埃克森美孚公司,还能剩1980亿美元.
+> 
+> That's quite a reversal of fortunes. For years, the oil and gas industry delivered consistent returns to Wall Street. Its lucrative dividends, around 6% at leading firms, gave investors a reason stick with the stocks despite a darkening outlook and the looming threat of climate policies. With oil hovering around $60 per barrel, nothing seemed to phase investors.
+> > 真是命运轮回.石油天然气公司多年来持续为华尔街带来收入.约占龙头企业利润6%的丰厚红利让投资者在前景黯淡和气候政策会造成威胁的情况下,仍坚持投资股票.稳定在60美元每桶的石油价格似乎牢牢抓住了投资者.
+> 
+> But in 2016, fracking opened up the taps on cheap US shale oil. Then the coronavirus pandemic crushed demand just as a price war between Russia and Saudia Arabia flooded the world with cheap oil. That drove the price of benchmark crude, briefly, into negative territory, and it now hovers at about $40 per barrel, where it seems destined to stick.
+> > 但在2016年,水力压裂法打通了美国廉价的页岩油的渠道,疫情又降低了人们的需求,俄罗斯和沙特阿拉伯之间的价格战让全球石油价格下跌.这就是使得标准原油的价格暂时出现负增长,现在每桶价格稳定在40美元,而且似乎还要持续一段时间.
+> 
+> With oil prices now far below what many non-state-owned oil firms need to make a profit, massive job losses have struck the US industry as production is curtailed. Royal Dutch Shell slashed its dividend by two-thirds, the first time in 80 years.
+> > 现在的石油价格远不能让很多非国有的石油公司获利,美国工业因为减产造成大量人员失业.荷兰皇家壳牌集团股息降了三分之二,属80年来首次.
+> 
+> The oil and gas sector has now underperformed the S P 500 market index for years. It lags behind performance of renewables, too. While the decline began in 2015, the last year has seen oil and gas stocks drop by 35% just as shares in major renewable firms have risen by the same percentage.
+> > 石油天然气行业的行情已经多年不及标准普尔500指数,也比不上可再生能源.虽然从2015年就开始下滑,但去年石油天然气行业的股票下跌了35%,而大型可再生能源公司的股票上涨了35%.
 
 ### 03号
 
@@ -2415,3 +2433,54 @@ categories: Graduate
 ![问题 ](/images/Graduate/practice/mathematics/08-03-answer-1.jpg)
 
 ![问题 ](/images/Graduate/practice/mathematics/08-03-answer-2.jpg)
+
+
+#### 英语
+
+> During the Depression and the war, Americans had learned to live with less, and that restraint, in combination with the postwar confidence in the future, made small, efficient housing positively stylish.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg0NjI3) 
+> > 
+> > 在大萧条和战争期间，美国人学会了节衣缩食，这种克制连同战后对未来的信心，使得小而高效的房子成为绝对的时髦。
+> > 
+> > 必记词汇:
+> > > 1. the Depression 经济大萧条（20世纪30年代）
+> > > 
+> > > 2. restraint [rɪˈstreɪnt] n. 克制
+> > > 
+> > > 3. combination  [ˌkɒmbɪˈneɪʃn] n. 结合
+> > > 
+> > > 4. postwar ['post'wɔr] a. 战后的
+> > > 
+> > > 5. confidence [ˈkɒnfɪdəns]  n. 信心
+> > > 
+> > > 6. efficient [ɪ'fɪʃnt] a. 高效的
+> > > 
+> > > 7. housing ['haʊzɪŋ] n. 住房
+> > > 
+> > > 8. positively [ˈpɒzətɪvli] ad. 完全地，绝对地
+> > > 
+> > > 9. stylish  ['staɪlɪʃ] a. 时髦的
+> > 
+> > 必记词汇:
+> > > 1. during the Depression 在大萧条时期
+> > > 
+> > > 2. live with less 节衣缩食
+> > > 
+> > > 3. in combination with 和，以及
+> > > 
+> > > 4. confidence in 对…的信心
+> > > 
+> > > 5. the postwar confidence in the future 战后对未来的信心
+> > > 
+> > > 6. small, efficient housing 小而高效的住房
+> > > 
+> > > 7. positively stylish 绝对时尚
+> > 
+> > 结构解析:
+> > > 1. that restraint that在本句指代何物？英语二必考指代关系
+> > > 
+> > > 2. A in combination with B
+> > > > A是主语，B仅仅是语义上的并列对象
+> > > 
+> > > 3. made small, efficient housing positively stylish
+> > > > housing是宾语，positively stylish是宾语补足语。此处made表因果关系，前面主语是因，后面宾语＋宾补是果。因导致果，果反映因，注意二者逻辑关系。
