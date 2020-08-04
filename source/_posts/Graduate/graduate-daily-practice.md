@@ -6,7 +6,7 @@ categories: Graduate
 ---
 
 
-# [日常练习(考研倒计时:140天)](https://www.igaitu.com/)
+# [日常练习(考研倒计时:135天)](https://www.igaitu.com/)
 
 ## 未打卡统计
 
@@ -2440,7 +2440,7 @@ categories: Graduate
 > During the Depression and the war, Americans had learned to live with less, and that restraint, in combination with the postwar confidence in the future, made small, efficient housing positively stylish.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg0NjI3) 
 > > 
-> > 在大萧条和战争期间，美国人学会了节衣缩食，这种克制连同战后对未来的信心，使得小而高效的房子成为绝对的时髦。
+> > 在大萧条和战争期间,美国人学会了节衣缩食,这种克制连同战后对未来的信心,使得小而高效的房子成为绝对的时髦。
 > > 
 > > 必记词汇:
 > > > 1. the Depression 经济大萧条（20世纪30年代）
@@ -2457,7 +2457,7 @@ categories: Graduate
 > > > 
 > > > 7. housing ['haʊzɪŋ] n. 住房
 > > > 
-> > > 8. positively [ˈpɒzətɪvli] ad. 完全地，绝对地
+> > > 8. positively [ˈpɒzətɪvli] ad. 完全地,绝对地
 > > > 
 > > > 9. stylish  ['staɪlɪʃ] a. 时髦的
 > > 
@@ -2466,7 +2466,7 @@ categories: Graduate
 > > > 
 > > > 2. live with less 节衣缩食
 > > > 
-> > > 3. in combination with 和，以及
+> > > 3. in combination with 和,以及
 > > > 
 > > > 4. confidence in 对…的信心
 > > > 
@@ -2480,7 +2480,77 @@ categories: Graduate
 > > > 1. that restraint that在本句指代何物？英语二必考指代关系
 > > > 
 > > > 2. A in combination with B
-> > > > A是主语，B仅仅是语义上的并列对象
+> > > > A是主语,B仅仅是语义上的并列对象
 > > > 
 > > > 3. made small, efficient housing positively stylish
-> > > > housing是宾语，positively stylish是宾语补足语。此处made表因果关系，前面主语是因，后面宾语＋宾补是果。因导致果，果反映因，注意二者逻辑关系。
+> > > > housing是宾语,positively stylish是宾语补足语。此处made表因果关系,前面主语是因,后面宾语＋宾补是果。因导致果,果反映因,注意二者逻辑关系。
+
+
+### 04号
+
+#### 数学
+
+![问题 ](/images/Graduate/practice/mathematics/08-04-question.jpg)
+
+![问题 ](/images/Graduate/practice/mathematics/08-04-answer.jpeg)
+
+
+
+#### 英语
+
+> As well as those chronic problems, the EU faces an acute crisis in its economic core, the sixteen countries that use the single currency.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg0NzE2) 
+> > 
+> > 在大萧条和战争期间,美国人学会了节衣缩食,这种克制连同战后对未来的信心,使得小而高效的房子成为绝对的时髦。
+> > 
+> > 必记词汇:
+> > > 1. chronic [ˈkrɒnɪk] a. 慢性的,长期的 
+> > > 
+> > > 2. EU （European Union）欧盟 
+> > > 
+> > > 3. acute [əˈkjuːt] a. 急性的,剧烈的 
+> > > 
+> > > 4. crisis ['kraɪsɪs] n. 危机 
+> > > 
+> > > 5. core [kɔː(r)] n. 核心 
+> > > 
+> > > 6. single ['sɪŋɡl] a. 单一的 
+> > > 
+> > > 7. currency [ˈkʌrənsi] n. 货币
+> > 
+> > 必记词汇:
+> > > 1. as well as 除…以外,以及 
+> > > 
+> > > 2. chronic problems 长期性问题 
+> > > 
+> > > 3. an acute crisis 严重的危机 
+> > > 
+> > > 4. economic core 经济核心 
+> > > 
+> > > 5. use the single currency 使用同一货币
+> > > 
+> > 
+> > 结构解析:
+> > > 1. As well as those chronic problems, the EU faces… 
+> > > > As well as 意思是“除…以外”,表递进,下文有对应的“还”。 
+> > > 
+> > > 2. its economic core, the sixteen countries （that use the single currency） 
+> > > > "同位语＋后定结构":the sixteen countries 作同位语,解释前面的core,括号表达是that定语从句修饰限定前面的countries。
+
+
+## 真题三篇
+
+### 08-05 
+
+#### 2008年数学(8题)
+
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2008-1~3.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008-4~5.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008-6~7.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008-8.jpg)
+
+
+
+
+
