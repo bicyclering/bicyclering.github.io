@@ -1046,7 +1046,7 @@ categories: Graduate
 > Her cancer tips include using time-saving mass e-mails to keep friends informed, sewing or buying fashionable hospital gowns so you're not stuck with regulation blue or gray and playing Gloria Gaynor's "l Will Survive" so loud your neighbors call the police.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
 > > 
-> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警.
+> > 她的抗癌窍门包括:利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警.
 > > 
 > > 必记词汇:
 > > > 1. cancer [ˈkænsə(r)] n. 癌症 
@@ -1138,7 +1138,7 @@ categories: Graduate
 > Life is filled with either problems or possibilities. What you see is what you choose to see. On the surface life can seem tumultuous and perplexing, yet deep inside, where it truly matters, life is what you make of it. Choose to see beyond the problems to the possibilities that await your attention.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
 > > 
-> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警.
+> > 她的抗癌窍门包括:利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警.
 > > 
 > > 必记词汇:
 > > > 1. fill [fɪl] vt. 充满 
@@ -1236,7 +1236,7 @@ categories: Graduate
 > It surely seems plausible that happy people would be more forward-thinking and creative and lean towards R&D more than the average.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwNDQ1) 
 > > 
-> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警.
+> > 她的抗癌窍门包括:利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警.
 > > 
 > > 必记词汇:
 > > > 1. surely [ˈʃʊəli] ad. 肯定,确实 
@@ -1431,7 +1431,7 @@ categories: Graduate
 > > > 
 > > > 4. of all things 所有事情中 
 > > > 
-> > > 5. the most shameful and vile 最可耻、最可怜（糟糕）的（事情）
+> > > 5. the most shameful and vile 最可耻、最可怜(糟糕)的(事情)
 > > 
 > > 结构解析:
 > > > 1. is ｛of all things｝ the most shameful and vile… 大括弧表达是范围状语,一般置于the most …最高级之后,表示其所处的范围.
@@ -1721,9 +1721,9 @@ categories: Graduate
 > > 写作积累:
 > > > 1. be still getting started in life 人生正处于起步阶段 
 > > > 
-> > > 2. be likely to 有可能,（引申）往往 
+> > > 2. be likely to 有可能,(引申)往往 
 > > > 
-> > > 3. are more likely to 更有可能会…,（引申）往往更… 
+> > > 3. are more likely to 更有可能会…,(引申)往往更… 
 > > > 
 > > > 4. older adults 年长的成年人 
 > > > 
@@ -2043,7 +2043,7 @@ categories: Graduate
 > > 如果我们成年人可以纵情于一点儿傻气和傻笑,那么我们将会减少体内的压力荷尔蒙、改善心脏血流量,甚至提升防御传染病的概率.
 > > 
 > > 必记词汇:
-> > > 1. indulge [ɪn'dʌldʒ] vi.（in）沉溺于
+> > > 1. indulge [ɪn'dʌldʒ] vi.(in)沉溺于
 > > > 
 > > > 2. silliness [ˈsɪlinəs] n. 愚蠢
 > > > 
@@ -2099,13 +2099,13 @@ categories: Graduate
 > > 科学家补充道,因为体重不断下降,北极熊在没有食物的情况下熬过北极冬天的几率降低了.
 > 
 > The bears face an ever longer fasting period before the ice refreezes and they can head back out to feed," Steven Amstrup, who conceived the study and is chief scientist of Polar Bears International, told AFP.
-> > 该研究的提出者、北极熊国际协会的首席科学家斯蒂芬·阿姆斯特拉普告诉法新社说："在冰雪重新冻结、可以外出觅食前,北极熊面临着前所未有的超长禁食期."
+> > 该研究的提出者、北极熊国际协会的首席科学家斯蒂芬·阿姆斯特拉普告诉法新社说:"在冰雪重新冻结、可以外出觅食前,北极熊面临着前所未有的超长禁食期."
 > 
 > On current trends, the study concluded, polar bears in 12 of 13 subpopulations analyzed will have been decimated within 80 years by the galloping pace of change in the Arctic, which is warming three times as fast as the planet as a whole.
 > > 该研究得出结论称,按照目前的趋势,随着北极加速变暖,研究分析的13个北极熊亚种群将有12个在80年内灭绝.目前北极变暖速度是地球整体的三倍.
 > 
 > By 2100, recruitment" — new births — "will be severely compromised or impossible everywhere except perhaps in the Queen Elizabeth Island subpopulation," in Canada's Arctic Archipelago, said Amstrup.
-> > 阿姆斯特拉普称,"到2100年,新生北极熊数量将会剧减甚至降为零,除了（加拿大北极群岛的）伊丽莎白女王群岛的亚种群之外".
+> > 阿姆斯特拉普称,"到2100年,新生北极熊数量将会剧减甚至降为零,除了(加拿大北极群岛的)伊丽莎白女王群岛的亚种群之外".
 
 ### 27号
 
@@ -2123,7 +2123,7 @@ categories: Graduate
 > > 如果我们成年人可以纵情于一点儿傻气和傻笑,那么我们将会减少体内的压力荷尔蒙、改善心脏血流量,甚至提升防御传染病的概率.
 > > 
 > > 必记词汇:
-> > > 1. generational [ˌdʒenəˈreɪʃənl] a. （一）代的 
+> > > 1. generational [ˌdʒenəˈreɪʃənl] a. (一)代的 
 > > > 
 > > > 2. prize [praɪz] vt. 珍惜,重视 
 > > > 
@@ -2216,7 +2216,7 @@ categories: Graduate
 > Her cancer tips include using time-saving mass e-mails to keep friends informed, sewing or buying fashionable hospital gowns so you're not stuck with regulation blue or gray and playing Gloria Gaynor's "l Will Survive" so loud your neighbors call the police.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
 > > 
-> > 她的抗癌窍门包括：利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子“我会活下去”,声音大到让邻居去报警.
+> > 她的抗癌窍门包括:利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子“我会活下去”,声音大到让邻居去报警.
 > > 
 > > 必记词汇:
 > > > 1. cancer [ˈkænsə(r)] n. 癌症 
@@ -2266,7 +2266,7 @@ categories: Graduate
 > > > 
 > > > 8. be stuck with 被…卡住,无法摆脱 
 > > > 
-> > > 9. be stuck with regulation blue or gray 总穿着规定的蓝色或灰色（病号服） 
+> > > 9. be stuck with regulation blue or gray 总穿着规定的蓝色或灰色(病号服) 
 > > > 
 > > > 10. Gloria Gaynor 葛罗莉亚·盖诺 
 > > > 
@@ -2298,13 +2298,13 @@ categories: Graduate
 > >忘记不堪过去的最好办法就是相信并把握当下的机遇.一旦把握住当下,未来也将属于你！
 > > 
 > > 必记词汇:
-> > > 1. disconnect [,dɪskə'nɛkt] vi. 断开（from） 
+> > > 1. disconnect [,dɪskə'nɛkt] vi. 断开(from) 
 > > > 
 > > > 2. troubled ['trʌbld] a. 混乱的,存在诸多问题的 
 > > > 
 > > > 3. trust [trʌst] vt. 信任,相信 
 > > > 
-> > > 4. connect [kəˈnekt] vi. 连接,连上（with） 
+> > > 4. connect [kəˈnekt] vi. 连接,连上(with) 
 > > > 
 > > > 5. present [ˈpreznt , prɪˈzent] 当前的 
 > > > 
@@ -2321,7 +2321,7 @@ categories: Graduate
 > > > 
 > > > 5. possibilities of the present moment 当前的种种可能 
 > > > 
-> > > 6. trust and connect with possibilities of the present moment 相信并（连系上）把握住当前的种种机遇 
+> > > 6. trust and connect with possibilities of the present moment 相信并(连系上)把握住当前的种种机遇 
 > > > 
 > > > 7. embrace the power of now 拥抱当前的力量,把握住当前 
 > > > 
@@ -2443,7 +2443,7 @@ categories: Graduate
 > > 在大萧条和战争期间,美国人学会了节衣缩食,这种克制连同战后对未来的信心,使得小而高效的房子成为绝对的时髦。
 > > 
 > > 必记词汇:
-> > > 1. the Depression 经济大萧条（20世纪30年代）
+> > > 1. the Depression 经济大萧条(20世纪30年代)
 > > > 
 > > > 2. restraint [rɪˈstreɪnt] n. 克制
 > > > 
@@ -2506,7 +2506,7 @@ categories: Graduate
 > > 必记词汇:
 > > > 1. chronic [ˈkrɒnɪk] a. 慢性的,长期的 
 > > > 
-> > > 2. EU （European Union）欧盟 
+> > > 2. EU (European Union)欧盟 
 > > > 
 > > > 3. acute [əˈkjuːt] a. 急性的,剧烈的 
 > > > 
@@ -2534,7 +2534,7 @@ categories: Graduate
 > > > 1. As well as those chronic problems, the EU faces… 
 > > > > As well as 意思是“除…以外”,表递进,下文有对应的“还”。 
 > > > 
-> > > 2. its economic core, the sixteen countries （that use the single currency） 
+> > > 2. its economic core, the sixteen countries (that use the single currency) 
 > > > > "同位语＋后定结构":the sixteen countries 作同位语,解释前面的core,括号表达是that定语从句修饰限定前面的countries。
 
 
@@ -2552,5 +2552,54 @@ categories: Graduate
 
 
 
+#### 英语
 
+> I had not realized how profoundly marketing trends dictated our perception of what is natural to kids, including our core beliefs about their psychological development.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg0ODEw) 
+> > 
+> > 我原本没有意识到,市场营销的潮流对我们有关儿童天性的理解,包括我们对儿童心理发育的核心理念,会产生如此大的影响。
+> > 
+> > 必记词汇:
+> > > 1. realize [ˈriːəlaɪz] vt. 意识到 
+> > > 
+> > > 2. profoundly [prə'faʊndli] ad. 深深地 
+> > > 
+> > > 3. marketing [ˈmɑːkɪtɪŋ] n. 市场营销 
+> > > 
+> > > 4. trend [trend] n. 趋势 
+> > > 
+> > > 5. dictate [dɪkˈteɪt , ˈdɪkteɪt] vt. 口授,命令,支配,影响 
+> > > 
+> > > 6. perception [pəˈsepʃn] n. 概念,理解 
+> > > 
+> > > 7. kid [kɪd] n. 小孩 
+> > > 
+> > > 8. core [kɔː(r)] n. 核心 
+> > > 
+> > > 9. belief [bɪˈliːf] n. 信念,观念 
+> > > 
+> > > 10. psychological [ˌsaɪkəˈlɒdʒɪkl] a. 心理的 
+> > > 
+> > > 11. development [dɪˈveləpmənt] n. 发育(非发展)
+> > 
+> > 必记词汇:
+> > > 1. I had not realized … 我原来没意识到…,即:我后来才意识到… 
+> > > 
+> > > 2. marketing trends 市场营销的潮流 
+> > > 
+> > > 3. dictate our perception of … 影响我们有关…的理解 
+> > > 
+> > > 4. what is natural to kids 儿童的天性 
+> > > 
+> > > 5. our core beliefs about … 我们有关…的核心理念 
+> > > 
+> > > 6. psychological development 心理发育
+> > > 
+> > 
+> > 结构解析:
+> > > 1. I had not realized how … 
+> > > > how引导的名词性宾语从句(动词realized的宾语)。 
+> > > 
+> > > 2. of what is natural to kids 
+> > > > what引导的名词性宾语从句(介词of的宾语)。
 

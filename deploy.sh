@@ -3,7 +3,7 @@
 # hexo clean
 
 # hexo generate
-cd /Users/wubin/Documents/Github/bicyclering.github.io
+cd /Users/willson/Documents/github/bicyclering.github.io
 # git init
 git add .
 git commit -m "update at `date` "

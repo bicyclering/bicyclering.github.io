@@ -1,6 +1,6 @@
 #! /bin/zsh
 
-cd /Users/wubin/Documents/Github/bicyclering.github.io
+cd /Users/willson/Documents/github/bicyclering.github.io
 hexo clean
 hexo generate
 hexo server
