@@ -6,7 +6,7 @@ categories: Graduate
 ---
 
 
-# [日常练习(考研倒计时:135天)](https://www.igaitu.com/)
+# [日常练习(考研倒计时:131天)](https://www.igaitu.com/)
 
 ## 未打卡统计
 
@@ -555,7 +555,7 @@ categories: Graduate
 > > 在经济形势瞬息万变的今天,我们比以往更加需要那些在工作中能够采取主动并发挥想象力去"应对突发情况"的人.
 > > 
 > > 必记词汇:
-> > > 1. changing [tʃendʒɪŋ] a.变化的；发展的
+> > > 1. changing [tʃendʒɪŋ] a.变化的;发展的
 > > > 
 > > > 2. economy [ɪ'kɒnəmɪ] n.经济
 > > > 
@@ -1781,7 +1781,7 @@ categories: Graduate
 > > > 2. he is struck that … 主观感受形容词后面的that从句,可理解为形容词宾语从句. 
 > > > 
 > > > 3. his parents could provide…even though …when he was young  
-> > > > even though引导让步状语从句,对前面主句作反向强调；when是让步状语从句中的时间状语.
+> > > > even though引导让步状语从句,对前面主句作反向强调;when是让步状语从句中的时间状语.
 
 
 ### 19号
@@ -1802,7 +1802,7 @@ categories: Graduate
 > > 在经历了两个月的破产程序后,维珍澳大利亚航空公司(Virgin Australia)迎来了一些好消息,贝恩资本(Bain Capital)介入收购了该公司.股东们在这笔交易中血本无归,但该航空公司希望在9月份恢复营业.
 > 
 > The Federal Aviation Administration confirmed that the first certification flights had been conducted for Boeing’s 737 max, which has been grounded for 15 months following two crashes. Although the tests were described as a "milestone" in its rehabilitation, Boeing’s passenger plane won’t be returning to the skies soon; the faa still has to carry out "a number of key tasks".
-> > 美国联邦航空管理局证实,波音737 max飞机已经进行了首次飞行认证.这款机型在两次坠毁事件后停飞了15个月.尽管此番测试被称为波音飞机修复过程的一座"里程碑",但波音的客机不会很快重返蓝天；联邦航空局仍然需要执行"一些关键任务".
+> > 美国联邦航空管理局证实,波音737 max飞机已经进行了首次飞行认证.这款机型在两次坠毁事件后停飞了15个月.尽管此番测试被称为波音飞机修复过程的一座"里程碑",但波音的客机不会很快重返蓝天;联邦航空局仍然需要执行"一些关键任务".
 > 
 > Shell joined the list of big oil and gas companies that have had to write down the value of assets because of falling energy demand and lower oil prices. The company expects to record charges of between $15bn and $22bn in the second quarter related to the writedowns. BP, meanwhile, agreed to sell what is left of its petrochemicals business to Ineos, a privately held firm with a record of taking over the chemical divisions of multinational companies, for $5bn.
 > > 由于能源需求下降和油价下跌,壳牌也加入了不得不减记资产价值的大型油气公司的行列.该公司预计,与减记相关的支出将在第二季度达到150亿至220亿美元.与此同时,英国石油公司(BP)同意将其剩余的石化业务出售给英力士集团(Ineos).英力士集团是一家私人控股公司,曾以50亿美元的价格收购跨国公司的化工部门.
@@ -1920,7 +1920,7 @@ categories: Graduate
 > > > 
 > > > 4. game [ɡeɪm] n. 游戏 
 > > > 
-> > > 5. advocate [ˈædvəkeɪt；-et] vt.倡导 
+> > > 5. advocate [ˈædvəkeɪt;-et] vt.倡导 
 > > > 
 > > > 6. closing [ˈkləʊzɪŋ] n. 关闭 
 > > > 
@@ -2216,7 +2216,7 @@ categories: Graduate
 > Her cancer tips include using time-saving mass e-mails to keep friends informed, sewing or buying fashionable hospital gowns so you're not stuck with regulation blue or gray and playing Gloria Gaynor's "l Will Survive" so loud your neighbors call the police.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzgwMDIz) 
 > > 
-> > 她的抗癌窍门包括:利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子“我会活下去”,声音大到让邻居去报警.
+> > 她的抗癌窍门包括:利用省时的群发邮件与朋友保持联系、缝制或购买时尚的住院服而不再总穿那些规定的蓝色或灰色,播放葛罗莉亚·盖诺的曲子"我会活下去",声音大到让邻居去报警.
 > > 
 > > 必记词汇:
 > > > 1. cancer [ˈkænsə(r)] n. 癌症 
@@ -2532,7 +2532,7 @@ categories: Graduate
 > > 
 > > 结构解析:
 > > > 1. As well as those chronic problems, the EU faces… 
-> > > > As well as 意思是“除…以外”,表递进,下文有对应的“还”。 
+> > > > As well as 意思是"除…以外",表递进,下文有对应的"还"。 
 > > > 
 > > > 2. its economic core, the sixteen countries (that use the single currency) 
 > > > > "同位语＋后定结构":the sixteen countries 作同位语,解释前面的core,括号表达是that定语从句修饰限定前面的countries。
@@ -2540,19 +2540,50 @@ categories: Graduate
 
 ## 真题三篇
 
-### 08-05 
+### 开头篇(First)
 
-#### 2008年数学(8题)
+#### 08-03 ~ 08-09(周计划)
+
+#### 语文 → 论证有效性分析(2010年)
+
+[链接: https://pan.baidu.com/s/1Ej6E34J--RrSulKFTcf0fA 提取码: r8eh](https://pan.baidu.com/s/1Ej6E34J--RrSulKFTcf0fA)
+
+> 论证有效性分析: 分析下述论证中存在的缺陷和漏洞,选择若干要点,写一篇 600 字左右的文章,对该论证的有效性进行分析和评论。(论证有效性分析的一般要点是: 概念特别是核心概念的界定和使用是否准备并前后一致,有无各种明显的逻辑错误,论证的论据是否成立并支持结论,结论成立的条件是否充分等等。)
+> > 美国学者弗里德曼的《世界是平的》一书认为,全球化对当代人类社会的思想、经济、政治和文化等领域产生了深刻影响。全球抹去了各国的疆界,使世界从立体变成了平面,也就是说,世界各国之间的社会发展差距正在日益缩小。
+> > 
+> > "世界是平的"的观点,是基于近几十年信息传播技术迅速发展的状况而提出的。互联网的普及、软件的创新使海量信息迅速扩散到世界各地。由于世界是平的,穷国可以和富国一样在同一平台上接受同样的最新信息,这样就大大促进了各国的经济发展,从而改善了它们的国际地位。
+> > 
+> > 事实也是如此,所谓"金砖四国"国际声望的上升,无不得益于它们的经济成就,无不得益于互联网技术的发展。特别是中国经济的起飞,中国在世界上的崛起,无疑也依靠了互联网技术的普及,同时也可作为"世界是平的"这一观点的有力佐证。
+> > 
+> > 毋庸置疑,信息传播技术革命还远未结束,互联网技术将会有更大的发展,人类社会将会有更惊人的变化。可以预言,由于信息技术的迅猛发展,世界的经济格局与政治格局将会发生巨大的变化,世界最不发达国家和最发达国家之间再也不会让人有天壤之别的感觉,非洲大陆将会变成另一个北美。同样也可以预言,由于中国的信息技术发展迅猛,中国和世界一样,也会从立体变为平面,中国东西部之间的经济鸿沟被填平,中国西部的雄起指日可待。
+
+#### 逻辑 
+
+[( 论证性有效分析讲义)链接: https://pan.baidu.com/s/1TEawiDZdix8MTXS6D_fznQ 提取码: 89t5](https://pan.baidu.com/s/1TEawiDZdix8MTXS6D_fznQ)
+
+![问题 ](/images/Graduate/practice/logic/第一周.jpg)
 
 
-![问题 ](/images/Graduate/practice/mathematics/practice/2008-1~3.jpg)
-![问题 ](/images/Graduate/practice/mathematics/practice/2008-4~5.jpg)
-![问题 ](/images/Graduate/practice/mathematics/practice/2008-6~7.jpg)
-![问题 ](/images/Graduate/practice/mathematics/practice/2008-8.jpg)
+#### 英语翻译(2018)
+
+> A fifth grader gets a homework assignment to select his future career path from a list of occupations. He ticks "astronaut" but quickly adds "scientist" to the list and selects it as well. The boy is convinced that if he reads enough, he can explore as many career paths as he likes. And so he reads—everything from encyclopedias to science fiction novels. He reads so passionately that his parents have to institute a "no reading policy" at the dinner table.
+> 
+> That boy was Bill Gates, and he hasn’t stopped reading yet—not even after becoming one of the most successful people on the planet. Nowadays, his reading material has changed from science fiction and reference books; recently, he revealed that he reads at least 50 nonfiction books a year. Gates chooses nonfiction titles because they explain how the world works. "Each book opens up new avenues of knowledge," Gates says.
 
 
+#### 05
 
-#### 英语
+##### 数学(2008年)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_10-1~3.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_10-4~5.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_10-6~7.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_10-8.jpg)
+
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
 
 > I had not realized how profoundly marketing trends dictated our perception of what is natural to kids, including our core beliefs about their psychological development.
 > > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg0ODEw) 
@@ -2603,3 +2634,165 @@ categories: Graduate
 > > > 2. of what is natural to kids 
 > > > > what引导的名词性宾语从句(介词of的宾语)。
 
+
+
+#### 06
+
+##### 数学(2008年)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_10-9~11.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_10-12~15.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_10-16.jpg)
+
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> In March 2010 a judge ruled that genes were unpatentable. Executives were violently agitated.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg0OTQ4) 
+> > 
+> > 在2010年3月,一位法官做出裁决,认为基因不能够获得专利。这让生物技术公司的管理者们焦躁不安。
+> > 
+> > 必记词汇:
+> > > 1. judge [dʒʌdʒ] n. 法官 
+> > > 
+> > > 2. rule [ruːl] vt. 裁决(认为) 
+> > > 
+> > > 3. gene [dʒiːn] n. 基因 
+> > > 
+> > > 4. patentable a. 可申请专利的 
+> > > 
+> > > 5. executive [ɪɡˈzekjətɪv] n. 管理者 
+> > > 
+> > > 6. violently ['vaɪələntli] ad. 狂乱地 
+> > > 
+> > > 7. agitate [ˈædʒɪteɪt] vt. 使不安
+> > 
+> > 必记词汇:
+> > > 1. rule that … 裁决认为… 
+> > > 
+> > > 2. be violently agitated 感到极其不安
+> > > 
+> > 
+> > 结构解析:
+> > > 1. ruled that… 
+> > > > that引导名词性宾语从句,表示裁决(ruled)的内容。 
+> > > 
+> > > 2. 注意前后二个句子的语义衔接,为前因后果关系。 
+> > > 
+> > > 3. 注意情感态度词violently agitated的使用。
+
+
+
+####  07
+
+##### 数学(2008年)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_10-17~18.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_10-19~24.jpg)
+
+
+####  08
+
+#####  数学(2008年1月份&10月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_10-25~27.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_10-28~30.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_1-1~4.jpg)
+
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+
+> Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them---especially for young people.
+> > [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg1MDk3) 
+> > 
+> > 确实,当前阶段的经济低迷可能会加剧阶级分化,并减少弥合这一差距的机会,尤其对于年轻人来讲更为如此。
+> > 
+> > 必记词汇:
+> > > 1. indeed [ɪnˈdiːd] ad. 确实,的确 
+> > > 
+> > > 2. period ['pɪrɪəd] n. 阶段,时期 
+> > > 
+> > > 3. weakness [ˈwiːknəs] n. 虚弱 
+> > > 
+> > > 4. reinforce [ˌriːɪnˈfɔːs] vt. 强化,加强 
+> > > 
+> > > 5. class [klæs] n. 阶级 
+> > > 
+> > > 6. divide [dɪ'vaɪd] n. 分歧,分化 
+> > > 
+> > > 7. decrease [dɪˈkriːs , ˈdiːkriːs] vt. 减少 
+> > > 
+> > > 8. opportunity [ˌɒpəˈtjuːnəti] n. 机会,概率 
+> > > 
+> > > 9. cross [krɒs] vt. 消除,弥合 
+> > > 
+> > > 10. especially [ɪˈspeʃəli] ad. 尤其地,特别地
+> > 
+> > 必记词汇:
+> > > 1. this period of … 当前时期的,这一阶段的 
+> > > 
+> > > 2. economic weakness 经济低迷 
+> > > 
+> > > 3. reinforce class divides 加剧阶级分化 
+> > > 
+> > > 4. decrease opportunities to 减去…的机会 
+> > > 
+> > > 5. cross class divides 消除阶级分化(鸿沟)
+> > > 
+> > 
+> > 结构解析:
+> > > 1. Indeed 表句间逻辑的递进。 
+> > > 
+> > > 2. this period of economic weakness … 该名词短语的核心词是period,并非weakness,注意理解的严谨性。
+
+
+
+####  09
+
+##### 数学(2008年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_1-5~6.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_1-7.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_1-8~12.jpg)
+
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> Several characters gain moral authority through such private yet sincere acts of affection. Viewers mostly respect a police captain because they see his sweet, bantering-yet-supportive relationship with his daughter, not because he has stars on his epaulettes. Yan Liang, a ragged teenage runaway, steals a blanket for Pupu and agonizes aloud about following his father into criminality. When put to a life-and-death test, though, he does the right thing. "I didn’t become a bad person," he gasps with relief to the policeman who has become a mentor. It is a moving moment. 
+> 
+> > 剧中几个人物的道德权威是建立在私下但真挚的情感表达中。警察队长之所以受人尊敬正是因为观众看到了他和女儿之间甜蜜、逗趣而又相互支持的关系,而非因为他肩章上的星星。严良是一个从福利院逃走的衣衫褴褛的少年,当他为普普偷了一条毛毯时,他会为e担心自己重蹈父亲覆辙而感到极度痛苦。但当面对生死考验时,他做出了正确的选择。他对着那位已成为他良师益友的警察舒了一口气:"我没有变成坏人。"这一刻令人动容。
+> > 
+> > 单词:
+> > > 1. moral  /ˈmɔːrəl/ adj. 道德的;精神上的;品性端正的
+> > > 
+> > > 2. authority /əˈθɔːrəti/ n. 权威;权力;当局,复数 authorities
+> > > 
+> > > 3. private /ˈpraɪvət/ adj. 私人的,私有的
+> > > 
+> > > 4. sincere /sɪnˈsɪr/  adj. 真诚的;诚挚的;真实的
+> > > 
+> > > 5. affection  /əˈfekʃn/ n. 喜爱,感情;影响;感染
+> > > 
+> > > 6. epaulette  /ˈepəlet/ n. 肩章（超纲词）
+> > > 
+> > > 7. ragged /ˈræɡɪd/ adj. 衣衫褴褛的;粗糙的;
+> > > 
+> > > 8. blanket /ˈblæŋkɪt/ n. 毛毯,毯子;也可作为adj. 总括的,全体的;没有限制的;
+> > > 
+> > > 9. agonize /ˈæɡənaɪz v. 感到极度痛苦;挣扎;
+> > > 
+> > > 10. gasp /ɡæsp/ v. 喘气;喘息;渴望,也可作名词;
+> > > 
+> > > 11. relief  /rɪˈliːf/ n. 救济;减轻,解除;
+> > 
+> > 词汇:
+> > > 1. bantering-yet-supportive,其中bantering（超纲词）表示adj. 风趣的,诙谐的,连在一起为逗趣而又相互支持;
+> > > 
+> > > 2. follow his father into criminality,其中criminality表示n. 有罪,犯罪;犯罪行为,所以文中翻译为重蹈父亲覆辙;
