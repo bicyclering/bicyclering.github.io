@@ -6,7 +6,7 @@ categories: Graduate
 ---
 
 
-# [日常练习(考研倒计时:131天)](https://www.igaitu.com/)
+# [日常练习(考研倒计时:129天)](https://www.igaitu.com/)
 
 ## 未打卡统计
 
@@ -2796,3 +2796,148 @@ categories: Graduate
 > > > 1. bantering-yet-supportive,其中bantering（超纲词）表示adj. 风趣的,诙谐的,连在一起为逗趣而又相互支持;
 > > > 
 > > > 2. follow his father into criminality,其中criminality表示n. 有罪,犯罪;犯罪行为,所以文中翻译为重蹈父亲覆辙;
+
+
+
+#### 08-10 ~ 08-16(周计划)
+
+#### 语文 → 论证有效性分析(2010年)
+
+[链接: https://pan.baidu.com/s/1Ej6E34J--RrSulKFTcf0fA 提取码: r8eh](https://pan.baidu.com/s/1Ej6E34J--RrSulKFTcf0fA)
+
+> 论证有效性分析: 分析下述论证中存在的缺陷和漏洞,选择若干要点,写一篇 600 字左右的文章,对该论证的有效性进行分析和评论。(论证有效性分析的一般要点是: 概念特别是核心概念的界定和使用是否准备并前后一致,有无各种明显的逻辑错误,论证的论据是否成立并支持结论,结论成立的条件是否充分等等。)
+> 
+> > 美国学者弗里德曼的《世界是平的》一书认为,全球化对当代人类社会的思想、经济、政治和文化等领域产生了深刻影响。全球抹去了各国的疆界,使世界从立体变成了平面,也就是说,世界各国之间的会发展差距正在日益缩小。
+> > 
+> > “世界是平的”的观点,是基于近几十年信息传播技术迅速发展的状况而提出的。互联网的普及、软件的创新使海量信息迅速扩散到世界各地。由于世界是平的,穷国可以和富国一样在同一平台上接受同样的最新信息,这样就大大促进了各国的经济发展,从而改善了它们的国际地位。
+> > 
+> >  事实也是如此,所谓“金砖四国”国际声望的上升,无不得益于它们的经济成就,无不得益于互联网技术的发展。特别是中国经济的起飞,中国在世界上的崛起,无疑也依靠了互联网技术的普及,同时也可作为“世界是平的”这一观点的有力佐证。
+> > 
+> >  毋庸置疑,信息传播技术革命还远未结束,互联网技术将会有更大的发展,人类社会将会有更惊人的变化。可以预言,由于信息技术的迅猛发展,世界的经济格局与政治格局将会发生巨大的变化,世界最不发达国家和最发达国家之间再也不会让人有天壤之别的感觉,非洲大陆将会变成另一个北美。同样也可以预言,由于中国的信息技术发展迅猛,中国和世界一样,也会从立体变为平面,中国东西部之间的经济鸿沟被填平,中国西部的雄起指日可待。
+
+#### 逻辑 
+
+[( 论证性有效分析讲义)链接: https://pan.baidu.com/s/1TEawiDZdix8MTXS6D_fznQ 提取码: 89t5](https://pan.baidu.com/s/1TEawiDZdix8MTXS6D_fznQ)
+
+![问题 ](/images/Graduate/practice/logic/第一周.jpg)
+
+
+#### 英语翻译(2019)
+
+> It is easy to underestimate English writer James Herriot. He had such a pleasant, readable style that are might think that anyone could imitate it. How many times have I heard people say, “I could write a book, I just haven' t the time” Easily said. Not so easily done. James Herriot, contrary to popular opinion did not find it easy in his early days of, as he put it, “having a go at the writing game”. While he obviously had an abundance of natural talent, the final 
+polished work that he have to the world was the result of years of practicing, re-writing and reading. Like the majority of authors, he had to suffer many disappointments and rejections along the way, but these made him all the more determined to succeed. Everything he achieved in life was earned the hard way and his success in the literacy fieldwas no exception.
+
+
+#### 10
+
+##### 数学(2008年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_1-13~15.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_1-16~20.jpg)
+
+
+
+#### 11
+
+##### 数学(2008年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_1-21~25.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_1-26~28.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> Thrilled that she got her first paycheck, Nancy immediately ______ her old cell phone with a newer model.
+> 
+> > A.  replaced    
+> > 
+> > B. renewed   
+> > 
+> > C. combined 
+> > 
+> > D. compared
+> > 
+> > 必记词汇:
+> > > 1. thrilled [θrɪld] a. 极为激动的,非常兴奋的
+> > > 
+> > > 2. paycheck ['peɪtʃek] n. 薪酬（支票）
+> > > 
+> > > 3. cell [sel] n. 电池,细胞
+> > > 
+> > > 4. model ['mɒdl] n. 模型,模式
+> > > 
+> > > 5. replace [rɪ'pleɪs]  vt. 取代
+> > > 
+> > > 6. renew [rɪˈnjuː]  vt.更新
+> > > 
+> > > 7. combine [kəm'baɪn] vt. 结合,联合
+> > > 
+> > > 9. compare [kəm'peə] vt. 把…与…比较
+> > 
+> > 写作积累:
+> > > 1. be thrilled that… 对…极为兴奋
+> > > 
+> > > 2. get one's first paycheck 得到自己的第一笔薪酬
+> > > 
+> > > 3. cell phone 手机
+> > > 
+> > > 4. replace…with… 用…取代…
+> > > 
+> > > 5. a newer model一个更新的款式
+> > 
+> > 结构解析:
+> > > Thrilled that …
+> > > > 1.  形容词短语作原因状语,前面省略了Being。
+> > > > 
+> > > > 2. that引导形容词宾语从句,类似于be sure that…,be afraid that…。
+
+
+
+#### 12
+
+##### 数学(2008年1月份&2009年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2008_1-29~30.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_1-01~04.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_1-05~06.jpg)
+
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> The rest of the day was entirely at his ______ for reading or recreation.
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg1ODc2) 
+> 
+> 那天剩下的时间完全由他支配,可以读书也可以娱乐。
+> 
+> > A.  special    
+> > 
+> > B. survival   
+> > 
+> > C. disposal 
+> > 
+> > D. arrival
+> > 
+> > 必记词汇:
+> > > 1. rest [rest] n. 其余部分
+> > > 
+> > > 2. entirely [ɪnˈtaɪəli] ad. 完全地
+> > > 
+> > > 3. recreation [ˌriːkriˈeɪʃn] n. 娱乐
+> > > 
+> > > 4. dismissal [dɪs'mɪsl] n. 解雇,遣散
+> > > 
+> > > 5. survival [səˈvaɪvl] n. 幸存
+> > > 
+> > > 6. disposal [dɪˈspəʊzl] n. 处置,布署
+> > > 
+> > > 7. arrival [əˈraɪvl] n. 到达
+> > 
+> > 写作积累:
+> > > 1. at sb's disposal   任由某人处理
+> > 
+> > 结构解析:
+> > > 1. 短语at sb's disposal的理解与用法。
