@@ -6,7 +6,7 @@ categories: Graduate
 ---
 
 
-# [日常练习(考研倒计时:129天)](https://www.igaitu.com/)
+# [日常练习(考研倒计时:124天)](https://www.igaitu.com/)
 
 ## 未打卡统计
 
@@ -2801,19 +2801,19 @@ categories: Graduate
 
 #### 08-10 ~ 08-16(周计划)
 
-#### 语文 → 论证有效性分析(2010年)
+#### 语文 → 论证有效性分析(2011年)
 
 [链接: https://pan.baidu.com/s/1Ej6E34J--RrSulKFTcf0fA 提取码: r8eh](https://pan.baidu.com/s/1Ej6E34J--RrSulKFTcf0fA)
 
 > 论证有效性分析: 分析下述论证中存在的缺陷和漏洞,选择若干要点,写一篇 600 字左右的文章,对该论证的有效性进行分析和评论。(论证有效性分析的一般要点是: 概念特别是核心概念的界定和使用是否准备并前后一致,有无各种明显的逻辑错误,论证的论据是否成立并支持结论,结论成立的条件是否充分等等。)
 > 
-> > 美国学者弗里德曼的《世界是平的》一书认为,全球化对当代人类社会的思想、经济、政治和文化等领域产生了深刻影响。全球抹去了各国的疆界,使世界从立体变成了平面,也就是说,世界各国之间的会发展差距正在日益缩小。
+> > 如果你要从股市中赚钱,就必须低价买进股票,高价卖出股票,这是人人都明白的基本道理,但是,问题的关键是在于如何判断股价的高低。只有正确地判断股价的高低,上述的基本道理才有意义,否则,就毫无实用价值。
 > > 
-> > “世界是平的”的观点,是基于近几十年信息传播技术迅速发展的状况而提出的。互联网的普及、软件的创新使海量信息迅速扩散到世界各地。由于世界是平的,穷国可以和富国一样在同一平台上接受同样的最新信息,这样就大大促进了各国的经济发展,从而改善了它们的国际地位。
+> > 股价的高低是一个相对的概念,只有通过比较才能显现。一般来说,要正确判断某一股票的价格高低,唯一的途径就是看它的历史表现,但是,有人在判断当前某一股价的高低时,不注重股票的历史表现,而只注重股票今后的走势,这是一种危险的行为。因为股票的历史表现是一种客观事实,客观事实具有无可争辩的确定性;股票的今后走势只是一种主观预测,主观预测具有极大的不确定性,我们怎么可以只凭主观预测而不顾客观事实呢？
 > > 
-> >  事实也是如此,所谓“金砖四国”国际声望的上升,无不得益于它们的经济成就,无不得益于互联网技术的发展。特别是中国经济的起飞,中国在世界上的崛起,无疑也依靠了互联网技术的普及,同时也可作为“世界是平的”这一观点的有力佐证。
+> > 再说,股价的未来走势充满各种变数,它的涨和跌不是必然的,而是或然的。我们只能借助概率进行预测。假如宏观经济、市场态势和个股表现均好,它的上涨概率就大;假如宏观经济、市场态势和个股表现均不好,它的上涨概率就小;假如宏观经济、市场态势和个股表现不相一致,它的上涨概率就需要酌情而定。
 > > 
-> >  毋庸置疑,信息传播技术革命还远未结束,互联网技术将会有更大的发展,人类社会将会有更惊人的变化。可以预言,由于信息技术的迅猛发展,世界的经济格局与政治格局将会发生巨大的变化,世界最不发达国家和最发达国家之间再也不会让人有天壤之别的感觉,非洲大陆将会变成另一个北美。同样也可以预言,由于中国的信息技术发展迅猛,中国和世界一样,也会从立体变为平面,中国东西部之间的经济鸿沟被填平,中国西部的雄起指日可待。
+> > 由此可见,要从股市获取利益,第一是要掌握股价涨跌的概率,第二还是要掌握股价涨跌的概率,第三也还是要掌握股价涨跌的概率。掌握了股价涨跌的概率,你就能赚钱;否则,你就会赔钱。
 
 #### 逻辑 
 
@@ -2941,3 +2941,184 @@ polished work that he have to the world was the result of years of practicing, r
 > > 
 > > 结构解析:
 > > > 1. 短语at sb's disposal的理解与用法。
+
+
+
+#### 13
+
+##### 数学(2008年1月份&2009年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_1-7~8.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_1-9~11.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_1-12~13.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_1-14~15.jpg)
+
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> Accuracy is _______ to the programming of computers.
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg2MDU3) 
+> 
+> 精确是计算机编程的根本。
+> 
+> > A.  fundamental    
+> > 
+> > B. decisive   
+> > 
+> > C. characteristic 
+> > 
+> > D. typical
+> > 
+> > 必记词汇:
+> > > 1. accuracy ['ækjərəsi] n. 精确 
+> > > 
+> > > 2. programming [ˈprəʊɡræmɪŋ] n. 编程 
+> > > 
+> > > 3. fundamental [ˌfʌndəˈmentl] a. 基本的,重要的 
+> > > 
+> > > 4. decisive [dɪ'saɪsɪv] a. 决定性的 
+> > > 
+> > > 5. characteristic [,kærəktə'rɪstɪk] a. 特有的,典型的 
+> > > 
+> > > 6. typical ['tɪpɪkl] a. 典型的,有代表性的
+> > > 
+> > 写作积累:
+> > > 1. be fundamental to 对于......是基本的
+> > 
+> > 结构解析:
+> > > 1. 短语 be fundamental to 的理解与掌握
+
+
+#### 14
+
+##### 数学(2009年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_1-16.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_1-17~19.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_1-20~23.jpg)
+
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> Andy is one of my best friends;he always _______ me whenever I am in trouble. 
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg2MDk4) 
+> 
+> 安迪是我最好的朋友之一,无论我什么时候有困难,他总是支持我。
+> 
+> > A.  stands out      
+> > 
+> > B. stands by    
+> > 
+> > C. stands up 
+> > 
+> > D. stands up to
+> > 
+> > 必记词汇:
+> > > 1. in trouble 陷入困境,遇到困难 
+> > > 
+> > > 2. stand out 突出,显眼 
+> > > 
+> > > 3. stand by 支持 
+> > > 
+> > > 4. stand up 站起来,（证据）站得住脚 
+> > > 
+> > > 5. stand up to 勇敢地面对
+> > > 
+> > 写作积累:
+> > > 1. 短语 stand by 的理解与掌握
+
+
+
+
+#### 15
+
+##### 数学(2009年1月份&10月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_1-24~25.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_10-1~3.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_10-4~6.jpg)
+
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> After 1978 the farm began to take _____ a new look. 
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg2Mjk1) 
+> 
+> 1978年之后,这家农场焕然一新。
+> 
+> > A.  in    
+> > 
+> > B. **on**  
+> > 
+> > C. up
+> > 
+> > D. to
+> > 
+> > 必记词汇:
+> > > 1. farm [fɑːm] n.  农场
+> > > 
+> > > 2. look [lʊk] n.  面貌
+> > 
+> > 写作积累:
+> > > 1. begin to do sth  开始做某事
+> > > 
+> > > 2. take in  吸收;欺骗
+> > > 
+> > > 3. take on  呈现
+> > > 
+> > > 4. take up  占据,从事
+> > > 
+> > > 5. take to  喜欢
+> > 
+> > 结构解析:
+> > > 1. 短语 take on 的理解与掌握
+
+
+#### 16
+
+##### 数学(2009年1月份&10月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_10-7~9.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_10-10~12.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_10-13.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_10-14.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> Despite a recent uptick in violence, fears that America is experiencing a serious crime wave are overblown.
+> > 尽管最近的美国暴力事件有小幅增加,但是人们对美国正经历严重犯罪浪潮的担忧被夸大了。
+> 
+> The death of George Floyd under the knee of a Minneapolis police officer on May 25th has sparked large anti-racist protests in cities across America. “Defund the police”, a call to reallocate some of the money spent on law enforcement to other services, is becoming a mainstream slogan on the left.
+> > 5月25日,明尼阿波利斯的一名警察跪杀了乔治·弗洛伊德,这一事件导致美国各城市爆发了大规模的反种族主义抗议活动。“撤资警察”成为了激进左派的一个主流口号,该口号旨在呼吁将用于执法的部分资金重新分配给其他部门。
+> >
+> But the evidence that America is experiencing a major crime wave is mixed at best. Official national crime statistics, compiled by the FBI, are generally published with over a year’s delay, so researchers have to turn to other sources. David Abrams of the University of Pennsylvania, pulls together data from some two dozen major cities on citycrimestats.com. His figures show that so far this year crime is actually down by around 10% compared with the same period in 2015-19.
+> >但是能够表明美国正在经历一场严重犯罪浪潮的证据十分混杂。美国联邦调查局编制的官方国家犯罪统计数据通常要推迟一年才能公布,因此研究人员不得不转向其他数据来源。宾夕法尼亚大学的大卫·阿勃拉姆斯收集了来自20多个主要城市的数据发布在citycrimestats.com网站上。他的数据显示,今年到目前为止,犯罪率实际上比2015-19年同期下降了10%左右。
+> >
+> There are some exceptions to this decline. Non-residential burglaries spiked in early June, coinciding with the peak of the George Floyd protests, when looting of retail stores was common. Domestic violence has also probably increased.
+> > 犯罪率的下降也存在一些例外。6月初,非住宅盗窃案频发,恰逢乔治·弗洛伊德抗议活动的高峰,当时抢劫零售店的案件十分普遍。家庭暴力的比例也可能增长。
+> > 
+> The police usually benefit from a natural dividend in the autumn. Homicide rates tend to fall in September as the weather cools and teenagers head back to classrooms. But Mr Herrmann fears the country might not be as lucky this year. Many schools are unlikely to reopen. Courts have been shuttered, making it harder for prosecutors to stop gang violence.
+> > 警察通常在秋天会自然而然地获益。九月份,随着天气转暖,青少年重返教室,凶杀率往往会下降。但赫尔曼担心,美国今年可能没有那么幸运。许多学校不太可能重开。法庭已经关闭,这使检察官更难阻止帮派暴力。
+> 
+> 单词与短语:
+> > 1. violence n. 暴力;侵犯;激烈;歪曲
+> > 2. slogan n. 标语;呐喊声
+> > 3. evidence n. 证据,证明;迹象;明显 vt. 证明
+> > 4. delay vi. 延期;耽搁 vt. 延期;耽搁 n. 延期;耽搁;被耽搁或推迟的时间
+> > 5. decline n. 下降;衰退;斜面 vi. 下降;衰落;谢绝 vt. 谢绝;婉拒
+> > 6. retail vt. 零售;转述 vi. 零售 n. 零售 adv. 以零售方式 adj. 零售的
+> > 7. benefit n. 利益,好处;救济金 vt. 有益于,对…有益 vi. 受益,得益
+> > 8. dividend n. 股息;被除数;奖金
+> > 9. tendvi. 趋向,倾向;照料,照顾 vt. 照料,照管
+> > 10. unlikely adj. 不太可能的;没希望的 adv. 未必
