@@ -6,7 +6,7 @@ categories: Graduate
 ---
 
 
-# [日常练习(考研倒计时:124天)](https://www.igaitu.com/)
+# [日常练习(考研倒计时:122天)](https://www.igaitu.com/)
 
 ## 未打卡统计
 
@@ -3122,3 +3122,183 @@ polished work that he have to the world was the result of years of practicing, r
 > > 8. dividend n. 股息;被除数;奖金
 > > 9. tendvi. 趋向,倾向;照料,照顾 vt. 照料,照管
 > > 10. unlikely adj. 不太可能的;没希望的 adv. 未必
+
+
+#### 08-17 ~ 08-23(周计划)
+
+#### 语文 → 论证有效性分析(2008年)
+
+[链接: https://pan.baidu.com/s/1Ej6E34J--RrSulKFTcf0fA 提取码: r8eh](https://pan.baidu.com/s/1Ej6E34J--RrSulKFTcf0fA)
+
+> 甲:有人以中医不为西方人普遍接受为由,否定中医的科学性,我不赞同。西方人普遍不能接受中医是因为他们不理解中国的传统文化。
+> 
+> 乙:西医是以科学研究为根据的,科学研究的对象是普适的自然规律。因此,科学没有国界,科学的发展不受民族或文化因素的影响。把中医的科学地位归咎于西方科学界不认可中国文化,是荒唐的。
+> 
+> 甲:“科学是没有国界”是一个广为流传的谬误。如果科学真的没有国界,为什么外国制药公司会诉讼中国企业侵犯其知识产权呢？
+> 
+> 乙:从科学角度讲,现代医学以生物学为基础,而生物学建立在物理、化学等学科基础之上。中医不以这些学科为基础,因此它与科学不兼容,只能说是伪科学。
+> 
+> 甲:中医在中国有几千年的历史,治好了很多人,怎么能说它是伪科学呢？人们为什么崇尚科学,是因为科学对人类有用。既然中医对人类有用,凭什么说它不是科学？西医自然有长于中医的地方,中也有长于西医之处。中医体现了对人体完整系统的把握,整体观念、系统思维,就是西医所欠缺的。
+> 
+> 乙:我去医院看西医,人家用现代科技手段从头到脚给我检查一遍,怎么没有整体观念、系统思维呢？中医在中国居于主导地位的时候,中国人的平均寿命只有三十岁左右,现代中国人平均寿命约七岁左右,完全拜现代医学之赐。
+
+#### 逻辑 
+
+[( 论证性有效分析讲义)链接: https://pan.baidu.com/s/1TEawiDZdix8MTXS6D_fznQ 提取码: 89t5](https://pan.baidu.com/s/1TEawiDZdix8MTXS6D_fznQ)
+
+![问题 ](/images/Graduate/practice/logic/第一周.jpg)
+
+
+#### 英语翻译(2010)
+
+> "Sustainability" has become a popular word these days, but to Ted Ning, the concept will always have personal meaning. Having endured a painful period of unsustainability in his own life made it clear to him that sustainabilityoriented values must be expressed though everyday action and choice.
+> 
+> Ning recalls spending a confusing year in the late 1990s selling insurance. He’d been though the dot-com boom and burst and, desperate for a job, signed on with a Boulder agency.
+> 
+> It didn’t go well. “It was a really had move because that’s not my passion,” says Ning, whose dilemma about the job translated, predictably, into a lack of sales. “I was miserable, I had so much anxiety that I would wake up in the middle of the night and stare at the ceiling. I had no money and needed the job. Everyone said, ‘Just wait, you’ll turn the corner, give it some time.’”
+
+
+#### 17
+
+##### 数学(2009年10月份)
+
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_10-15.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_10-16~20.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_10-21~22.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> A promotion of a country’s international trade position is associated with ____ of its currency.
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg2NTQz) 
+> 
+> 一个国家国际贸易地位的提高同它的货币的增值有关。
+> 
+> > A. **appreciation**    
+> > 
+> > B. boom
+> > 
+> > C. spiral
+> > 
+> > D. prosperity
+> > 
+> > 必记词汇:
+> > > 1. promotion [prəˈməʊʃn] n. 提升,提高 
+> > > 
+> > > 2. international [ˌɪntəˈnæʃnəl] a. 国际的 
+> > > 
+> > > 3. trade [treɪd] n. 贸易 
+> > > 
+> > > 4. position [pəˈzɪʃn] n. 地位;位置 
+> > > 
+> > > 5. currency [ˈkʌrənsi] n. 货币 
+> > > 
+> > > 6. appreciation [əˌpriːʃiˈeɪʃn] n. 增值;欣赏;感激;理解 
+> > > 
+> > > 7. boom [buːm] n. 繁荣 
+> > > 
+> > > 8. spiral ['spaɪrəl] n. 螺旋式上升 
+> > > 
+> > > 9. prosperity [prɒˈsperəti] n. 繁荣
+> > 
+> > 写作积累:
+> > > 1. international trade position 国际贸易地位 
+> > > 
+> > > 2. be associated with  与...有关,与...有联系
+> > 
+> > 结构解析:
+> > > 1. 词汇 appreciation 的理解与掌握
+
+
+
+#### 18
+
+##### 数学(2009年10月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2009_10-23~25.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-01~04.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-05.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> A standard test is supposed to be ______ because the marking is not affected by individual preferences. 
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg2NzQ3) 
+> 
+> 标准化测试应该是客观的,因为判分不受到个人好恶的影响。
+> 
+> > A. subjective 
+> > 
+> > B. **objective**
+> > 
+> > C. transparent
+> > 
+> > D. influential
+> > 
+> > 必记词汇:
+> > > 1. standard [ˈstændəd] a. 标准的;合规格的 
+> > > 
+> > > 2. marking [ˈmɑːkɪŋ] n. 评分 
+> > > 
+> > > 3. individual [ˌɪndɪˈvɪdʒuəl] a. 个人的 
+> > > 
+> > > 4. preference [ˈprefrəns] n. 偏好,偏爱 
+> > > 
+> > > 5. subjective [səbˈdʒektɪv] a. 主观的 
+> > > 
+> > > 6. objective [əbˈdʒektɪv] a. 客观的 
+> > > 
+> > > 7. transparent [træns'pærənt] a. 透明的 
+> > > 
+> > > 8. influential [ˌɪnfluˈenʃl] a. 有影响力的
+> > 
+> > 写作积累:
+> > > 1. 词汇 objective 的理解与掌握
+
+
+#### 19
+
+##### 数学(2009年10月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-06~10.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-11~13.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> A week after her husband died,Mary broke _____ completely and had to go into hospital.
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg2Nzk0) 
+> 
+> 她丈夫死后一个星期,玛丽彻底崩溃,不得不被送进医院。
+> 
+> > A. up 
+> > 
+> > B. in
+> > 
+> > C. **down**
+> > 
+> > D. out
+> > 
+> > 必记词汇:
+> > > 1. husband ['hʌzbənd] n. 丈夫 
+> > > 
+> > > 2. completely [kəmˈpliːtli] adv. 完全地
+> > 
+> > 写作积累:
+> > > 1. break down (物）出故障,抛锚;（人）崩溃 
+> > > 
+> > > 2. break up 打碎 
+> > > 
+> > > 3. break in 闯入 
+> > > 
+> > > 4. break out 爆发,突然发生
+> > 
+> > 学习重点:
+> > > 1. 短语 break down 的理解与掌握
