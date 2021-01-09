@@ -42,7 +42,18 @@ categories: marketing
 |  1    |  sytdyf_1997   |      557589ta  |
 |  2    |   sytdyf_003       |     mafc7tbn  |
 |  3    |   sytdyf_002     |       vpgdczm9  |
-|  4    |   sytdyf_001     |       xmnndh75  |
+|  4    |   sytdyf_001     |       sytdyf1997  |
+
+
+
+### [平安帮帮](https://www.jk.cn/bangbang/#/dict)
+
+|            账号       |               密码        |          备注         |
+|:------------- |:---------------:| -------------:|
+| sytdyfwanli_000    | njsyt2019  |          |
+| sytdyfweironghui_000    | njsyt2019  |          |
+
+
 
 ###  [药房网](https://www.yaofangwang.com/)
 
@@ -118,6 +129,28 @@ categories: marketing
 |:------------- |:---------------:| -------------:|
 | dsgg    | 1  |          |
 
+
+## 直播
+
+### 平安
+
+> iOS主播端下载(目前仅支持iOS)
+> 
+> iOS主播端下载的账号密码：
+> > **账号:** anchor
+> > 
+> > **密码:** ZhiBoDaMai
+> 
+> [下载链接: https://apps.jk.cn/anchor/anchor.html](https://apps.jk.cn/anchor/anchor.html)
+> 
+> 必须通过Safari浏览器打开
+> 
+> PC端下载登录地址
+> > **升级内容:** PC主播端支持竖屏(9:16)直播推流
+> > 
+> > [下载地址: https://apps.jk.cn/pc-anchor/pc-anchor-20200602134812.zip](https://apps.jk.cn/pc-anchor/pc-anchor-20200602134812.zip)
+> > 
+> > **解压密码:** Pajk@Anchor123
 
 
 ## 退货
@@ -231,9 +264,6 @@ categories: marketing
 > 
 > 2. 原平台商品sku  ➡️ 添加添加**补发商品sku**
 
-
-
-ssh-keygen -R github.com
 
 
 

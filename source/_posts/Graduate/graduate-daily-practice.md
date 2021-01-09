@@ -6,7 +6,7 @@ categories: Graduate
 ---
 
 
-# [日常练习(考研倒计时:122天)](https://www.igaitu.com/)
+# [日常练习(考研倒计时:110天)](https://www.igaitu.com/)
 
 ## 未打卡统计
 
@@ -21,6 +21,12 @@ categories: Graduate
 | 许萱|   0        |       0  |
 | 薛雅珺 |   0        |       0  |
 | 吴斌 |   0        |       0  |
+
+
+## 概率
+
+![问题 ](/images/Graduate/practice/mathematics/probability.jpg)
+
 
 ## 06月
 
@@ -3263,7 +3269,7 @@ polished work that he have to the world was the result of years of practicing, r
 
 #### 19
 
-##### 数学(2009年10月份)
+##### 数学(2010年1月份)
 
 ![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-06~10.jpg)
 ![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-11~13.jpg)
@@ -3292,7 +3298,7 @@ polished work that he have to the world was the result of years of practicing, r
 > > > 2. completely [kəmˈpliːtli] adv. 完全地
 > > 
 > > 写作积累:
-> > > 1. break down (物）出故障,抛锚;（人）崩溃 
+> > > 1. break down2010 (物）出故障,抛锚;（人）崩溃 
 > > > 
 > > > 2. break up 打碎 
 > > > 
@@ -3302,3 +3308,1050 @@ polished work that he have to the world was the result of years of practicing, r
 > > 
 > > 学习重点:
 > > > 1. 短语 break down 的理解与掌握
+
+
+
+#### 20
+
+##### 数学(2010年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-14.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-15.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-16~19.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-20~21.jpg)
+
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> A year ago the firm had a _____ loss of 4.3 million dollars or 20 cents a share after all necessary deduction. 
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg2OTQ2) 
+> 
+> 一年前该公司的净亏损为430万美元或者说在做出必要的扣除之后,一股净亏20美分。
+> 
+> > A. total 
+> > 
+> > B. gross
+> > 
+> > C. **net**
+> > 
+> > D. clear
+> > 
+> > 必记词汇:
+> > > 1. loss [lɒs] n. 损失 
+> > > 
+> > > 2. million ['mɪljən] n. 百万 
+> > > 
+> > > 3. cent [sent] n. 分 
+> > > 
+> > > 4. share [ʃeə(r)] n. 股票 
+> > > 
+> > > 5. necessary [ˈnesəsəri] a. 必要的 
+> > > 
+> > > 6. deduction [dɪˈdʌkʃn] n. 扣除 
+> > > 
+> > > 7. total ['ˈtəʊtl] a. 全部的 
+> > > 
+> > > 8. gross [ɡrəʊs] a. 毛的,总的 
+> > > 
+> > > 9. net [net] a. 纯的,净的 
+> > > 
+> > > 10. clear [klɪr] a. 清楚的,明白的
+> > 
+> > 写作积累:
+> > > 1. net loss 净亏损 
+> > > 
+> > > 2. all necessary deduction 所有必要的扣除
+> > 
+> > 学习重点:
+> > > 1. 词汇 net 的理解与掌握
+
+
+
+
+#### 21
+
+##### 数学(2010年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-22~24.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_1-25.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_10-1~3.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_10-4.jpg)
+
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> Her interest in redecorating the big house kept her _____ for a whole week.  
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg2OTQ2) 
+> 
+> 重新装修这间大房子的兴趣使她忙碌了整整一周。
+> 
+> > A. constrained 
+> > 
+> > B. dominated
+> > 
+> > C. restricted
+> > 
+> > D. occupied
+> > 
+> > 必记词汇:
+> > > 1. interest [ˈɪntrəst; ˈɪntrest] n. 兴趣 
+> > > 
+> > > 2. redecorate [ˌriːˈdekəreɪt] v. 再装修 
+> > > 
+> > > 3. constrain [kənˈstreɪn] v. 强迫,抑制,拘束 
+> > > 
+> > > 4. dominate [ˈdɒmɪneɪt] v. 统治,支配 
+> > > 
+> > > 5. restrict [rɪˈstrɪkt] v. 限制,限定 
+> > > 
+> > > 6. occupied [ˈɒkjupaɪd] v. 被占据的,忙碌的
+> > 
+> > 写作积累:
+> > > 1. interest in doing sth 在做某事方面的兴趣 
+> > > 
+> > > 2. redecorate the house 重新装修房子 
+> > > 
+> > > 3. keep sb occupied 使某人忙碌
+> > 
+> > 学习重点:
+> > > 1. 词汇 occupied 的理解与掌握
+
+
+
+
+#### 22
+
+##### 数学(2010年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_10-5~6.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_10-7~9.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_10-10~12.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> Some people think that a ______ translation,or word-for-word translation,is easier than a free translation. 
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg3MDg2) 
+> 
+> 一些人认为直译,或者说逐字翻译,要比意译容易。
+> 
+> > A. **literal** 
+> > 
+> > B. literary
+> > 
+> > C. liberal
+> > 
+> > D. linear
+> > 
+> > 必记词汇:
+> > > 1. translation [trænzˈleɪʃn] n. 翻译 
+> > > 
+> > > 2. literal ['lɪtərəl] a. 文字的,字面的 
+> > > 
+> > > 3. literary [ˈlɪtərəri] a. 文学的 
+> > > 
+> > > 4. liberal [ˈlɪbərəl] a. 慷慨的,自由的 
+> > > 
+> > > 5. linear [ˈlɪniə(r)] a. 线的,直线的
+> > 
+> > 写作积累:
+> > > 1. literal translation 直译 
+> > > 
+> > > 2. word-for-word translation 逐字翻译 
+> > > 
+> > > 3. free translation 意译
+> > 
+> > 学习重点:
+> > > 1. 词汇 literal 的理解与掌握
+
+
+
+
+
+#### 23
+
+##### 数学(2010年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_10_13~15.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_10-16~19.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2010_10-25.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> The euro area is set for its deepest downturn and its sternest economic test yet. Some forecasters expect GDP to shrink by nearly a tenth in 2020. But as history is being made, it is also being repeated. Talks between Europe’s politicians about the covid-19 crisis have descended into yet another ugly row over which countries gain and lose from a common currency. The acrimony has its roots in Europe’s sovereign-debt crisis in 2010-12, when stricken southerners pleaded for solidarity and northerners refused to bail out what they saw as bad behaviour.
+> > 欧元区将面临有史以来最严重的经济衰退和最严峻的经济考验。一些预测者预计，到2020年，GDP将缩水近十分之一。但在创造历史的同时，历史也在重演。欧洲政客之间关于covid-19危机的谈判已演变成另一场关于各国从共同货币中得失的丑陋争吵。2010年至2012年的欧洲主权债务危机是这场口水战的根源，当时饱受打击的南方人呼吁团结一致，而北方人则拒绝救助他们眼中的不良行为。
+> 
+> Back then the euro area avoided collapse largely thanks to action by the European Central Bank (ECB). The euro zone has since had a chance to pass deep reforms in order to deal with its fragility once and for all, but the time was ill-used. Having given up their monetary independence long ago and failed to cut public debt, some countries cannot deal with the crisis on their own. They need help from stronger economies in the north.
+> > 当时，多亏欧洲中央银行(ECB)的行动，欧元区才得以避免崩溃。为了一劳永逸地解决自身的脆弱性，欧元区本来有机会通过深度改革，但却没有好好利用这个机会。一些国家早就放弃了货币独立，也未能削减公共债务，因此无法独自应对危机。他们需要北方强大经济体的帮助。
+> 
+> To avoid a deep and enduring slump, the southern countries need government spending that will shore up their economies today and relaunch them when the pandemic has abated. Yet this spending will sharply increase their debts. In Italy public borrowings are already worth 135% of GDP, and that figure could easily rise to well over 150% with even a modest stimulus.
+> > 为了避免严重而持久的经济衰退，南方国家需要政府支出来支撑他们今天的经济，并在流感大流行减弱后重新启动经济。然而，这些支出将大幅增加他们的债务。在意大利，公共借款已经占到GDP的135%，而且这个数字很容易上升到150%以上，即使是一个温和的刺激。
+> 
+> Those actions will buy time, but no more than that. There are still limits on how much the ECB can help the south and extra bond purchases are likely to end before southern economies recover. The bank may feel it lacks the mandate to extend its scheme. A legal challenge in Germany is an ever-present threat. And, aware that they are pushing their luck, southern countries may opt for smaller stimulus packages than they really need. That could still mean they face a doom loop as a shrinking economy makes it harder to service existing debts.
+> > 这些行动将赢得时间，但仅此而已。欧洲央行能在多大程度上帮助南欧国家仍有限制，在南欧经济体复苏之前，额外的债券购买可能会结束。欧洲央行可能会觉得自己缺乏扩大该计划的授权。在德国，法律上的挑战是一直存在的威胁。而且，意识到他们是在碰运气，南部国家可能会选择比真正需要的更小的刺激方案。这可能仍然意味着，随着经济萎缩，偿还现有债务变得更加困难，南部国家将面临厄运循环。
+> 
+> Politically the euro faces a dilemma. In the south millions more might conclude that membership of the single currency brings no benefits, fuelling support for Eurosceptic parties such as Italy’s Northern League and the National Rally of Marine Le Pen in France. In the north bail-outs would bolster the likes of the hard-right Alternative for Germany.
+> > 从政治上讲，欧元面临着两难境地。在南部，还有数百万人可能会得出结论，认为加入单一货币不会带来任何好处，从而助长了对欧洲怀疑论政党的支持，比如意大利的北方联盟和法国的马琳•勒庞全国集会。在北方，紧急援助将支持极右翼的德国新选项党。
+> 
+> **单词与短语:**
+> > 1. row n. 行，排；划船；街道；吵闹 vt. 划船；使……成排 vi. 划船；争吵
+> > 
+> > 2. acrimony n. 辛辣；尖刻；严厉
+> > 
+> > 3. solidarity n. 团结，团结一致
+> > 
+> > 4. bail n. 保释，保释人；保释金；杓 vt. 保释，帮助某人脱离困境；往外舀水
+> > 
+> > 5. collapse vi. 倒塌；瓦解；暴跌 vt. 使倒塌，使崩溃；使萎陷 n. 倒塌；失败；衰竭
+> > 
+> > 6. fragility n. 脆弱；易碎性；虚弱
+> > 
+> > 7. monetary adj. 货币的；财政的
+> > 
+> > 8. independence n. 独立性，自立性；自主
+> > 
+> > 9. avoid vt. 避免；避开，躲避；消除
+> > 
+> > 10. enduring adj. 持久的；能忍受的 v. 忍耐（endure的ing形式）
+> > 
+> > 11. pandemic adj. 全国流行的；普遍的
+> > 
+> > 12. figure n. 数字；人物；图形；价格；（人的）体形；画像 vi. 计算；出现；扮演角色 vt. 计算；认为；描绘；象征
+> > 
+> > 13. modest adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的
+> > 
+> > 14. bond n. 债券；结合；约定；粘合剂 vi. 结合，团结在一起 vt. 使结合；以…作保
+> > 
+> > 15. mandate n. 授权；命令，指令；委托管理；受命进行的工作 vt. 授权；托管
+> > 
+> > 16. extend vt. 延伸；扩大；推广；伸出；给予；使竭尽全力；[律]对…估价 vi. 延伸；扩大；伸展；[军]使疏开
+> > 
+> > 17. scheme n. 计划；组合；体制；诡计 vi. 搞阴谋；拟订计划 vt. 计划；策划
+> > 
+> > 18. legal adj. 法律的；合法的；法定的
+> > 
+> > 19. challenge n. 挑战；怀疑 vt. 向…挑战
+> > 
+> > 20. threat n. 威胁，恐吓；凶兆
+> > 
+> > 21. dilemma n. 困境；进退两难；[逻]两刀论法
+> > 
+> > 22. conclude vt. 推断；决定，作结论；结束 vi. 推断；断定；决定
+> > 
+> > 23. bolster n. 支持；长枕 vt. 支持；支撑
+
+
+
+
+
+#### 08-24 ~ 08-30(周计划)
+
+#### 语文 → 论证有效性分析(2009年)
+
+[链接: https://pan.baidu.com/s/1Ej6E34J--RrSulKFTcf0fA 提取码: r8eh](https://pan.baidu.com/s/1Ej6E34J--RrSulKFTcf0fA)
+
+> 1000 是 100 的十倍，但是当分母大到百亿的时候，作为分子的这两个数的差别就失去意义。在知识经济时代，任何人所掌握的知识，都只是沧海一粟。这使得在培养与选拔人才时，知识尺度已变得毫无意义。
+> 
+> 现在网络技术可以使你在最短的时间内查询到你所需要的任何知识信息，有的大学毕业生因此感叹何必要为学习各种知识数年寒窗，这不无道理。传授知识不应当继续成为教育，特别是高等教育的功能。学习知识需要记忆。记忆能力，是浅层次的大脑功能。人们在思维方面的差异，不在于能记住什么，而在于能提出什么。素质教育的真正目标，是培养批判性思维与创造性思维能力。知识与此种能力之间没有实质性的联系，否则就难以解释，具备与爱因斯坦相同知识背景的人多的是，为什么唯独他发现了相对论。硕士、博士这些知识头衔的实际价值一再受到有识之士的质疑，道理就在这里。
+> 
+> “知识就是力量”这一曾经激励了几代人的口号，正在成为空洞的历史回声，这其实是时代的进步。
+
+#### 逻辑 
+
+> 《逻辑课外练习册》P13 ~ 24
+
+
+
+#### 英语翻译(2010)
+
+> Who would have thought that, globally, the IT industry produces about the same volume of greenhouse gases as the world’s airlines do—roughly 2 percent of all CO2 emissions?
+> 
+> Many everyday tasks take a surprising toll on the environment. A Google search can leak between 0.2 and 7.0 grams of CO2 depending on how many attempts are needed to get the “right” answer. To deliver results to its users quickly, then, Google has to maintain vast data centres around the world, packed with powerful computers. While producing large quantities of CO2, these computers emit a great deal of heat, so the centres need to be well airconditioned, which uses even more energy.
+> 
+> However, Google and other big tech providers monitor their efficiency closely and make improvements. Monitoring is the first step on the road to reduction, but there is much to be done, and not just by big companies.
+
+
+#### 24
+
+##### 数学(2011年1月份)
+
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01_1~5.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-6~7.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-8.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> He failed his exam,it _____ him right because he had not studied for the whole semester. 
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg3NTE2) 
+> 
+> 他考试不及格，这是他整个学期不学习的报应。
+> 
+> > A. **served** 
+> > 
+> > B. taught
+> > 
+> > C. gave
+> > 
+> > D. showed
+> > 
+> > 必记词汇:
+> > > 1. fail [feɪl] v. 失败，不及格 
+> > > 
+> > > 2. exam [ɪg'zæm] n. 考试 
+> > > 
+> > > 3. whole [həʊl] adj. 完整的，全部的 
+> > > 
+> > > 4. semester [sɪˈmestə(r)] n. 学期 
+> > > 
+> > > 5. teach [tiːtʃ] v. 教导，教授 
+> > > 
+> > > 6. give [ɡɪv] v. 给，给予 
+> > > 
+> > > 7. show [ʃəʊ] v. 说明，显示
+> > 
+> > 写作积累:
+> > > 1. fail one's exam考试不及格 
+> > > 
+> > > 2. serve sb. right 活该，咎由自取 
+> > > 
+> > > 3. whole semester 整个学期
+> > 
+> > 学习重点:
+> > > 1. 短语 serve sb. right 的理解与掌握
+
+
+
+
+
+#### 25
+
+##### 数学(2011年1月份)
+
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-9~11.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-12~15.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-16.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> Some scientists _______ that the carbon dioxide content of atmosphere would cause the Earth to warm up. 
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg3NTYw) 
+> 
+> 一些科学家预言，大气中所含的二氧化碳将导致地球气温上升。
+> 
+> > A. estimated 
+> > 
+> > B. prescribed
+> > 
+> > C. established
+> > 
+> > D. **predicted**
+> > 
+> > 必记词汇:
+> > > 1. scientist ['saɪəntɪst] n. 科学家 
+> > > 
+> > > 2. carbon [ˈkɑːbən] n. 碳
+> > > 
+> > > 3. dioxide [daɪˈɒksaɪd] n. 二氧化物 
+> > > 
+> > > 4. content [ˈkɒntent , kənˈtent] n. 内容，目录；容量；满足 
+> > > 
+> > > 5. atmosphere ['ætməsfɪr] n. 气氛；大气，空气 
+> > > 
+> > > 6. estimate [ˈestɪmət , ˈestɪmeɪt] v. 估计 
+> > > 
+> > > 7. prescribe [prɪ'skraɪb] v. 开药方，指定，规定 
+> > > 
+> > > 8. establish [ɪˈstæblɪʃ] v. 建立，确定 
+> > > 
+> > > 9. predict [prɪ'dɪkt] v. 预言，预测
+> > 
+> > 写作积累:
+> > > 1. carbon dioxide 二氧化碳 
+> > > 
+> > > 2. warm up 变暖
+> > 
+> > 学习重点:
+> > > 1. 词汇 predict 的理解与掌握
+
+
+
+
+#### 26
+
+##### 数学(2011年1月份)
+
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-17~20.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-21~23.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-24~25.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> The invention of paper meant more people could be educated because more books could be printed and ______ . 
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg3NjYx) 
+> 
+> 纸的发明意味着更多人可以受到教育，因为更多的书可以被印出来并传播出去。
+> 
+> > A. **distributed** 
+> > 
+> > B. divided
+> > 
+> > C. spread
+> > 
+> > D. scattered
+> > 
+> > 必记词汇:
+> > > 1. invention [ɪnˈvenʃn] n. 发明 
+> > > 
+> > > 2. educate [ˈedʒukeɪt] v. 教育，培养 
+> > > 
+> > > 3. print [prɪnt] v. 印刷 
+> > > 
+> > > 4. distribute [dɪˈstrɪbjuːt] v. （实物）散布，分配，分发 
+> > > 
+> > > 5. divide [dɪ'vaɪd] v. 切割，分割 
+> > > 
+> > > 6. spread [spred] v. 流传，传播 
+> > > 
+> > > 7. scatter [ˈskætə(r)] v. 驱散，散开
+> > 
+> > 写作积累:
+> > > 1. the invention of paper 纸的发明 
+> > > 
+> > > 2. be printed and distributed 被印刷并传播
+> > 
+> > 学习重点:
+> > > 1. 词汇 distribute 的理解与掌握
+
+
+
+
+#### 27
+
+##### 数学(2011年1月份)
+
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10_1~2.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-3.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-4~8.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> I like your methods of teaching very much and shall ______ them in my school. 
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg3ODIw) 
+> 
+> 我很欣赏你的教学法，会在我的学校也采用。
+> 
+> > A. accept
+> > 
+> > B. acquire
+> > 
+> > C. **adopt**
+> > 
+> > D. adapt
+> > 
+> > 必记词汇:
+> > > 1. method [ˈmeθəd] n. 方法，方式 
+> > > 
+> > > 2. accept [əkˈsept] v. 接受 
+> > > 
+> > > 3. acquire [əˈkwaɪə(r)] v. 取得，获得 
+> > > 
+> > > 4. adopt [əˈdɒpt] v. 采用，采纳；领养 
+> > > 
+> > > 5. adapt [ə'dæpt] v. 使适合，使适应；改编
+> > 
+> > 写作积累:
+> > > 1. methods of teaching 教学方法
+> > > 
+> > 学习重点:
+> > > 1. 词汇 adopt 的理解与掌握
+
+
+
+
+#### 28
+
+##### 数学(2011年1月份)
+
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-9~12.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-13.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-14~15.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> It’s a miracle that the naked animal should ____ such a harsh climate. 
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg3ODIy) 
+> 
+> 这一毫无保护的动物能在如此恶劣的气候下幸存，实在是个奇迹。
+> 
+> > A. **survive**
+> > 
+> > B. endure
+> > 
+> > C. live
+> > 
+> > D. exist
+> > 
+> > 必记词汇:
+> > > 1. miracle ['mɪrəkl] n. 奇迹 
+> > > 
+> > > 2. naked [ˈneɪkɪd] adj. 无装饰的；裸露的 
+> > > 
+> > > 3. harsh [hɑːʃ] adj. 严酷的；严厉的；刺耳的；粗糙的 
+> > > 
+> > > 4. climate [ˈklaɪmət] n. 气候 
+> > > 
+> > > 5. survive [səˈvaɪv] v. 幸存，幸免于 
+> > > 
+> > > 6. endure [ɪnˈdjʊə(r)] v. 忍受 
+> > > 
+> > > 7. live [lɪv; laɪv] v.活，活着 
+> > > 
+> > > 8. exist [ɪɡ'zɪst] v. 生存，存在
+> > 
+> > 写作积累:
+> > > 1. It’s a miracle that ... ...是个奇迹 
+> > > 
+> > > 2. harsh climate 恶劣的气候
+> > > 
+> > 学习重点:
+> > > 1. 词汇survive的理解与掌握
+
+
+
+
+#### 29
+
+##### 数学(2011年1月份)
+
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-9~12.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-13.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-14~15.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> It’s a miracle that the naked animal should ____ such a harsh climate. 
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg3ODIy) 
+> 
+> 这一毫无保护的动物能在如此恶劣的气候下幸存，实在是个奇迹。
+> 
+> > A. **survive**
+> > 
+> > B. endure
+> > 
+> > C. live
+> > 
+> > D. exist
+> > 
+> > 必记词汇:
+> > > 1. miracle ['mɪrəkl] n. 奇迹 
+> > > 
+> > > 2. naked [ˈneɪkɪd] adj. 无装饰的；裸露的 
+> > > 
+> > > 3. harsh [hɑːʃ] adj. 严酷的；严厉的；刺耳的；粗糙的 
+> > > 
+> > > 4. climate [ˈklaɪmət] n. 气候 
+> > > 
+> > > 5. survive [səˈvaɪv] v. 幸存，幸免于 
+> > > 
+> > > 6. endure [ɪnˈdjʊə(r)] v. 忍受 
+> > > 
+> > > 7. live [lɪv; laɪv] v.活，活着 
+> > > 
+> > > 8. exist [ɪɡ'zɪst] v. 生存，存在
+> > 
+> > 写作积累:
+> > > 1. It’s a miracle that ... ...是个奇迹 
+> > > 
+> > > 2. harsh climate 恶劣的气候
+> > > 
+> > 学习重点:
+> > > 1. 词汇survive的理解与掌握
+
+
+
+
+#### 30
+
+##### 数学(2011年1月份)
+
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01_16~17.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-18~21.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-22~23.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> Faster, cheaper, better—technology is one field many people rely upon to offer a vision of a brighter future. But as the 2020s dawn,optimism is in shortsupply. The new technologies that dominated the pastdecade seem to be making things worse. Social media were supposed to bring people together.
+> > 更快、更便宜、更好的技术是许多人所依赖的一个领域，以提供对更光明未来的展望。但在21世纪20年代即将来临之际，乐观情绪却少之又少。在过去十年中占主导地位的新技术似乎让事情变得更糟。社交媒体本应让人们走到一起。
+> 
+> Today they are better known for invadingprivacy, spreadingpropaganda and underminingdemocracy. E-commerce, ride-hailing and the gig economy may beconvenient, but they are charged with underpaying workers, exacerbatinginequality and clogging the streets with vehicles. Parents worry that smartphones have turned their children intoscreen-addicted zombies.
+> > 如今，他们更出名的是侵犯隐私、传播宣传和破坏民主。电子商务、网约车和零工经济可能很方便，同时也受到批评：工人工资过低、加剧了不平等、车辆堵塞街道。家长们担心智能手机已经把他们的孩子变成了沉迷于屏幕的低头族。
+> > 
+> The technologies expected todominate the new decade also seem tocast a darkshadow. Artificialintelligence (AI) may well entrenchbias andprejudice,threaten your job and shore upauthoritarian rulers. 5G is at the heart of the Sino-American trade war. Autonomous cars still do not work, but manage to kill people all the same. Polls show that internet firms are now less trusted than the banking industry. At the very moment banks arestriving to rebrand themselves as tech firms, internet giants have become the new banks, morphing from talent magnets to pariahs. Even their employees are inrevolt.
+> > 预计将主导下一个十年的技术似乎也蒙上阴影。人工智能(AI)很可能会加深偏见和歧视，威胁到你的工作，支持独裁统治者。5G是中美贸易战的核心。自动驾驶汽车仍然不能正常使用，但仍然可以杀人。民意调查显示，互联网公司现在比银行业更不受信任。就在各大银行努力将自己打造成科技公司的同时，互联网巨头却成为了新型银行，从吸引人才的“磁铁”变成了“社会弃儿”。甚至其员工也在反抗。
+> 
+> The New York Times sums up the encroaching gloom. “A mood ofpessimism”, it writes, hasdisplaced “the idea ofinevitable progress born in the scientific and industrial revolutions.” Except those words are from an article published in 1979. Back then the paper fretted that theanxiety was “fed by growing doubts about society’s ability to rein in the seemingly runaway forces of technology”.
+> > 《纽约时报》总结了这种蔓延的悲观情绪。报告中写道，“悲观情绪”已经取代了“科学革命和工业革命必然带来进步的观点”。除了这些词来自1979年发表的一篇文章。当时，《纽约时报》担心，这种焦虑“源于人们越来越怀疑社会是否有能力控制看似失控的科技力量”。
+> 
+> Today’sgloomy mood is centred on smartphones andsocial media, which took off a decade ago. Yet concerns thathumanity has taken a technological wrong turn, or thatparticular technologies might be doing more harm than good, have arisen before.
+> > 如今，悲观情绪主要集中在十年前迅速流行开来的智能手机和社交媒体上。然而，关于人类在技术上走错了方向，或者某些技术可能弊大于利的担忧，在此之前就已经出现了。
+> 
+> > **单词与短语:**
+> > > 1. optimism n. 乐观；乐观主义
+> > > 
+> > > 2. supply n. 供给，补给；供应品 vt. 供给，提供；补充 vi. 供给；替代
+> > > 
+> > > 3. decade n. 十年，十年期；十
+> > > 
+> > > 4. privacy n. 隐私；秘密；隐居；[古]隐居处
+> > > 
+> > > 5. propaganda n. 宣传；[宗]传道总会
+> > > 
+> > > 6. democracy n. 民主，民主主义；民主政治
+> > > 
+> > > 7. commerce n. 贸易，商业
+> > > 
+> > > 8. convenient adj. 方便的
+> > > 
+> > > 9. inequality n. 不平等；不同；不平均
+> > > 
+> > > 10. screen n. 屏，幕；屏风 vt. 筛；拍摄；放映；掩蔽 vi. 拍电影
+> > > 
+> > > 11. dominate
+> > > > 1. vt. 控制；支配；占优势；在…中占主要地位
+> > > > 
+> > > > 2. vi. 占优势；处于支配地位
+> > > 
+> > > 12. cast
+> > > > 1. vt. 投，抛；计算；浇铸；投射（光、影、视线等）
+> > > > 
+> > > > 2. n. 投掷，抛；铸件，铸型；演员阵容；脱落物
+> > > > 
+> > > > 3. vi. 投，抛垂钓鱼钩；计算，把几个数字加起来
+> > > > 
+> > >  13. shadow
+> > > > 1. n. 阴影；影子；幽灵；庇护；隐蔽处
+> > > > 
+> > > > 2. vt. 遮蔽；使朦胧；尾随；预示
+> > > > 
+> > > > 3. vi. 渐变；变阴暗
+> > > > 
+> > > > 4. adj. 影子内阁的
+> > > 
+> > > 14. intelligence
+> > > > 1. n. 智力；情报工作；情报机关；理解力
+> > > > 
+> > > 15. bias
+> > > > 1. n. 偏见；偏爱；斜纹；乖离率 
+> > > > 
+> > > > 2. vt. 使存偏见
+> > > > 
+> > > > 3. adj. 偏斜的
+> > > > 
+> > > > 4. adv. 偏斜地
+> > > 
+> > > 15. prejudice
+> > > > 1. n. 偏见；侵害
+> > > > 
+> > > > 2. vt. 损害；使有偏见
+> > > 
+> > > 16. threaten
+> > > > 1. vt. 威胁；恐吓；预示
+> > > > 
+> > > > 2. vi. 威胁；可能来临
+> > > 
+> > > 17. authoritarian
+> > > > 1. adj. 独裁主义的；权力主义的
+> > > > 
+> > > > 2. n. 权力主义者；独裁主义者
+> > > 
+> > > 18. striving
+> > > > 1. n. 努力；斗争
+> > > > 
+> > > > 2. v. 努力（strive的现在分词）；奋斗；力争
+> > > 
+> > > 19. revolt
+> > > > 1. vi. 反抗；反叛；反感，厌恶
+> > > > 
+> > > > 2. vt. 使反感；使恶心
+> > > > 
+> > > > 3. n. 反抗；叛乱；反感
+> > > 
+> > > 20. pessimism
+> > > > 1. n. 悲观，悲观情绪；厌世主义
+> > > 
+> > > 21. displaced
+> > > > 1. adj. 无家可归的；位移的；被取代的
+> > > > 
+> > > > 2. n. 无家可归者
+> > > > 
+> > > > 3. v. 取代（displace的过去分词）；移动…的位置；撤换
+> > > 
+> > > 22. inevitable
+> > > > 1. adj. 必然的，不可避免的
+> > > 
+> > > 23. anxiety
+> > > > 1. n. 焦虑；渴望；挂念；令人焦虑的事
+> > > 
+> > > 24. gloomy
+> > > > 1. adj. 黑暗的；沮丧的；阴郁的
+> > > 
+> > > 25. social
+> > > > 1. adj. 社会的，社交的；群居的
+> > > > 
+> > > > 2. n. 联谊会；联欢会
+> > > 
+> > > 26. humanity
+> > > > 1. n. 人类；人道；仁慈；人文学科
+> > > 
+> > > 27. particular
+> > > > 1. adj. 特别的；详细的；独有的；挑剔的
+> > > > 
+> > > > 2. n. 详细说明；个别项目
+
+
+
+#### 31
+
+##### 数学(2011年1月份&10月份)
+
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-24.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_01-25.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10_1~2.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-3.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-4~7.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> When he was questioned about the missing pen, he firmly _____ that he had ever seen it. 
+> 
+> 当他被问及丢失的钢笔，他坚决否认见过它。
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg4MTcy) 
+> 
+> > A.**denied**   
+> > 
+> > B.refused 
+> > 
+> > C.claimed  
+> > 
+> > D.stated
+> 
+> 必记词汇:
+> > 1. question [ˈkwestʃən] v. 质疑 
+> > 
+> > 2. missing ['mɪsɪŋ] adj. 丢失了的 
+> > 
+> > 3. firmly [ˈfɜːmli] adv. 坚定地 
+> > 
+> > 4. deny [dɪ'nai] v. 否认；拒绝给予 
+> > 
+> > 5. refuse [rɪˈfjuːz , ˈrefjuːs] v. 拒绝 
+> > 
+> > 6. claim [kleɪm] v. 宣称 
+> > 
+> > 7. state [steɪt] v. 陈述，
+> 
+> 写作积累:
+> > 1. missing pen 丢失的钢笔 
+> > 
+> > 2. firmly deny 坚决否认
+> 
+> 学习重点:
+> > 1. 词汇deny的理解与掌握
+
+
+#### 09-01
+
+##### 数学(2011年10月份)
+
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-9~12.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-13.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-14~15.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> At the age of 18, I began to _____ an account with the Bank of China. 
+> 
+> 十八岁时，我在中国银行开了一个账号。
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg4NTE5) 
+> 
+> > A. make  
+> > 
+> > B. enter
+> > 
+> > C. **open**  
+> > 
+> > D. register
+> 
+> 必记词汇:
+> > 1. account [ə'kaʊnt] n. 账户 
+> > 
+> > 2. make [meɪk] v. 制作，制造 
+> > 
+> > 3. enter [ˈentə(r)] v. 加入，进入 
+> > 
+> > 4. open [ˈəʊpən] v. 开始，开设 
+> > 
+> > 5. register [ˈredʒɪstə(r)] v. 登记，注册
+> 
+> 写作积累:
+> > 1. at the age of... 在...岁的时候 
+> > 
+> > 2. begin to do sth. 开始做某事 
+> > 
+> > 3. open an account 开设账户 
+> > 
+> > 4. Bank of China 中国银行
+> 
+> 学习重点:
+> > 1. 短语open an account的理解与掌握
+
+
+
+#### 09-02
+
+##### 数学(2011年10月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-16~18.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-19~23.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2011_10-24~25.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> In our highly technological society, the number of jobs for unskilled workers is _______ . 
+> 
+> 在我们这个技术高度发达的社会，对于身无技能的工人来讲，工作的数量正在减少。
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg4NjAx) 
+> 
+> > A. **shrinking**  
+> > 
+> > B. obscuring
+> > 
+> > C. altering  
+> > 
+> > D. constraining
+> 
+> 必记词汇:
+> > 1. highly  ['haɪli]  ad. 高度地，非常地
+> > 
+> > 2. technological  [ˌteknəˈlɒdʒɪkl] a. 技术的
+> > 
+> > 3. unskilled [,ʌn'skɪld] a. 身无技能的
+> > 
+> > 4. shrink [ʃrɪŋk] vi. 缩水，减少
+> > 
+> > 5. obscure [əb'skjʊr] v. （使）变模糊
+> > 
+> > 6. alter [ˈɔːltə(r)] v.（使）变化
+> > 
+> > 7. constrain [kən'stren] vt. 强迫，勉强
+> 
+> 写作积累:
+> > 1. in our highly technological society 在我们这个技术高度发达的社会
+> > 
+> > 2. unskilled workers 身无技能的工人
+> > 
+> > 3. The number of …is shrinking .…的数量正在减少
+> 
+> 学习重点:
+> > 1. 考查The number of …is shrinking中的主谓对应。
+
+
+
+
+#### 09-03
+
+##### 数学(2012年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2012_01-1~3.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2012_01-4~5.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2012_01-6.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2012_01-7~8.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> They are well ________ with each other since they once studied in the same university.
+> 
+> 他们彼此很熟悉，因为他们曾在同一所大学学习过。
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg4Nzc4) 
+> 
+> > A. identified  
+> > 
+> > B. recognized
+> > 
+> > C. acknowledged  
+> > 
+> > D. acquainted
+> 
+> 必记词汇:
+> > 1. acquaint  [əˈkweɪnt] vt. 使熟悉
+> > 
+> > 2. identify [aɪˈdentɪfaɪ] vt.  识别，认出；认同，视为同一
+> > 
+> > 3. recognize [ˈrekəɡnaɪz] vt. 认出，承认
+> > 
+> > 4. acknowledge [əkˈnɒlɪdʒ] vt. 承认
+> 
+> 写作积累:
+> > 1. be well acquainted with 对…很熟悉
+> > 
+> > 2. once studied in the same university 曾在同一所大学学习
+> 
+> 学习重点:
+> > 1. 短语be well acquainted with的理解与掌握。
+
+
+
+#### 09-04
+
+##### 数学(2012年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2012_01-8~11.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2012_01-12~13.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2012_01-14~15.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> Do you have any ______ about what living beings on other planets would be like?
+> 
+> 他们彼此很熟悉，因为他们曾在同一所大学学习过。
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg4ODEx) 
+> 
+> > A. ideal  
+> > 
+> > B. comprehension
+> > 
+> > C. **notion**  
+> > 
+> > D. intelligence
+> 
+> 必记词汇:
+> > 1. notion [ˈnəʊʃn] n. 概念，理解 
+> > 
+> > 2. living [ˈlɪvɪŋ] a. 活着的，有生命的 
+> > 
+> > 3. beings [ˈbiːɪŋs] n. 存在，生物 
+> > 
+> > 4. planet [ˈplænɪt] n. 行星，星球 
+> > 
+> > 5. ideal [aɪˈdiːəl] n. 理想 
+> > 
+> > 6. comprehension [ˌkɒmprɪˈhenʃn] n. 理解 
+> > 
+> > 7. intelligence [ɪnˈtelɪdʒəns] n. 智力，情报
+> 
+> 写作积累:
+> > 1. have some notion about 对…有一定了解 
+> > 
+> > 2. living beings 生命体，生物 
+> > 
+> > 3. be like 像…，什么样子
+> 
+> 学习重点:
+> > 1. 短语have some notion about 的理解与掌握。
+
+
+
+#### 09-05
+
+##### 数学(2012年1月份)
+
+![问题 ](/images/Graduate/practice/mathematics/practice/2012_01-16~18.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2012_01-19~22.jpg)
+![问题 ](/images/Graduate/practice/mathematics/practice/2012_01-23~25.jpg)
+
+##### 英语(真题每周三篇)
+
+###### 每日早练
+
+> The children cheered up when they saw hundreds of colorful balloons ________ slowly into the sky. 
+> 
+> 当看到数以百计五颜六色的气球缓缓升上天空时，孩子们欢呼了起来。
+> 
+> [语音讲解](https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTY4Nzc1N18yNjUzMzg4ODc1) 
+> 
+> > A. floating  
+> > 
+> > B. raising
+> > 
+> > C. heaving
+> > 
+> > D. **ascending**
+> 
+> 必记词汇:
+> > 1. cheer [tʃɪr] vi. 欢呼 
+> > 
+> > 2. colorful [ˈkʌləfl] a. 彩色的 
+> > 
+> > 3. balloon [bəˈluːn] n. 气球 
+> > 
+> > 4. ascend [əˈsend] vi. 上升 
+> > 
+> > 5. float [fləʊt] vi. 飘浮，漂浮 
+> > 
+> > 6. raise [reɪz] vt. 升起，举起 
+> > 
+> > 7. heave [hiːv] vt. 举起（重物）
+> 
+> 写作积累:
+> > 1. cheer up 欢呼起来 
+> > 
+> > 2. colorful balloons 彩色的气球 
+> > 
+> > 3. ascend slowly into the sky 缓缓升入空中
+> 
+> 学习重点:
+> > 1. 短语ascend slowly into the sky的理解与掌握。
