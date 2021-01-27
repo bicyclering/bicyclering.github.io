@@ -43,6 +43,8 @@ tags: office
 ![](/images/office/excel/动态数据分析报表/3png)
 ![](/images/office/excel/动态数据分析报表/4.png)
 
+## 单元格数字格式
+
 
 
 
