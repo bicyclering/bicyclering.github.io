@@ -40,10 +40,15 @@ tags: office
 
 ![](/images/office/excel/动态数据分析报表/1.png)
 ![](/images/office/excel/动态数据分析报表/2.png)
-![](/images/office/excel/动态数据分析报表/3png)
+![](/images/office/excel/动态数据分析报表/3.png)
 ![](/images/office/excel/动态数据分析报表/4.png)
 
 ## 单元格数字格式
+
+### 善用分列功能转数据格式
+
+![](/images/office/excel/单元格数字格式/1.png)
+
 
 
 
