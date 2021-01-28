@@ -48,7 +48,24 @@ tags: office
 ### 善用分列功能转数据格式
 
 ![](/images/office/excel/单元格数字格式/1.png)
+![](/images/office/excel/单元格数字格式/2.png)
 
+
+## 排序工具
+
+### 按颜色排序
+
+![](/images/office/excel/排序工具/按颜色排序/1.png)
+
+### 自定义次序
+
+![](/images/office/excel/排序工具/自定义次序/1.png)
+![](/images/office/excel/排序工具/自定义次序/2.png)
+![](/images/office/excel/排序工具/自定义次序/3.png)
+
+### 改变行顺序
+
+![](/images/office/excel/排序工具/改变行顺序/1.png)
 
 
 
