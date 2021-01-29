@@ -68,7 +68,30 @@ tags: office
 ![](/images/office/excel/排序工具/改变行顺序/1.png)
 
 
+## 筛选与高级筛选
 
+### 筛选C字母开头的工单号
+
+![](/images/office/excel/筛选与高级筛选/筛选C字母开头的工单号/1.png)
+
+
+### 筛选C*字母开头的工单号
+
+![](/images/office/excel/筛选与高级筛选/筛选C*字母开头的工单号/1.png)
+
+### 高级筛选
+
+#### 表达"或"的关系
+
+![](/images/office/excel/筛选与高级筛选/高级筛选/表达"或"的关系/1.png)
+
+#### 多种条件
+
+![](/images/office/excel/筛选与高级筛选/高级筛选/多种条件/1.png)
+
+#### 透视表把金额最大的3个月筛选出来
+
+![](/images/office/excel/筛选与高级筛选/高级筛选/透视表把金额最大的3个月筛选出来/1.png)
 
 
 
