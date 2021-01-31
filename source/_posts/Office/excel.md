@@ -94,4 +94,31 @@ tags: office
 ![](/images/office/excel/筛选与高级筛选/高级筛选/透视表把金额最大的3个月筛选出来/1.png)
 
 
+## 使用分类汇总
+
+![](/images/office/excel/使用分类汇总/1.png)
+![](/images/office/excel/使用分类汇总/2.png)
+![](/images/office/excel/使用分类汇总/3.png)
+
+### 分地区与产品分类统计金额
+
+![](/images/office/excel/使用分类汇总/分地区与产品分类统计金额/1.png)
+![](/images/office/excel/使用分类汇总/分地区与产品分类统计金额/2.png)
+![](/images/office/excel/使用分类汇总/分地区与产品分类统计金额/3.png)
+![](/images/office/excel/使用分类汇总/分地区与产品分类统计金额/4.png)
+
+### 定位条件
+
+![](/images/office/excel/使用分类汇总/定位条件/1.png)
+
+
+### 创建组
+
+![](/images/office/excel/使用分类汇总/创建组/1.png)
+
+
+
+
+
+
 
