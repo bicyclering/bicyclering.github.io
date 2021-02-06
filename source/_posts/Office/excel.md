@@ -116,7 +116,60 @@ tags: office
 
 ![](/images/office/excel/使用分类汇总/创建组/1.png)
 
+## 公式与基础函数
 
+![](/images/office/excel/公式与基础函数/1.png)
+![](/images/office/excel/公式与基础函数/2.png)
+![](/images/office/excel/公式与基础函数/3.png)
+![](/images/office/excel/公式与基础函数/4.png)
+![](/images/office/excel/公式与基础函数/5.png)
+![](/images/office/excel/公式与基础函数/6.png)
+![](/images/office/excel/公式与基础函数/7.png)
+![](/images/office/excel/公式与基础函数/8.png)
+
+##  使用VLOOKUP函数
+
+![](/images/office/excel/使用VLOOKUP函数/1.png)
+
+### 近似匹配
+
+![](/images/office/excel/使用VLOOKUP函数/近似匹配/1.png)
+
+### 常规转文本
+
+![](/images/office/excel/使用VLOOKUP函数/常规转文本/1.png)
+
+### 文本转常规
+
+![](/images/office/excel/使用VLOOKUP函数/文本转常规/1.png)
+
+
+
+
+## MATCH与INDEX函数
+
+![](/images/office/excel/MATCH与INDEX函数/1.png)
+![](/images/office/excel/MATCH与INDEX函数/2.png)
+![](/images/office/excel/MATCH与INDEX函数/3.png)
+![](/images/office/excel/MATCH与INDEX函数/4.png)
+![](/images/office/excel/MATCH与INDEX函数/5.png)
+
+
+### 右键下拉不带格式填充
+
+![](/images/office/excel/MATCH与INDEX函数/右键下拉不带格式填充/1.png)
+
+### 添加开发工具
+
+![](/images/office/excel/MATCH与INDEX函数/添加开发工具/1.png)
+![](/images/office/excel/MATCH与INDEX函数/添加开发工具/2.png)
+
+### 职工动态报告书
+
+![](/images/office/excel/MATCH与INDEX函数/职工动态报告书/1.png)
+![](/images/office/excel/MATCH与INDEX函数/职工动态报告书/2.png)
+![](/images/office/excel/MATCH与INDEX函数/职工动态报告书/3.png)
+![](/images/office/excel/MATCH与INDEX函数/职工动态报告书/4.png)
 
 
 
