@@ -172,6 +172,27 @@ tags: office
 ![](/images/office/excel/MATCH与INDEX函数/职工动态报告书/4.png)
 
 
+## 使用函数进行统计
 
+![](/images/office/excel/使用函数进行统计/1.png)
+![](/images/office/excel/使用函数进行统计/2.png)
 
+### SUMIF的变态能力
+
+![](/images/office/excel/使用函数进行统计/SUMIF的变态能力/1.png)
+![](/images/office/excel/使用函数进行统计/SUMIF的变态能力/2.png)
+
+### SUMIFS
+
+![](/images/office/excel/使用函数进行统计/SUMIFS/1.png)
+
+### COUNTIFS
+
+![](/images/office/excel/使用函数进行统计/COUNTIFS/1.png)
+
+### 多条件的VLOOKUP
+
+![](/images/office/excel/使用函数进行统计/多条件的VLOOKUP/1.png)
+![](/images/office/excel/使用函数进行统计/多条件的VLOOKUP/2.png)
+![](/images/office/excel/使用函数进行统计/多条件的VLOOKUP/3.png)
 
