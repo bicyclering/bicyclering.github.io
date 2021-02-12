@@ -196,3 +196,83 @@ tags: office
 ![](/images/office/excel/使用函数进行统计/多条件的VLOOKUP/2.png)
 ![](/images/office/excel/使用函数进行统计/多条件的VLOOKUP/3.png)
 
+## 使用日期函数
+
+### 推算日期
+
+![](/images/office/excel/使用日期函数/推算日期/1.png)
+
+
+### 计算日期间隔
+
+![](/images/office/excel/使用日期函数/计算日期间隔/1.png)
+
+
+### 标记快到期的日期
+
+![](/images/office/excel/使用日期函数/标记快到期的日期/1.png)
+![](/images/office/excel/使用日期函数/标记快到期的日期/2.png)
+![](/images/office/excel/使用日期函数/标记快到期的日期/3.png)
+
+
+## 使用表格
+
+![](/images/office/excel/使用表格/1.png)
+![](/images/office/excel/使用表格/2.png)
+![](/images/office/excel/使用表格/3.png)
+![](/images/office/excel/使用表格/4.png)
+
+
+## 文档安全性设置
+
+### 数据验证
+
+![](/images/office/excel/文档安全性设置/1.png)
+
+#### 填写付费方式
+
+![](/images/office/excel/文档安全性设置/数据验证/填写付费方式/1.png)
+![](/images/office/excel/文档安全性设置/数据验证/填写付费方式/2.png)
+
+#### 设置输入法
+
+![](/images/office/excel/文档安全性设置/数据验证/设置输入法/1.png)
+![](/images/office/excel/文档安全性设置/数据验证/设置输入法/2.png)
+
+
+### 工作表保护
+
+![](/images/office/excel/文档安全性设置/工作表保护/1.png)
+![](/images/office/excel/文档安全性设置/工作表保护/2.png)
+![](/images/office/excel/文档安全性设置/工作表保护/3.png)
+![](/images/office/excel/文档安全性设置/工作表保护/4.png)
+![](/images/office/excel/文档安全性设置/工作表保护/5.png)
+
+
+## 邮件合并工具
+
+### 把所有人的信息全部打印出来
+
+![](/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/1.png)
+![](/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/2.png)
+![](/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/3.png)
+![](/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/4.png)
+![](/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/5.png)
+![](/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/6.png)
+![](/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/7.png)
+![](/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/8.png)
+![](/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/9.png)
+![](/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/10.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
