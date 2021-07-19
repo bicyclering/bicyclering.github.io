@@ -18,7 +18,7 @@ categories: marketing
 
 ## 广告引流
 
-### [生意通](https://adres.suning.com/college/video-articles.html?columnId=10&id=654&searchColumn=2)
+### [生意通](https://adres.suning.com/college/video-articles.html?id=737&parentId=16&columnId=17&searchColumn=3)
 
 ![](/images/marketing/advertising/weblink/1.png)
 
