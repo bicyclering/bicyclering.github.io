@@ -30,28 +30,72 @@ categories: PHP
 > > > `composer -vvv require alibabacloud/sdk`
 
 
+### PHPUnit Cannot open file "XXXTest"
+
+![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/3.jpg)
+
+> PHPUnit 9 isn't supported in PhpStorm **2018.3.3. or 2019.3.3.** Please use PHPUnit 8.*, use EAP build  2020.1 release .
+> > **edit composer.json**
+> > > initial 
+> > > > `"require-dev": {"phpunit/phpunit": "9.5.8"}`
+> > > 
+> > > finally
+> > > > `"require-dev": {"phpunit/phpunit": "8.*"}`
+
+
 ## webserver xdebug
 
 ### [PhpStrom](https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686201&gclid=EAIaIQobChMIwcaj0--_8gIVqwaICR0fLQPwEAAYASAAEgKCOPD_BwE)
 
+### install xdebug
+
+#### matching debug-version
+
+> 1. [Installation Wizard](https://xdebug.org/wizard)
+> 
+> 2. copy phpinfo() information
+> 
+> 3. Download xdebug-x.x.x.tgz
+> 
+> 4. Install the pre-requisites for compiling PHP extensions.On your Mac, we only support installations with 'homebrew', and `brew install php && brew install autoconf` should pull in the right packages.
+> 
+> 5. Unpack the downloaded file with `tar -xvzf xdebug-x.x.x.tgz`
+> 
+> 6. Run: cd xdebug-x.x.x
+> 
+> 7. Run: `phpize` (See the [FAQ](https://xdebug.org/docs/faq#phpize) if you don't have `phpize`).
+> > As part of its output it should show:
+> > > 
+		Configuring for:
+		...
+		Zend Module Api No:      20200930
+		Zend Extension Api No:   420200930
+		
+> 8. If it does not, you are using the wrong phpize. Please follow [this FAQ entry](https://xdebug.org/docs/faq#custom-phpize) and skip the next step.
+> > check **xdebug-x.x.x** path
+> > > for example: cd /xxxxx/xxxxx/Documents/xdebug-x.x.x/xdebug-x.x.x
+> 
+> 9. Run: `./configure`
+> 
+> 10. Run: `make`
+> 
+> 11. Run `cp modules/xdebug.so /Applications/XAMPP/xamppfiles/lib/php/extensions/no-debug-non-zts-20200930`
+> 
+> 12. Update `/Applications/XAMPP/xamppfiles/etc/php.ini` and add the line:`zend_extension = xdebug `
+> 
+> 13. Restart the Apache Webserver
 
 #### conig webserver xdebug
 
 > **配置php.ini**	
-> > 		[PHPUnit]
-		memory_limit=-1
-		error_reporting=-1
-		log_errors_max_len=0
-		zend.assertions=1
-		assert.exception=1
-		xdebug.show_exception_trace=0
+> > 		[xdebug]
+	zend_extension = xdebug
+	xdebug.idekey=PHPSTROM
 
 
 ### [XAMPP](https://www.apachefriends.org/index.html)
 
 
-
-## 
 
 
 ## [Composer](https://getcomposer.org/)
@@ -63,7 +107,7 @@ categories: PHP
 
 
 
-### install composer
+### [install composer](https://github.com/composer/composer/issues/8679)
  
 > **Global install composer**
 > > `sudo mv composer.phar /usr/local/bin/composer`
@@ -102,29 +146,25 @@ categories: PHP
 		    }
 	}
 > > > 
->  
-> 
-> 
-> 
 
 
 
 
 ## [PHPUnit](https://phpunit.readthedocs.io/en/9.5/)
 
+### config php.ini
 
-> **安装PHPUnit**
-> > `composer install`
-> > >
-> > > ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/1.png)
-> > > 
-> > > ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/2.png)
+	memory_limit=-1
+	error_reporting=-1
+	log_errors_max_len=0
+	zend.assertions=1
+	assert.exception=1
+	xdebug.show_exception_trace=0
 
+### install PHPUnit
 
-
-
-
-
-
-
-
+> `composer install`
+> >
+> > ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/1.png)
+> > 
+> > ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/2.png)
