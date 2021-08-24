@@ -43,6 +43,10 @@ categories: PHP
 > > > > `"require-dev": {"phpunit/phpunit": "8.*"}`
 
 
+### homebrew install fail
+
+> `source /Users/willson/.zprofile`
+
 ## webserver xdebug
 
 ### [PhpStrom](https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686201&gclid=EAIaIQobChMIwcaj0--_8gIVqwaICR0fLQPwEAAYASAAEgKCOPD_BwE)
@@ -90,8 +94,21 @@ categories: PHP
 > **配置php.ini**	
 > > 		[xdebug]
 	zend_extension = xdebug
-	xdebug.idekey=PHPSTROM
+	xdebug.idekey  = PHPSTROM
 
+#### install steps
+
+> ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/1.png)
+> 
+> ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/2.png)
+> 
+> ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/3.png)
+> 
+> ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/4.png)
+> 
+> ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/5.png)
+> 
+> ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/6.png)
 
 ### [XAMPP](https://www.apachefriends.org/index.html)
 
