@@ -185,3 +185,5 @@ categories: PHP
 > > ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/1.png)
 > > 
 > > ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/2.png)
+> > 
+> > ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/4.png)
