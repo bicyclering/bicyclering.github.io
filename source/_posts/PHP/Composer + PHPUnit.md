@@ -47,6 +47,24 @@ categories: PHP
 
 > `source /Users/willson/.zprofile`
 
+
+### [Xdebug: [Config] The setting 'xdebug.remote_enable' has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_enable (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)](https://xdebug.org/docs/errors#CFG-C-CHANGED)
+
+#### config php.ini
+
+	xdebug.client_host = 127.0.0.1	xdebug.client_port = 9000	xdebug.mode = debug`
+
+
+### config GD
+
+#### windows
+
+> [https://forums.modx.com/thread/49552/fatal-error-call-to-undefined-function-imagecreatefromjpeg-on-local-windows](https://forums.modx.com/thread/49552/fatal-error-call-to-undefined-function-imagecreatefromjpeg-on-local-windows)
+> 
+> [https://sourceforge.net/projects/gnuwin32/](https://sourceforge.net/projects/gnuwin32/)
+
+
+
 ## webserver xdebug
 
 ### [PhpStrom](https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686201&gclid=EAIaIQobChMIwcaj0--_8gIVqwaICR0fLQPwEAAYASAAEgKCOPD_BwE)
