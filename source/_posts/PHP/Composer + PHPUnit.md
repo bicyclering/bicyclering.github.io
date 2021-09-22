@@ -64,6 +64,17 @@ categories: PHP
 > [https://sourceforge.net/projects/gnuwin32/](https://sourceforge.net/projects/gnuwin32/)
 
 
+### Root composer.json requires php ~8.0.8 but your php version (7.3.11) does not satisfy that requirement.
+
+> 1. composer install --ignore-platform-reqs
+> 
+> 2. `"require": {
+		    "php": "^7.3|^8.0",
+		    .....
+		},`
+
+
+
 
 ## webserver xdebug
 
