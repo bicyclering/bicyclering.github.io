@@ -68,10 +68,9 @@ categories: PHP
 
 > 1. composer install --ignore-platform-reqs
 > 
-> 2. `"require": {
-		    "php": "^7.3|^8.0",
-		    .....
-		},`
+> 2. `"require": {"php": "^7.3|^8.0",.....},`
+> 
+> 3. ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/2.png)
 
 
 
