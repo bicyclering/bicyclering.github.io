@@ -66,11 +66,9 @@ categories: PHP
 
 ### Root composer.json requires php ~8.0.8 but your php version (7.3.11) does not satisfy that requirement.
 
-> 1. composer install --ignore-platform-reqs
+> 1. composer install --ignore-platform-reqs or `"require": {"php": "^7.3|^8.0",.....},`
 > 
-> 2. `"require": {"php": "^7.3|^8.0",.....},`
-> 
-> 3. ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/2.png)
+> 2. ![](/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/2.png)
 
 
 
@@ -192,7 +190,9 @@ categories: PHP
 	}
 > > > 
 
+### [search 第三方类库](https://getcomposer.org/doc/03-cli.md#search)
 
+> php composer.phar search ***
 
 
 ## [PHPUnit](https://phpunit.readthedocs.io/en/9.5/)
