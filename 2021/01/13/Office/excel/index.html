@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="office," />
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="excel数据透视表 使用条件格式 标记重复值 锁定H1 各月份涨跌情况 动态数据分析报表 单元格数字格式善用分列功能转数据格式 排序工具按颜色排序 自定义次序 改变行顺序 筛选与高级筛选筛选C字母开头的工单号 筛选C*字母开头的工单号 高级筛选表达”或”的关系 多种条件 透视表把金额最大的3个月筛选出来 使用分类汇总 分地区与产品分类统计金额 定位条件 创建组 公式与基础函数 使用VLOOKUP">
+<meta name="keywords" content="office">
+<meta property="og:type" content="article">
+<meta property="og:title" content="excel">
+<meta property="og:url" content="http://yoursite.com/2021/01/13/Office/excel/index.html">
+<meta property="og:site_name" content="Bicyclering">
+<meta property="og:description" content="excel数据透视表 使用条件格式 标记重复值 锁定H1 各月份涨跌情况 动态数据分析报表 单元格数字格式善用分列功能转数据格式 排序工具按颜色排序 自定义次序 改变行顺序 筛选与高级筛选筛选C字母开头的工单号 筛选C*字母开头的工单号 高级筛选表达”或”的关系 多种条件 透视表把金额最大的3个月筛选出来 使用分类汇总 分地区与产品分类统计金额 定位条件 创建组 公式与基础函数 使用VLOOKUP">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/数据透视表/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/数据透视表/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/数据透视表/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/数据透视表/4.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/数据透视表/5.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/条件格式/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/条件格式/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/条件格式/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/条件格式/4.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/条件格式/5.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/条件格式/各月份涨跌情况/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/条件格式/各月份涨跌情况/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/条件格式/各月份涨跌情况/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/条件格式/各月份涨跌情况/4.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/动态数据分析报表/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/动态数据分析报表/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/动态数据分析报表/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/动态数据分析报表/4.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/单元格数字格式/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/单元格数字格式/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/排序工具/按颜色排序/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/排序工具/自定义次序/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/排序工具/自定义次序/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/排序工具/自定义次序/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/排序工具/改变行顺序/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/筛选与高级筛选/筛选C字母开头的工单号/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/筛选与高级筛选/筛选C*字母开头的工单号/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/筛选与高级筛选/高级筛选/表达%22或%22的关系/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/筛选与高级筛选/高级筛选/多种条件/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/筛选与高级筛选/高级筛选/透视表把金额最大的3个月筛选出来/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用分类汇总/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用分类汇总/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用分类汇总/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用分类汇总/分地区与产品分类统计金额/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用分类汇总/分地区与产品分类统计金额/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用分类汇总/分地区与产品分类统计金额/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用分类汇总/分地区与产品分类统计金额/4.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用分类汇总/定位条件/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用分类汇总/创建组/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/公式与基础函数/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/公式与基础函数/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/公式与基础函数/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/公式与基础函数/4.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/公式与基础函数/5.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/公式与基础函数/6.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/公式与基础函数/7.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/公式与基础函数/8.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用VLOOKUP函数/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用VLOOKUP函数/近似匹配/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用VLOOKUP函数/常规转文本/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用VLOOKUP函数/文本转常规/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/4.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/5.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/右键下拉不带格式填充/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/添加开发工具/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/添加开发工具/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/职工动态报告书/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/职工动态报告书/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/职工动态报告书/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/MATCH与INDEX函数/职工动态报告书/4.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用函数进行统计/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用函数进行统计/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用函数进行统计/SUMIF的变态能力/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用函数进行统计/SUMIF的变态能力/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用函数进行统计/SUMIFS/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用函数进行统计/COUNTIFS/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用函数进行统计/多条件的VLOOKUP/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用函数进行统计/多条件的VLOOKUP/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用函数进行统计/多条件的VLOOKUP/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用日期函数/推算日期/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用日期函数/计算日期间隔/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用日期函数/标记快到期的日期/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用日期函数/标记快到期的日期/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用日期函数/标记快到期的日期/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用表格/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用表格/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用表格/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/使用表格/4.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/文档安全性设置/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/文档安全性设置/数据验证/填写付费方式/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/文档安全性设置/数据验证/填写付费方式/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/文档安全性设置/数据验证/设置输入法/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/文档安全性设置/数据验证/设置输入法/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/文档安全性设置/工作表保护/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/文档安全性设置/工作表保护/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/文档安全性设置/工作表保护/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/文档安全性设置/工作表保护/4.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/文档安全性设置/工作表保护/5.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/1.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/2.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/3.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/4.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/5.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/6.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/7.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/8.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/9.png">
+<meta property="og:image" content="http://yoursite.com/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/10.png">
+<meta property="og:updated_time" content="2021-08-20T13:18:42.097Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="excel">
+<meta name="twitter:description" content="excel数据透视表 使用条件格式 标记重复值 锁定H1 各月份涨跌情况 动态数据分析报表 单元格数字格式善用分列功能转数据格式 排序工具按颜色排序 自定义次序 改变行顺序 筛选与高级筛选筛选C字母开头的工单号 筛选C*字母开头的工单号 高级筛选表达”或”的关系 多种条件 透视表把金额最大的3个月筛选出来 使用分类汇总 分地区与产品分类统计金额 定位条件 创建组 公式与基础函数 使用VLOOKUP">
+<meta name="twitter:image" content="http://yoursite.com/images/office/excel/数据透视表/1.png">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2021/01/13/Office/excel/"/>
+
+
+
+
+
+  <title>excel | Bicyclering</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Bicyclering</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">要么读书,要么旅行,身体和灵魂总有一个在路上</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-commonweal">
+          <a href="/404/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br />
+            
+            公益404
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2021/01/13/Office/excel/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="覆雪古树">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/bicyclering.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Bicyclering">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">excel</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2021-01-13T22:22:25+08:00">
+                2021-01-13
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2021/01/13/Office/excel/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count gitment-comments-count" data-xid="/2021/01/13/Office/excel/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h1 id="excel"><a href="#excel" class="headerlink" title="excel"></a>excel</h1><h2 id="数据透视表"><a href="#数据透视表" class="headerlink" title="数据透视表"></a>数据透视表</h2><p><img src="/images/office/excel/数据透视表/1.png" alt=""><br><img src="/images/office/excel/数据透视表/2.png" alt=""><br><img src="/images/office/excel/数据透视表/3.png" alt=""><br><img src="/images/office/excel/数据透视表/4.png" alt=""><br><img src="/images/office/excel/数据透视表/5.png" alt=""></p>
+<h2 id="使用条件格式"><a href="#使用条件格式" class="headerlink" title="使用条件格式"></a>使用条件格式</h2><p><img src="/images/office/excel/条件格式/1.png" alt=""><br><img src="/images/office/excel/条件格式/2.png" alt=""></p>
+<h3 id="标记重复值"><a href="#标记重复值" class="headerlink" title="标记重复值"></a>标记重复值</h3><p><img src="/images/office/excel/条件格式/3.png" alt=""></p>
+<h3 id="锁定H1"><a href="#锁定H1" class="headerlink" title="锁定H1"></a>锁定H1</h3><p><img src="/images/office/excel/条件格式/4.png" alt=""><br><img src="/images/office/excel/条件格式/5.png" alt=""></p>
+<h3 id="各月份涨跌情况"><a href="#各月份涨跌情况" class="headerlink" title="各月份涨跌情况"></a>各月份涨跌情况</h3><p><img src="/images/office/excel/条件格式/各月份涨跌情况/1.png" alt=""><br><img src="/images/office/excel/条件格式/各月份涨跌情况/2.png" alt=""><br><img src="/images/office/excel/条件格式/各月份涨跌情况/3.png" alt=""><br><img src="/images/office/excel/条件格式/各月份涨跌情况/4.png" alt=""></p>
+<h2 id="动态数据分析报表"><a href="#动态数据分析报表" class="headerlink" title="动态数据分析报表"></a>动态数据分析报表</h2><p><img src="/images/office/excel/动态数据分析报表/1.png" alt=""><br><img src="/images/office/excel/动态数据分析报表/2.png" alt=""><br><img src="/images/office/excel/动态数据分析报表/3.png" alt=""><br><img src="/images/office/excel/动态数据分析报表/4.png" alt=""></p>
+<h2 id="单元格数字格式"><a href="#单元格数字格式" class="headerlink" title="单元格数字格式"></a>单元格数字格式</h2><h3 id="善用分列功能转数据格式"><a href="#善用分列功能转数据格式" class="headerlink" title="善用分列功能转数据格式"></a>善用分列功能转数据格式</h3><p><img src="/images/office/excel/单元格数字格式/1.png" alt=""><br><img src="/images/office/excel/单元格数字格式/2.png" alt=""></p>
+<h2 id="排序工具"><a href="#排序工具" class="headerlink" title="排序工具"></a>排序工具</h2><h3 id="按颜色排序"><a href="#按颜色排序" class="headerlink" title="按颜色排序"></a>按颜色排序</h3><p><img src="/images/office/excel/排序工具/按颜色排序/1.png" alt=""></p>
+<h3 id="自定义次序"><a href="#自定义次序" class="headerlink" title="自定义次序"></a>自定义次序</h3><p><img src="/images/office/excel/排序工具/自定义次序/1.png" alt=""><br><img src="/images/office/excel/排序工具/自定义次序/2.png" alt=""><br><img src="/images/office/excel/排序工具/自定义次序/3.png" alt=""></p>
+<h3 id="改变行顺序"><a href="#改变行顺序" class="headerlink" title="改变行顺序"></a>改变行顺序</h3><p><img src="/images/office/excel/排序工具/改变行顺序/1.png" alt=""></p>
+<h2 id="筛选与高级筛选"><a href="#筛选与高级筛选" class="headerlink" title="筛选与高级筛选"></a>筛选与高级筛选</h2><h3 id="筛选C字母开头的工单号"><a href="#筛选C字母开头的工单号" class="headerlink" title="筛选C字母开头的工单号"></a>筛选C字母开头的工单号</h3><p><img src="/images/office/excel/筛选与高级筛选/筛选C字母开头的工单号/1.png" alt=""></p>
+<h3 id="筛选C-字母开头的工单号"><a href="#筛选C-字母开头的工单号" class="headerlink" title="筛选C*字母开头的工单号"></a>筛选C*字母开头的工单号</h3><p><img src="/images/office/excel/筛选与高级筛选/筛选C*字母开头的工单号/1.png" alt=""></p>
+<h3 id="高级筛选"><a href="#高级筛选" class="headerlink" title="高级筛选"></a>高级筛选</h3><h4 id="表达”或”的关系"><a href="#表达”或”的关系" class="headerlink" title="表达”或”的关系"></a>表达”或”的关系</h4><p><img src="/images/office/excel/筛选与高级筛选/高级筛选/表达&quot;或&quot;的关系/1.png" alt=""></p>
+<h4 id="多种条件"><a href="#多种条件" class="headerlink" title="多种条件"></a>多种条件</h4><p><img src="/images/office/excel/筛选与高级筛选/高级筛选/多种条件/1.png" alt=""></p>
+<h4 id="透视表把金额最大的3个月筛选出来"><a href="#透视表把金额最大的3个月筛选出来" class="headerlink" title="透视表把金额最大的3个月筛选出来"></a>透视表把金额最大的3个月筛选出来</h4><p><img src="/images/office/excel/筛选与高级筛选/高级筛选/透视表把金额最大的3个月筛选出来/1.png" alt=""></p>
+<h2 id="使用分类汇总"><a href="#使用分类汇总" class="headerlink" title="使用分类汇总"></a>使用分类汇总</h2><p><img src="/images/office/excel/使用分类汇总/1.png" alt=""><br><img src="/images/office/excel/使用分类汇总/2.png" alt=""><br><img src="/images/office/excel/使用分类汇总/3.png" alt=""></p>
+<h3 id="分地区与产品分类统计金额"><a href="#分地区与产品分类统计金额" class="headerlink" title="分地区与产品分类统计金额"></a>分地区与产品分类统计金额</h3><p><img src="/images/office/excel/使用分类汇总/分地区与产品分类统计金额/1.png" alt=""><br><img src="/images/office/excel/使用分类汇总/分地区与产品分类统计金额/2.png" alt=""><br><img src="/images/office/excel/使用分类汇总/分地区与产品分类统计金额/3.png" alt=""><br><img src="/images/office/excel/使用分类汇总/分地区与产品分类统计金额/4.png" alt=""></p>
+<h3 id="定位条件"><a href="#定位条件" class="headerlink" title="定位条件"></a>定位条件</h3><p><img src="/images/office/excel/使用分类汇总/定位条件/1.png" alt=""></p>
+<h3 id="创建组"><a href="#创建组" class="headerlink" title="创建组"></a>创建组</h3><p><img src="/images/office/excel/使用分类汇总/创建组/1.png" alt=""></p>
+<h2 id="公式与基础函数"><a href="#公式与基础函数" class="headerlink" title="公式与基础函数"></a>公式与基础函数</h2><p><img src="/images/office/excel/公式与基础函数/1.png" alt=""><br><img src="/images/office/excel/公式与基础函数/2.png" alt=""><br><img src="/images/office/excel/公式与基础函数/3.png" alt=""><br><img src="/images/office/excel/公式与基础函数/4.png" alt=""><br><img src="/images/office/excel/公式与基础函数/5.png" alt=""><br><img src="/images/office/excel/公式与基础函数/6.png" alt=""><br><img src="/images/office/excel/公式与基础函数/7.png" alt=""><br><img src="/images/office/excel/公式与基础函数/8.png" alt=""></p>
+<h2 id="使用VLOOKUP函数"><a href="#使用VLOOKUP函数" class="headerlink" title="使用VLOOKUP函数"></a>使用VLOOKUP函数</h2><p><img src="/images/office/excel/使用VLOOKUP函数/1.png" alt=""></p>
+<h3 id="近似匹配"><a href="#近似匹配" class="headerlink" title="近似匹配"></a>近似匹配</h3><p><img src="/images/office/excel/使用VLOOKUP函数/近似匹配/1.png" alt=""></p>
+<h3 id="常规转文本"><a href="#常规转文本" class="headerlink" title="常规转文本"></a>常规转文本</h3><p><img src="/images/office/excel/使用VLOOKUP函数/常规转文本/1.png" alt=""></p>
+<h3 id="文本转常规"><a href="#文本转常规" class="headerlink" title="文本转常规"></a>文本转常规</h3><p><img src="/images/office/excel/使用VLOOKUP函数/文本转常规/1.png" alt=""></p>
+<h2 id="MATCH与INDEX函数"><a href="#MATCH与INDEX函数" class="headerlink" title="MATCH与INDEX函数"></a>MATCH与INDEX函数</h2><p><img src="/images/office/excel/MATCH与INDEX函数/1.png" alt=""><br><img src="/images/office/excel/MATCH与INDEX函数/2.png" alt=""><br><img src="/images/office/excel/MATCH与INDEX函数/3.png" alt=""><br><img src="/images/office/excel/MATCH与INDEX函数/4.png" alt=""><br><img src="/images/office/excel/MATCH与INDEX函数/5.png" alt=""></p>
+<h3 id="右键下拉不带格式填充"><a href="#右键下拉不带格式填充" class="headerlink" title="右键下拉不带格式填充"></a>右键下拉不带格式填充</h3><p><img src="/images/office/excel/MATCH与INDEX函数/右键下拉不带格式填充/1.png" alt=""></p>
+<h3 id="添加开发工具"><a href="#添加开发工具" class="headerlink" title="添加开发工具"></a>添加开发工具</h3><p><img src="/images/office/excel/MATCH与INDEX函数/添加开发工具/1.png" alt=""><br><img src="/images/office/excel/MATCH与INDEX函数/添加开发工具/2.png" alt=""></p>
+<h3 id="职工动态报告书"><a href="#职工动态报告书" class="headerlink" title="职工动态报告书"></a>职工动态报告书</h3><p><img src="/images/office/excel/MATCH与INDEX函数/职工动态报告书/1.png" alt=""><br><img src="/images/office/excel/MATCH与INDEX函数/职工动态报告书/2.png" alt=""><br><img src="/images/office/excel/MATCH与INDEX函数/职工动态报告书/3.png" alt=""><br><img src="/images/office/excel/MATCH与INDEX函数/职工动态报告书/4.png" alt=""></p>
+<h2 id="使用函数进行统计"><a href="#使用函数进行统计" class="headerlink" title="使用函数进行统计"></a>使用函数进行统计</h2><p><img src="/images/office/excel/使用函数进行统计/1.png" alt=""><br><img src="/images/office/excel/使用函数进行统计/2.png" alt=""></p>
+<h3 id="SUMIF的变态能力"><a href="#SUMIF的变态能力" class="headerlink" title="SUMIF的变态能力"></a>SUMIF的变态能力</h3><p><img src="/images/office/excel/使用函数进行统计/SUMIF的变态能力/1.png" alt=""><br><img src="/images/office/excel/使用函数进行统计/SUMIF的变态能力/2.png" alt=""></p>
+<h3 id="SUMIFS"><a href="#SUMIFS" class="headerlink" title="SUMIFS"></a>SUMIFS</h3><p><img src="/images/office/excel/使用函数进行统计/SUMIFS/1.png" alt=""></p>
+<h3 id="COUNTIFS"><a href="#COUNTIFS" class="headerlink" title="COUNTIFS"></a>COUNTIFS</h3><p><img src="/images/office/excel/使用函数进行统计/COUNTIFS/1.png" alt=""></p>
+<h3 id="多条件的VLOOKUP"><a href="#多条件的VLOOKUP" class="headerlink" title="多条件的VLOOKUP"></a>多条件的VLOOKUP</h3><p><img src="/images/office/excel/使用函数进行统计/多条件的VLOOKUP/1.png" alt=""><br><img src="/images/office/excel/使用函数进行统计/多条件的VLOOKUP/2.png" alt=""><br><img src="/images/office/excel/使用函数进行统计/多条件的VLOOKUP/3.png" alt=""></p>
+<h2 id="使用日期函数"><a href="#使用日期函数" class="headerlink" title="使用日期函数"></a>使用日期函数</h2><h3 id="推算日期"><a href="#推算日期" class="headerlink" title="推算日期"></a>推算日期</h3><p><img src="/images/office/excel/使用日期函数/推算日期/1.png" alt=""></p>
+<h3 id="计算日期间隔"><a href="#计算日期间隔" class="headerlink" title="计算日期间隔"></a>计算日期间隔</h3><p><img src="/images/office/excel/使用日期函数/计算日期间隔/1.png" alt=""></p>
+<h3 id="标记快到期的日期"><a href="#标记快到期的日期" class="headerlink" title="标记快到期的日期"></a>标记快到期的日期</h3><p><img src="/images/office/excel/使用日期函数/标记快到期的日期/1.png" alt=""><br><img src="/images/office/excel/使用日期函数/标记快到期的日期/2.png" alt=""><br><img src="/images/office/excel/使用日期函数/标记快到期的日期/3.png" alt=""></p>
+<h2 id="使用表格"><a href="#使用表格" class="headerlink" title="使用表格"></a>使用表格</h2><p><img src="/images/office/excel/使用表格/1.png" alt=""><br><img src="/images/office/excel/使用表格/2.png" alt=""><br><img src="/images/office/excel/使用表格/3.png" alt=""><br><img src="/images/office/excel/使用表格/4.png" alt=""></p>
+<h2 id="文档安全性设置"><a href="#文档安全性设置" class="headerlink" title="文档安全性设置"></a>文档安全性设置</h2><h3 id="数据验证"><a href="#数据验证" class="headerlink" title="数据验证"></a>数据验证</h3><p><img src="/images/office/excel/文档安全性设置/1.png" alt=""></p>
+<h4 id="填写付费方式"><a href="#填写付费方式" class="headerlink" title="填写付费方式"></a>填写付费方式</h4><p><img src="/images/office/excel/文档安全性设置/数据验证/填写付费方式/1.png" alt=""><br><img src="/images/office/excel/文档安全性设置/数据验证/填写付费方式/2.png" alt=""></p>
+<h4 id="设置输入法"><a href="#设置输入法" class="headerlink" title="设置输入法"></a>设置输入法</h4><p><img src="/images/office/excel/文档安全性设置/数据验证/设置输入法/1.png" alt=""><br><img src="/images/office/excel/文档安全性设置/数据验证/设置输入法/2.png" alt=""></p>
+<h3 id="工作表保护"><a href="#工作表保护" class="headerlink" title="工作表保护"></a>工作表保护</h3><p><img src="/images/office/excel/文档安全性设置/工作表保护/1.png" alt=""><br><img src="/images/office/excel/文档安全性设置/工作表保护/2.png" alt=""><br><img src="/images/office/excel/文档安全性设置/工作表保护/3.png" alt=""><br><img src="/images/office/excel/文档安全性设置/工作表保护/4.png" alt=""><br><img src="/images/office/excel/文档安全性设置/工作表保护/5.png" alt=""></p>
+<h2 id="邮件合并工具"><a href="#邮件合并工具" class="headerlink" title="邮件合并工具"></a>邮件合并工具</h2><h3 id="把所有人的信息全部打印出来"><a href="#把所有人的信息全部打印出来" class="headerlink" title="把所有人的信息全部打印出来"></a>把所有人的信息全部打印出来</h3><p><img src="/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/1.png" alt=""><br><img src="/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/2.png" alt=""><br><img src="/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/3.png" alt=""><br><img src="/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/4.png" alt=""><br><img src="/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/5.png" alt=""><br><img src="/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/6.png" alt=""><br><img src="/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/7.png" alt=""><br><img src="/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/8.png" alt=""><br><img src="/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/9.png" alt=""><br><img src="/images/office/excel/邮件合并工具/把所有人的信息全部打印出来/10.png" alt=""></p>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/office/" rel="tag"># office</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2020/08/19/Graduate/English/graduate-writing/" rel="next" title="写作">
+                <i class="fa fa-chevron-left"></i> 写作
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2021/03/22/Office/word/" rel="prev" title="word">
+                word <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/bicyclering.jpg"
+                alt="覆雪古树" />
+            
+              <p class="site-author-name" itemprop="name">覆雪古树</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">139</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">8</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">30</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/bicyclering/" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#excel"><span class="nav-number">1.</span> <span class="nav-text">excel</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#数据透视表"><span class="nav-number">1.1.</span> <span class="nav-text">数据透视表</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#使用条件格式"><span class="nav-number">1.2.</span> <span class="nav-text">使用条件格式</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#标记重复值"><span class="nav-number">1.2.1.</span> <span class="nav-text">标记重复值</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#锁定H1"><span class="nav-number">1.2.2.</span> <span class="nav-text">锁定H1</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#各月份涨跌情况"><span class="nav-number">1.2.3.</span> <span class="nav-text">各月份涨跌情况</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#动态数据分析报表"><span class="nav-number">1.3.</span> <span class="nav-text">动态数据分析报表</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#单元格数字格式"><span class="nav-number">1.4.</span> <span class="nav-text">单元格数字格式</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#善用分列功能转数据格式"><span class="nav-number">1.4.1.</span> <span class="nav-text">善用分列功能转数据格式</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#排序工具"><span class="nav-number">1.5.</span> <span class="nav-text">排序工具</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#按颜色排序"><span class="nav-number">1.5.1.</span> <span class="nav-text">按颜色排序</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#自定义次序"><span class="nav-number">1.5.2.</span> <span class="nav-text">自定义次序</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#改变行顺序"><span class="nav-number">1.5.3.</span> <span class="nav-text">改变行顺序</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#筛选与高级筛选"><span class="nav-number">1.6.</span> <span class="nav-text">筛选与高级筛选</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#筛选C字母开头的工单号"><span class="nav-number">1.6.1.</span> <span class="nav-text">筛选C字母开头的工单号</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#筛选C-字母开头的工单号"><span class="nav-number">1.6.2.</span> <span class="nav-text">筛选C*字母开头的工单号</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#高级筛选"><span class="nav-number">1.6.3.</span> <span class="nav-text">高级筛选</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#表达”或”的关系"><span class="nav-number">1.6.3.1.</span> <span class="nav-text">表达”或”的关系</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#多种条件"><span class="nav-number">1.6.3.2.</span> <span class="nav-text">多种条件</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#透视表把金额最大的3个月筛选出来"><span class="nav-number">1.6.3.3.</span> <span class="nav-text">透视表把金额最大的3个月筛选出来</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#使用分类汇总"><span class="nav-number">1.7.</span> <span class="nav-text">使用分类汇总</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#分地区与产品分类统计金额"><span class="nav-number">1.7.1.</span> <span class="nav-text">分地区与产品分类统计金额</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#定位条件"><span class="nav-number">1.7.2.</span> <span class="nav-text">定位条件</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#创建组"><span class="nav-number">1.7.3.</span> <span class="nav-text">创建组</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#公式与基础函数"><span class="nav-number">1.8.</span> <span class="nav-text">公式与基础函数</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#使用VLOOKUP函数"><span class="nav-number">1.9.</span> <span class="nav-text">使用VLOOKUP函数</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#近似匹配"><span class="nav-number">1.9.1.</span> <span class="nav-text">近似匹配</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#常规转文本"><span class="nav-number">1.9.2.</span> <span class="nav-text">常规转文本</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#文本转常规"><span class="nav-number">1.9.3.</span> <span class="nav-text">文本转常规</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#MATCH与INDEX函数"><span class="nav-number">1.10.</span> <span class="nav-text">MATCH与INDEX函数</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#右键下拉不带格式填充"><span class="nav-number">1.10.1.</span> <span class="nav-text">右键下拉不带格式填充</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#添加开发工具"><span class="nav-number">1.10.2.</span> <span class="nav-text">添加开发工具</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#职工动态报告书"><span class="nav-number">1.10.3.</span> <span class="nav-text">职工动态报告书</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#使用函数进行统计"><span class="nav-number">1.11.</span> <span class="nav-text">使用函数进行统计</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#SUMIF的变态能力"><span class="nav-number">1.11.1.</span> <span class="nav-text">SUMIF的变态能力</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#SUMIFS"><span class="nav-number">1.11.2.</span> <span class="nav-text">SUMIFS</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#COUNTIFS"><span class="nav-number">1.11.3.</span> <span class="nav-text">COUNTIFS</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#多条件的VLOOKUP"><span class="nav-number">1.11.4.</span> <span class="nav-text">多条件的VLOOKUP</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#使用日期函数"><span class="nav-number">1.12.</span> <span class="nav-text">使用日期函数</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#推算日期"><span class="nav-number">1.12.1.</span> <span class="nav-text">推算日期</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#计算日期间隔"><span class="nav-number">1.12.2.</span> <span class="nav-text">计算日期间隔</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#标记快到期的日期"><span class="nav-number">1.12.3.</span> <span class="nav-text">标记快到期的日期</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#使用表格"><span class="nav-number">1.13.</span> <span class="nav-text">使用表格</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#文档安全性设置"><span class="nav-number">1.14.</span> <span class="nav-text">文档安全性设置</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#数据验证"><span class="nav-number">1.14.1.</span> <span class="nav-text">数据验证</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#填写付费方式"><span class="nav-number">1.14.1.1.</span> <span class="nav-text">填写付费方式</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#设置输入法"><span class="nav-number">1.14.1.2.</span> <span class="nav-text">设置输入法</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#工作表保护"><span class="nav-number">1.14.2.</span> <span class="nav-text">工作表保护</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#邮件合并工具"><span class="nav-number">1.15.</span> <span class="nav-text">邮件合并工具</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#把所有人的信息全部打印出来"><span class="nav-number">1.15.1.</span> <span class="nav-text">把所有人的信息全部打印出来</span></a></li></ol></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">覆雪古树</span>
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: '1610547745000', 
+            owner: 'bicyclering',
+            repo: 'bicyclering.github.io',
+            
+            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: '182b21f290f00470ce262e9b8337488251f877f0',
+            
+                client_id: 'a20e7fe4e3bc17dde8b6'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      renderGitment();
+      
+      </script>
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

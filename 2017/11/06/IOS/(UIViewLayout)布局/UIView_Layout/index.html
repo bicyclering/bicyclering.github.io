@@ -1,0 +1,1024 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="layout," />
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="如何布局UIViewController的UIView考虑问题  首先考虑尺寸变化自适应,如不同尺寸设备、屏幕旋转等 包含是否有UINavigationBar或UITabBar场景 尽量避免硬编码间距:如20、44、49 等  文档 Autolayout addChildViewController automaticallyAdjustsScrollViewInset IOS11过时 true">
+<meta name="keywords" content="layout">
+<meta property="og:type" content="article">
+<meta property="og:title" content="UIView布局">
+<meta property="og:url" content="http://yoursite.com/2017/11/06/IOS/(UIViewLayout)布局/UIView_Layout/index.html">
+<meta property="og:site_name" content="Bicyclering">
+<meta property="og:description" content="如何布局UIViewController的UIView考虑问题  首先考虑尺寸变化自适应,如不同尺寸设备、屏幕旋转等 包含是否有UINavigationBar或UITabBar场景 尽量避免硬编码间距:如20、44、49 等  文档 Autolayout addChildViewController automaticallyAdjustsScrollViewInset IOS11过时 true">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="http://yoursite.com/images/layout/IOS_UIView布局_automaticallyAdjustsScrollViewInset.gif">
+<meta property="og:image" content="http://yoursite.com/images/layout/IOS_UIView布局_automaticallyAdjustsScrollViewInset.gif">
+<meta property="og:image" content="http://yoursite.com/images/layout/IOS_UIView布局_edgesForExtendedLayout.gif">
+<meta property="og:image" content="http://yoursite.com/images/layout/IOS_UIView布局_extendedLayoutIncludesOpaqueBars.jpg">
+<meta property="og:image" content="http://yoursite.com/images/layout/IOS_UIView布局_modalPresentationCapturesStatusBarAppearance.jpg">
+<meta property="og:image" content="http://yoursite.com/images/layout/IOS_UIView布局_autoresizing_none.gif">
+<meta property="og:image" content="http://yoursite.com/images/layout/IOS_UIView布局_autoresizing_top_left.gif">
+<meta property="og:image" content="http://yoursite.com/images/layout/IOS_UIView布局_autoresizing_bottom_right.gif">
+<meta property="og:image" content="http://yoursite.com/images/layout/IOS_UIView布局_autoresizing_width_height.gif">
+<meta property="og:image" content="http://yoursite.com/images/layout/IOS_UIView布局_autoresizing_bottom_right_width_height.gif">
+<meta property="og:image" content="http://yoursite.com/images/layout/IOS_UIView布局_modal_intrinsic_content_size_2x.png">
+<meta property="og:updated_time" content="2021-08-20T13:18:42.080Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="UIView布局">
+<meta name="twitter:description" content="如何布局UIViewController的UIView考虑问题  首先考虑尺寸变化自适应,如不同尺寸设备、屏幕旋转等 包含是否有UINavigationBar或UITabBar场景 尽量避免硬编码间距:如20、44、49 等  文档 Autolayout addChildViewController automaticallyAdjustsScrollViewInset IOS11过时 true">
+<meta name="twitter:image" content="http://yoursite.com/images/layout/IOS_UIView布局_automaticallyAdjustsScrollViewInset.gif">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2017/11/06/IOS/(UIViewLayout)布局/UIView_Layout/"/>
+
+
+
+
+
+  <title>UIView布局 | Bicyclering</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Bicyclering</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">要么读书,要么旅行,身体和灵魂总有一个在路上</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-commonweal">
+          <a href="/404/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br />
+            
+            公益404
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2017/11/06/IOS/(UIViewLayout)布局/UIView_Layout/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="覆雪古树">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/bicyclering.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Bicyclering">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">UIView布局</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-11-06T14:28:28+08:00">
+                2017-11-06
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/ios/" itemprop="url" rel="index">
+                    <span itemprop="name">ios</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2017/11/06/IOS/(UIViewLayout)布局/UIView_Layout/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count gitment-comments-count" data-xid="/2017/11/06/IOS/(UIViewLayout)布局/UIView_Layout/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h1 id="如何布局UIViewController的UIView"><a href="#如何布局UIViewController的UIView" class="headerlink" title="如何布局UIViewController的UIView"></a>如何布局UIViewController的UIView</h1><p><strong><code>考虑问题</code></strong></p>
+<ol>
+<li>首先考虑尺寸变化自适应,如不同尺寸设备、屏幕旋转等</li>
+<li>包含是否有UINavigationBar或UITabBar场景</li>
+<li>尽量避免硬编码间距:如20、44、49 等</li>
+</ol>
+<p><strong><code>文档</code></strong></p>
+<p><a href="https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/ProgrammaticallyCreatingConstraints.html#//apple_ref/doc/uid/TP40010853-CH16-SW1" target="_blank" rel="noopener">Autolayout</a></p>
+<p><a href="https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/ImplementingaContainerViewController.html" target="_blank" rel="noopener">addChildViewController</a></p>
+<h2 id="automaticallyAdjustsScrollViewInset-IOS11过时"><a href="#automaticallyAdjustsScrollViewInset-IOS11过时" class="headerlink" title="automaticallyAdjustsScrollViewInset IOS11过时"></a>automaticallyAdjustsScrollViewInset IOS11过时</h2><ul>
+<li>true<br>  <code>简单的说</code>:根据按所在界面的status bar、navigationbar、tabbar的高度,自动调整scrollview的inset </li>
+<li>false<br> <code>简单的说</code>:不让viewController调整,自定义布局</li>
+</ul>
+<p><strong><code>苹果官方所言:</code></strong></p>
+<blockquote>
+<p>Discussion<br>The default value of this property is true, which lets container view controllers know that they should adjust the scroll view insets of this view controller’s view to account for screen areas consumed by a status bar, search bar, navigation bar, toolbar, or tab bar. Set this property to false if your view controller implementation manages its own scroll view inset adjustments.</p>
+</blockquote>
+<h3 id="滚动视图UIScrollView以及子类"><a href="#滚动视图UIScrollView以及子类" class="headerlink" title="滚动视图UIScrollView以及子类"></a>滚动视图UIScrollView以及子类</h3><p><strong>案例:</strong> <code>-&gt; false</code></p>
+<p><img src="/images/layout/IOS_UIView布局_automaticallyAdjustsScrollViewInset.gif" alt=""></p>
+<h3 id="非滚动视图"><a href="#非滚动视图" class="headerlink" title="非滚动视图"></a>非滚动视图</h3><p>对非滚动视图不起作用,系统不起作用</p>
+<h2 id="contentInsetAdjustmentBehavior-IOS11及以后"><a href="#contentInsetAdjustmentBehavior-IOS11及以后" class="headerlink" title="contentInsetAdjustmentBehavior IOS11及以后"></a>contentInsetAdjustmentBehavior IOS11及以后</h2><ul>
+<li>UIScrollViewContentInsetAdjustmentAutomatic<br>  <strong><code>scrollView会自动计算和适应顶部和底部的内边距并且在scrollView不可滚动时,也会设置内边距</code></strong></li>
+<li>UIScrollViewContentInsetAdjustmentScrollableAxes<br>  <strong><code>scrollView会自动计算和适应顶部和底部的内边距并且在scrollView不可滚动时,也会设置内边距</code></strong></li>
+<li>UIScrollViewContentInsetAdjustmentNever<br>  <strong><code>不计算内边距</code></strong></li>
+<li>UIScrollViewContentInsetAdjustmentAlways<br> <strong><code>根据safeAreaInsets计算内边距</code></strong></li>
+</ul>
+<p><strong><code>苹果官方所言:</code></strong></p>
+<blockquote>
+<p>Discussion<br>This property specifies how the safe area insets are used to modify the content area of the scroll view. The default value of this property is UIScrollViewContentInsetAdjustmentAutomatic.</p>
+</blockquote>
+<p> <strong>案例:</strong> <code>-&gt; UIScrollViewContentInsetAdjustmentNever</code></p>
+<p><img src="/images/layout/IOS_UIView布局_automaticallyAdjustsScrollViewInset.gif" alt=""></p>
+<h2 id="edgesForExtendedLayout"><a href="#edgesForExtendedLayout" class="headerlink" title="edgesForExtendedLayout"></a>edgesForExtendedLayout</h2><p>默认值是UIRectEdgeAll,意味着view会被拓展到整个屏幕</p>
+<p><strong><code>苹果官方所言:</code></strong></p>
+<blockquote>
+<p>Discussion<br> Instead of this property, use the safe area of your view to determine which parts of your interface are occluded by other content. For more information, see the safeAreaLayoutGuide and safeAreaInsets properties of UIView.<br>In iOS 10 and earlier, use this property to report which edges of your view controller extend underneath navigation bars or other system-provided views. The default value of this property is all, and it is recommended that you do not change that value.<br>If you remove an edge value from this property, the system does not lay out your content underneath other bars on that same edge. In addition, the system provides a default background so that translucent bars have an appropriate appearance. The window’s root view controller does not react to this property.</p>
+</blockquote>
+<p><strong>案例:</strong> </p>
+<blockquote>
+<p>self. edgesForExtendedLayout = UIRectEdgeNone<br>self.navigationController.navigationBar.translucent = NO</p>
+</blockquote>
+<p><img src="/images/layout/IOS_UIView布局_edgesForExtendedLayout.gif" alt=""></p>
+<h2 id="extendedLayoutIncludesOpaqueBars"><a href="#extendedLayoutIncludesOpaqueBars" class="headerlink" title="extendedLayoutIncludesOpaqueBars"></a>extendedLayoutIncludesOpaqueBars</h2><p>意味着延伸视图包不包含不透明的UINavigationBar,指定导航栏是透明还是不透明。默认为YES</p>
+<p><strong><code>苹果官方所言:</code></strong></p>
+<blockquote>
+<p>Discussion<br>The default value of this property is false.<br>Note<br>Bars are translucent by default in iOS 7.0</p>
+</blockquote>
+<p><strong>案例:</strong> </p>
+<p><code>Demo1 -&gt; 导航条背景图片</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">UINavigationBar *bar = [UINavigationBar appearance]</span><br><span class="line">[bar setBackgroundImage:[UIImage imageNamed:@&quot;地址&quot;] forBarMetrics:UIBarMetricsDefault]</span><br></pre></td></tr></table></figure></p>
+<p><code>Demo2 -&gt; 导航条背景颜色</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">UINavigationBar *bar = [UINavigationBar appearance]</span><br><span class="line">[bar setBackgroundImage:[UIImage imageNamed:@&quot;地址&quot;] forBarMetrics:UIBarMetricsDefault]</span><br></pre></td></tr></table></figure></p>
+<p><code>Demo3 -&gt; 导航条不透明,尺寸从导航条底部开始</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[bar setBarTintColor:[UIColor whiteColor]]</span><br></pre></td></tr></table></figure></p>
+<p><img src="/images/layout/IOS_UIView布局_extendedLayoutIncludesOpaqueBars.jpg" alt=""></p>
+<h2 id="modalPresentationCapturesStatusBarAppearance"><a href="#modalPresentationCapturesStatusBarAppearance" class="headerlink" title="modalPresentationCapturesStatusBarAppearance"></a>modalPresentationCapturesStatusBarAppearance</h2><p>指定呈现非全屏的视图控制器是否接管来自呈现视图控制器的状态栏外观的控制</p>
+<p><strong><code>苹果官方所言:</code></strong></p>
+<blockquote>
+<p>Discussion<br>The default value of this property is false.<br>When you present a view controller by calling the present(_:animated:completion:) method, status bar appearance control is transferred from the presenting to the presented view controller only if the presented controller’s modalPresentationStyle value is fullScreen. By setting this property to true, you specify the presented view controller controls status bar appearance, even though presented non-fullscreen.<br>The system ignores this property’s value for a view controller presented fullscreen.</p>
+</blockquote>
+<p><strong>案例:</strong> </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">UIViewController *controller = [UIViewController new];</span><br><span class="line">  controller.modalPresentationCapturesStatusBarAppearance = YES;</span><br><span class="line">  UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:controller];</span><br><span class="line">  nav.navigationBar.backgroundColor = UIColor.redColor;</span><br><span class="line">  [self presentViewController:nav animated:YES completion:^&#123;</span><br><span class="line"></span><br><span class="line">&#125;];</span><br></pre></td></tr></table></figure>
+<p><img src="/images/layout/IOS_UIView布局_modalPresentationCapturesStatusBarAppearance.jpg" alt=""></p>
+<h2 id="autoresizingMask"><a href="#autoresizingMask" class="headerlink" title="autoresizingMask"></a>autoresizingMask</h2><p>指定一个整数位掩码,用于确定接收方在其超视图边界更改时自动调整自身的大小</p>
+<p><strong><code>苹果官方所言:</code></strong></p>
+<blockquote>
+<p>Discussion<br>When a view’s bounds change, that view automatically resizes its subviews according to each subview’s autoresizing mask. You specify the value of this mask by combining the constants described in UIViewAutoresizing using the C bitwise OR operator. Combining these constants lets you specify which dimensions of the view should grow or shrink relative to the superview. The default value of this property is UIViewAutoresizingNone, which indicates that the view should not be resized at all.<br>When more than one option along the same axis is set, the default behavior is to distribute the size difference proportionally among the flexible portions. The larger the flexible portion, relative to the other flexible portions, the more it is likely to grow. For example, suppose this property includes the UIViewAutoresizingFlexibleWidth and UIViewAutoresizingFlexibleRightMargin constants but does not include the UIViewAutoresizingFlexibleLeftMargin constant, thus indicating that the width of the view’s left margin is fixed but that the view’s width and right margin may change. Thus, the view appears anchored to the left side of its superview while both the view width and the gap to the right of the view increase.<br>If the autoresizing behaviors do not offer the precise layout that you need for your views, you can use a custom container view and override its layoutSubviews method to position your subviews more precisely.</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">typedef NS_OPTIONS(NSUInteger, UIViewAutoresizing) &#123;</span><br><span class="line">    UIViewAutoresizingNone                 = 0,</span><br><span class="line">    UIViewAutoresizingFlexibleLeftMargin   = 1 &lt;&lt; 0,</span><br><span class="line">    UIViewAutoresizingFlexibleWidth        = 1 &lt;&lt; 1,</span><br><span class="line">    UIViewAutoresizingFlexibleRightMargin  = 1 &lt;&lt; 2,</span><br><span class="line">    UIViewAutoresizingFlexibleTopMargin    = 1 &lt;&lt; 3,</span><br><span class="line">    UIViewAutoresizingFlexibleHeight       = 1 &lt;&lt; 4,</span><br><span class="line">    UIViewAutoresizingFlexibleBottomMargin = 1 &lt;&lt; 5</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p>其中<code>**&lt;&lt;**</code>代表了复位,也就是可以多选。可以复习一下<code>**位运算**</code></p>
+<ul>
+<li>UIViewAutoresizingNone view的frame不会随superview的改变而改变</li>
+<li>UIViewAutoresizingFlexibleLeftMargin  自动调整view与superview左边的距离保证右边距离不变</li>
+<li>UIViewAutoresizingFlexibleWidth  自动调整view的宽度,保证view与superview的左右边距变</li>
+<li>UIViewAutoresizingFlexibleRightMargin 自动调整view与superview右边的距离保证左边距离不变</li>
+<li>UIViewAutoresizingFlexibleTopMargin 自动调整view与superview顶部的距离保证底部距离不变</li>
+<li>UIViewAutoresizingFlexibleHeight 自动调整view的高度,保证view与superview的上下边距不变</li>
+<li>UIViewAutoresizingFlexibleBottomMargin 自动调整view与superview底部的距离保证顶部不变</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">UIViewAutoresizing</th>
+<th style="text-align:center">说明</th>
+<th style="text-align:right">效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">none</td>
+<td style="text-align:center">view的frame不会随superview的改变而改变</td>
+<td style="text-align:right"><img src="/images/layout/IOS_UIView布局_autoresizing_none.gif" alt=""></td>
+</tr>
+<tr>
+<td style="text-align:left">top、left</td>
+<td style="text-align:center">view与其superView的左边距和上边距按比例调整</td>
+<td style="text-align:right"><img src="/images/layout/IOS_UIView布局_autoresizing_top_left.gif" alt=""></td>
+</tr>
+<tr>
+<td style="text-align:left">bottom 、right</td>
+<td style="text-align:center">view与其superView的右边距和下边距按比例调整</td>
+<td style="text-align:right"><img src="/images/layout/IOS_UIView布局_autoresizing_bottom_right.gif" alt=""></td>
+</tr>
+<tr>
+<td style="text-align:left">width 、height</td>
+<td style="text-align:center">view与其superView的宽度和高度按比例调整</td>
+<td style="text-align:right"><img src="/images/layout/IOS_UIView布局_autoresizing_width_height.gif" alt=""></td>
+</tr>
+<tr>
+<td style="text-align:left">bottom、right、width 、height</td>
+<td style="text-align:center">view与其superView的底部和右边距和宽度和高度按比例调整</td>
+<td style="text-align:right"><img src="/images/layout/IOS_UIView布局_autoresizing_bottom_right_width_height.gif" alt=""></td>
+</tr>
+</tbody>
+</table>
+<h2 id="autolayout"><a href="#autolayout" class="headerlink" title="autolayout"></a>autolayout</h2><h3 id="了解自动布局"><a href="#了解自动布局" class="headerlink" title="了解自动布局"></a>了解自动布局</h3><p>自动布局根据放置在这些视图上的约束，动态计算视图层次结构中所有视图的大小和位置。例如，您可以约束一个按钮，使其与图像视图水平居中，并使按钮的上边缘始终保持低于图像底部8个点。如果图像视图的大小或位置发生变化，按钮的位置会自动调整为匹配。</p>
+<p>这种基于约束的设计方法允许您构建动态响应内部和外部变化的用户界面。</p>
+<h3 id="外部变化"><a href="#外部变化" class="headerlink" title="外部变化"></a>外部变化</h3><p>如果您的超级视图的大小或形状发生变化，则会发生外部更改。每次更改时，都必须更新视图层次结构的布局，以最大限度地利用可用空间。以下是外部变化的一些常见来源：</p>
+<p>用户调整窗口（OS X）的大小。<br>用户在iPad（iOS）上输入或离开分割视图。<br>设备旋转（iOS）。<br>当前通话和录音条出现或消失（iOS）。<br>你想支持不同大小的类。<br>你想支持不同的屏幕尺寸。<br>这些更改大部分可以在运行时发生，并且需要来自应用程序的动态响应。其他，如支持不同的屏幕尺寸，代表适应不同的环境的应用程序。即使通过屏幕大小通常不会在运行时改变，创建一个适应性接口，让您的应用程序在iPhone 4S，iPhone 6 Plus，甚至iPad上运行同样好。自动布局也是支持iPad上的幻灯片和拆分视图的关键组件。</p>
+<h3 id="内部变化"><a href="#内部变化" class="headerlink" title="内部变化"></a>内部变化</h3><p>当用户界面中的视图或控件的大小发生更改时，会发生内部更改。</p>
+<p>以下是内部变化的一些常见来源：</p>
+<p>应用程序显示的内容发生变化。<br>该应用程序支持国际化。<br>该应用程序支持动态类型（iOS）。<br>当您的应用程序的内容发生变化时，新内容可能需要与旧版本不同的布局。这通常发生在显示文本或图像的应用程序中。例如，新闻应用程序需要根据各个新闻报道的大小来调整其布局。同样，照片拼贴必须处理各种图像尺寸和宽高比。</p>
+<p>国际化是让您的应用能够适应不同的语言，地区和文化的过程。国际化的应用程序的布局必须考虑到这些差异，并正确显示在应用程序支持的所有语言和地区。</p>
+<p>国际化对布局有三个主要影响。首先，将用户界面翻译成其他语言时，标签需要不同的空间。例如，德语通常比英语需要更多的空间。日本人经常要求少得多。</p>
+<p>其次，用于表示日期和数字的格式可能会因地区而异，即使语言不变。虽然这些变化通常比语言变化更微妙，但用户界面仍然需要适应大小的轻微变化。</p>
+<p>第三，改变语言不仅会影响文本的大小，还会影响到布局的组织。不同的语言使用不同的布局方向 例如，英语使用从左到右的布局方向，阿拉伯语和希伯来语使用从右到左的布局方向。通常，用户界面元素的顺序应与布局方向相匹配。如果按钮位于英文视图的右下角，则应位于阿拉伯语的左下角。</p>
+<p>最后，如果你的iOS应用程序支持动态类型，用户可以改变你的应用程序中使用的字体大小。这可以改变用户界面中任何文本元素的高度和宽度。如果用户在应用程序运行时更改字体大小，则字体和布局都必须适应。</p>
+<h3 id="约束优先"><a href="#约束优先" class="headerlink" title="约束优先"></a>约束优先</h3><p>默认情况下，所有约束都是必需的。自动布局必须计算满足所有约束的解决方案。如果不能，则出现错误。自动布局向控制台输出有关不可满足约束的信息，并选择其中一个约束来中断。然后重新计算解决方案没有破坏的约束。有关更多信息，请参阅Unsatisfiable Layouts。</p>
+<p>您也可以创建可选约束。所有约束条件的优先级都在1到1000之间。优先级为1000的约束条件是必需的。所有其他限制是可选的。</p>
+<p>计算解决方案时，自动布局尝试按优先级顺序从最高到最低来满足所有约束条件。如果它不能满足可选约束，则跳过该约束并继续到下一个约束。</p>
+<p>即使可选的约束条件不能满足，它仍然可以影响布局。如果在跳过约束之后布局中存在歧义，系统会选择最接近约束的解决方案。通过这种方式，不满意的可选限制就成为一种拉动他们观点的力量。</p>
+<p>可选的制约因素和不平等往往是相辅相成的。例如，在清单3-4中，可以为这两个不等式提供不同的优先级。可能需要大于或等于关系（优先级为1000），小于或等于关系的优先级较低（优先级为250）。这意味着蓝色视图离红色不能超过8.0点。然而，其他的限制可能会把它拉远。尽管如此，可选的约束将蓝色视图拉向红色视图，以确保它在尽可能接近8.0点的间隔的情况下给定布局中的其他约束条件。</p>
+<p>注意</p>
+<p>不要觉得有义务使用全部1000个优先级值。事实上，优先级应该围绕系统定义的低（250），中（500），高（750）和必需（1000）优先级进行。您可能需要制定高于或低于这些值一个或两个点的约束，以帮助防止关系。如果超出这个范围，你可能想要重新检查布局的逻辑。</p>
+<p>有关iOS上预定义约束常量的列表，请参阅UILayoutPriority枚举。对于OS X，请参阅布局优先级常量。</p>
+<h3 id="内在的内容大小"><a href="#内在的内容大小" class="headerlink" title="内在的内容大小"></a>内在的内容大小</h3><p><img src="/images/layout/IOS_UIView布局_modal_intrinsic_content_size_2x.png" alt=""></p>
+<p>UILabel这些约束是使用清单3-5中显示的不等式定义的。这里，IntrinsicHeight和IntrinsicWidth常量表示从视图的固有内容尺寸的高度和宽度值。</p>
+<p>清单3-5压缩阻力和内容拥抱方程</p>
+<ol>
+<li>// Compression Resistance</li>
+<li>View.height &gt;= 0.0 * NotAnAttribute + IntrinsicHeight</li>
+<li>View.width &gt;= 0.0 * NotAnAttribute + IntrinsicWidth</li>
+<li>// Content Hugging</li>
+<li>View.height &lt;= 0.0 * NotAnAttribute + IntrinsicHeight</li>
+<li>View.width &lt;= 0.0 * NotAnAttribute + IntrinsicWidth</li>
+</ol>
+<p>只要有可能，在布局中使用视图的内在内容大小。它可以让您的布局动态适应视图内容的变化。它还减少了创建非歧义，非冲突布局所需的约束数量，但是您需要管理视图的内容拥抱和压缩阻力（CHCR）优先级。以下是处理固有内容大小的一些准则：</p>
+<p>当扩展一系列视图以填充空间时，如果所有视图具有相同的内容拥抱优先级，则布局是不明确的。自动布局不知道应该拉伸哪个视图。<br>一个常见的例子是标签和文本字段对。通常情况下，您希望文本字段扩展以填充额外的空间，而标签保持其内在的内容大小。为确保这一点，请确保文本字段的水平内容拥抱优先级低于标签。<br>实际上，这个例子非常常见，Interface Builder会自动为你处理它，把所有标签的内容拥抱优先级设置为251.如果你是以编程方式创建布局，你需要自己修改内容拥抱优先级。<br>当不可见的背景（如按钮或标签）意外伸展超出其内在内容大小时，通常会出现奇怪的和意外的布局。实际的问题可能并不明显，因为文本只是出现在错误的位置。为了防止不必要的拉伸，增加内容拥抱优先级。<br>基线约束只适用于内在高度的视图。如果视图被垂直拉伸或压缩，则基线约束不再正确对齐。<br>一些视图，如开关，应始终显示其内在的内容大小。根据需要增加他们的CHCR优先级以防止伸展或压缩。<br>避免给予意见CHCR的优先事项。一般认为，大小错误比意外地产生冲突更好。如果一个视图应该始终是其内在的内容大小，那么可以考虑使用非常高的优先级（999）。这种方法通常可以保持视图不被拉伸或压缩，但仍然提供了一个紧急压力阀，以防万一您的视图显示在大于或小于预期的环境中。</p>
+<h3 id="技巧"><a href="#技巧" class="headerlink" title="技巧"></a>技巧</h3><p>你会发现Auto Layout经常提供多种方法来解决同样的问题。理想情况下，您应该选择最清楚地描述您的意图的解决方案。但是，不同的开发人员无疑会不同意哪种解决方案是最好的。在这里，保持一致胜于正确。如果您选择一种方法并始终坚持，您将会遇到较少的问题。例如，本指南使用以下经验法则：</p>
+<p>整数乘法器比分数乘法器更受欢迎。<br>正常数比负常数更受欢迎。<br>视图应尽可能以布局顺序显示：导致尾随，从上到下。</p>
+<h1 id="childViewController"><a href="#childViewController" class="headerlink" title="childViewController"></a>childViewController</h1><p><strong><code>一个UIViewController</code>应该且只应该管理一个UIView hierarchy,而通常来说一个完整的UIView hierarchy指的是整整占满一个屏幕。而且很多App满屏中会有各个区域管理不同的功能:</strong></p>
+<p><strong><code>错误用法</code></strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Demo4ViewController *controller = [[Demo4ViewController alloc] init];</span><br><span class="line">controller.view.bounds = self.view.bounds;</span><br><span class="line">   [self.view addSubview:controller.view];</span><br></pre></td></tr></table></figure>
+<p><strong><code>正确用法</code></strong></p>
+<ul>
+<li><p>方案1</p>
+<p> 作为自定义的UIView的controller应当继承NSObject的类,而不是应该是UIViewController。一个UIViewController可以包含若干个这样自定义controller来控制一个UIView钟的不同部分功能实现。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br></pre></td><td class="code"><pre><span class="line">@interface BannerViewController : NSObject</span><br><span class="line"></span><br><span class="line">@property (nonatomic, strong) UIView *view;</span><br><span class="line"></span><br><span class="line">@end</span><br><span class="line"></span><br><span class="line">@implementation  BannerViewController</span><br><span class="line"></span><br><span class="line">@end</span><br><span class="line"></span><br><span class="line">@interface CouponViewController : NSObject</span><br><span class="line"></span><br><span class="line">@property (nonatomic, strong) UIView *view;</span><br><span class="line"></span><br><span class="line">@end</span><br><span class="line"></span><br><span class="line">@implementation  CouponViewController</span><br><span class="line"></span><br><span class="line">@end</span><br><span class="line"></span><br><span class="line">@interface DemoViewController : UIViewController</span><br><span class="line"></span><br><span class="line">@property (nonatomic, strong) BannerViewController *bannerController;</span><br><span class="line"></span><br><span class="line">@property (nonatomic, strong) CouponViewController *couponController;</span><br><span class="line"></span><br><span class="line">@end</span><br><span class="line"></span><br><span class="line">@implementation  DemoViewController</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">@end</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+<ul>
+<li><p>方案2</p>
+<p>  <strong><code>addChildViewController</code></strong>要实现一个容器视图控制器，你必须建立你的视图控制器和它的子视图控制器之间的关系。在尝试管理任何子视图控制器的视图之前，建立这些父子关系是必需的。这样做让UIKit知道你的视图控制器正在管理孩子的大小和位置。您可以在Interface Builder中创建这些关系，或以编程方式创建它们。以编程方式创建父子关系时，您明确地添加和删除子视图控制器作为视图控制器设置的一部分。</p>
+</li>
+</ul>
+<p><strong>将子视图控制器添加到您的内容</strong></p>
+<p>要以编程方式将子视图控制器合并到内容中，请执行以下操作，在相关的视图控制器之间创建父子关系：</p>
+<ol>
+<li>调用<code>addChildViewController:</code>你的容器视图控制器的方法。<br>这个方法告诉UIKit你的容器视图控制器现在正在管理子视图控制器的视图。</li>
+<li>将孩子的根视图添加到容器的视图层次结构中。<br>一定要记住设置孩子框架的大小和位置，作为这个过程的一部分。</li>
+<li>添加任何约束来管理子视图的大小和位置。</li>
+<li>调用<code>didMoveToParentViewController:</code>子视图控制器的方法。</li>
+</ol>
+<p>清单5-1展示了一个容器如何在其容器中嵌入一个子视图控制器。建立父子关系后，容器设置其子的框架，并将子视图添加到自己的视图层次结构中。设置子视图的框架大小很重要，并确保视图在容器中正确显示。在添加视图后，容器调用<code>didMoveToParentViewController:</code>子视图的方法，使子视图控制器有机会响应视图所有权的更改。</p>
+<p>将一个子视图控制器添加到一个容器</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">- (void) displayContentController:(UIViewController*) content &#123;</span><br><span class="line">   [self addChildViewController:content];</span><br><span class="line">   content.view.frame = [self frameForContentController];</span><br><span class="line">   [self.view addSubview:self.currentClientView];</span><br><span class="line">   [content didMoveToParentViewController:self];</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>
+<p>在前面的例子中，注意你只调用<code>didMoveToParentViewController:</code>子方法。那是因为该方法为你<code>addChildViewController:</code>调用孩子的<code>willMoveToParentViewController:</code>方法。您必须<code>didMoveToParentViewController:</code>自己调用方法的原因是，只有在将子视图嵌入到容器的视图层次结构中之后，方法才能被调用。</p>
+<p>使用自动布局时，在将子对象添加到容器的视图层次结构后，在容器和子对象之间设置约束。你的约束只会影响孩子的根视图的大小和位置。请勿更改子视图层次结构中的根视图或任何其他视图的内容。</p>
+<p><strong>删除子视图控制器</strong></p>
+<p>要从内容中删除子视图控制器，请通过执行以下操作来删除视图控制器之间的父子关系：</p>
+<p><code>willMoveToParentViewController:</code>用值 调用孩子的方法nil。<br>删除您使用该子视图的配置的任何约束。<br>从容器的视图层次结构中移除孩子的根视图。<br>调用孩子的<code>removeFromParentViewController</code>方法来完成亲子关系的结束。</p>
+<p>删除子视图控制器会永久切断父级和子级之间的关系。只有当您不再需要引用子视图控制器时，才能移除子视图控制器。例如，当新导航控制器被推入导航堆栈时，导航控制器不会移除其当前的子视图控制器。只有当它们从堆栈中弹出时才会被删除。</p>
+<p>显示了如何从容器中删除子视图控制器。<code>willMoveToParentViewController:</code>使用该值调用该方法nil使子视图控制器有机会为更改做准备。该 <code>removeFromParentViewController</code>方法还调用孩子的<code>didMoveToParentViewController:</code>方法，传递该方法的值nil。设置父视图控制器以nil完成从容器中删除子视图。</p>
+<p>从容器中删除一个子视图控制器</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">- (void) hideContentController:(UIViewController*) content &#123;</span><br><span class="line">   [content willMoveToParentViewController:nil];</span><br><span class="line">   [content.view removeFromSuperview];</span><br><span class="line">   [content removeFromParentViewController];</span><br><span class="line"> &#125;</span><br></pre></td></tr></table></figure>
+<p><strong>子视图控制器之间的过渡</strong></p>
+<p>当您想要用另一个子视图控制器替换动画时，将子视图控制器的添加和删除合并到转换动画过程中。在动画之前，请确保两个子视图控制器都是您的内容的一部分，但让当前的孩子知道它即将消失。在您的动画中，将新的孩子的视图移动到位并移除旧的孩子的视图。完成动画后，完成子视图控制器的移除。</p>
+<p>显示了如何使用过渡动画将一个子视图控制器交换为另一个子视图控制器的示例。在这个例子中，新的视图控制器被动画为现有的子视图控制器当前占用的矩形，该控制器被移出屏幕。动画完成后，完成块从容器中删除子视图控制器。在这个例子中，该<br><code>transitionFromViewController:toViewController:duration:options:animations:completion:</code><br>方法自动更新容器的视图层次，所以你不需要自己添加和删除视图。</p>
+<p>两个子视图控制器之间的转换</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">- (void)cycleFromViewController: (UIViewController*) oldVC</span><br><span class="line">              toViewController: (UIViewController*) newVC &#123;</span><br><span class="line">   // Prepare the two view controllers for the change.</span><br><span class="line">   [oldVC willMoveToParentViewController:nil];</span><br><span class="line">   [self addChildViewController:newVC];</span><br><span class="line"> </span><br><span class="line">   // Get the start frame of the new view controller and the end frame</span><br><span class="line">   // for the old view controller. Both rectangles are offscreen.</span><br><span class="line">   newVC.view.frame = [self newViewStartFrame];</span><br><span class="line">   CGRect endFrame = [self oldViewEndFrame];</span><br><span class="line"> </span><br><span class="line">   // Queue up the transition animation.</span><br><span class="line">   [self transitionFromViewController: oldVC toViewController: newVC</span><br><span class="line">        duration: 0.25 options:0</span><br><span class="line">        animations:^&#123;</span><br><span class="line">            // Animate the views to their final positions.</span><br><span class="line">            newVC.view.frame = oldVC.view.frame;</span><br><span class="line">            oldVC.view.frame = endFrame;</span><br><span class="line">        &#125;</span><br><span class="line">        completion:^(BOOL finished) &#123;</span><br><span class="line">           // Remove the old view controller and send the final</span><br><span class="line">           // notification to the new view controller.</span><br><span class="line">           [oldVC removeFromParentViewController];</span><br><span class="line">           [newVC didMoveToParentViewController:self];</span><br><span class="line">        &#125;];</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/layout/" rel="tag"># layout</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2017/09/01/IOS/(UIViewLayout)布局/MyLinearLayout/" rel="next" title="栅格布局">
+                <i class="fa fa-chevron-left"></i> 栅格布局
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2018/01/18/IOS/(Skill)技巧/Skill/" rel="prev" title="技巧">
+                技巧 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/bicyclering.jpg"
+                alt="覆雪古树" />
+            
+              <p class="site-author-name" itemprop="name">覆雪古树</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">139</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">8</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">30</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/bicyclering/" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#如何布局UIViewController的UIView"><span class="nav-number">1.</span> <span class="nav-text">如何布局UIViewController的UIView</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#automaticallyAdjustsScrollViewInset-IOS11过时"><span class="nav-number">1.1.</span> <span class="nav-text">automaticallyAdjustsScrollViewInset IOS11过时</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#滚动视图UIScrollView以及子类"><span class="nav-number">1.1.1.</span> <span class="nav-text">滚动视图UIScrollView以及子类</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#非滚动视图"><span class="nav-number">1.1.2.</span> <span class="nav-text">非滚动视图</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#contentInsetAdjustmentBehavior-IOS11及以后"><span class="nav-number">1.2.</span> <span class="nav-text">contentInsetAdjustmentBehavior IOS11及以后</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#edgesForExtendedLayout"><span class="nav-number">1.3.</span> <span class="nav-text">edgesForExtendedLayout</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#extendedLayoutIncludesOpaqueBars"><span class="nav-number">1.4.</span> <span class="nav-text">extendedLayoutIncludesOpaqueBars</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#modalPresentationCapturesStatusBarAppearance"><span class="nav-number">1.5.</span> <span class="nav-text">modalPresentationCapturesStatusBarAppearance</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#autoresizingMask"><span class="nav-number">1.6.</span> <span class="nav-text">autoresizingMask</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#autolayout"><span class="nav-number">1.7.</span> <span class="nav-text">autolayout</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#了解自动布局"><span class="nav-number">1.7.1.</span> <span class="nav-text">了解自动布局</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#外部变化"><span class="nav-number">1.7.2.</span> <span class="nav-text">外部变化</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#内部变化"><span class="nav-number">1.7.3.</span> <span class="nav-text">内部变化</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#约束优先"><span class="nav-number">1.7.4.</span> <span class="nav-text">约束优先</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#内在的内容大小"><span class="nav-number">1.7.5.</span> <span class="nav-text">内在的内容大小</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#技巧"><span class="nav-number">1.7.6.</span> <span class="nav-text">技巧</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#childViewController"><span class="nav-number">2.</span> <span class="nav-text">childViewController</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">覆雪古树</span>
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: '1509949708000', 
+            owner: 'bicyclering',
+            repo: 'bicyclering.github.io',
+            
+            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: '182b21f290f00470ce262e9b8337488251f877f0',
+            
+                client_id: 'a20e7fe4e3bc17dde8b6'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      renderGitment();
+      
+      </script>
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

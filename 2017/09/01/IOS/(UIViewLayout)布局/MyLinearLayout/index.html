@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="layout," />
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="初衷和项目源代码 主要是解决:同一份数据,可以动态切换不同的布局。如果模型数据很多条,那么就肯定用UITtableview。 原理 MyGirdeLayout-&amp;gt;栅格布局:树形结构  UIView.subviews-&amp;gt;子视图:平面结构  栅格布局:    将一个矩形的视图区域按行或者按列的方式划分为多个子区域,子区域根据布局的要求可以继续递归划分。栅格布局里面的子视图将按照添加的顺序依">
+<meta name="keywords" content="layout">
+<meta property="og:type" content="article">
+<meta property="og:title" content="栅格布局">
+<meta property="og:url" content="http://yoursite.com/2017/09/01/IOS/(UIViewLayout)布局/MyLinearLayout/index.html">
+<meta property="og:site_name" content="Bicyclering">
+<meta property="og:description" content="初衷和项目源代码 主要是解决:同一份数据,可以动态切换不同的布局。如果模型数据很多条,那么就肯定用UITtableview。 原理 MyGirdeLayout-&amp;gt;栅格布局:树形结构  UIView.subviews-&amp;gt;子视图:平面结构  栅格布局:    将一个矩形的视图区域按行或者按列的方式划分为多个子区域,子区域根据布局的要求可以继续递归划分。栅格布局里面的子视图将按照添加的顺序依">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="http://yoursite.com/images/layout/MyGridLayout_ViewGroup.png">
+<meta property="og:image" content="http://yoursite.com/images/layout/MyGridLayout_Demo1.png">
+<meta property="og:image" content="http://yoursite.com/images/layout/MyGridLayout_Anchor.jpg">
+<meta property="og:image" content="http://yoursite.com/images/layout/MyGirdLayout_Demo.gif">
+<meta property="og:updated_time" content="2021-08-20T13:18:42.080Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="栅格布局">
+<meta name="twitter:description" content="初衷和项目源代码 主要是解决:同一份数据,可以动态切换不同的布局。如果模型数据很多条,那么就肯定用UITtableview。 原理 MyGirdeLayout-&amp;gt;栅格布局:树形结构  UIView.subviews-&amp;gt;子视图:平面结构  栅格布局:    将一个矩形的视图区域按行或者按列的方式划分为多个子区域,子区域根据布局的要求可以继续递归划分。栅格布局里面的子视图将按照添加的顺序依">
+<meta name="twitter:image" content="http://yoursite.com/images/layout/MyGridLayout_ViewGroup.png">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2017/09/01/IOS/(UIViewLayout)布局/MyLinearLayout/"/>
+
+
+
+
+
+  <title>栅格布局 | Bicyclering</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Bicyclering</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">要么读书,要么旅行,身体和灵魂总有一个在路上</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-commonweal">
+          <a href="/404/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br />
+            
+            公益404
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2017/09/01/IOS/(UIViewLayout)布局/MyLinearLayout/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="覆雪古树">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/bicyclering.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Bicyclering">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">栅格布局</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-09-01T21:30:00+08:00">
+                2017-09-01
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/ios/" itemprop="url" rel="index">
+                    <span itemprop="name">ios</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2017/09/01/IOS/(UIViewLayout)布局/MyLinearLayout/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count gitment-comments-count" data-xid="/2017/09/01/IOS/(UIViewLayout)布局/MyLinearLayout/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h1 id="初衷和项目源代码"><a href="#初衷和项目源代码" class="headerlink" title="初衷和项目源代码"></a><a href="https://github.com/youngsoft/MyLinearLayout/tree/MyGridLayout" target="_blank" rel="noopener">初衷和项目源代码</a></h1><p> <strong>主要是解决:<code>同一份数据,可以动态切换不同的布局</code>。如果模型数据很多条,<code>那么就肯定用UITtableview</code>。</strong></p>
+<h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><ul>
+<li><p><strong>MyGirdeLayout-&gt;栅格布局:</strong><code>树形结构</code></p>
+</li>
+<li><p><strong>UIView.subviews-&gt;子视图:</strong><code>平面结构</code></p>
+</li>
+<li><p><strong>栅格布局:</strong></p>
+</li>
+</ul>
+<ol>
+<li>将一个矩形的视图区域按行或者按列的方式划分为<code>多个子区域</code>,子区域根据布局的要求可以<code>继续递归划分</code>。栅格布局里面的<code>子视图</code>将按照添加的顺序依次填充到对应的<code>叶子区域中去的布局方式</code>。</li>
+<li>通过<code>一套自定义的布局体系来划分位置和尺寸</code>,添加到栅格布局里面的子视图<code>将不再需要指定位置和尺寸</code>而是由<code>栅格布局中的子栅格来完成</code>,因此可以很很方便的调整布局结构,从而实现动态布局的能力。 所谓栅格其实就是<code>一个矩形区域</code>,我们知道一个视图其实就是一个矩形区域,而子视图的frame属性其实就是<code>父视图中的某个特定的子区域部分</code>。</li>
+<li>既然子视图最终占据的是父视图的某个子矩形区域。那么我们也可以先将<code>一个矩形区域按照某种规则分解为多个子矩形区域</code>,然后<code>再将子视图填充到对应的子矩形区域中去</code>,这就是栅格布局的<code>实现思想</code>。</li>
+</ol>
+<h2 id="叶子格子和非叶子格子区别"><a href="#叶子格子和非叶子格子区别" class="headerlink" title="叶子格子和非叶子格子区别"></a>叶子格子和非叶子格子区别</h2><ul>
+<li><p><code>叶子格子</code>表示里面没有子格子而<code>非叶子格子</code>表示里面有子格子</p>
+</li>
+<li><p><code>非叶子栅格</code>只能设置一个方向的停靠,具体只能设置左中右或者上中下</p>
+</li>
+<li><p><code>叶子栅格</code>如果设置了gravity则填充的子视图必须要设置明确的尺寸</p>
+</li>
+</ul>
+<h2 id="视图组"><a href="#视图组" class="headerlink" title="视图组"></a>视图组</h2><ol>
+<li><p>原理<br> <img src="/images/layout/MyGridLayout_ViewGroup.png" alt=""></p>
+</li>
+<li><p>数据</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">&#123;&quot;size&quot;:&quot;fill&quot;,&quot;cols&quot;:[&#123;&quot;size&quot;:&quot;50%&quot;,&quot;padding&quot;:&quot;&#123;0,5,0,5&#125;&quot;,&quot;right-</span><br><span class="line">borderline&quot;:&#123;&quot;head&quot;:1,&quot;tail&quot;:1,&quot;offset&quot;:1,&quot;thick&quot;1,&quot;color&quot;:&quot;#EEEEEE&quot;&#125;,</span><br><span class="line">&quot;bottom-borderline&quot;:&#123;&quot;head&quot;:1,&quot;tail&quot;:1,&quot;offset&quot;:1,&quot;thick&quot;:1,</span><br><span class="line">&quot;color&quot;:&quot;#EEEEEE&quot;&#125;,&quot;tag&quot;:1003,&quot;action&quot;:&quot;handleTap:&quot;,&quot;rows&quot;:</span><br><span class="line">[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;cols&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;wrap&quot;&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;wrap&quot;&#125;,&#123;&quot;padding&quot;:&quot;&#123;5, 5, 5, 5&#125;&quot;,&quot;size&quot;:&quot;wrap&quot;&#125;]&#125;,</span><br><span class="line">&#123;&quot;padding&quot;:&quot;&#123;5, 5, 5, 5&#125;&quot;,&quot;size&quot;:&quot;fill&quot;&#125;]&#125;]&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>视图</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br></pre></td><td class="code"><pre><span class="line">NSMutableArray *temp = [NSMutableArray array];</span><br><span class="line">  UIImageView *backgroudImageView = [[UIImageView alloc] initWithImage:	[UIImage imageNamed:@&quot;bk1&quot;]];</span><br><span class="line">  [temp addObject:backgroudImageView];</span><br><span class="line">  </span><br><span class="line">  UILabel *titleLabel = [UILabel new];</span><br><span class="line">  titleLabel.text = @&quot;南京精选&quot;;</span><br><span class="line">  titleLabel.font = [CFTool font:13];</span><br><span class="line">  titleLabel.textColor = UIColor.whiteColor;</span><br><span class="line">  titleLabel.textAlignment = NSTextAlignmentCenter;</span><br><span class="line">  titleLabel.adjustsFontSizeToFitWidth = YES;</span><br><span class="line">  [temp addObject:titleLabel];</span><br><span class="line">  </span><br><span class="line">  UILabel *subTitleLabel = [UILabel new];</span><br><span class="line">  subTitleLabel.text = @&quot;天猫超市&quot;;</span><br><span class="line">  subTitleLabel.font = [CFTool font:11];</span><br><span class="line">  subTitleLabel.textColor = UIColor.whiteColor;</span><br><span class="line">  subTitleLabel.textAlignment = NSTextAlignmentCenter;</span><br><span class="line">  subTitleLabel.adjustsFontSizeToFitWidth = YES;</span><br><span class="line">  [temp addObject:subTitleLabel];</span><br><span class="line">  </span><br><span class="line">  NSArray *titles = @[@&quot;周末疯狂趴&quot;,@&quot;送5升菜籽油&quot;];</span><br><span class="line">  for (NSString *title in titles) &#123;</span><br><span class="line">      UILabel *lb = [UILabel new];</span><br><span class="line">      lb.text = title;</span><br><span class="line">      lb.font = [CFTool font:12];</span><br><span class="line">      lb.textColor = UIColor.redColor;</span><br><span class="line">      lb.adjustsFontSizeToFitWidth = YES;</span><br><span class="line">      [temp addObject:lb];</span><br><span class="line">  &#125;</span><br><span class="line">  </span><br><span class="line">  NSArray *imageNames = @[@&quot;p1-31&quot;,@&quot;p1-32&quot;];</span><br><span class="line">  for (NSString *imageName in imageNames) &#123;</span><br><span class="line">      UIImageView *imageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:imageName]];</span><br><span class="line">      [temp addObject:imageView];</span><br><span class="line">  &#125;</span><br><span class="line">  </span><br><span class="line">  UIImageView *optionalView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@&quot;p1-12&quot;]];</span><br><span class="line">  [temp addObject:optionalView];</span><br><span class="line">  [self.rootLayout addViewGroup:temp withActionData:@&quot;aa&quot; to:sPartTag3];</span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>这样就可以根据数据的<code>Tag</code>来指定<code>标签内才会放置绑定的视图组</code>。</strong></p>
+</li>
+</ol>
+<h1 id="布局技巧"><a href="#布局技巧" class="headerlink" title="布局技巧"></a>布局技巧</h1><h2 id="拆分子格子几种方法"><a href="#拆分子格子几种方法" class="headerlink" title="拆分子格子几种方法"></a>拆分子格子几种方法</h2><h3 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h3><p><img src="/images/layout/MyGridLayout_Demo1.png" alt="">  </p>
+<ul>
+<li>把格子拆分为2个行子格子,然后第2个行子格子拆分为2个列子格子。</li>
+<li>因此按照这个结构,我们就可以将<strong>那些不重叠排列的x布局</strong>按格子布局划分出来。最终所有子视图都将放在叶子格子里面,而子视图的放置顺序,就是按格子这棵树的深度遍历顺序来存放的。</li>
+<li>叶子格子代表里面没有子格子,比如这个格子里面,格子1和格子2.1,2.2都是叶格子。但是格子2和根格子不是叶子格子,这样如果布局中有3个子视图,那么将按照格子的布局顺序逐步添加对应的视图。</li>
+<li>例如 视图1 -&gt; 填充1区域格子,视图2 -&gt; 填充2.1区域格子,视图3 -&gt; 填充2.2区域格子。</li>
+</ul>
+<ol>
+<li><code>明确指定高度的</code>,比如第一个行子格子的高度时20。那么就会建立一个高度为20,宽度为100的行子格子   </li>
+<li><code>明确指定高度比例</code>,比如第二个行子格子的高度时整体高度的30%。那么久会建立一个高度为30,宽度为100的行子格子  </li>
+<li><code>明确指定生于高度比例</code>,比如第三个行格子的高度是剩余高度的40%,那么就会建立一个(100-20-30) * 0.4 = 20 高度并且宽度为100的行格子 </li>
+<li><code>明确指定剩余下的所有高度</code>,比如第四个行子格子的高度时剩余下的所有高度,那么就会建立一个高度为30,宽度为100的子格子 </li>
+</ol>
+<h3 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h3><ol>
+<li><p>建立三个高度分别为33.3333%的行子格子</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">* [grid addRow:1.0/3];  </span><br><span class="line">* [grid addRow:1.0/3];  </span><br><span class="line">* [grid addRow:1.0/3];</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>建立一个高度为剩余33.3333%的行格子,第二个高度为剩余高度50%的行格子,第三个为剩余全高度的行格子 </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">* [grid addRow:-1.0/3];  </span><br><span class="line">* [grid addRow:-1.0/2];  </span><br><span class="line">* [grid addRow:MyLayoutSize.fill];</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>建立3个为剩余全高度的行格子 </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">* [grid addRow:MyLayoutSize.fill]; </span><br><span class="line">* [grid addRow:MyLayoutSize.fill]; </span><br><span class="line">* [grid addRow:MyLayoutSize.fill];</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>建立为JSON形式</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">* grid.gridDictionary = @&#123;&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;33.33%&quot;&#125;， &#123;&quot;size&quot;:&quot;33.33%&quot;&#125;, &#123;&quot;size&quot;:&quot;33.33%&quot;&#125;&#125;]&#125;</span><br><span class="line">* grid.gridDictionary = @&#123;&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;-33.33%&quot;&#125;, &#123;&quot;size&quot;:&quot;-50%&quot;&#125;, &#123;&quot;size&quot;:&quot;fill&quot;&#125;]&#125;</span><br><span class="line">* grid.gridDictionary = @&#123;&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;&#125;,&#123;&quot;size&quot;:&quot;fill&quot;&#125;,&#123;&quot;size&quot;:&quot;fill&quot;&#125;]&#125;;</span><br></pre></td></tr></table></figure>
+</li>
+</ol>
+<p><strong>这里面可见:第一种和第二种<code>都需要指定一个除不尽的小数</code>;但是第三种和第四种<code>就不需要指定任何小数</code></strong></p>
+<h2 id="布局尺寸描述"><a href="#布局尺寸描述" class="headerlink" title="布局尺寸描述"></a>布局尺寸描述</h2><ol>
+<li><p>@{kMyGridSize:@(20)}   <code>表示尺寸是20</code></p>
+</li>
+<li><p>@{kMyGridSize:@”50%”}  <code>表示尺寸是总体的50%</code></p>
+</li>
+<li><p>@{kMyGridSize:@”-50%”} <code>表示是剩余的50%</code></p>
+</li>
+<li><p>@{kMyGridSize:vMyGridSizeWrap}  <code>表示尺寸由子格子包裹</code></p>
+</li>
+<li><p>@{kMyGridSize:vMyGridSizeFill}  <code>表示尺寸均分和填充剩余的高度或者宽度</code></p>
+</li>
+</ol>
+<h2 id="anchor锚点"><a href="#anchor锚点" class="headerlink" title="anchor锚点"></a>anchor锚点</h2><p>用于<code>栅格</code>,表示设置为YES时,栅格也放入一个对应的子视图</p>
+<h2 id="placeholder"><a href="#placeholder" class="headerlink" title="placeholder"></a>placeholder</h2><p>用于<code>叶子栅格</code>,表示设置为YES时,叶子栅格不会放入一个对应的子视图</p>
+<h2 id="视图重叠"><a href="#视图重叠" class="headerlink" title="视图重叠"></a>视图重叠</h2><p><img src="/images/layout/MyGridLayout_Anchor.jpg" alt=""></p>
+<h3 id="JSON描述"><a href="#JSON描述" class="headerlink" title="JSON描述"></a>JSON描述</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">   &quot;overlap&quot;:&quot;bottom|left&quot;,</span><br><span class="line">   &quot;padding&quot;:&quot;&#123;0,0,5,0&#125;&quot;</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>
+<h3 id="内部实现"><a href="#内部实现" class="headerlink" title="内部实现"></a>内部实现</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">MyGravity tempGravity = MyGravity_None;</span><br><span class="line">  NSArray *array = [overlap componentsSeparatedByString:@&quot;|&quot;];</span><br><span class="line">  for (NSString *temp in array) &#123;</span><br><span class="line">      tempGravity |= [self returnGravity:temp];</span><br><span class="line">  &#125;</span><br><span class="line">  if (tempGravity != MyGravity_None)&#123;</span><br><span class="line">      gridNode.anchor = true;</span><br><span class="line">      gridNode.measure = 0;</span><br><span class="line">      gridNode.gravity = tempGravity;</span><br><span class="line">      gridNode.overlap = tempGravity;</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>
+<p><strong><code>内部机制三部曲</code></strong></p>
+<ol>
+<li><strong><code>&quot;gravity&quot;:&quot;bottom|left&quot;</code>表示<code>内部视图尺寸包裹</code>也就是<code>wrap的简写方式</code>目的是为了<code>减少对视图的尺寸设置</code>关键一点是必须让<code>视图自己包裹展示,而不是设置尺寸</code>。否则就达不到重叠视图的效果</strong></li>
+<li><strong>anchor:true</strong><code>栅格放入一个视图</code></li>
+<li><strong>gravity:</strong><code>表示重叠时对齐方式</code></li>
+</ol>
+<p><strong><code>注意事项</code></strong></p>
+<ul>
+<li>当<code>&quot;overlap&quot;:&quot;top|left&quot;</code>时:表示视图的顶部对齐,也就是视图区域的底部,然后再往下延伸</li>
+<li>当<code>&quot;overlap&quot;:&quot;bottom|left&quot;时:</code>表示视图的底部对齐,也就是视图区域的底部,然后再往上延伸</li>
+<li>如果想把<code>千奈美</code>设置为<code>左上方</code>方式:</li>
+</ul>
+<ol>
+<li>将高度为0的栅格作为第一行,然后再设置<code>gravity = top|left</code>,这种会造成<code>添加的视图会盖住前面添加的视图</code>      </li>
+<li>建立一个子栅格<code>推荐这一种</code>                    </li>
+</ol>
+<h1 id="布局属性介绍"><a href="#布局属性介绍" class="headerlink" title="布局属性介绍"></a>布局属性介绍</h1><h2 id="MyGrid"><a href="#MyGrid" class="headerlink" title="MyGrid"></a>MyGrid</h2><h3 id="定义格式化栅格描述语言的key和对应的value"><a href="#定义格式化栅格描述语言的key和对应的value" class="headerlink" title="定义格式化栅格描述语言的key和对应的value"></a>定义格式化栅格描述语言的key和对应的value</h3><ul>
+<li><p><strong>这些值可以用来设置栅格布局的gridDictionary属性中字典的各种键值对</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">kMyGridTag:  NSNumber类型,设置栅格的标签,对应MyGrid的tag属性。具体值为NSInteger</span><br><span class="line">kMyGridAction:  NSString类型，设置栅格的触摸动作，对应MyGrid的setTarget中的action参数</span><br><span class="line">kMyGridActionData: id类型,设置栅格的动作数据,对应MyGrid的actionData属性</span><br><span class="line">kMyGridRows: NSArray&lt;NSDictionary&gt;类型,表示里面的值是行子栅格数组。数组的元素是一个个子栅格字典对象</span><br><span class="line">kMyGridCols:  NSArray&lt;NSDictionary&gt;类型,表示里面的值是列子栅格数组。数组的元素是一个个子栅格字典对象</span><br><span class="line">kMyGridSize:  NSString类型或者NSNumber类型。设置栅格的尺寸,可以为特定的值vMyGridSizeWrap或者vMyGridSizeFill,也可以为某个具体的数字比如20.0,还可以为百分比数字比如：@&quot;20%&quot; 或者@&quot;-20%&quot;</span><br><span class="line">kMyGridPadding: NSString类型,设置栅格的内边距,对应MyGrid的padding属性,具体的值的格式为：@&quot;&#123;上,左,下,右&#125;&quot;</span><br><span class="line">kMyGridSpace: NSNumber类型，栅格的内子栅格的间距，对应MyGrid的subviewSpace属性</span><br><span class="line">kMyGridGravity: NSString类型,栅格的停靠属性,对应MyGrid的gravity属性,具体的值请参考下面的定义,比如：@&quot;top|left&quot;</span><br><span class="line">kMyGridPlaceholder://NSNumber类型,栅格的占位属性,对应MyGrid的placeholder 属性,具体的值设置为YES or NO</span><br><span class="line">kMyGridAnchor: NSNumber类型，栅格的锚点属性，对应MyGrid的anchor属性，具体的值设置为YES or NO</span><br><span class="line"></span><br><span class="line">kMyGridTopBorderline: NSDictionary类型 栅格的顶部边界线对象</span><br><span class="line">kMyGridBottomBorderline: NSDictionary类型 栅格的底部边界线对象</span><br><span class="line">kMyGridLeftBorderline: NSDictionary类型 栅格的左边边界线对象</span><br><span class="line">kMyGridRightBorderline: NSDictionary类型 栅格的右边边界线对象</span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>栅格的边界线对象所能设置的key</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">kMyGridBorderlineColor: NSString类型，用字符串格式描述的颜色值。具体为：@&quot;#FF0000&quot; 表示红色</span><br><span class="line">kMyGridBorderlineThick: NSNumber类型,边界线的粗细</span><br><span class="line">kMyGridBorderlineHeadIndent: NSNumber类型,边界线的头部缩进值</span><br><span class="line">kMyGridBorderlineTailIndent: NSNumber类型,边界线的尾部缩进值</span><br><span class="line">kMyGridBorderlineOffset: NSNumber类型,边界线的偏移值</span><br><span class="line">kMyGridBorderlineDash: NSNumber类型,边界线是虚线</span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>kMyGridSize可以设置的特殊值</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">vMyGridSizeWrap: 表示尺寸由子栅格决定</span><br><span class="line">vMyGridSizeFill: 表示尺寸填充父栅格的剩余部分</span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>kMyGridGravity可以设置的值</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">vMyGridGravityTop:     视图顶部对齐对应MyGravity_Vert_Top</span><br><span class="line">vMyGridGravityBottom:  视图底部对齐对应MyGravity_Vert_Bottom</span><br><span class="line">vMyGridGravityLeft:    视图左边对齐对应MyGravity_Horz_Left</span><br><span class="line">vMyGridGravityRight:   视图右边对齐对应MyGravity_Horz_Right</span><br><span class="line">vMyGridGravityLeading:  视图头部对应MyGravity_Horz_Leading</span><br><span class="line">vMyGridGravityTrailing: 视图尾部对应MyGravity_Horz_Trailing</span><br><span class="line">vMyGridGravityCenterX:  视图橫行居中MyGravity_Horz_CenterX</span><br><span class="line">vMyGridGravityCenterY:  视图纵向居中MyGravity_Vert_CenterY</span><br><span class="line">vMyGridGravityWidthFill:  视图宽度填充MyGravity_Horz_Fill</span><br><span class="line">vMyGridGravityHeightFill:  视图高度填充MyGravity_Vert_Fill</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+<h3 id="栅格动作接口-您可以触摸栅格来执行特定的动作和事件"><a href="#栅格动作接口-您可以触摸栅格来执行特定的动作和事件" class="headerlink" title="栅格动作接口,您可以触摸栅格来执行特定的动作和事件"></a><strong>栅格动作接口,您可以触摸栅格来执行特定的动作和事件</strong></h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">/**</span><br><span class="line"> 栅格动作接口，您可以触摸栅格来执行特定的动作和事件。</span><br><span class="line"> */</span><br><span class="line">@protocol MyGridAction&lt;NSObject&gt;</span><br><span class="line">	</span><br><span class="line">/**</span><br><span class="line"> 栅格的标签标识，用于在事件中区分栅格。</span><br><span class="line"> */</span><br><span class="line">@property(nonatomic)  NSInteger tag;</span><br><span class="line">	</span><br><span class="line">	</span><br><span class="line">/**</span><br><span class="line"> 栅格的动作数据，这个数据是栅格的扩展数据，您可以在动作中使用这个附加的数据来进行一系列操作。他可以是一个数值，也可以是个字符串，甚至可以是一段JS脚本。</span><br><span class="line"> */</span><br><span class="line">@property(nonatomic, strong) id actionData;</span><br><span class="line">	</span><br><span class="line">	</span><br><span class="line">	</span><br><span class="line">/**</span><br><span class="line"> 设置栅格的事件,如果取消栅格事件则设置target为nil</span><br><span class="line">	</span><br><span class="line"> @param target action事件的调用者</span><br><span class="line"> @param action action事件，格式为：-(void)handle:(id&lt;MyGrid&gt;)sender</span><br><span class="line"> */</span><br><span class="line">-(void)setTarget:(id)target action:(SEL)action;</span><br><span class="line">	</span><br><span class="line">@end</span><br></pre></td></tr></table></figure>
+<h3 id="栅格协议-用来描述栅格块以及栅格的添加和删除"><a href="#栅格协议-用来描述栅格块以及栅格的添加和删除" class="headerlink" title="栅格协议:用来描述栅格块以及栅格的添加和删除"></a>栅格协议:用来描述栅格块以及栅格的添加和删除</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br></pre></td><td class="code"><pre><span class="line">栅格可以按某个方向拆分为众多子栅格,而且这个过程可以递归进行。所有栅格布局中的子视图都将依次放入叶子栅格的区域中</span><br><span class="line"></span><br><span class="line">@protocol MyGrid &lt;MyGridAction&gt;</span><br><span class="line"></span><br><span class="line">//设置和获取栅格的尺寸</span><br><span class="line">@property(nonatomic, assign) CGFloat measure;</span><br><span class="line"></span><br><span class="line">//得到父栅格。根栅格的父栅格为nil</span><br><span class="line">@property(nonatomic, weak, readonly) id&lt;MyGrid&gt; superGrid;</span><br><span class="line"></span><br><span class="line">//得到所有子栅格</span><br><span class="line">@property(nonatomic, strong, readonly) NSArray&lt;id&lt;MyGrid&gt;&gt; *subGrids;</span><br><span class="line"></span><br><span class="line">//克隆出一个新栅格以及其下的所有子栅格。</span><br><span class="line">-(id&lt;MyGrid&gt;)cloneGrid;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> 栅格内子栅格之间的间距。</span><br><span class="line"> */</span><br><span class="line">@property(nonatomic, assign) CGFloat subviewSpace;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> 栅格内子栅格或者叶子栅格内视图的四周内边距。</span><br><span class="line"> */</span><br><span class="line">@property(nonatomic, assign) UIEdgeInsets padding;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> 栅格内子栅格或者叶子栅格内视图的对齐停靠方式.</span><br><span class="line"> </span><br><span class="line"> 1.对于非叶子栅格来说只能设置一个方向的停靠。具体只能设置左中右或者上中下</span><br><span class="line"> 2.对于叶子栅格来说，如果设置了gravity 则填充的子视图必须要设置明确的尺寸。</span><br><span class="line"> */</span><br><span class="line">@property(nonatomic, assign) MyGravity gravity;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> 占位标志，只用叶子栅格，当设置为YES时则表示这个格子只用于占位，子视图不能填充到这个栅格中。</span><br><span class="line"> */</span><br><span class="line">@property(nonatomic, assign) BOOL placeholder;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line">  锚点标志，表示这个栅格虽然是非叶子栅格，也可以用来填充视图。如果将非叶子栅格的锚点标志设置为YES，那么这个栅格也可以用来填充子视图，一般用来当做背景视图使用。</span><br><span class="line"> */</span><br><span class="line">@property(nonatomic, assign) BOOL anchor;</span><br><span class="line"></span><br><span class="line">/**顶部边界线*/</span><br><span class="line">@property(nonatomic, strong) MyBorderline *topBorderline;</span><br><span class="line">/**头部边界线*/</span><br><span class="line">@property(nonatomic, strong) MyBorderline *leadingBorderline;</span><br><span class="line">/**底部边界线*/</span><br><span class="line">@property(nonatomic, strong) MyBorderline *bottomBorderline;</span><br><span class="line">/**尾部边界线*/</span><br><span class="line">@property(nonatomic, strong) MyBorderline *trailingBorderline;</span><br><span class="line"></span><br><span class="line">/**如果您不需要考虑国际化的问题则请用这个属性设置左边边界线，否则用leadingBorderline*/</span><br><span class="line">@property(nonatomic, strong) MyBorderline *leftBorderline;</span><br><span class="line">/**如果您不需要考虑国际化的问题则请用这个属性设置右边边界线，否则用trailingBorderline*/</span><br><span class="line">@property(nonatomic, strong) MyBorderline *rightBorderline;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> 添加行栅格，返回新的栅格。其中的measure可以设置如下的值：</span><br><span class="line"> 1.大于等于1的常数，表示固定尺寸。</span><br><span class="line"> 2.大于0小于1的常数，表示占用整体尺寸的比例</span><br><span class="line"> 3.小于0大于-1的常数，表示占用剩余尺寸的比例</span><br><span class="line"> 4.MyLayoutSize.wrap 表示尺寸由子栅格包裹</span><br><span class="line"> 5.MyLayoutSize.fill 表示占用栅格剩余的尺寸</span><br><span class="line"> */</span><br><span class="line">-(id&lt;MyGrid&gt;)addRow:(CGFloat)measure;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> 添加列栅格，返回新的栅格。其中的measure可以设置如下的值：</span><br><span class="line"> 1.大于等于1的常数，表示固定尺寸。</span><br><span class="line"> 2.大于0小于1的常数，表示占用整体尺寸的比例</span><br><span class="line"> 3.小于0大于-1的常数，表示占用剩余尺寸的比例</span><br><span class="line"> 4.MyLayoutSize.wrap 表示尺寸由子栅格包裹</span><br><span class="line"> 5.MyLayoutSize.fill 表示占用栅格剩余的尺寸</span><br><span class="line"> */</span><br><span class="line">-(id&lt;MyGrid&gt;)addCol:(CGFloat)measure;</span><br><span class="line"></span><br><span class="line">//添加栅格，返回被添加的栅格。这个方法和下面的cloneGrid配合使用可以用来构建那些需要重复添加栅格的场景。</span><br><span class="line">-(id&lt;MyGrid&gt;)addRowGrid:(id&lt;MyGrid&gt;)grid;</span><br><span class="line">-(id&lt;MyGrid&gt;)addColGrid:(id&lt;MyGrid&gt;)grid;</span><br><span class="line"></span><br><span class="line">-(id&lt;MyGrid&gt;)addRowGrid:(id&lt;MyGrid&gt;)grid measure:(CGFloat)measure;</span><br><span class="line">-(id&lt;MyGrid&gt;)addColGrid:(id&lt;MyGrid&gt;)grid measure:(CGFloat)measure;</span><br><span class="line"></span><br><span class="line">//从父栅格中删除。</span><br><span class="line">-(void)removeFromSuperGrid;</span><br><span class="line"></span><br><span class="line">//用字典的方式来构造栅格。</span><br><span class="line">@property(nonatomic, strong) NSDictionary *gridDictionary;</span><br><span class="line"></span><br><span class="line">@end</span><br></pre></td></tr></table></figure>
+<h1 id="案例-1"><a href="#案例-1" class="headerlink" title="案例"></a>案例</h1><h2 id="演示"><a href="#演示" class="headerlink" title="演示"></a><a href="https://github.com/youngsoft/MyLinearLayout/blob/MyGridLayout/MyLayoutDemo" target="_blank" rel="noopener">演示</a></h2><p><img src="/images/layout/MyGirdLayout_Demo.gif" alt=""> </p>
+<h2 id="数据"><a href="#数据" class="headerlink" title="数据"></a><a href="https://github.com/youngsoft/MyLinearLayout/blob/MyGridLayout/MyLayoutDemo" target="_blank" rel="noopener">数据</a></h2><h3 id="Demo4"><a href="#Demo4" class="headerlink" title="Demo4"></a><a href="https://github.com/youngsoft/MyLinearLayout/blob/MyGridLayout/MyLayoutDemo/GLTest4ViewController.m" target="_blank" rel="noopener">Demo4</a></h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><span class="line">&#123;&quot;padding&quot;:&quot;&#123;10,0,10,0&#125;&quot;,&quot;tag&quot;:1000,&quot;rows&quot;:[&#123;&quot;size&quot;:120&#125;,&#123;&quot;size&quot;:20&#125;,</span><br><span class="line">&#123;&quot;size&quot;:150,&quot;tag&quot;:1,&quot;cols&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;cols&quot;:</span><br><span class="line">[&#123;&quot;size&quot;:&quot;20%&quot;&#125;,&#123;&quot;size&quot;:&quot;20%&quot;&#125;,&#123;&quot;size&quot;:&quot;20%&quot;&#125;,&#123;&quot;size&quot;:&quot;20%&quot;&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;20%&quot;&#125;]&#125;,&#123;&quot;size&quot;:&quot;fill&quot;,&quot;cols&quot;:[&#123;&quot;size&quot;:&quot;20%&quot;&#125;,&#123;&quot;size&quot;:&quot;20%&quot;&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;20%&quot;&#125;,&#123;&quot;size&quot;:&quot;20%&quot;&#125;,&#123;&quot;size&quot;:&quot;20%&quot;&#125;]&#125;]&#125;]&#125;,&#123;&quot;size&quot;:5,&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;fill&quot;,&quot;cols&quot;:[&#123;&quot;size&quot;:&quot;50%&quot;,&quot;padding&quot;:&quot;&#123;0,5,0,5&#125;&quot;,&quot;right-</span><br><span class="line">borderline&quot;:&#123;&quot;head&quot;:1,&quot;tail&quot;:1,&quot;offset&quot;:1,&quot;thick&quot;:</span><br><span class="line">1,&quot;color&quot;:&quot;#EEEEEE&quot;&#125;,&quot;bottom-borderline&quot;:&#123;&quot;head&quot;:1,&quot;tail&quot;:1,&quot;offset&quot;:</span><br><span class="line">1,&quot;thick&quot;:1,&quot;color&quot;:&quot;#EEEEEE&quot;&#125;,&quot;tag&quot;:2,&quot;action&quot;:&quot;handleTap:&quot;,&quot;rows&quot;:</span><br><span class="line">[&#123;&quot;size&quot;:40,&quot;cols&quot;:[&#123;&quot;anchor&quot;:true,&quot;size&quot;:80,&quot;padding&quot;:&quot;&#123;5,5,5,5&#125;&quot;,&quot;space&quot;:</span><br><span class="line">5,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;&#125;,&#123;&quot;size&quot;:&quot;fill&quot;&#125;]&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;fill&quot;,&quot;padding&quot;:&quot;&#123;5,5,5,5&#125;&quot;,&quot;space&quot;:5,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;fill&quot;&#125;]&#125;]&#125;,&#123;&quot;space&quot;:5,&quot;size&quot;:&quot;fill&quot;,&quot;cols&quot;:[&#123;&quot;padding&quot;:&quot;&#123;5, 5, 5, </span><br><span class="line">5&#125;&quot;,&quot;size&quot;:&quot;fill&quot;&#125;,&#123;&quot;padding&quot;:&quot;&#123;5, 5, 5, 5&#125;&quot;,&quot;size&quot;:&quot;fill&quot;&#125;]&#125;,</span><br><span class="line">&#123;&quot;overlap&quot;:&quot;bottom|left&quot;,&quot;padding&quot;:&quot;&#123;0,0,5,0&#125;&quot;&#125;]&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;50%&quot;,&quot;padding&quot;:&quot;&#123;0,5,0,5&#125;&quot;,&quot;right-borderline&quot;:&#123;&quot;head&quot;:1,&quot;tail&quot;:</span><br><span class="line">1,&quot;offset&quot;:1,&quot;thick&quot;:1,&quot;color&quot;:&quot;#EEEEEE&quot;&#125;,&quot;bottom-borderline&quot;:&#123;&quot;head&quot;:</span><br><span class="line">1,&quot;tail&quot;:1,&quot;offset&quot;:1,&quot;thick&quot;:</span><br><span class="line">1,&quot;color&quot;:&quot;#EEEEEE&quot;&#125;,&quot;action&quot;:&quot;handleTap:&quot;,&quot;tag&quot;:3,&quot;rows&quot;:</span><br><span class="line">[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;cols&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;wrap&quot;&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;wrap&quot;&#125;,&#123;&quot;padding&quot;:&quot;&#123;5, 5, 5, 5&#125;&quot;,&quot;size&quot;:&quot;wrap&quot;&#125;]&#125;,&#123;&quot;padding&quot;:&quot;&#123;5, </span><br><span class="line">5, 5, 5&#125;&quot;,&quot;size&quot;:&quot;fill&quot;&#125;]&#125;]&#125;]&#125;,&#123;&quot;size&quot;:&quot;fill&quot;,&quot;cols&quot;:</span><br><span class="line">[&#123;&quot;size&quot;:&quot;50%&quot;,&quot;padding&quot;:&quot;&#123;0,5,0,5&#125;&quot;,&quot;right-borderline&quot;:&#123;&quot;head&quot;:1,&quot;tail&quot;:</span><br><span class="line">1,&quot;offset&quot;:1,&quot;thick&quot;:1,&quot;color&quot;:&quot;#EEEEEE&quot;&#125;,&quot;bottom-borderline&quot;:&#123;&quot;head&quot;:</span><br><span class="line">1,&quot;tail&quot;:1,&quot;offset&quot;:1,&quot;thick&quot;:1,&quot;color&quot;:&quot;#EEEEEE&quot;&#125;,&quot;tag&quot;:</span><br><span class="line">3,&quot;action&quot;:&quot;handleTap:&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;cols&quot;:</span><br><span class="line">[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;wrap&quot;&#125;,&#123;&quot;size&quot;:&quot;wrap&quot;&#125;,&#123;&quot;padding&quot;:&quot;&#123;5, 5, 5, 5&#125;&quot;,&quot;size&quot;:&quot;wrap&quot;&#125;]&#125;,&#123;&quot;padding&quot;:&quot;&#123;5, 5, 5, 5&#125;&quot;,&quot;size&quot;:&quot;fill&quot;&#125;]&#125;]&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;50%&quot;,&quot;padding&quot;:&quot;&#123;0,5,0,5&#125;&quot;,&quot;right-borderline&quot;:&#123;&quot;head&quot;:1,&quot;tail&quot;:</span><br><span class="line">1,&quot;offset&quot;:1,&quot;thick&quot;:1,&quot;color&quot;:&quot;#EEEEEE&quot;&#125;,&quot;bottom-borderline&quot;:&#123;&quot;head&quot;:</span><br><span class="line">1,&quot;tail&quot;:1,&quot;offset&quot;:1,&quot;thick&quot;:1,&quot;color&quot;:&quot;#EEEEEE&quot;&#125;,&quot;tag&quot;:</span><br><span class="line">3,&quot;action&quot;:&quot;handleTap:&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;cols&quot;:</span><br><span class="line">[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;wrap&quot;&#125;,&#123;&quot;size&quot;:&quot;wrap&quot;&#125;,&#123;&quot;padding&quot;:&quot;&#123;5, 5, </span><br><span class="line">5, 5&#125;&quot;,&quot;size&quot;:&quot;wrap&quot;&#125;]&#125;,&#123;&quot;padding&quot;:&quot;&#123;5, 5, 5, 5&#125;&quot;,&quot;size&quot;:&quot;fill&quot;&#125;]&#125;,</span><br><span class="line">&#123;&quot;overlap&quot;:&quot;bottom|left&quot;,&quot;padding&quot;:&quot;&#123;0,0,5,0&#125;&quot;&#125;]&#125;]&#125;]&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="Demo5"><a href="#Demo5" class="headerlink" title="Demo5"></a><a href="https://github.com/youngsoft/MyLinearLayout/blob/MyGridLayout/MyLayoutDemo/GLTest5ViewController.m" target="_blank" rel="noopener">Demo5</a></h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">&#123;&quot;rows&quot;:[&#123;&quot;size&quot;:240,&quot;padding&quot;:&quot;&#123;10,10,5,10&#125;&quot;,&quot;space&quot;:5,&quot;cols&quot;:</span><br><span class="line">[&#123;&quot;size&quot;:&quot;40%&quot;,&quot;anchor&quot;:true,&quot;tag&quot;:222,&quot;padding&quot;:&quot;&#123;0,20,0,20&#125;&quot;,&quot;rows&quot;:</span><br><span class="line">[&#123;&quot;size&quot;:35,&quot;anchor&quot;:&quot;true&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;&#125;]&#125;,&#123;&quot;size&quot;:</span><br><span class="line">30,&quot;anchor&quot;:&quot;true&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;&#125;]&#125;]&#125;,&#123;&quot;size&quot;:&quot;30%&quot;,&quot;space&quot;:</span><br><span class="line">5,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;tag&quot;:333,&quot;anchor&quot;:&quot;true&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:30&#125;]&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;fill&quot;,&quot;anchor&quot;:&quot;true&quot;,&quot;tag&quot;:333,&quot;rows&quot;:[&#123;&quot;size&quot;:30&#125;]&#125;]&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;30%&quot;,&quot;space&quot;:5,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;tag&quot;:</span><br><span class="line">333,&quot;anchor&quot;:&quot;true&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:30&#125;]&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;fill&quot;,&quot;anchor&quot;:&quot;true&quot;,&quot;tag&quot;:333,&quot;rows&quot;:[&#123;&quot;size&quot;:30&#125;]&#125;]&#125;]&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;fill&quot;,&quot;anchor&quot;:true,&quot;tag&quot;:111,&quot;top-borderline&quot;:&#123;&quot;thick&quot;:</span><br><span class="line">10,&quot;offset&quot;:5,&quot;color&quot;:&quot;#D1D1D1&quot;&#125;,&quot;space&quot;:</span><br><span class="line">5,&quot;padding&quot;:&quot;&#123;10,10,10,10&#125;&quot;,&quot;rows&quot;:[&#123;&quot;size&quot;:40,&quot;tag&quot;:1&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;fill&quot;,&quot;space&quot;:10,&quot;cols&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;anchor&quot;:true,&quot;tag&quot;:</span><br><span class="line">2,&quot;rows&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;placeholder&quot;:true&#125;,&#123;&quot;size&quot;:</span><br><span class="line">50,&quot;anchor&quot;:true,&quot;cols&quot;:[&#123;&quot;placeholder&quot;:true,&quot;size&quot;:&quot;50%&quot;&#125;,</span><br><span class="line">&#123;&quot;size&quot;:&quot;50%&quot;&#125;]&#125;]&#125;,&#123;&quot;size&quot;:&quot;fill&quot;,&quot;anchor&quot;:true,&quot;tag&quot;:2,&quot;rows&quot;:</span><br><span class="line">[&#123;&quot;size&quot;:&quot;fill&quot;,&quot;placeholder&quot;:true&#125;,&#123;&quot;size&quot;:50,&quot;anchor&quot;:true,&quot;cols&quot;:</span><br><span class="line">[&#123;&quot;placeholder&quot;:true,&quot;size&quot;:&quot;50%&quot;&#125;,&#123;&quot;size&quot;:&quot;50%&quot;&#125;]&#125;]&#125;]&#125;,&#123;&quot;size&quot;:25,&quot;bottom-</span><br><span class="line">borderline&quot;:&#123;&quot;thick&quot;:1,&quot;color&quot;:&quot;#D1D1D1&quot;&#125;&#125;,&#123;&quot;size&quot;:</span><br><span class="line">40,&quot;padding&quot;:&quot;&#123;10,5,10,5&#125;&quot;,&quot;cols&quot;:[&#123;&quot;size&quot;:&quot;fill&quot;&#125;,&#123;&quot;size&quot;:&quot;wrap&quot;&#125;]&#125;]&#125;]&#125;</span><br></pre></td></tr></table></figure>
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/layout/" rel="tag"># layout</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2017/11/06/IOS/(UIViewLayout)布局/UIView_Layout/" rel="prev" title="UIView布局">
+                UIView布局 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/bicyclering.jpg"
+                alt="覆雪古树" />
+            
+              <p class="site-author-name" itemprop="name">覆雪古树</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">139</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">8</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">30</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/bicyclering/" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#初衷和项目源代码"><span class="nav-number">1.</span> <span class="nav-text">初衷和项目源代码</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#原理"><span class="nav-number">2.</span> <span class="nav-text">原理</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#叶子格子和非叶子格子区别"><span class="nav-number">2.1.</span> <span class="nav-text">叶子格子和非叶子格子区别</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#视图组"><span class="nav-number">2.2.</span> <span class="nav-text">视图组</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#布局技巧"><span class="nav-number">3.</span> <span class="nav-text">布局技巧</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#拆分子格子几种方法"><span class="nav-number">3.1.</span> <span class="nav-text">拆分子格子几种方法</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#描述"><span class="nav-number">3.1.1.</span> <span class="nav-text">描述</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#案例"><span class="nav-number">3.1.2.</span> <span class="nav-text">案例</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#布局尺寸描述"><span class="nav-number">3.2.</span> <span class="nav-text">布局尺寸描述</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#anchor锚点"><span class="nav-number">3.3.</span> <span class="nav-text">anchor锚点</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#placeholder"><span class="nav-number">3.4.</span> <span class="nav-text">placeholder</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#视图重叠"><span class="nav-number">3.5.</span> <span class="nav-text">视图重叠</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#JSON描述"><span class="nav-number">3.5.1.</span> <span class="nav-text">JSON描述</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#内部实现"><span class="nav-number">3.5.2.</span> <span class="nav-text">内部实现</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#布局属性介绍"><span class="nav-number">4.</span> <span class="nav-text">布局属性介绍</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#MyGrid"><span class="nav-number">4.1.</span> <span class="nav-text">MyGrid</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#定义格式化栅格描述语言的key和对应的value"><span class="nav-number">4.1.1.</span> <span class="nav-text">定义格式化栅格描述语言的key和对应的value</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#栅格动作接口-您可以触摸栅格来执行特定的动作和事件"><span class="nav-number">4.1.2.</span> <span class="nav-text">栅格动作接口,您可以触摸栅格来执行特定的动作和事件</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#栅格协议-用来描述栅格块以及栅格的添加和删除"><span class="nav-number">4.1.3.</span> <span class="nav-text">栅格协议:用来描述栅格块以及栅格的添加和删除</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#案例-1"><span class="nav-number">5.</span> <span class="nav-text">案例</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#演示"><span class="nav-number">5.1.</span> <span class="nav-text">演示</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#数据"><span class="nav-number">5.2.</span> <span class="nav-text">数据</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Demo4"><span class="nav-number">5.2.1.</span> <span class="nav-text">Demo4</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Demo5"><span class="nav-number">5.2.2.</span> <span class="nav-text">Demo5</span></a></li></ol></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">覆雪古树</span>
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: '1504272600000', 
+            owner: 'bicyclering',
+            repo: 'bicyclering.github.io',
+            
+            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: '182b21f290f00470ce262e9b8337488251f877f0',
+            
+                client_id: 'a20e7fe4e3bc17dde8b6'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      renderGitment();
+      
+      </script>
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

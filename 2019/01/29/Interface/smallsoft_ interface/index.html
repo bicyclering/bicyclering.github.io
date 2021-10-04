@@ -1,0 +1,1371 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="interview," />
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="接口__construct构造函数 默认其它请求接口传参数包含: 必要参数:  open_id  小程序授权open_id app_id   当前小程序的唯一标识 nick_name 名称 gender 性别 city 城市 province 省份 avatar_url 头像  授权成功以后就会保存当前这个用户所有信息,小程序就不用传uid参数  sendMessageCode 根据手机号码发送短">
+<meta name="keywords" content="interview">
+<meta property="og:type" content="article">
+<meta property="og:title" content="小程序接口">
+<meta property="og:url" content="http://yoursite.com/2019/01/29/Interface/smallsoft_ interface/index.html">
+<meta property="og:site_name" content="Bicyclering">
+<meta property="og:description" content="接口__construct构造函数 默认其它请求接口传参数包含: 必要参数:  open_id  小程序授权open_id app_id   当前小程序的唯一标识 nick_name 名称 gender 性别 city 城市 province 省份 avatar_url 头像  授权成功以后就会保存当前这个用户所有信息,小程序就不用传uid参数  sendMessageCode 根据手机号码发送短">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:updated_time" content="2021-08-20T13:18:42.081Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="小程序接口">
+<meta name="twitter:description" content="接口__construct构造函数 默认其它请求接口传参数包含: 必要参数:  open_id  小程序授权open_id app_id   当前小程序的唯一标识 nick_name 名称 gender 性别 city 城市 province 省份 avatar_url 头像  授权成功以后就会保存当前这个用户所有信息,小程序就不用传uid参数  sendMessageCode 根据手机号码发送短">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2019/01/29/Interface/smallsoft_ interface/"/>
+
+
+
+
+
+  <title>小程序接口 | Bicyclering</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Bicyclering</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">要么读书,要么旅行,身体和灵魂总有一个在路上</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-commonweal">
+          <a href="/404/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br />
+            
+            公益404
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/01/29/Interface/smallsoft_ interface/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="覆雪古树">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/bicyclering.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Bicyclering">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">小程序接口</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-01-29T15:09:10+08:00">
+                2019-01-29
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2019/01/29/Interface/smallsoft_ interface/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count gitment-comments-count" data-xid="/2019/01/29/Interface/smallsoft_ interface/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h1 id="接口"><a href="#接口" class="headerlink" title="接口"></a>接口</h1><h2 id="construct构造函数"><a href="#construct构造函数" class="headerlink" title="__construct构造函数"></a>__construct构造函数</h2><blockquote>
+<p>默认其它请求接口传参数包含:</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>open_id  <code>小程序授权open_id</code></p>
+<p>app_id   <code>当前小程序的唯一标识</code></p>
+<p>nick_name <code>名称</code></p>
+<p>gender <code>性别</code></p>
+<p>city <code>城市</code></p>
+<p>province <code>省份</code></p>
+<p>avatar_url <code>头像</code></p>
+</blockquote>
+<p>授权成功以后就会保存当前这个用户所有信息,小程序就不用传uid参数</p>
+</blockquote>
+<h2 id="sendMessageCode"><a href="#sendMessageCode" class="headerlink" title="sendMessageCode"></a>sendMessageCode</h2><blockquote>
+<p>根据手机号码发送短信验证码</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>mobile <code>手机号码</code></p>
+</blockquote>
+</blockquote>
+<h2 id="bindingMobile"><a href="#bindingMobile" class="headerlink" title="bindingMobile"></a>bindingMobile</h2><blockquote>
+<p>绑定手机号码</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>mobile <code>手机号码</code></p>
+<p>code <code>短信验证码</code></p>
+</blockquote>
+<p>根据绑定后的手机就同步该用户订单历史信息和个人信息</p>
+</blockquote>
+<h2 id="index"><a href="#index" class="headerlink" title="index"></a>index</h2><blockquote>
+<p>小程序首页接口</p>
+<p><strong>return参数:</strong><br>`<br>    state: 10,<br>    msg: “成功”,<br>    data: {<br>    second_kill_data: [</p>
+</blockquote>
+<pre><code>    {
+       id: &quot;137&quot;,
+        title: &quot;倒流香（塔香）45粒/盒&quot;,
+        product_id: &quot;2272916&quot;,
+        retail_price: &quot;67&quot;,
+        second_kill_price: &quot;0.1&quot;,
+        limit_num: &quot;1&quot;,
+        syt_sku: &quot;9050265&quot;,
+        price_id: &quot;13589&quot;,
+        start_time: &quot;2019-01-22 00:00:00&quot;,
+        end_time: &quot;2019-01-25 00:00:00&quot;,
+        desc: &quot;观山流水，犹在山间。&quot;,
+        pic: &quot;http://pic1.syt.cn/upload/2019/01/14/141304K7EFM1RQ8TBVX4ND.jpg&quot;
+    },
+    {
+    id: &quot;136&quot;,
+    title: &quot;透明管状线香10g装&quot;,
+    product_id: &quot;2272127&quot;,
+    retail_price: &quot;37&quot;,
+    second_kill_price: &quot;0.01&quot;,
+    limit_num: &quot;2&quot;,
+    syt_sku: &quot;9050247&quot;,
+    price_id: &quot;12608&quot;,
+    start_time: &quot;2019-01-22 00:00:00&quot;,
+    end_time: &quot;2019-01-25 00:00:00&quot;,
+    desc: &quot;&quot;,
+    pic: &quot;http://pic3.syt.cn/upload/2018/03/27/102754AEMH73MUVXYH2L56.jpg&quot;
+    }
+]
+}
+</code></pre><p>`</p>
+<h2 id="flashSaleDetailInfo"><a href="#flashSaleDetailInfo" class="headerlink" title="flashSaleDetailInfo"></a>flashSaleDetailInfo</h2><blockquote>
+<p>抢购 → 详情界面数据</p>
+<p><strong>必要参数</strong></p>
+<blockquote>
+<p>id 秒杀标识id<br><strong>return参数</strong><br><code>&#39;id&#39;  #秒杀Id
+    &#39;product_id&#39;  #产品Id
+    &#39;carousels&#39; #轮播图片
+    &#39;second_kill_price&#39; #秒杀价格
+    &#39;retail_price&#39; #零售价格
+    &#39;title&#39; #标题
+    &#39;price_id&#39;#套餐id
+    &#39;price_name&#39;  #套餐名称
+    &#39;graphic_text&#39; #描述
+    &#39;limit_num&#39; #数量
+    &#39;remain_second&#39;  #剩余多少秒
+    &#39;is_shared&#39; =&gt; &#39;1&#39;, # 判断分享数量是否大于购买数量  ≥ 购买数量 为 1  否则 为0</code></p>
+</blockquote>
+</blockquote>
+<h2 id="goSecondKillProduct"><a href="#goSecondKillProduct" class="headerlink" title="goSecondKillProduct"></a>goSecondKillProduct</h2><blockquote>
+<p>立即抢购 → 商品</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>id <code>秒杀Id</code></p>
+<p>addr_id <code>地址Id</code></p>
+<p>uid <code>用户Id</code></p>
+</blockquote>
+</blockquote>
+<h2 id="queryAllTagData"><a href="#queryAllTagData" class="headerlink" title="queryAllTagData"></a>queryAllTagData</h2><blockquote>
+<p>查询全部tag 类型数据</p>
+<p><strong>return数据</strong><br><code>array(
+    &#39;id&#39;=&gt;&#39;0&#39;, #标识Id
+    &#39;name&#39; =&gt; &#39;全部&#39;, #标题
+    ),
+    array(
+        &#39;id&#39;=&gt;&#39;1&#39;, #标识Id
+        &#39;name&#39; =&gt; &#39;自用&#39;, #标题
+    ),
+    array(
+        &#39;id&#39;=&gt;&#39;2&#39;, #标识Id
+        &#39;name&#39; =&gt; &#39;礼盒&#39;, #标题
+    ),array(
+        &#39;id&#39;=&gt;&#39;3&#39;, #标识Id
+        &#39;name&#39; =&gt; &#39;饰品&#39;, #标题
+    ),
+    array(
+        &#39;id&#39;=&gt;&#39;4&#39;, #标识Id
+        &#39;name&#39; =&gt; &#39;雕刻&#39;, #标题
+    ),array(
+        &#39;id&#39;=&gt;&#39;5&#39;, #标识Id
+        &#39;name&#39; =&gt; &#39;药用&#39;, #标题
+    ),</code></p>
+</blockquote>
+<h2 id="queryAllProductData"><a href="#queryAllProductData" class="headerlink" title="queryAllProductData"></a>queryAllProductData</h2><blockquote>
+<p>获取沉香全部商品</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>tag_id <code>标签类型Id</code></p>
+<p>page <code>分页索引</code></p>
+<p>size <code>分页获取数据数量</code><br><strong>return数据:</strong><br><code>{
+    id: &quot;2273044&quot;,
+    family_id: &quot;18120000&quot;,
+    category_id: &quot;0&quot;,
+    pic: &quot;http://pic3.syt.cn/upload/2019/01/29/134048DUK4MPDXG67EF6QE.jpg&quot;,
+    title: &quot;【沉香雕件】仙人指路&quot;,
+    l_price: &quot;11900&quot;,
+    h_price: &quot;11900&quot;,
+    retail_price: null,
+    syt_sku: &quot;CXSH00011S&quot;,
+    background_color: &quot;#cccccc&quot;
+    }</code></p>
+</blockquote>
+</blockquote>
+<h2 id="queryProductDetailInfo"><a href="#queryProductDetailInfo" class="headerlink" title="queryProductDetailInfo"></a>queryProductDetailInfo</h2><blockquote>
+<p>获取商品详情</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>pid <code>商品Id</code></p>
+</blockquote>
+<p><strong>return数据</strong><br><code>{&quot;state&quot;:10,&quot;msg&quot;:&quot;success&quot;,&quot;data&quot;:{&quot;id&quot;:2273028,&quot;name&quot;:&quot;\u3010\u6c89\u9999\u96d5\u4ef6\u3011\u6e38\u5c71\u73a9\u6c34&quot;,&quot;carousels&quot;:[&quot;http:\/\/pic3.syt.cn\/upload\/2019\/01\/22\/1149271LMTHCJWLF5Z61V3.jpg&quot;,&quot;http:\/\/pic1.syt.cn\/upload\/2019\/01\/22\/114943QUKL57WXGPQFG67X.jpg&quot;,&quot;http:\/\/pic3.syt.cn\/upload\/2019\/01\/22\/1149383PWYZJ3SBCKSTC24.jpg&quot;,&quot;http:\/\/pic3.syt.cn\/upload\/2019\/01\/22\/115003RV3M67WYH7RFZJ3S.jpg&quot;,&quot;http:\/\/pic2.syt.cn\/upload\/2019\/01\/22\/115007BAZJL56DE9UVWM5C.jpg&quot;],&quot;subname&quot;:&quot;\u3010\u6c89\u9999\u96d5\u4ef6\u3011\u6e38\u5c71\u73a9\u6c34&quot;,&quot;subdesc&quot;:&quot;&quot;,&quot;brand&quot;:&quot;\u4e0a\u5143\u5802&quot;,&quot;family&quot;:&quot;\u6c89\u9999\u4ea7\u54c1&quot;,&quot;type&quot;:&quot;\u6c89\u9999\u4ea7\u54c1&quot;,&quot;factory&quot;:&quot;&quot;,&quot;graphic_text&quot;:&quot;&amp;lt;img src=\&quot;http:\/\/pic3.syt.cn\/upload\/2019\/01\/22\/115016MP29F5G6JD2ELYTZ_800x800.jpg\&quot;&amp;gt;&amp;lt;img src=\&quot;http:\/\/pic1.syt.cn\/upload\/2019\/01\/22\/115017C45BU7DRF9GBPC7E_800x800.jpg\&quot;&amp;gt;&amp;lt;img src=\&quot;http:\/\/pic3.syt.cn\/upload\/2019\/01\/22\/1150188TUHQW3X5GP1V3EL_800x800.jpg\&quot;&amp;gt;&amp;lt;img src=\&quot;http:\/\/pic3.syt.cn\/upload\/2019\/01\/22\/115019SPKRS5TZV2WRFAZU_800x800.jpg\&quot;&amp;gt;&amp;lt;img src=\&quot;http:\/\/pic2.syt.cn\/upload\/2019\/01\/22\/115019PS5B1DKE4Y5HPJ83_800x800.jpg\&quot;&amp;gt;&amp;lt;img src=\&quot;http:\/\/pic3.syt.cn\/upload\/2019\/01\/22\/1150203UPVK9YMHU2DLXAG_800x800.jpg\&quot;&amp;gt;&amp;lt;img src=\&quot;http:\/\/pic3.syt.cn\/upload\/2019\/01\/22\/1150219J9AH13AGJ2SB189_800x800.jpg\&quot;&amp;gt;&amp;lt;img src=\&quot;http:\/\/pic3.syt.cn\/upload\/2019\/01\/22\/115022YWM67WFH7RXG18FZ_800x800.jpg\&quot;&amp;gt;&amp;lt;img src=\&quot;http:\/\/pic3.syt.cn\/upload\/2019\/01\/22\/1150224HV29FMTPJQK94A5_800x800.jpg\&quot;&amp;gt;&amp;lt;br \/&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src=\&quot;http:\/\/pic.syt.cn\/img\/www\/pro_explain.jpg\&quot; \/&amp;gt;&amp;lt;\/p&amp;gt;&quot;,&quot;on_sale&quot;:&quot;1&quot;,&quot;syt_sku&quot;:&quot;  CXSH00016&quot;,&quot;comments&quot;:[],&quot;l_price&quot;:&quot;6000&quot;,&quot;h_price&quot;:&quot;6000&quot;,&quot;taocan&quot;:[{&quot;id&quot;:13726,&quot;name&quot;:&quot;\u3010\u9999\u5bfb\u6709\u7f18\u4eba\u3011&quot;,&quot;desc&quot;:&quot;&quot;,&quot;price&quot;:&quot;6000&quot;}],&quot;taocanInfo&quot;:[{&quot;price_id&quot;:13726,&quot;name&quot;:&quot;\u3010\u9999\u5bfb\u6709\u7f18\u4eba\u3011&quot;,&quot;item&quot;:[{&quot;name&quot;:&quot;\u3010\u6c89\u9999\u96d5\u4ef6\u3011\u6e38\u5c71\u73a9\u6c34&quot;,&quot;num&quot;:&quot;1&quot;}]}]}}</code></p>
+</blockquote>
+<h2 id="queryAllCommentData"><a href="#queryAllCommentData" class="headerlink" title="queryAllCommentData"></a>queryAllCommentData</h2><blockquote>
+<p>获取沉香全部商品</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>pid <code>商品Id</code></p>
+<p>page <code>分页索引</code></p>
+<p>size <code>分页获取数据数量</code><br><strong>return数据:</strong><br><code>state: 10,
+    msg: &quot;success&quot;,
+    data: [
+    {
+    mobile: &quot;189****6122&quot;,
+    nickname: &quot;&quot;,
+    mem_level: null,
+    comment: &quot;不错,发货速度很快&quot;,
+    score: &quot;5&quot;,
+    response: &quot;&quot;,
+    com_time: &quot;0000-00-00 00:00:00&quot;,
+    images: [ ]
+    },
+    {
+    mobile: &quot;189****9516&quot;,
+    nickname: &quot;&quot;,
+    mem_level: null,
+    comment: &quot;东西是正品&quot;,
+    score: &quot;5&quot;,
+    response: &quot;&quot;,
+    com_time: &quot;0000-00-00 00:00:00&quot;,
+    images: [ ]
+    }
+    ]</code></p>
+</blockquote>
+</blockquote>
+<h2 id="queryAllOrderListData"><a href="#queryAllOrderListData" class="headerlink" title="queryAllOrderListData"></a>queryAllOrderListData</h2><blockquote>
+<p>查询所有订单数据</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>uid <code>用户Id</code></p>
+<p>page <code>分页索引</code></p>
+<p>size <code>分页获取数据数量</code></p>
+<p>state `state -1 为全部订单    订单状态（0 取消  10 下单  20 支付/待发货  30待收货 40已收货 50 已评价）</p>
+</blockquote>
+<p><strong>return数据:</strong><br><code>{
+    ordnum: &quot;GW190124113141&quot;,
+    state: &quot;0&quot;,
+    ctime: &quot;2019-01-24 11:09:07&quot;,
+    addr_name: &quot;葛海峰&quot;,
+    address: &quot;江苏省 南京市 江宁区 宏运大道2199号上元堂&quot;,
+    mobile: &quot;18013042212&quot;,
+    total_price: &quot;0.1&quot;,
+    products: [
+    {
+    id: &quot;2272916&quot;,
+    name: &quot;【新春福利】上元堂 倒流香（塔香） 45粒/盒 4盒塔香送手串或挂珠&quot;,
+    pic: &quot;http://pic1.syt.cn/upload/2019/01/14/141304K7EFM1RQ8TBVX4ND.jpg&quot;,
+    price_id: &quot;13589&quot;,
+    price_name: &quot;【标准品】单盒塔香无香炉&quot;,
+    price: &quot;67&quot;,
+    num: &quot;1&quot;
+    }
+    ],
+    express_type: &quot;kd&quot;,
+    express_name: &quot;&quot;,
+    express_num: &quot;&quot;,
+    url: &quot;&quot;
+    }</code></p>
+</blockquote>
+<h2 id="queryShoppingCartAllData"><a href="#queryShoppingCartAllData" class="headerlink" title="queryShoppingCartAllData"></a>queryShoppingCartAllData</h2><blockquote>
+<p>购物车商品列表</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>uid <code>用户Id</code><br><strong>return数据:</strong><br><code>&#39;id&#39;    //商品id
+    &#39;name&#39;    //商品名
+    &#39;pic&#39;    //商品封面
+    &#39;price_id&#39; //套餐id
+    &#39;price_name&#39;    //套餐名
+    &#39;price&#39;    //套餐价格
+    &#39;num&#39;        //购物车中数量
+    &#39;tejia&#39;    0,
+    &#39;s_price&#39;    
+    &#39;limit_num&#39;    -1,</code></p>
+</blockquote>
+</blockquote>
+<h2 id="addShoppingCart"><a href="#addShoppingCart" class="headerlink" title="addShoppingCart"></a>addShoppingCart</h2><blockquote>
+<p>添加购物车中商品</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>uid <code>用户Id</code></p>
+<p>price_id <code>套餐id</code></p>
+<p>num <code>购买数量</code></p>
+</blockquote>
+</blockquote>
+<h2 id="removeShoppingCart"><a href="#removeShoppingCart" class="headerlink" title="removeShoppingCart"></a>removeShoppingCart</h2><blockquote>
+<p>删除购物车中商品</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>uid <code>用户Id</code></p>
+<p>price_id <code>套餐id</code></p>
+</blockquote>
+</blockquote>
+<h2 id="getUserAddress"><a href="#getUserAddress" class="headerlink" title="getUserAddress"></a>getUserAddress</h2><blockquote>
+<p>管理收货地址——收货地址列表</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>uid <code>用户Id</code></p>
+</blockquote>
+<p><strong>return数据:</strong><br><code>{
+        &quot;id&quot;: &quot;45830&quot;,
+        &quot;uid&quot;: &quot;1&quot;,
+        &quot;province&quot;: &quot;江苏省&quot;,
+        &quot;city&quot;: &quot;南京市&quot;,
+        &quot;area&quot;: &quot;江宁区&quot;,
+        &quot;address&quot;: &quot;宏运大道2199号上元堂&quot;,
+        &quot;name&quot;: &quot;葛海峰&quot;,
+        &quot;mobile&quot;: &quot;18013042212&quot;,
+        &quot;tel&quot;: &quot;&quot;,
+        &quot;isdefault&quot;: &quot;1&quot;,
+        &quot;lng&quot;: &quot;&quot;,
+        &quot;lat&quot;: &quot;&quot;,
+        &quot;add_time&quot;: &quot;2018-03-15 16:44:02&quot;,
+        &quot;upd_time&quot;: &quot;2018-03-15 16:44:02&quot;,
+        &quot;effect&quot;: &quot;1&quot;
+    }</code></p>
+</blockquote>
+<h2 id="setDefaultAddress"><a href="#setDefaultAddress" class="headerlink" title="setDefaultAddress"></a>setDefaultAddress</h2><blockquote>
+<p>管理收货地址——设置默认地址</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>uid <code>用户Id</code></p>
+<p>addr_id <code>收货地址Id</code></p>
+</blockquote>
+</blockquote>
+<h2 id="editAddress"><a href="#editAddress" class="headerlink" title="editAddress"></a>editAddress</h2><blockquote>
+<p>管理收货地址——编辑地址</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>addr_id <code>收货地址Id</code></p>
+<p>province <code>省份</code></p>
+<p>city <code>城市</code></p>
+<p>area <code>地区</code></p>
+<p>address <code>详细地址</code></p>
+<p>name <code>名字</code></p>
+<p>mobile <code>手机号码</code></p>
+</blockquote>
+</blockquote>
+<h2 id="creatAddress"><a href="#creatAddress" class="headerlink" title="creatAddress"></a>creatAddress</h2><blockquote>
+<p>管理收货地址——添加地址</p>
+<p><strong>必要参数:</strong></p>
+<blockquote>
+<p>province <code>省份</code></p>
+<p>city <code>城市</code></p>
+<p>area <code>地区</code></p>
+<p>address <code>详细地址</code></p>
+<p>name <code>名字</code></p>
+<p>mobile <code>手机号码</code></p>
+</blockquote>
+</blockquote>
+<h2 id="areaGetByParentId"><a href="#areaGetByParentId" class="headerlink" title="areaGetByParentId"></a>areaGetByParentId</h2><blockquote>
+<p> 根据parent_id 查询数据</p>
+<p> <strong>必要参数:</strong></p>
+<p> parent_id <code>默认为0 查询所有parentId 为0的数据</code></p>
+<p> <strong>return参数:</strong></p>
+<p> state: 10,<br>    msg: “success”,<br>    data: {<br>        110000: {<br>        id: “110000”,<br>        name: “北京市”,<br>        parent_id: “0”<br>        }<br>    }</p>
+</blockquote>
+<h2 id="provinceCityArea"><a href="#provinceCityArea" class="headerlink" title="provinceCityArea"></a>provinceCityArea</h2><blockquote>
+<p>管理收货地址——省市区接口</p>
+<p><strong>return参数:</strong><br><code>{
+        &quot;id&quot;: &quot;110000&quot;,
+        &quot;name&quot;: &quot;北京市&quot;,
+        &quot;parent_id&quot;: &quot;0&quot;,
+        &quot;level_depth&quot;: 1,
+        &quot;children&quot;: [
+            {
+                &quot;id&quot;: &quot;110100&quot;,
+                &quot;name&quot;: &quot;市辖区&quot;,
+                &quot;parent_id&quot;: &quot;110000&quot;,
+                &quot;level_depth&quot;: 2,
+                &quot;children&quot;: [
+                    {
+                        &quot;id&quot;: &quot;110101&quot;,
+                        &quot;name&quot;: &quot;东城区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110102&quot;,
+                        &quot;name&quot;: &quot;西城区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110105&quot;,
+                        &quot;name&quot;: &quot;朝阳区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110106&quot;,
+                        &quot;name&quot;: &quot;丰台区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110107&quot;,
+                        &quot;name&quot;: &quot;石景山区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110108&quot;,
+                        &quot;name&quot;: &quot;海淀区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110109&quot;,
+                        &quot;name&quot;: &quot;门头沟区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110111&quot;,
+                        &quot;name&quot;: &quot;房山区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110112&quot;,
+                        &quot;name&quot;: &quot;通州区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110113&quot;,
+                        &quot;name&quot;: &quot;顺义区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110114&quot;,
+                        &quot;name&quot;: &quot;昌平区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110115&quot;,
+                        &quot;name&quot;: &quot;大兴区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110116&quot;,
+                        &quot;name&quot;: &quot;怀柔区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110117&quot;,
+                        &quot;name&quot;: &quot;平谷区&quot;,
+                        &quot;parent_id&quot;: &quot;110100&quot;,
+                        &quot;level_depth&quot;: 3
+                    }
+                ]
+            },
+            {
+                &quot;id&quot;: &quot;110200&quot;,
+                &quot;name&quot;: &quot;县&quot;,
+                &quot;parent_id&quot;: &quot;110000&quot;,
+                &quot;level_depth&quot;: 2,
+                &quot;children&quot;: [
+                    {
+                        &quot;id&quot;: &quot;110228&quot;,
+                        &quot;name&quot;: &quot;密云县&quot;,
+                        &quot;parent_id&quot;: &quot;110200&quot;,
+                        &quot;level_depth&quot;: 3
+                    },
+                    {
+                        &quot;id&quot;: &quot;110229&quot;,
+                        &quot;name&quot;: &quot;延庆县&quot;,
+                        &quot;parent_id&quot;: &quot;110200&quot;,
+                        &quot;level_depth&quot;: 3
+                    }
+                ]
+            }
+        ]
+    }</code></p>
+</blockquote>
+<h2 id="orderConfirm"><a href="#orderConfirm" class="headerlink" title="orderConfirm"></a>orderConfirm</h2><blockquote>
+<p>订单确认接口</p>
+<p><strong>返回参数:</strong></p>
+<blockquote>
+<p>data   <code>产品列表</code></p>
+<p><strong>返回参数:</strong></p>
+<blockquote>
+<p>state <code>状态</code></p>
+<p>msg   <code>消息</code></p>
+<p>product <code>产品</code></p>
+<p>address <code>地址</code></p>
+<p>total_price <code>总价</code></p>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="creatOrder"><a href="#creatOrder" class="headerlink" title="creatOrder"></a>creatOrder</h2><blockquote>
+<p>订单创建接口</p>
+<p><strong>请求参数:</strong></p>
+<blockquote>
+<p>open_id <code>微信_open_id</code></p>
+<p>app_id <code>项目标识号</code></p>
+<p>nick_name <code>名称</code></p>
+<p>city <code>城市</code></p>
+<p>avatarUrl <code>头像</code></p>
+<p>data  <code>列表</code></p>
+<blockquote>
+<p>addr_id  <code>选中地址Id</code></p>
+<p>remake  <code>留言</code></p>
+<p>products <code>商品列表</code></p>
+<p><strong>JSON案例:</strong><br><code>{
+        &quot;open_id&quot;: &quot;110200&quot;,
+        &quot;app_id&quot;: &quot;123&quot;,
+        &quot;nick_name&quot;: &quot;华仔&quot;,
+        &quot;city&quot;: &quot;南京&quot;,
+        &quot;avatarUrl&quot;: &quot;www.baidu.com&quot;,
+        &quot;data&quot;: [
+         {
+            &quot;addr_id&quot;: &quot;110228&quot;,
+            &quot;products&quot;: [
+                {
+                    &quot;id&quot;: &quot;110228&quot;,
+                    &quot;name&quot;: &quot;沉香粉&quot;
+                }
+            ]
+        }    
+    }</code><br><strong>返回参数:</strong><br>state  <code>状态值</code></p>
+</blockquote>
+<p>msg    <code>提示信息</code></p>
+<p>data   <code>返回列表</code></p>
+<blockquote>
+<p>ordnum <code>订单编号</code></p>
+<p>total_price <code>总价格</code></p>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="queryOrderInfo"><a href="#queryOrderInfo" class="headerlink" title="queryOrderInfo"></a>queryOrderInfo</h2><blockquote>
+<p>查询订单详情</p>
+<p><strong>请求参数:</strong></p>
+<blockquote>
+<p>open_id <code>微信_open_id</code></p>
+<p>app_id <code>项目标识号</code></p>
+<p>ord_num <code>订单标识</code></p>
+</blockquote>
+<p><strong>return参数:</strong></p>
+<blockquote>
+<p>返回订单详情数据</p>
+</blockquote>
+</blockquote>
+<h2 id="cancelOrder"><a href="#cancelOrder" class="headerlink" title="cancelOrder"></a>cancelOrder</h2><blockquote>
+<p>取消订单</p>
+<p>订单状态（0 取消  10 下单  20 支付/待发货  30待收货 40已收货 50 已评价）</p>
+<p><strong>请求参数:</strong></p>
+<blockquote>
+<p>open_id <code>微信_open_id</code></p>
+<p>app_id <code>项目标识号</code></p>
+<p>ord_num <code>订单标识</code></p>
+<p>reason  <code>理由</code></p>
+</blockquote>
+</blockquote>
+<h2 id="jscode2session"><a href="#jscode2session" class="headerlink" title="jscode2session"></a>jscode2session</h2><blockquote>
+<p>微信验证</p>
+<p><strong>请求参数:</strong> </p>
+<blockquote>
+<p>app_id <code>项目标识号</code></p>
+<p>js_code <code>标识码</code></p>
+</blockquote>
+<p><strong>返回参数:</strong></p>
+<blockquote>
+<p>state  <code>状态值</code></p>
+<p>msg    <code>提示信息</code></p>
+<p>data   <code>内容列表</code></p>
+</blockquote>
+</blockquote>
+<h2 id="queryInformation"><a href="#queryInformation" class="headerlink" title="queryInformation"></a>queryInformation</h2><blockquote>
+<p>获取用户信息</p>
+<p><strong>返回参数:</strong></p>
+<blockquote>
+<p>state  <code>状态值</code></p>
+<p>msg    <code>提示信息</code></p>
+<p>data   <code>内容列表</code></p>
+<blockquote>
+<p>mobile <strong>未绑定手机号码:00000000000</strong> </p>
+<p>other parameters <code>其它参数</code></p>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="editOrder"><a href="#editOrder" class="headerlink" title="editOrder"></a>editOrder</h2><blockquote>
+<p>修改订单信息</p>
+<p><strong>参数:</strong></p>
+<blockquote>
+<p>ord_num  <code>订单号</code></p>
+<p>province    <code>省</code></p>
+<p>city   <code>城市</code></p>
+<p>area  <code>地区</code></p>
+<p>address  <code>详情</code> </p>
+<p>name <code>收货人名称</code> </p>
+<p>mobile <code>电话</code></p>
+</blockquote>
+</blockquote>
+<h2 id="confirmOrder"><a href="#confirmOrder" class="headerlink" title="confirmOrder"></a>confirmOrder</h2><blockquote>
+<p>修改订单信息</p>
+<p><strong>参数:</strong></p>
+<blockquote>
+<p>ord_num  <code>订单号</code></p>
+</blockquote>
+</blockquote>
+<h2 id="secondKillSettingIsShare"><a href="#secondKillSettingIsShare" class="headerlink" title="secondKillSettingIsShare"></a>secondKillSettingIsShare</h2><blockquote>
+<p>设置用户表秒杀状态值</p>
+<blockquote>
+<p>分享成功 share_success 值为 1</p>
+<p>秒杀成功 share_success 值为 0</p>
+</blockquote>
+<p><strong>参数:</strong></p>
+<blockquote>
+<p>share_success  <code>分享是否成功 1 → 成功  0 → 失败</code></p>
+</blockquote>
+</blockquote>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/interview/" rel="tag"># interview</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2019/01/29/English/Let'sGo/T/SmallClass(小班)/Second/enlish-letIsGo-Unit6-practice/" rel="next" title="Let's Go 单元测试14">
+                <i class="fa fa-chevron-left"></i> Let's Go 单元测试14
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2019/02/10/English/Let'sGo/T/SmallClass(小班)/Thrid/enlish-letIsGo-Unit2-practice/" rel="prev" title="Let's Go 单元测试21">
+                Let's Go 单元测试21 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/bicyclering.jpg"
+                alt="覆雪古树" />
+            
+              <p class="site-author-name" itemprop="name">覆雪古树</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">139</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">8</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">30</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/bicyclering/" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#接口"><span class="nav-number">1.</span> <span class="nav-text">接口</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#construct构造函数"><span class="nav-number">1.1.</span> <span class="nav-text">__construct构造函数</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#sendMessageCode"><span class="nav-number">1.2.</span> <span class="nav-text">sendMessageCode</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#bindingMobile"><span class="nav-number">1.3.</span> <span class="nav-text">bindingMobile</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#index"><span class="nav-number">1.4.</span> <span class="nav-text">index</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#flashSaleDetailInfo"><span class="nav-number">1.5.</span> <span class="nav-text">flashSaleDetailInfo</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#goSecondKillProduct"><span class="nav-number">1.6.</span> <span class="nav-text">goSecondKillProduct</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#queryAllTagData"><span class="nav-number">1.7.</span> <span class="nav-text">queryAllTagData</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#queryAllProductData"><span class="nav-number">1.8.</span> <span class="nav-text">queryAllProductData</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#queryProductDetailInfo"><span class="nav-number">1.9.</span> <span class="nav-text">queryProductDetailInfo</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#queryAllCommentData"><span class="nav-number">1.10.</span> <span class="nav-text">queryAllCommentData</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#queryAllOrderListData"><span class="nav-number">1.11.</span> <span class="nav-text">queryAllOrderListData</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#queryShoppingCartAllData"><span class="nav-number">1.12.</span> <span class="nav-text">queryShoppingCartAllData</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#addShoppingCart"><span class="nav-number">1.13.</span> <span class="nav-text">addShoppingCart</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#removeShoppingCart"><span class="nav-number">1.14.</span> <span class="nav-text">removeShoppingCart</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#getUserAddress"><span class="nav-number">1.15.</span> <span class="nav-text">getUserAddress</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#setDefaultAddress"><span class="nav-number">1.16.</span> <span class="nav-text">setDefaultAddress</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#editAddress"><span class="nav-number">1.17.</span> <span class="nav-text">editAddress</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#creatAddress"><span class="nav-number">1.18.</span> <span class="nav-text">creatAddress</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#areaGetByParentId"><span class="nav-number">1.19.</span> <span class="nav-text">areaGetByParentId</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#provinceCityArea"><span class="nav-number">1.20.</span> <span class="nav-text">provinceCityArea</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#orderConfirm"><span class="nav-number">1.21.</span> <span class="nav-text">orderConfirm</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#creatOrder"><span class="nav-number">1.22.</span> <span class="nav-text">creatOrder</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#queryOrderInfo"><span class="nav-number">1.23.</span> <span class="nav-text">queryOrderInfo</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#cancelOrder"><span class="nav-number">1.24.</span> <span class="nav-text">cancelOrder</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#jscode2session"><span class="nav-number">1.25.</span> <span class="nav-text">jscode2session</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#queryInformation"><span class="nav-number">1.26.</span> <span class="nav-text">queryInformation</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#editOrder"><span class="nav-number">1.27.</span> <span class="nav-text">editOrder</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#confirmOrder"><span class="nav-number">1.28.</span> <span class="nav-text">confirmOrder</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#secondKillSettingIsShare"><span class="nav-number">1.29.</span> <span class="nav-text">secondKillSettingIsShare</span></a></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">覆雪古树</span>
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: '1548745750000', 
+            owner: 'bicyclering',
+            repo: 'bicyclering.github.io',
+            
+            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: '182b21f290f00470ce262e9b8337488251f877f0',
+            
+                client_id: 'a20e7fe4e3bc17dde8b6'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      renderGitment();
+      
+      </script>
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

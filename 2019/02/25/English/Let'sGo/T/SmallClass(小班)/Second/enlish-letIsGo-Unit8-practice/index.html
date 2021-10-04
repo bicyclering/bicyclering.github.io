@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="T-SmallClass," />
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="单元测试16第一小节 Have you ever driven a taxi? Have you ever flown your own plane? Have you ever forgotten your book bag on a bus in the middle of Spain? No,I’ve never driven a taxi. I’ve never flown my own">
+<meta name="keywords" content="T-SmallClass">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Let&#39;s Go 单元测试16">
+<meta property="og:url" content="http://yoursite.com/2019/02/25/English/Let'sGo/T/SmallClass(小班)/Second/enlish-letIsGo-Unit8-practice/index.html">
+<meta property="og:site_name" content="Bicyclering">
+<meta property="og:description" content="单元测试16第一小节 Have you ever driven a taxi? Have you ever flown your own plane? Have you ever forgotten your book bag on a bus in the middle of Spain? No,I’ve never driven a taxi. I’ve never flown my own">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:updated_time" content="2021-08-20T13:18:42.040Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Let&#39;s Go 单元测试16">
+<meta name="twitter:description" content="单元测试16第一小节 Have you ever driven a taxi? Have you ever flown your own plane? Have you ever forgotten your book bag on a bus in the middle of Spain? No,I’ve never driven a taxi. I’ve never flown my own">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2019/02/25/English/Let'sGo/T/SmallClass(小班)/Second/enlish-letIsGo-Unit8-practice/"/>
+
+
+
+
+
+  <title>Let's Go 单元测试16 | Bicyclering</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Bicyclering</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">要么读书,要么旅行,身体和灵魂总有一个在路上</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-commonweal">
+          <a href="/404/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br />
+            
+            公益404
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/02/25/English/Let'sGo/T/SmallClass(小班)/Second/enlish-letIsGo-Unit8-practice/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="覆雪古树">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/bicyclering.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Bicyclering">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">Let's Go 单元测试16</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-02-25T18:14:14+08:00">
+                2019-02-25
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/English/" itemprop="url" rel="index">
+                    <span itemprop="name">English</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2019/02/25/English/Let'sGo/T/SmallClass(小班)/Second/enlish-letIsGo-Unit8-practice/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count gitment-comments-count" data-xid="/2019/02/25/English/Let'sGo/T/SmallClass(小班)/Second/enlish-letIsGo-Unit8-practice/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h1 id="单元测试16"><a href="#单元测试16" class="headerlink" title="单元测试16"></a>单元测试16</h1><h2 id="第一小节"><a href="#第一小节" class="headerlink" title="第一小节"></a>第一小节</h2><blockquote>
+<p>Have you ever driven a taxi?</p>
+<p>Have you ever flown your own plane?</p>
+<p>Have you ever forgotten your book bag on a bus in the middle of Spain?</p>
+<p>No,I’ve never driven a taxi.</p>
+<p>I’ve never flown my own plane.</p>
+<p>But one day I forget my beautiful book bag on a bus in the middle of Spain.</p>
+</blockquote>
+<h2 id="第二小节"><a href="#第二小节" class="headerlink" title="第二小节"></a>第二小节</h2><blockquote>
+<p>Let’s learn new words.</p>
+<p>Click on the picture.</p>
+<p>France <code>n.[地名]法国，法兰西;[姓氏]法郎士;[人名] 弗朗斯</code> </p>
+<p>Spain <code>n.西班牙（欧洲国家）</code></p>
+<p>England <code>n.英格兰;英国</code></p>
+<p>Thailand <code>n.泰国</code></p>
+<p>Korea <code>n.韩国;朝鲜</code></p>
+<p>Japan <code>n.日本</code></p>
+<p>Brazil <code>n.巴西</code></p>
+<p>the United States <code>美国，美利坚合众国</code></p>
+</blockquote>
+<h2 id="第三小节"><a href="#第三小节" class="headerlink" title="第三小节"></a>第三小节</h2><blockquote>
+<p>Let’s ask questions!</p>
+<p>Ask me question!</p>
+<p>Has Sue ever flown in an airplane?</p>
+<p>Have you ever been to France?</p>
+<p>Has Eddy ever used a cpmputer?</p>
+<p>Has Ginger ever seen a kangaroo?</p>
+<p>Has Eddy ever baked a cake?</p>
+</blockquote>
+<h2 id="第四小节"><a href="#第四小节" class="headerlink" title="第四小节"></a>第四小节</h2><blockquote>
+<p>Hi,Let’s learn new sounds.</p>
+<p>Click on the letter on the picture. <code>点击图片上面的字母</code></p>
+<p><strong>What</strong> did the <strong>whale</strong> with the <strong>whiskers</strong> <strong>whisper</strong> to the <strong>white</strong> <strong>whale</strong>? <code>长着胡须的鲸鱼对白鲸低语着什么？</code></p>
+<p>whale <code>n.[动]鲸，鲸鱼;巨大的事物 v.捕鲸;击打，猛击</code></p>
+<p>whiskers <code>美 [ˌwɪskəs] n.腮须，胡须;（某些动物的）须( whisker的名词复数 );连鬓胡子;一丝;几乎要做</code></p>
+<p>white <code>adj.白色的，纯洁的;无色的，透明的;白衣的;白种人的 n.白色;白种人;空白;白色颜料 vt.（书写，印刷等）留出空白处;使变白色，刷白;漂白</code></p>
+<p>Have you ever seen a <strong>wren</strong> <strong>wrap</strong> a <strong>wrench</strong> and a <strong>wreath</strong>? <code>你见过鹪鹩裹着扳手和花环吗？</code></p>
+<p>wren <code>n.鹪鹩;英国皇家海军女子服务队成员</code></p>
+<p>wrench <code>n.扳手;扭伤;突然的悲痛 vt.扭伤;扭转;歪曲</code></p>
+<p>wreath <code>n.花环;花圈;（烟、云等的）圈状物;环状物 v.环绕</code></p>
+<p>whistle <code>vi.吹口哨，吹哨子，鸣汽笛;呼啸;（动物）发出刺耳的叫声;吹口哨召唤vt.由吹口哨而发出;吹口哨召唤;用哨声使…行动 n.汽笛;口哨，哨子;哨声，笛声;啭鸣声：尖厉高音</code></p>
+<p>wrapping paper <code>n.包装纸</code></p>
+<p>wheel <code>n.轮子;旋转;Wheels 汽车;有…轮子的汽车（或自行车等） vi.
+转动，旋转;突然转变方向 vt.推;拉（车）;使变换方向;（使）迅速转身</code></p>
+</blockquote>
+<h2 id="第五小节"><a href="#第五小节" class="headerlink" title="第五小节"></a>第五小节</h2><blockquote>
+<p>Hi,Let’s play!</p>
+<p>Listen carefully!</p>
+<p>The Great Pyramids  →  Egypt <code>n.埃及</code></p>
+<p>The Great wall  →  China</p>
+<p>Big ben → England</p>
+<p>The Eiffel Tower  →French</p>
+<p>The Taj Mahal → Thilland</p>
+<p> the united states</p>
+</blockquote>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/T-SmallClass/" rel="tag"># T-SmallClass</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2019/02/24/English/Let'sGo/T/SmallClass(小班)/Second/enlish-letIsGo-Unit7-practice/" rel="next" title="Let's Go 单元测试15">
+                <i class="fa fa-chevron-left"></i> Let's Go 单元测试15
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2019/03/16/English/Let'sGo/T/SmallClass(小班)/Thrid/enlish-letIsGo-Unit1-practice/" rel="prev" title="Let's Go 单元测试17">
+                Let's Go 单元测试17 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/bicyclering.jpg"
+                alt="覆雪古树" />
+            
+              <p class="site-author-name" itemprop="name">覆雪古树</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">139</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">8</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">30</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/bicyclering/" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#单元测试16"><span class="nav-number">1.</span> <span class="nav-text">单元测试16</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#第一小节"><span class="nav-number">1.1.</span> <span class="nav-text">第一小节</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#第二小节"><span class="nav-number">1.2.</span> <span class="nav-text">第二小节</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#第三小节"><span class="nav-number">1.3.</span> <span class="nav-text">第三小节</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#第四小节"><span class="nav-number">1.4.</span> <span class="nav-text">第四小节</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#第五小节"><span class="nav-number">1.5.</span> <span class="nav-text">第五小节</span></a></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">覆雪古树</span>
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: '1551089654000', 
+            owner: 'bicyclering',
+            repo: 'bicyclering.github.io',
+            
+            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: '182b21f290f00470ce262e9b8337488251f877f0',
+            
+                client_id: 'a20e7fe4e3bc17dde8b6'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      renderGitment();
+      
+      </script>
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

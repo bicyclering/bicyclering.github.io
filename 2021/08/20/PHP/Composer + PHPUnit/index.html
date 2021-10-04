@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="Composer," />
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="PhpStrom + Composer + PHPUnit + XAMPPQuestionRoot composer.json requires monolog/monolog, it could not be found in any version,…..  更改阿里云Composer全量镜像   1.1  全局模式  composer config -g repo.packagist com">
+<meta name="keywords" content="Composer">
+<meta property="og:type" content="article">
+<meta property="og:title" content="PhpStrom + Composer + PHPUnit + XAMPP">
+<meta property="og:url" content="http://yoursite.com/2021/08/20/PHP/Composer + PHPUnit/index.html">
+<meta property="og:site_name" content="Bicyclering">
+<meta property="og:description" content="PhpStrom + Composer + PHPUnit + XAMPPQuestionRoot composer.json requires monolog/monolog, it could not be found in any version,…..  更改阿里云Composer全量镜像   1.1  全局模式  composer config -g repo.packagist com">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/3.jpg">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/2.png">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/1.png">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/2.png">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/3.png">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/4.png">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/5.png">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/6.png">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/Composer/2.png">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/Composer/1.png">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/1.png">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/2.png">
+<meta property="og:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/4.png">
+<meta property="og:updated_time" content="2021-09-27T13:50:30.627Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="PhpStrom + Composer + PHPUnit + XAMPP">
+<meta name="twitter:description" content="PhpStrom + Composer + PHPUnit + XAMPPQuestionRoot composer.json requires monolog/monolog, it could not be found in any version,…..  更改阿里云Composer全量镜像   1.1  全局模式  composer config -g repo.packagist com">
+<meta name="twitter:image" content="http://yoursite.com/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/3.jpg">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2021/08/20/PHP/Composer + PHPUnit/"/>
+
+
+
+
+
+  <title>PhpStrom + Composer + PHPUnit + XAMPP | Bicyclering</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Bicyclering</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">要么读书,要么旅行,身体和灵魂总有一个在路上</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-commonweal">
+          <a href="/404/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br />
+            
+            公益404
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2021/08/20/PHP/Composer + PHPUnit/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="覆雪古树">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/bicyclering.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Bicyclering">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">PhpStrom + Composer + PHPUnit + XAMPP</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2021-08-20T21:20:42+08:00">
+                2021-08-20
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/PHP/" itemprop="url" rel="index">
+                    <span itemprop="name">PHP</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2021/08/20/PHP/Composer + PHPUnit/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count gitment-comments-count" data-xid="/2021/08/20/PHP/Composer + PHPUnit/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h1 id="PhpStrom-Composer-PHPUnit-XAMPP"><a href="#PhpStrom-Composer-PHPUnit-XAMPP" class="headerlink" title="PhpStrom + Composer + PHPUnit + XAMPP"></a>PhpStrom + Composer + PHPUnit + XAMPP</h1><h2 id="Question"><a href="#Question" class="headerlink" title="Question"></a>Question</h2><h3 id="Root-composer-json-requires-monolog-monolog-it-could-not-be-found-in-any-version-…"><a href="#Root-composer-json-requires-monolog-monolog-it-could-not-be-found-in-any-version-…" class="headerlink" title="Root composer.json requires monolog/monolog, it could not be found in any version,….."></a>Root composer.json requires monolog/monolog, it could not be found in any version,…..</h3><blockquote>
+<ol>
+<li><a href="https://www.runoob.com/w3cnote/composer-install-and-usage.html" target="_blank" rel="noopener">更改阿里云Composer全量镜像</a></li>
+</ol>
+<blockquote>
+<p>1.1  全局模式</p>
+<blockquote>
+<p><code>composer config -g repo.packagist composer https://mirrors.aliyun.com/composer/</code></p>
+<p> <code>composer config -g --unset repos.packagist</code></p>
+</blockquote>
+<p> 1.2 仅当前项目配置</p>
+<blockquote>
+<p><code>composer config repo.packagist composer https://mirrors.aliyun.com/composer/</code></p>
+<p><code>composer config --unset repos.packagist</code></p>
+</blockquote>
+<p>1.3 配置完成后调试</p>
+<blockquote>
+<p><code>composer -vvv require alibabacloud/sdk</code></p>
+</blockquote>
+</blockquote>
+</blockquote>
+<h3 id="PHPUnit-Cannot-open-file-“XXXTest”"><a href="#PHPUnit-Cannot-open-file-“XXXTest”" class="headerlink" title="PHPUnit Cannot open file “XXXTest”"></a>PHPUnit Cannot open file “XXXTest”</h3><p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/3.jpg" alt=""></p>
+<blockquote>
+<p>PHPUnit 9 isn’t supported in PhpStorm <strong>2018.3.3. or 2019.3.3.</strong> Please use PHPUnit 8.*, use EAP build  2020.1 release .</p>
+<blockquote>
+<p><strong>edit composer.json</strong></p>
+<blockquote>
+<p>initial </p>
+<blockquote>
+<p><code>&quot;require-dev&quot;: {&quot;phpunit/phpunit&quot;: &quot;9.5.8&quot;}</code></p>
+</blockquote>
+<p>finally</p>
+<blockquote>
+<p><code>&quot;require-dev&quot;: {&quot;phpunit/phpunit&quot;: &quot;8.*&quot;}</code></p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<h3 id="homebrew-install-fail"><a href="#homebrew-install-fail" class="headerlink" title="homebrew install fail"></a>homebrew install fail</h3><blockquote>
+<p><code>source /Users/willson/.zprofile</code></p>
+</blockquote>
+<h3 id="Xdebug-Config-The-setting-‘xdebug-remote-enable’-has-been-renamed-see-the-upgrading-guide-at-https-xdebug-org-docs-upgrade-guide-changed-xdebug-remote-enable-See-https-xdebug-org-docs-errors-CFG-C-CHANGED"><a href="#Xdebug-Config-The-setting-‘xdebug-remote-enable’-has-been-renamed-see-the-upgrading-guide-at-https-xdebug-org-docs-upgrade-guide-changed-xdebug-remote-enable-See-https-xdebug-org-docs-errors-CFG-C-CHANGED" class="headerlink" title="Xdebug: [Config] The setting ‘xdebug.remote_enable’ has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_enable (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)"></a><a href="https://xdebug.org/docs/errors#CFG-C-CHANGED" target="_blank" rel="noopener">Xdebug: [Config] The setting ‘xdebug.remote_enable’ has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_enable (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)</a></h3><h4 id="config-php-ini"><a href="#config-php-ini" class="headerlink" title="config php.ini"></a>config php.ini</h4><pre><code>xdebug.client_host = 127.0.0.1
+xdebug.client_port = 9000
+xdebug.mode = debug`
+</code></pre><h3 id="config-GD"><a href="#config-GD" class="headerlink" title="config GD"></a>config GD</h3><h4 id="windows"><a href="#windows" class="headerlink" title="windows"></a>windows</h4><blockquote>
+<p><a href="https://forums.modx.com/thread/49552/fatal-error-call-to-undefined-function-imagecreatefromjpeg-on-local-windows" target="_blank" rel="noopener">https://forums.modx.com/thread/49552/fatal-error-call-to-undefined-function-imagecreatefromjpeg-on-local-windows</a></p>
+<p><a href="https://sourceforge.net/projects/gnuwin32/" target="_blank" rel="noopener">https://sourceforge.net/projects/gnuwin32/</a></p>
+</blockquote>
+<h3 id="Root-composer-json-requires-php-8-0-8-but-your-php-version-7-3-11-does-not-satisfy-that-requirement"><a href="#Root-composer-json-requires-php-8-0-8-but-your-php-version-7-3-11-does-not-satisfy-that-requirement" class="headerlink" title="Root composer.json requires php ~8.0.8 but your php version (7.3.11) does not satisfy that requirement."></a>Root composer.json requires php ~8.0.8 but your php version (7.3.11) does not satisfy that requirement.</h3><blockquote>
+<ol>
+<li><p>composer install –ignore-platform-reqs or <code>&quot;require&quot;: {&quot;php&quot;: &quot;^7.3|^8.0&quot;,.....},</code></p>
+</li>
+<li><p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/2.png" alt=""></p>
+</li>
+</ol>
+</blockquote>
+<h2 id="webserver-xdebug"><a href="#webserver-xdebug" class="headerlink" title="webserver xdebug"></a>webserver xdebug</h2><h3 id="PhpStrom"><a href="#PhpStrom" class="headerlink" title="PhpStrom"></a><a href="https://www.jetbrains.com/phpstorm/promo/?source=google&amp;medium=cpc&amp;campaign=14335686201&amp;gclid=EAIaIQobChMIwcaj0--_8gIVqwaICR0fLQPwEAAYASAAEgKCOPD_BwE" target="_blank" rel="noopener">PhpStrom</a></h3><h3 id="install-xdebug"><a href="#install-xdebug" class="headerlink" title="install xdebug"></a>install xdebug</h3><h4 id="matching-debug-version"><a href="#matching-debug-version" class="headerlink" title="matching debug-version"></a>matching debug-version</h4><blockquote>
+<ol>
+<li><p><a href="https://xdebug.org/wizard" target="_blank" rel="noopener">Installation Wizard</a></p>
+</li>
+<li><p>copy phpinfo() information</p>
+</li>
+<li><p>Download xdebug-x.x.x.tgz</p>
+</li>
+<li><p>Install the pre-requisites for compiling PHP extensions.On your Mac, we only support installations with ‘homebrew’, and <code>brew install php &amp;&amp; brew install autoconf</code> should pull in the right packages.</p>
+</li>
+<li><p>Unpack the downloaded file with <code>tar -xvzf xdebug-x.x.x.tgz</code></p>
+</li>
+<li><p>Run: cd xdebug-x.x.x</p>
+</li>
+<li><p>Run: <code>phpize</code> (See the <a href="https://xdebug.org/docs/faq#phpize" target="_blank" rel="noopener">FAQ</a> if you don’t have <code>phpize</code>).</p>
+<blockquote>
+<p>As part of its output it should show:</p>
+<blockquote>
+</blockquote>
+<pre><code>Configuring for:
+...
+Zend Module Api No:      20200930
+Zend Extension Api No:   420200930
+</code></pre></blockquote>
+</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="8">
+<li><p>If it does not, you are using the wrong phpize. Please follow <a href="https://xdebug.org/docs/faq#custom-phpize" target="_blank" rel="noopener">this FAQ entry</a> and skip the next step.</p>
+<blockquote>
+<p>check <strong>xdebug-x.x.x</strong> path</p>
+<blockquote>
+<p>for example: cd /xxxxx/xxxxx/Documents/xdebug-x.x.x/xdebug-x.x.x</p>
+</blockquote>
+</blockquote>
+</li>
+<li><p>Run: <code>./configure</code></p>
+</li>
+<li><p>Run: <code>make</code></p>
+</li>
+<li><p>Run <code>cp modules/xdebug.so /Applications/XAMPP/xamppfiles/lib/php/extensions/no-debug-non-zts-20200930</code></p>
+</li>
+<li><p>Update <code>/Applications/XAMPP/xamppfiles/etc/php.ini</code> and add the line:<code>zend_extension = xdebug</code></p>
+</li>
+<li><p>Restart the Apache Webserver</p>
+</li>
+</ol>
+</blockquote>
+<h4 id="conig-webserver-xdebug"><a href="#conig-webserver-xdebug" class="headerlink" title="conig webserver xdebug"></a>conig webserver xdebug</h4><blockquote>
+<p><strong>配置php.ini</strong>    </p>
+<blockquote>
+<pre><code>    [xdebug]
+zend_extension = xdebug
+xdebug.idekey  = PHPSTROM
+</code></pre></blockquote>
+</blockquote>
+<h4 id="install-steps"><a href="#install-steps" class="headerlink" title="install steps"></a>install steps</h4><blockquote>
+<p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/1.png" alt=""></p>
+<p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/2.png" alt=""></p>
+<p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/3.png" alt=""></p>
+<p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/4.png" alt=""></p>
+<p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/5.png" alt=""></p>
+<p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/WebServer/6.png" alt=""></p>
+</blockquote>
+<h3 id="XAMPP"><a href="#XAMPP" class="headerlink" title="XAMPP"></a><a href="https://www.apachefriends.org/index.html" target="_blank" rel="noopener">XAMPP</a></h3><h2 id="Composer"><a href="#Composer" class="headerlink" title="Composer"></a><a href="https://getcomposer.org/" target="_blank" rel="noopener">Composer</a></h2><h3 id="config-PHP-version"><a href="#config-PHP-version" class="headerlink" title="config PHP version"></a>config PHP version</h3><p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/Composer/2.png" alt=""></p>
+<h3 id="install-composer"><a href="#install-composer" class="headerlink" title="install composer"></a><a href="https://github.com/composer/composer/issues/8679" target="_blank" rel="noopener">install composer</a></h3><blockquote>
+<p><strong>Global install composer</strong></p>
+<blockquote>
+<p><code>sudo mv composer.phar /usr/local/bin/composer</code></p>
+</blockquote>
+<p><strong>创建composer.json</strong></p>
+<blockquote>
+<ol>
+<li><p>切换到当前项目地址执行命令 </p>
+</li>
+<li><p><code>curl -sS https://getcomposer.org/installer | php</code> <strong>or</strong> <code>php composer.phar install</code></p>
+</li>
+</ol>
+<ol start="3">
+<li><code>php composer.phar init</code>  生成 composer.json <blockquote>
+<p><strong>特殊注意如下图</strong></p>
+<blockquote>
+<p> <img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/Composer/1.png" alt=""></p>
+</blockquote>
+</blockquote>
+</li>
+</ol>
+<pre><code>    {
+       &quot;name&quot;: &quot;test/development&quot;,
+        &quot;type&quot;: &quot;project&quot;,
+        &quot;autoload&quot;: {
+            &quot;psr-4&quot;: {
+                &quot;test\\Development\\&quot;: &quot;src/&quot;
+            }
+        },
+        &quot;authors&quot;: [
+            {
+                &quot;name&quot;: &quot;***********&quot;,
+                &quot;email&quot;: &quot;**********&quot;
+            }
+        ],
+        &quot;require&quot;: {
+            &quot;php&quot;: &quot;~7.2&quot;,
+        },
+        &quot;require-dev&quot;: {
+            &quot;phpunit/phpunit&quot;: &quot;9.5.8&quot;
+            &quot;monolog/monolog&quot;: &quot;2.0.*&quot;
+        }
+}
+</code></pre><blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<h3 id="search-第三方类库"><a href="#search-第三方类库" class="headerlink" title="search 第三方类库"></a><a href="https://getcomposer.org/doc/03-cli.md#search" target="_blank" rel="noopener">search 第三方类库</a></h3><blockquote>
+<p>php composer.phar search ***</p>
+</blockquote>
+<h2 id="PHPUnit"><a href="#PHPUnit" class="headerlink" title="PHPUnit"></a><a href="https://phpunit.readthedocs.io/en/9.5/" target="_blank" rel="noopener">PHPUnit</a></h2><h3 id="config-php-ini-1"><a href="#config-php-ini-1" class="headerlink" title="config php.ini"></a>config php.ini</h3><pre><code>memory_limit=-1
+error_reporting=-1
+log_errors_max_len=0
+zend.assertions=1
+assert.exception=1
+xdebug.show_exception_trace=0
+</code></pre><h3 id="install-PHPUnit"><a href="#install-PHPUnit" class="headerlink" title="install PHPUnit"></a>install PHPUnit</h3><blockquote>
+<p><code>composer install</code></p>
+<blockquote>
+<p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/1.png" alt=""></p>
+<p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/2.png" alt=""></p>
+<p><img src="/images/php/PhpStrom+Composer+PHPUnit+XAMPP/PHPUnit/4.png" alt=""></p>
+</blockquote>
+</blockquote>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Composer/" rel="tag"># Composer</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2021/07/17/Marketing/advertising/" rel="next" title="广告">
+                <i class="fa fa-chevron-left"></i> 广告
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2021/09/04/Office/ppt/" rel="prev" title="PPT">
+                PPT <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/bicyclering.jpg"
+                alt="覆雪古树" />
+            
+              <p class="site-author-name" itemprop="name">覆雪古树</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">139</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">8</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">30</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/bicyclering/" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#PhpStrom-Composer-PHPUnit-XAMPP"><span class="nav-number">1.</span> <span class="nav-text">PhpStrom + Composer + PHPUnit + XAMPP</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Question"><span class="nav-number">1.1.</span> <span class="nav-text">Question</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Root-composer-json-requires-monolog-monolog-it-could-not-be-found-in-any-version-…"><span class="nav-number">1.1.1.</span> <span class="nav-text">Root composer.json requires monolog/monolog, it could not be found in any version,…..</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#PHPUnit-Cannot-open-file-“XXXTest”"><span class="nav-number">1.1.2.</span> <span class="nav-text">PHPUnit Cannot open file “XXXTest”</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#homebrew-install-fail"><span class="nav-number">1.1.3.</span> <span class="nav-text">homebrew install fail</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Xdebug-Config-The-setting-‘xdebug-remote-enable’-has-been-renamed-see-the-upgrading-guide-at-https-xdebug-org-docs-upgrade-guide-changed-xdebug-remote-enable-See-https-xdebug-org-docs-errors-CFG-C-CHANGED"><span class="nav-number">1.1.4.</span> <span class="nav-text">Xdebug: [Config] The setting ‘xdebug.remote_enable’ has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_enable (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#config-php-ini"><span class="nav-number">1.1.4.1.</span> <span class="nav-text">config php.ini</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#config-GD"><span class="nav-number">1.1.5.</span> <span class="nav-text">config GD</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#windows"><span class="nav-number">1.1.5.1.</span> <span class="nav-text">windows</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Root-composer-json-requires-php-8-0-8-but-your-php-version-7-3-11-does-not-satisfy-that-requirement"><span class="nav-number">1.1.6.</span> <span class="nav-text">Root composer.json requires php ~8.0.8 but your php version (7.3.11) does not satisfy that requirement.</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#webserver-xdebug"><span class="nav-number">1.2.</span> <span class="nav-text">webserver xdebug</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#PhpStrom"><span class="nav-number">1.2.1.</span> <span class="nav-text">PhpStrom</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#install-xdebug"><span class="nav-number">1.2.2.</span> <span class="nav-text">install xdebug</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#matching-debug-version"><span class="nav-number">1.2.2.1.</span> <span class="nav-text">matching debug-version</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#conig-webserver-xdebug"><span class="nav-number">1.2.2.2.</span> <span class="nav-text">conig webserver xdebug</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#install-steps"><span class="nav-number">1.2.2.3.</span> <span class="nav-text">install steps</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#XAMPP"><span class="nav-number">1.2.3.</span> <span class="nav-text">XAMPP</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Composer"><span class="nav-number">1.3.</span> <span class="nav-text">Composer</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#config-PHP-version"><span class="nav-number">1.3.1.</span> <span class="nav-text">config PHP version</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#install-composer"><span class="nav-number">1.3.2.</span> <span class="nav-text">install composer</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#search-第三方类库"><span class="nav-number">1.3.3.</span> <span class="nav-text">search 第三方类库</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#PHPUnit"><span class="nav-number">1.4.</span> <span class="nav-text">PHPUnit</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#config-php-ini-1"><span class="nav-number">1.4.1.</span> <span class="nav-text">config php.ini</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#install-PHPUnit"><span class="nav-number">1.4.2.</span> <span class="nav-text">install PHPUnit</span></a></li></ol></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">覆雪古树</span>
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: '1629465642000', 
+            owner: 'bicyclering',
+            repo: 'bicyclering.github.io',
+            
+            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: '182b21f290f00470ce262e9b8337488251f877f0',
+            
+                client_id: 'a20e7fe4e3bc17dde8b6'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      renderGitment();
+      
+      </script>
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

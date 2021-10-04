@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="autoPack," />
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="可能是最简单的iOS自动化打包方式:无需手动配置证书,无需填写配置文件名称,更无需配置Bundle Identifer,总之无需很多繁琐配置,让打包流程一句命令完成!下面将会分享两种打包方式,一种是快速打包(打包时间就在一眨眼),一种是基于shenzhen（速度会比较慢）,都实现了一行命令完成打包并上传蒲公英！ 注意:  iOS自动化打包脚本:https://github.com/ys323945">
+<meta name="keywords" content="autoPack">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Python实现iOS自动化打包详解">
+<meta property="og:url" content="http://yoursite.com/2018/05/08/IOS/(Skill)技巧/ipa自动打包/index.html">
+<meta property="og:site_name" content="Bicyclering">
+<meta property="og:description" content="可能是最简单的iOS自动化打包方式:无需手动配置证书,无需填写配置文件名称,更无需配置Bundle Identifer,总之无需很多繁琐配置,让打包流程一句命令完成!下面将会分享两种打包方式,一种是快速打包(打包时间就在一眨眼),一种是基于shenzhen（速度会比较慢）,都实现了一行命令完成打包并上传蒲公英！ 注意:  iOS自动化打包脚本:https://github.com/ys323945">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="http://yoursite.com/images/ipa/默认打包流程.gif">
+<meta property="og:image" content="http://yoursite.com/images/ipa/过程自动化.gif">
+<meta property="og:image" content="http://yoursite.com/images/ipa/蒲公英.jpg">
+<meta property="og:image" content="http://yoursite.com/images/ipa/shenzhen自动化.gif">
+<meta property="og:updated_time" content="2021-08-20T13:18:42.079Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Python实现iOS自动化打包详解">
+<meta name="twitter:description" content="可能是最简单的iOS自动化打包方式:无需手动配置证书,无需填写配置文件名称,更无需配置Bundle Identifer,总之无需很多繁琐配置,让打包流程一句命令完成!下面将会分享两种打包方式,一种是快速打包(打包时间就在一眨眼),一种是基于shenzhen（速度会比较慢）,都实现了一行命令完成打包并上传蒲公英！ 注意:  iOS自动化打包脚本:https://github.com/ys323945">
+<meta name="twitter:image" content="http://yoursite.com/images/ipa/默认打包流程.gif">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2018/05/08/IOS/(Skill)技巧/ipa自动打包/"/>
+
+
+
+
+
+  <title>Python实现iOS自动化打包详解 | Bicyclering</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Bicyclering</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">要么读书,要么旅行,身体和灵魂总有一个在路上</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-commonweal">
+          <a href="/404/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br />
+            
+            公益404
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/05/08/IOS/(Skill)技巧/ipa自动打包/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="覆雪古树">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/bicyclering.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Bicyclering">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">Python实现iOS自动化打包详解</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-05-08T11:45:05+08:00">
+                2018-05-08
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/05/08/IOS/(Skill)技巧/ipa自动打包/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count gitment-comments-count" data-xid="/2018/05/08/IOS/(Skill)技巧/ipa自动打包/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>可能是最简单的iOS自动化打包方式:无需手动配置证书,无需填写配置文件名称,更无需配置Bundle Identifer,总之无需很多繁琐配置,让打包流程一句命令完成!下面将会分享两种打包方式,一种是快速打包(打包时间就在一眨眼),一种是基于shenzhen（速度会比较慢）,都实现了一行命令完成打包并上传蒲公英！</p>
+<p><strong>注意:</strong></p>
+<ol>
+<li>iOS自动化打包脚本:<a href="https://github.com/ys323945/iOSAutoPage/tree/master" target="_blank" rel="noopener">https://github.com/ys323945/iOSAutoPage/tree/master</a></li>
+<li>AppStore的包,还是建议使用<strong>Xcode打包</strong>。</li>
+</ol>
+<h1 id="Python实现iOS自动化打包详解"><a href="#Python实现iOS自动化打包详解" class="headerlink" title="Python实现iOS自动化打包详解"></a>Python实现iOS自动化打包详解</h1><h2 id="基于编译的打包"><a href="#基于编译的打包" class="headerlink" title="基于编译的打包"></a>基于编译的打包</h2><p>这种打包方式应该是目前所有打包方式中最快的，就是编译工程–找到.app文件–新建Payload文件夹–拷贝.app到Payload文件夹–压缩成zip–更改后缀名为ipa–完成！</p>
+<h3 id="演示过程如下图"><a href="#演示过程如下图" class="headerlink" title="演示过程如下图"></a>演示过程如下图</h3><p><img src="/images/ipa/默认打包流程.gif" alt=""></p>
+<h3 id="过程自动化"><a href="#过程自动化" class="headerlink" title="过程自动化"></a>过程自动化</h3><p><strong>注意:</strong>输入日志描述只能输入<strong>数字</strong>,非数字会报错。</p>
+<p><img src="/images/ipa/过程自动化.gif" alt=""></p>
+<p>在上图中,我们只需要执行python脚本,可以看到桌面很快生成了一个ProgramBag的文件夹,打开文件夹,彩蛋就在里面了!由于我写的脚本里包含了上传蒲公英的代码,网络不太好会影响上传时间,真正的打包时间是可以忽略不记的,也就是执行脚本,敲击回车就好了的事!</p>
+<p>这里我们将打好的包自动上传到蒲公英网站,完成后自动打开下载地址,这个过程在网络好的条件下2分钟左右完成,99.9%的时间是发在上传包上!这里上传完成会自动打开到下载的网页。</p>
+<h3 id="原理实现"><a href="#原理实现" class="headerlink" title="原理实现"></a>原理实现</h3><p><strong>Python的具体代码:</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br></pre></td><td class="code"><pre><span class="line">#!/usr/bin/env python</span><br><span class="line">#coding=utf-8 </span><br><span class="line">import os</span><br><span class="line">import commands</span><br><span class="line">import requests</span><br><span class="line">import webbrowser</span><br><span class="line"></span><br><span class="line">&apos;&apos;&apos;</span><br><span class="line">使用注意事项:该脚本基于python3.6.5</span><br><span class="line">1、将工程的编译设备选成 Gemeric iOS Device</span><br><span class="line">2、command + B编译</span><br><span class="line">3、执行脚本文件</span><br><span class="line"></span><br><span class="line">&apos;&apos;&apos;</span><br><span class="line"></span><br><span class="line">appFileFullPath = &apos;/Users/wubin/Library/Developer/Xcode/DerivedData/FotileStyle-doiplszeqpeztmcrysurltpnhepy/Build/Products/Debug-iphonesimulator/FotileStyle.app&apos;</span><br><span class="line">PayLoadPath = &apos;/Users/wubin/Desktop/Payload&apos;</span><br><span class="line">packBagPath = &apos;/Users/wubin/Desktop/ProgramBag&apos;</span><br><span class="line"></span><br><span class="line">#将此处打开的链接改为蒲公英对应app的链接</span><br><span class="line">openUrl = &apos;https://www.pgyer.com/manager/dashboard/app/40c633aa8dc0ba15191632860558825e&apos;</span><br><span class="line"></span><br><span class="line">#上传蒲公英</span><br><span class="line">USER_KEY = &quot;b3a0b9*******************ed6fb2&quot;</span><br><span class="line">API_KEY = &quot;1fda5e1*******************a95737&quot;</span><br><span class="line"></span><br><span class="line">#上传蒲公英</span><br><span class="line">def uploadIPA(IPAPath):</span><br><span class="line">    if(IPAPath==&apos;&apos;):</span><br><span class="line">        print &quot;\n*************** 没有找到对应上传的IPA包 *********************\n&quot;</span><br><span class="line">        return</span><br><span class="line">    else:</span><br><span class="line">        print &quot;\n***************开始上传到蒲公英*********************\n&quot;</span><br><span class="line">        url=&apos;http://www.pgyer.com/apiv1/app/upload&apos;</span><br><span class="line">        data=&#123;</span><br><span class="line">            &apos;uKey&apos;:USER_KEY,</span><br><span class="line">            &apos;_api_key&apos;:API_KEY,</span><br><span class="line">            &apos;installType&apos;:&apos;2&apos;,</span><br><span class="line">            &apos;password&apos;:&apos;&apos;,</span><br><span class="line">            &apos;updateDescription&apos;:des</span><br><span class="line">        &#125;</span><br><span class="line">        files=&#123;&apos;file&apos;:open(IPAPath,&apos;rb&apos;)&#125;</span><br><span class="line">        r=requests.post(url,data=data,files=files)</span><br><span class="line"></span><br><span class="line">def openDownloadUrl():</span><br><span class="line">    webbrowser.open(openUrl,new=1,autoraise=True)</span><br><span class="line">    print &quot;\n*************** 更新成功 *********************\n&quot;</span><br><span class="line"></span><br><span class="line">#编译打包流程</span><br><span class="line">def bulidIPA():</span><br><span class="line">    #打包之前先删除packBagPath下的文件夹</span><br><span class="line">    commands.getoutput(&apos;rm -rf %s&apos;%packBagPath)</span><br><span class="line">    #创建PayLoad文件夹</span><br><span class="line">    mkdir(PayLoadPath)</span><br><span class="line">    #将app拷贝到PayLoadPath路径下</span><br><span class="line">    commands.getoutput(&apos;cp -r %s %s&apos;%(appFileFullPath,PayLoadPath))</span><br><span class="line">    #在桌面上创建packBagPath的文件夹</span><br><span class="line">    commands.getoutput(&apos;mkdir -p %s&apos;%packBagPath)</span><br><span class="line">    #将PayLoadPath文件夹拷贝到packBagPath文件夹下</span><br><span class="line">    commands.getoutput(&apos;cp -r %s %s&apos;%(PayLoadPath,packBagPath))</span><br><span class="line">    #删除桌面的PayLoadPath文件夹</span><br><span class="line">    commands.getoutput(&apos;rm -rf %s&apos;%(PayLoadPath))</span><br><span class="line">    #切换到当前目录</span><br><span class="line">    os.chdir(packBagPath)</span><br><span class="line">    #压缩packBagPath文件夹下的PayLoadPath文件夹夹</span><br><span class="line">    commands.getoutput(&apos;zip -r ./Payload.zip .&apos;)</span><br><span class="line">    print &quot;\n*************** 打包成功 *********************\n&quot;</span><br><span class="line">    #将zip文件改名为ipa</span><br><span class="line">    commands.getoutput(&apos;mv Payload.zip Payload.ipa&apos;)</span><br><span class="line">    #删除payLoad文件夹</span><br><span class="line">    commands.getoutput(&apos;rm -rf ./Payload&apos;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">#创建PayLoad文件夹</span><br><span class="line">def mkdir(PayLoadPath):</span><br><span class="line">    isExists = os.path.exists(PayLoadPath)</span><br><span class="line">    if not isExists:</span><br><span class="line">        os.makedirs(PayLoadPath)</span><br><span class="line">        print PayLoadPath + &apos;创建成功&apos;</span><br><span class="line">        return True</span><br><span class="line">    else:</span><br><span class="line">        print PayLoadPath + &apos;目录已经存在&apos;</span><br><span class="line">        return False</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">if __name__ == &apos;__main__&apos;:</span><br><span class="line">    des = input(&quot;请输入更新的日志描述:&quot;)</span><br><span class="line">    bulidIPA()</span><br><span class="line">    uploadIPA(&apos;%s/Payload.ipa&apos;%packBagPath)</span><br><span class="line">    openDownloadUrl()</span><br></pre></td></tr></table></figure>
+<p><strong>def bulidIPA():</strong>其实就是liunx命令,通过脚本包装了一层,可以理解为我们以前在terminal手动输入的命令,现在是自动帮我们输入并执行了,大大解放了我们的双手!</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">#打包之前先删除packBagPath下的文件夹</span><br><span class="line">commands.getoutput(&apos;rm -rf %s&apos;%packBagPath)</span><br></pre></td></tr></table></figure>
+<p>分析上面这一句,我用OC的伪代码来实现的话对应下面这句:所以上面的%s相当于OC中的%@,代表一种格式符,后面的appFileFullPath代表我们工程的.app存放的路径,PayLoadPath代表我们在桌面上新建的PayLoad文件路径</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">copy(&quot;%@,%@&quot;,A,B)</span><br></pre></td></tr></table></figure>
+<p>结合注释基本上代码的执行过程我们就一目了然了,至于前面的commands.getoutput是基于commands组件的命令,理解为可以在terminal执行命令即可,下面有一句代码需要说明:这是一句切换当前目录的命令</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">os.chdir(packBagPath)</span><br></pre></td></tr></table></figure>
+<p>等价于</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">commands.getoutput(&apos;cd %s&apos;%packBagPath)</span><br></pre></td></tr></table></figure>
+<p>不要问我为什么没有用下面的命令,那是因为这句命令我这边执行不成功,被坑了很久,至于原因,还不知道为什么(如果你解决了,欢迎骚扰我),所以用上面python提供的命令代替了。</p>
+<h3 id="上传蒲公英脚本"><a href="#上传蒲公英脚本" class="headerlink" title="上传蒲公英脚本"></a>上传蒲公英脚本</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">def uploadIPA(IPAPath):</span><br><span class="line">表示定义了一个函数uploadIPA，接受一个参数</span><br></pre></td></tr></table></figure>
+<p>requests是一个网络请求的组件,我们可以把它类比为AFNetWorking,data是要传递的参数,files是要传递的文件,至于上传的参数key都是根据蒲公英提供的API来写的。上面的password代表安装app时所需要的密码,同时还有两个参数,USER_KEY和API_KEY,在蒲公英应用的位置可以找到,如图:</p>
+<p><img src="/images/ipa/蒲公英.jpg" alt=""></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">def openDownloadUrl():</span><br><span class="line">webbrowser.open(openUrl,new=1,autoraise=True)</span><br><span class="line">print &quot;\n*************** 更新成功 *********************\n&quot;</span><br></pre></td></tr></table></figure>
+<p>webbrowser也是<strong>一个组件库</strong>,这些组件库在使用时,和OC一样<strong>都要先import</strong>里面的地址代表蒲公英上应用的地址,拷过来粘贴即可!</p>
+<h3 id="配置永久参数"><a href="#配置永久参数" class="headerlink" title="配置永久参数"></a>配置永久参数</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">appFileFullPath = &apos;/Users/wubin/Library/Developer/Xcode/DerivedData/FotileStyle-doiplszeqpeztmcrysurltpnhepy/Build/Products/Debug-iphonesimulator/FotileStyle.app&apos;</span><br><span class="line">PayLoadPath = &apos;/Users/wubin/Desktop/Payload&apos;</span><br><span class="line">packBagPath = &apos;/Users/wubin/Desktop/ProgramBag&apos;</span><br><span class="line"></span><br><span class="line">#将此处打开的链接改为蒲公英对应app的链接</span><br><span class="line">openUrl = &apos;https://www.pgyer.com/manager/dashboard/app/40c633aa8dc0ba15191632860558825e&apos;</span><br><span class="line"></span><br><span class="line">#上传蒲公英</span><br><span class="line">USER_KEY = &quot;b3a0b9*******************ed6fb2&quot;</span><br><span class="line">API_KEY = &quot;1fda5e1*******************a95737&quot;</span><br></pre></td></tr></table></figure>
+<p>上图中<strong>appFileFullPath</strong>就是我们工程文件中.app的地址,至于<strong>PayLoadPath和packBagPath</strong>只需要你将<strong>wubin</strong>用户名修改为<strong>你自己电脑的用户名</strong>即可!</p>
+<h2 id="shenzhen打包"><a href="#shenzhen打包" class="headerlink" title="shenzhen打包"></a>shenzhen打包</h2><p><strong>shenzhen</strong>是一个打包相关的库,使用也非常方便,比第一中打包方式还要少一个路径配置,当然打包的速度相对比较慢,要使用下面的脚本,首先得安装shenzhen<a href="https://github.com/nomad/shenzhen" target="_blank" rel="noopener">链接</a>。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br></pre></td><td class="code"><pre><span class="line">	 #!/usr/bin/env python</span><br><span class="line">#coding=utf-8 </span><br><span class="line">import os,time</span><br><span class="line">#import commands</span><br><span class="line">import subprocess</span><br><span class="line">import requests</span><br><span class="line">import webbrowser</span><br><span class="line">import time</span><br><span class="line"></span><br><span class="line">#上传蒲公英</span><br><span class="line">USER_KEY = &quot;b3a0b950c29d1d081aaf6a0ba6ed6fb2&quot;</span><br><span class="line">API_KEY = &quot;1fda5e1404ddb402d7e7c186d0a95737&quot;</span><br><span class="line"></span><br><span class="line">def searchIpaPath():</span><br><span class="line">    IpaPath=&quot;&quot;</span><br><span class="line">    for i in os.listdir(&quot;.&quot;):</span><br><span class="line">        if(i.find(&apos;.ipa&apos;)!=(-1)):</span><br><span class="line">            IpaPath=i</span><br><span class="line">            print &apos;找到的IPA文件:&apos;+IpaPath</span><br><span class="line">            return IpaPath</span><br><span class="line">    return IpaPath</span><br><span class="line"></span><br><span class="line">def uploadIPA(IPAPath):</span><br><span class="line">    if(IPAPath==&apos;&apos;):</span><br><span class="line">        print &quot;\n*************** 没有找到对应上传的IPA包 *********************\n&quot;</span><br><span class="line">        return</span><br><span class="line">    else:</span><br><span class="line">        print &quot;\n***************开始上传到蒲公英*********************\n&quot;</span><br><span class="line">        url=&apos;http://www.pgyer.com/apiv1/app/upload&apos;</span><br><span class="line">        data=&#123;</span><br><span class="line">            &apos;uKey&apos;:USER_KEY,</span><br><span class="line">            &apos;_api_key&apos;:API_KEY,</span><br><span class="line">            &apos;installType&apos;:&apos;2&apos;,</span><br><span class="line">            &apos;password&apos;:&apos;&apos;,</span><br><span class="line">            &apos;updateDescription&apos;:des</span><br><span class="line">            &#125;</span><br><span class="line">        files=&#123;&apos;file&apos;:open(IPAPath,&apos;rb&apos;)&#125;</span><br><span class="line">        r=requests.post(url,data=data,files=files)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">def openDownloadUrl():</span><br><span class="line">    #此处的地址需要换成蒲公英上自己对应的应用地址</span><br><span class="line">    webbrowser.open(r&apos;https://www.pgyer.com/manager/dashboard/app/40c633aa8dc0ba15191632860558825e&apos;,new=1,autoraise=True)</span><br><span class="line">    print &quot;\n*************** 更新成功 *********************\n&quot;</span><br><span class="line"></span><br><span class="line">def buildIpa():</span><br><span class="line">    start = time.time()</span><br><span class="line">    print &quot;\n*************** IPA包生成中 *********************\n&quot;</span><br><span class="line">     #commands.getoutput(&apos;ipa build&apos;)  #使用shenzheng打包ipa</span><br><span class="line">    p = subprocess.Popen(&apos;ipa build&apos;, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)</span><br><span class="line">    for line in p.stdout.readlines():</span><br><span class="line">        print line,</span><br><span class="line">    retval = p.wait()</span><br><span class="line"></span><br><span class="line">    end = time.time()</span><br><span class="line">    print &quot;--------- 打包耗时:%s秒 ---------&quot;%(end-start)</span><br><span class="line">    print &quot;\n*************** IPA包生成成功，准备上传蒲公英 *********************\n&quot;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">if __name__ == &apos;__main__&apos;:</span><br><span class="line">    #输入日志格式为 &quot;修改bug&quot; 记得加上双引号，如果有多行可以这么写:</span><br><span class="line">    # &quot;1 修改首页bug  \n  2 修改点击按钮闪退问题 &quot;</span><br><span class="line">    des = input(&quot;请输入更新的日志描述:&quot;)</span><br><span class="line">    buildIpa()</span><br><span class="line">    IpaPath=searchIpaPath()</span><br><span class="line">    uploadIPA(IpaPath)</span><br><span class="line">    openDownloadUrl()</span><br></pre></td></tr></table></figure>
+<p>这里我主要是将<strong>shenzhen</strong>的打包命令”ipa build”封装在pythone脚本中,同时记录了打包的时间,经过测试打包的时间在4 ~ 7分钟左右,这个脚本中只需要配置蒲公英的USER_KEY和API_KEY,然后cd到当前工程目录,执行脚本即可!打包成功会在当前工程目录下生成ipa包和符号化文件!使用如下:</p>
+<p><img src="/images/ipa/shenzhen自动化.gif" alt=""></p>
+<p><a href="http://www.cocoachina.com/ios/20180507/23295.html" target="_blank" rel="noopener">转载原文:</a></p>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/autoPack/" rel="tag"># autoPack</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2018/04/24/BackDoor/backDoor/" rel="next" title="backDoor">
+                <i class="fa fa-chevron-left"></i> backDoor
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2018/05/11/Hexo/hexoBug/" rel="prev" title="hexo疑难杂症">
+                hexo疑难杂症 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/bicyclering.jpg"
+                alt="覆雪古树" />
+            
+              <p class="site-author-name" itemprop="name">覆雪古树</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">139</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">8</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">30</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/bicyclering/" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Python实现iOS自动化打包详解"><span class="nav-number">1.</span> <span class="nav-text">Python实现iOS自动化打包详解</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#基于编译的打包"><span class="nav-number">1.1.</span> <span class="nav-text">基于编译的打包</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#演示过程如下图"><span class="nav-number">1.1.1.</span> <span class="nav-text">演示过程如下图</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#过程自动化"><span class="nav-number">1.1.2.</span> <span class="nav-text">过程自动化</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#原理实现"><span class="nav-number">1.1.3.</span> <span class="nav-text">原理实现</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#上传蒲公英脚本"><span class="nav-number">1.1.4.</span> <span class="nav-text">上传蒲公英脚本</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#配置永久参数"><span class="nav-number">1.1.5.</span> <span class="nav-text">配置永久参数</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#shenzhen打包"><span class="nav-number">1.2.</span> <span class="nav-text">shenzhen打包</span></a></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">覆雪古树</span>
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: '1525751105000', 
+            owner: 'bicyclering',
+            repo: 'bicyclering.github.io',
+            
+            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: '182b21f290f00470ce262e9b8337488251f877f0',
+            
+                client_id: 'a20e7fe4e3bc17dde8b6'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      renderGitment();
+      
+      </script>
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>
